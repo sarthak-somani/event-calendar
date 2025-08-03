@@ -30,9 +30,16 @@ document.addEventListener('DOMContentLoaded', function() {
         }).join('');
     }
 
+    // ### THIS IS THE NEW PART ###
+    // Check the screen width to decide the best initial view
+    const isMobile = window.innerWidth < 768;
+    const initialCalendarView = isMobile ? 'listWeek' : 'dayGridMonth';
+
     // Initialize the calendar
     const calendar = new FullCalendar.Calendar(calendarEl, {
-        initialView: 'dayGridMonth',
+        // Use the view we determined based on screen size
+        initialView: initialCalendarView,
+        
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
@@ -52,12 +59,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
         },
 
-        // Use SweetAlert2 for event clicks
         eventClick: function(info) {
             const props = info.event.extendedProps;
             const startDate = info.event.start;
 
-            // Format the date and time for the popup
             const dateString = startDate.toLocaleDateString('en-US', {
                 weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
             });
