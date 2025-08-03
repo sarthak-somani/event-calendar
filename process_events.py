@@ -12,8 +12,7 @@ import time
 IMAP_SERVER = 'imap.iitb.ac.in'
 IMAP_PORT = 993
 TARGET_RECIPIENT = "student-notices.iitb.ac.in"
-TARGET_SUBJECT_TAG = "[Student-notices]"
-MAX_EMAILS_PER_RUN = 25
+MAX_EMAILS_TO_PROCESS = 25 # Process up to 25 emails in one run
 
 # --- SECRETS (from environment variables) ---
 EMAIL_USERNAME = os.environ.get('EMAIL_USERNAME')
@@ -31,10 +30,9 @@ if GEMINI_API_KEY:
 else:
     model = None
 
-# --- Helper Functions (Unchanged) ---
 def clean_header_text(header_value):
     if header_value is None: return ""
-    decoded_parts = []
+    decoded_parts = [];
     for part, charset in decode_header(header_value):
         if isinstance(part, bytes):
             try: decoded_parts.append(part.decode(charset or 'utf-8', errors='replace'))
@@ -43,7 +41,7 @@ def clean_header_text(header_value):
     return "".join(decoded_parts)
 
 def get_email_body(msg):
-    body = ""
+    body = "";
     if msg.is_multipart():
         for part in msg.walk():
             content_type, content_disposition = part.get_content_type(), str(part.get("Content-Disposition"))
@@ -60,17 +58,18 @@ def get_email_body(msg):
     return body.strip()
 
 def get_latest_processed_uid():
+    """Reads the single latest UID from the state file."""
     if not os.path.exists(PROCESSED_UIDS_FILE): return 0
     try:
         with open(PROCESSED_UIDS_FILE, 'r') as f:
-            return int(f.read().strip())
+            content = f.read().strip()
+            return int(content) if content else 0
     except (ValueError, FileNotFoundError):
         return 0
 
 def process_email_with_gemini(subject, body):
     if not model:
-        print("      > Gemini API key not configured. Skipping API call.")
-        return None
+        print("      > Gemini API key not configured. Skipping API call."); return None
     print("      > Calling Gemini API...")
     prompt = f"""
     Analyze the following email content to determine if it is an event announcement.
@@ -96,17 +95,18 @@ def process_email_with_gemini(subject, body):
     except Exception as e:
         print(f"      > Error calling Gemini or parsing response: {e}"); return None
 
-### --- Main Function with Updated Logic ---
 def main():
-    print("--- Starting Event Fetcher Script (2-Step Filter) ---")
+    print("--- Starting Event Fetcher Script (Sequential Check) ---")
     if not all([EMAIL_USERNAME, EMAIL_PASSWORD, GEMINI_API_KEY]):
         print("Error: Missing credentials."); return
 
     last_processed_uid = get_latest_processed_uid()
-    print(f"Last processed UID is: {last_processed_uid}")
+    print(f"Starting check from UID: {last_processed_uid + 1}")
     
-    newly_processed_uids = []
     new_events = []
+    current_uid_to_check = last_processed_uid + 1
+    emails_processed_in_run = 0
+    latest_uid_in_run = last_processed_uid
     
     try:
         context = ssl.create_default_context(); context.set_ciphers('DEFAULT@SECLEVEL=1')
@@ -115,61 +115,51 @@ def main():
             mail.login(EMAIL_USERNAME, EMAIL_PASSWORD); print("Login successful.")
             mail.select('INBOX')
             
-            # --- STEP 1: Fetch ALL new UIDs since the last run ---
-            search_criteria = f'(UID {last_processed_uid+1}:*)' if last_processed_uid > 0 else 'ALL'
-            print(f"Step 1: Fetching all new email UIDs with criteria: {search_criteria}")
-            status, email_ids_raw = mail.search(None, search_criteria)
-            if status != 'OK': print("Error searching for UIDs."); return
-            
-            all_new_uids = email_ids_raw[0].split()
-            if not all_new_uids: print("No new emails found on server."); return
-            print(f"Found {len(all_new_uids)} new emails on server.")
-
-            # --- STEP 2: Filter these UIDs locally by checking headers ---
-            relevant_uids = []
-            print("Step 2: Filtering emails by headers locally...")
-            for uid in all_new_uids:
-                # Fetch only the headers for efficiency
-                status, msg_data = mail.fetch(uid, '(BODY[HEADER.FIELDS (TO SUBJECT)])')
-                if status == 'OK' and isinstance(msg_data[0], tuple):
-                    msg = email.message_from_bytes(msg_data[0][1])
-                    to_header = clean_header_text(msg['to'])
-                    subject_header = clean_header_text(msg['subject'])
+            # Loop sequentially until we run out of emails or hit our batch limit
+            while emails_processed_in_run < MAX_EMAILS_TO_PROCESS:
+                print(f"\nChecking UID: {current_uid_to_check}...")
+                # Fetch headers for the current UID
+                status, msg_data = mail.fetch(str(current_uid_to_check), '(BODY[HEADER.FIELDS (TO)])')
+                
+                # If fetch fails, we've likely run out of emails
+                if status != 'OK' or not msg_data[0]:
+                    print("No more emails found. Stopping check.")
+                    break
+                
+                # Check if the 'TO' header is relevant
+                if isinstance(msg_data[0], tuple):
+                    headers = email.message_from_bytes(msg_data[0][1])
+                    to_header = clean_header_text(headers['to'])
                     
-                    # Check if the email matches our criteria
-                    if TARGET_RECIPIENT in to_header or TARGET_SUBJECT_TAG in subject_header:
-                        relevant_uids.append(uid)
-            
-            if not relevant_uids: print("No new relevant emails to process."); return
+                    if TARGET_RECIPIENT in to_header:
+                        print(f"   - Relevant recipient found. Fetching full body for UID {current_uid_to_check}...")
+                        # Fetch the full email body
+                        status_full, msg_data_full = mail.fetch(str(current_uid_to_check), '(RFC822)')
+                        if status_full == 'OK':
+                            full_msg = email.message_from_bytes(msg_data_full[0][1])
+                            subject, body = clean_header_text(full_msg['subject']), get_email_body(full_msg)
+                            if not body:
+                                print("   - Skipping: No plain text body found.")
+                            else:
+                                event_data = process_email_with_gemini(subject, body)
+                                if event_data:
+                                    new_events.append(event_data)
+                        
+                        emails_processed_in_run += 1
+                        print("      > Pausing for 6 seconds...")
+                        time.sleep(6)
+                    else:
+                        print(f"   - UID {current_uid_to_check} is not to student-notices. Skipping.")
+                
+                latest_uid_in_run = current_uid_to_check
+                current_uid_to_check += 1
 
-            # Take a batch from the relevant UIDs to process now
-            uids_to_process_now = relevant_uids[:MAX_EMAILS_PER_RUN]
-            print(f"Found {len(relevant_uids)} relevant emails. Processing the oldest {len(uids_to_process_now)} in this batch.")
-
-            # --- Main Processing Loop ---
-            for uid in uids_to_process_now:
-                print(f"\nProcessing relevant email with UID: {uid.decode()}...")
-                # Now fetch the full email since we know it's relevant
-                status, msg_data = mail.fetch(uid, '(RFC822)')
-                if status == 'OK' and isinstance(msg_data[0], tuple):
-                    msg = email.message_from_bytes(msg_data[0][1])
-                    subject, body = clean_header_text(msg['subject']), get_email_body(msg)
-                    if not body: print("   - Skipping email: No plain text body found."); continue
-                    
-                    event_data = process_email_with_gemini(subject, body)
-                    if event_data:
-                        new_events.append(event_data)
-                    
-                    newly_processed_uids.append(int(uid.decode()))
-                    print("      > Pausing for 6 seconds...")
-                    time.sleep(6)
-                else: print(f"   - Skipping UID {uid.decode()}: Not valid email data.")
     except Exception as e:
-        print(f"\nAn error occurred: {e}"); import traceback; traceback.print_exc()
+        print(f"\nAn error occurred during the loop: {e}")
     finally:
-        # Save results and update state file
+        # Save results and update the single latest UID
         if new_events:
-            print(f"\nProcessed {len(new_events)} new events.")
+            print(f"\nProcessed {len(new_events)} new events in this run.")
             all_events = []
             if os.path.exists(EVENTS_JSON_FILE):
                 with open(EVENTS_JSON_FILE, 'r', encoding='utf-8') as f: all_events = json.load(f)
@@ -177,11 +167,10 @@ def main():
             with open(EVENTS_JSON_FILE, 'w', encoding='utf-8') as f: json.dump(all_events, f, indent=4)
             print(f"Successfully updated {EVENTS_JSON_FILE}.")
         
-        if newly_processed_uids:
-            new_latest_uid = max(newly_processed_uids)
+        if latest_uid_in_run > last_processed_uid:
             with open(PROCESSED_UIDS_FILE, 'w') as f:
-                f.write(str(new_latest_uid))
-            print(f"State file updated with latest processed UID: {new_latest_uid}")
+                f.write(str(latest_uid_in_run))
+            print(f"State file updated with latest processed UID: {latest_uid_in_run}")
         
         print("\n--- Script Finished ---")
 
