@@ -33,17 +33,6 @@
         }
     },
     {
-        "title": "Central Library Orientation 2025",
-        "start": "2025-08-04T10:00:00",
-        "end": "2025-08-08T10:00:00",
-        "extendedProps": {
-            "description": "Detailed Library Orientation Program for postgraduate students.  Focuses on library resources, services, and guidelines. Includes Research Support Services, access to digital resources and academic databases, and Library Events.",
-            "venue": "Conference Hall, 2nd Floor, Central Library",
-            "organisingBody": "Central Library, IIT Bombay",
-            "contact": "+91-22-2576-8936 / 8926"
-        }
-    },
-    {
         "title": "Student Vaccination Drive",
         "start": "2025-08-03T09:15:00",
         "end": "2025-08-03T09:15:00",
@@ -77,17 +66,6 @@
         }
     },
     {
-        "title": "Student Vaccination Drive",
-        "start": "2025-08-03T09:15:00",
-        "end": "2025-08-03T09:15:00",
-        "extendedProps": {
-            "description": "Vaccination and folder making for students.  Vaccines include MMR, Chicken Pox, Typhoid, and Hepatitis A. Paid basis (online payment only).  Students must bring immunization records, student medical form with photo, and have a healthy breakfast/lunch and water.",
-            "venue": "Hospital new OPD wing, ground floor",
-            "organisingBody": "Bha.Prau.San. Hospital, CMO(SAG)",
-            "contact": "Dr. Arvind Meshram"
-        }
-    },
-    {
         "title": "iGEM IIT Bombay Education Outreach Tech Team Recruitment",
         "start": "NoneTNone",
         "end": "2025-08-12TNone",
@@ -96,17 +74,6 @@
             "venue": null,
             "organisingBody": "iGEM IIT Bombay",
             "contact": "+91 93405 94582 & +91 70233 89911"
-        }
-    },
-    {
-        "title": "ShARE IITB Orientation",
-        "start": "2025-08-03T17:00:00",
-        "end": "NoneT17:00:00",
-        "extendedProps": {
-            "description": "Orientation for ShARE IITB, a student-run leadership and consulting organization.  Includes information about recruitment process, engaging activities, a special speaker (Jahnvi Nandwani), and announcement of Business Challenge winners. Open to 2nd and 3rd year undergraduate and postgraduate students.",
-            "venue": "LT-PCSA",
-            "organisingBody": "ShARE IITB, UGAC",
-            "contact": "gsecaaug@iitb.ac.in"
         }
     },
     {
@@ -120,59 +87,4 @@
             "contact": "lrwcinstructor@iitb.ac.in"
         }
     },
-    {
-        "title": "Student Vaccination Drive",
-        "start": "2025-08-03T09:15:00",
-        "end": "2025-08-03T09:15:00",
-        "extendedProps": {
-            "description": "Vaccination and verification of vaccine records for students.  Paid vaccination (administration and vaccine charges, online payment only).  Folder making is mandatory.  Students must bring immunization/vaccination record, printout of student medical form with photo. Students with cold, cough, fever, or on medication in the past 6 days should not attend.",
-            "venue": "Hospital new OPD wing",
-            "organisingBody": "Bha.Prau.San. Hospital, CMO(SAG)",
-            "contact": "Dr. Arvind Meshram"
-        }
-    },
-    {
-        "title": "iGEM IIT Bombay Education Outreach Tech Team Recruitment",
-        "start": "NoneTNone",
-        "end": "2025-08-12TNone",
-        "extendedProps": {
-            "description": "Recruitment for sophomores in Media & Design roles for the iGEM competition. Roles include Visual Communicator and Website UI/UX Designer. No prior experience needed.",
-            "venue": null,
-            "organisingBody": "iGEM IIT Bombay Education Outreach Subsystem",
-            "contact": "+91 93405 94582 & +91 70233 89911"
-        }
-    },
-    {
-        "title": "ShARE IITB Orientation",
-        "start": "2025-08-03T17:00:00",
-        "end": "NoneT17:00:00",
-        "extendedProps": {
-            "description": "Orientation for ShARE IITB, a student-run leadership and consulting organization.  Includes information about their recruitment process, engaging activities, a special speaker (Jahnvi Nandwani), and announcement of Business Challenge winners. Open to 2nd and 3rd-year undergraduate and postgraduate students.",
-            "venue": "LT-PCSA",
-            "organisingBody": "ShARE IITB, UGAC",
-            "contact": "gsecaaug@iitb.ac.in"
-        }
-    },
-    {
-        "title": "LRWC Support Courses for Autumn Semester 2025",
-        "start": "2025-08-04T13:00:00",
-        "end": "2025-08-08T13:00:00",
-        "extendedProps": {
-            "description": "Language support courses offered by the Language Resource and Writing Centre (LRWC) including Academic Speaking for Researchers, Foundations of Academic Speaking, and Essentials for Academic Writing.  Personalized language and writing consultations are also available by appointment.",
-            "venue": "LRWC Desk (24x7 Reading Hall, Central Library)",
-            "organisingBody": "Language Resource and Writing Centre (LRWC)",
-            "contact": "lrwcinstructor@iitb.ac.in"
-        }
-    },
-    {
-        "title": "Student Vaccination Drive",
-        "start": "2025-08-03T09:15:00",
-        "end": "2025-08-03T09:15:00",
-        "extendedProps": {
-            "description": "Vaccination drive for students.  MMR, Chicken Pox, Typhoid, and Hepatitis A vaccines are offered. Folder making is mandatory and will only be done for those with vaccination slots. Paid vaccination (online payment).",
-            "venue": "Hospital new OPD wing",
-            "organisingBody": "Bha.Prau.San. Hospital, CMO(SAG)",
-            "contact": "Dr. Arvind Meshram"
-        }
-    }
 ]
