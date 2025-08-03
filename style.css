@@ -34,24 +34,24 @@ header h1 {
     display: flex;
     flex-wrap: wrap; /* Allows stacking on smaller screens */
     gap: 30px;
-    padding: 30px;
+    padding: 20px; /* Adjusted padding for mobile */
     max-width: 1400px;
     margin: 0 auto;
 }
 
 #calendar-container {
-    flex: 3; /* Takes up 3/4 of the space */
-    min-width: 300px; /* Ensures it doesn't get too small */
+    flex: 3; 
+    min-width: 300px;
 }
 
 #event-list-container {
-    flex: 1; /* Takes up 1/4 of the space */
+    flex: 1;
     background-color: var(--surface-color);
     padding: 20px;
     border-radius: 8px;
     border: 1px solid var(--border-color);
     min-width: 300px;
-    height: fit-content; /* Only as tall as its content */
+    height: fit-content;
 }
 
 #event-list-container h2 {
@@ -93,4 +93,25 @@ header h1 {
     padding: 20px;
     border-radius: 8px;
     border: 1px solid var(--border-color);
+}
+
+/* ### THIS IS THE NEW PART ###
+Media Query for Mobile Devices 
+*/
+@media (max-width: 800px) {
+    .container {
+        /* Change the layout from side-by-side to vertical stacking */
+        flex-direction: column;
+        padding: 15px; /* Slightly less padding on mobile */
+        gap: 20px;
+    }
+
+    #calendar-container {
+        /* Remove the flex sizing to allow natural stacking */
+        flex: none;
+    }
+
+    #event-list-container {
+        flex: none;
+    }
 }
