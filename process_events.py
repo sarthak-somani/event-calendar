@@ -12,7 +12,7 @@ import time
 IMAP_SERVER = 'imap.iitb.ac.in'
 IMAP_PORT = 993
 TARGET_RECIPIENT = "student-notices.iitb.ac.in"
-MAX_EMAILS_PER_RUN = 25
+MAX_EMAILS_PER_RUN = 25 # Process up to 25 new emails per run
 
 # --- SECRETS (from environment variables) ---
 EMAIL_USERNAME = os.environ.get('EMAIL_USERNAME')
@@ -58,10 +58,14 @@ def get_email_body(msg):
     return body.strip()
 
 def get_latest_processed_uid():
-    if not os.path.exists(PROCESSED_UIDS_FILE): return 0
-    with open(PROCESSED_UIDS_FILE, 'r') as f:
-        uids = [int(line.strip()) for line in f if line.strip().isdigit()]
-        return max(uids) if uids else 0
+    """Reads the single latest UID from the state file."""
+    if not os.path.exists(PROCESSED_UIDS_FILE):
+        return 0
+    try:
+        with open(PROCESSED_UIDS_FILE, 'r') as f:
+            return int(f.read().strip())
+    except (ValueError, FileNotFoundError):
+        return 0
 
 def process_email_with_gemini(subject, body):
     if not model:
@@ -69,14 +73,15 @@ def process_email_with_gemini(subject, body):
         return None
     print("      > Calling Gemini API...")
     prompt = f"""
-    Analyze the following email content to determine if it is an event announcement. Today's date is August 3, 2025. Use this for context.
-    Email Subject: "{subject}"
-    Email Body: "{body}"
+    Analyze the following email content to determine if it is an event announcement.
     If it is an event, extract details and return a single, minified JSON object with keys: "title", "description", "organisingBody", "startDate", "startTime", "endDate", "venue", "contact". Use "YYYY-MM-DD" for dates and "HH:MM:SS" for time. Use null for missing values.
     If it is NOT an event, return {{"is_event": false}}.
     """
     try:
         response = model.generate_content(prompt)
+        if not response.text:
+            print("      > Gemini returned an empty response. Skipping.")
+            return None
         cleaned_text = response.text.strip().replace("```json", "").replace("```", "")
         data = json.loads(cleaned_text)
         if data.get("is_event") is False:
@@ -97,10 +102,10 @@ def main():
     if not all([EMAIL_USERNAME, EMAIL_PASSWORD, GEMINI_API_KEY]):
         print("Error: Missing credentials."); return
 
-    latest_uid = get_latest_processed_uid()
-    print(f"Latest processed UID is: {latest_uid}")
+    last_processed_uid = get_latest_processed_uid()
+    print(f"Last processed UID is: {last_processed_uid}")
     
-    all_processed_uids = {str(latest_uid)} if latest_uid > 0 else set()
+    newly_processed_uids = []
     new_events = []
     
     try:
@@ -111,7 +116,7 @@ def main():
             mail.select('INBOX')
             
             base_search = f'(OR (TO "{TARGET_RECIPIENT}") (SUBJECT "[Student-notices]"))'
-            search_criteria = f'(UID {latest_uid+1}:*) {base_search}' if latest_uid > 0 else base_search
+            search_criteria = f'(UID {last_processed_uid+1}:*) {base_search}' if last_processed_uid > 0 else base_search
 
             print(f"Searching with optimized criteria: {search_criteria}")
             status, email_ids_raw = mail.search(None, search_criteria)
@@ -120,10 +125,9 @@ def main():
             uids_to_fetch = email_ids_raw[0].split()
             if not uids_to_fetch: print("No new emails to process. All up to date!"); return
             
-            ### THIS IS THE FIX ###
-            # Process the NEWEST (last) emails from the list of new emails
-            uids_to_process_now = uids_to_fetch[-MAX_EMAILS_PER_RUN:]
-            print(f"Found {len(uids_to_fetch)} new emails. Processing the latest {len(uids_to_process_now)} for this run.")
+            # To ensure chronological processing, take the first (oldest) new emails
+            uids_to_process_now = uids_to_fetch[:MAX_EMAILS_PER_RUN]
+            print(f"Found {len(uids_to_fetch)} new emails. Processing the oldest {len(uids_to_process_now)} in this batch.")
 
             for uid in uids_to_process_now:
                 print(f"\nProcessing new email with UID: {uid.decode()}...")
@@ -136,9 +140,9 @@ def main():
                     event_data = process_email_with_gemini(subject, body)
                     if event_data:
                         new_events.append(event_data)
-                        all_processed_uids.add(uid.decode())
-                    print("      > Pausing for 4 seconds...")
-                    time.sleep(4)
+                    newly_processed_uids.append(int(uid.decode())) # Track successfully processed UIDs for this run
+                    print("      > Pausing for 6 seconds...")
+                    time.sleep(6)
                 else: print(f"   - Skipping UID {uid.decode()}: Not valid email data.")
     except Exception as e:
         print(f"\nAn error occurred: {e}"); import traceback; traceback.print_exc()
@@ -151,14 +155,14 @@ def main():
             all_events.extend(new_events)
             with open(EVENTS_JSON_FILE, 'w', encoding='utf-8') as f: json.dump(all_events, f, indent=4)
             print(f"Successfully updated {EVENTS_JSON_FILE}.")
+        
+        # If any emails were processed in this run, update the state file
+        if newly_processed_uids:
+            new_latest_uid = max(newly_processed_uids)
             with open(PROCESSED_UIDS_FILE, 'w') as f:
-                # Read all UIDs again to ensure we don't lose any
-                if os.path.exists(PROCESSED_UIDS_FILE):
-                    with open(PROCESSED_UIDS_FILE, 'r') as old_f:
-                        for old_uid in old_f:
-                            all_processed_uids.add(old_uid.strip())
-                for uid_val in sorted([int(u) for u in all_processed_uids if u.isdigit()]): f.write(f"{uid_val}\n")
-            print(f"Successfully updated {PROCESSED_UIDS_FILE}.")
+                f.write(str(new_latest_uid))
+            print(f"State file updated with latest processed UID: {new_latest_uid}")
+        
         print("\n--- Script Finished ---")
 
 if __name__ == '__main__':
