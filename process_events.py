@@ -12,7 +12,7 @@ import time
 IMAP_SERVER = 'imap.iitb.ac.in'
 IMAP_PORT = 993
 TARGET_RECIPIENT = "student-notices.iitb.ac.in"
-MAX_EMAILS_TO_PROCESS = 25 # Process up to 25 emails in one run
+MAX_EMAILS_TO_PROCESS = 25
 
 # --- SECRETS (from environment variables) ---
 EMAIL_USERNAME = os.environ.get('EMAIL_USERNAME')
@@ -115,26 +115,26 @@ def main():
             mail.login(EMAIL_USERNAME, EMAIL_PASSWORD); print("Login successful.")
             mail.select('INBOX')
             
-            # Loop sequentially until we run out of emails or hit our batch limit
             while emails_processed_in_run < MAX_EMAILS_TO_PROCESS:
                 print(f"\nChecking UID: {current_uid_to_check}...")
-                # Fetch headers for the current UID
-                status, msg_data = mail.fetch(str(current_uid_to_check), '(BODY[HEADER.FIELDS (TO)])')
                 
-                # If fetch fails, we've likely run out of emails
+                # --- FIX 1 of 2: Convert UID to bytes using .encode() ---
+                status, msg_data = mail.fetch(str(current_uid_to_check).encode(), '(BODY[HEADER.FIELDS (TO)])')
+                
                 if status != 'OK' or not msg_data[0]:
                     print("No more emails found. Stopping check.")
                     break
                 
-                # Check if the 'TO' header is relevant
                 if isinstance(msg_data[0], tuple):
                     headers = email.message_from_bytes(msg_data[0][1])
                     to_header = clean_header_text(headers['to'])
                     
                     if TARGET_RECIPIENT in to_header:
                         print(f"   - Relevant recipient found. Fetching full body for UID {current_uid_to_check}...")
-                        # Fetch the full email body
-                        status_full, msg_data_full = mail.fetch(str(current_uid_to_check), '(RFC822)')
+                        
+                        # --- FIX 2 of 2: Convert UID to bytes using .encode() ---
+                        status_full, msg_data_full = mail.fetch(str(current_uid_to_check).encode(), '(RFC822)')
+                        
                         if status_full == 'OK':
                             full_msg = email.message_from_bytes(msg_data_full[0][1])
                             subject, body = clean_header_text(full_msg['subject']), get_email_body(full_msg)
@@ -157,7 +157,6 @@ def main():
     except Exception as e:
         print(f"\nAn error occurred during the loop: {e}")
     finally:
-        # Save results and update the single latest UID
         if new_events:
             print(f"\nProcessed {len(new_events)} new events in this run.")
             all_events = []
