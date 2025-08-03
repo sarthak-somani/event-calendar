@@ -95,8 +95,9 @@ header h1 {
     border: 1px solid var(--border-color);
 }
 
-
-#Media Query for Mobile Devices 
+/* ### THIS IS THE NEW PART ###
+Media Query for Mobile Devices 
+*/
 @media (max-width: 800px) {
     .container {
         /* Change the layout from side-by-side to vertical stacking */
@@ -105,14 +106,12 @@ header h1 {
         gap: 20px;
     }
 
-    #calendar-container, #event-list-container {
+    #calendar-container {
         /* Remove the flex sizing to allow natural stacking */
         flex: none;
     }
 
-    /* ### ADD THIS NEW RULE ### */
-    /* Give each day in the month view more vertical space */
-    .fc-daygrid-day-frame {
-        min-height: 80px; 
+    #event-list-container {
+        flex: none;
     }
 }
