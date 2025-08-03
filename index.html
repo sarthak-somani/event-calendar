@@ -3,15 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>College Events Calendar</title>
+    <title>IITB Event Hub</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    
     <link rel="stylesheet" href="style.css">
 
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.14/index.global.min.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <script src="script.js" defer></script>
 </head>
 <body>
-    <div id='calendar'></div>
+    <header>
+        <h1>IITB Event Hub</h1>
+    </header>
+
+    <main class="container">
+        <div id="calendar-container">
+            <div id='calendar'></div>
+        </div>
+        <div id="event-list-container">
+            <h2>Upcoming Events</h2>
+            <ul id="event-list">
+                </ul>
+        </div>
+    </main>
 </body>
 </html>
