@@ -163,5 +163,16 @@
             "organisingBody": "Language Resource and Writing Centre (LRWC)",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Student Vaccination Drive",
+        "start": "2025-08-03T09:15:00",
+        "end": "2025-08-03T09:15:00",
+        "extendedProps": {
+            "description": "Vaccination drive for students.  MMR, Chicken Pox, Typhoid, and Hepatitis A vaccines are offered. Folder making is mandatory and will only be done for those with vaccination slots. Paid vaccination (online payment).",
+            "venue": "Hospital new OPD wing",
+            "organisingBody": "Bha.Prau.San. Hospital, CMO(SAG)",
+            "contact": "Dr. Arvind Meshram"
+        }
     }
 ]
