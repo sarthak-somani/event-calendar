@@ -1,0 +1,36 @@
+name: Fetch and Update Events
+
+on:
+  schedule:
+    # Runs every hour at the 30-minute mark
+    - cron: '30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install google-generativeai
+
+      - name: Run Event Fetcher Script
+        env:
+          ### ADD YOUR USERNAME SECRET HERE ###
+          EMAIL_USERNAME: ${{ secrets.EMAIL_USERNAME }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python process_events.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Docs: Auto-update events.json'
+          file_pattern: 'events.json processed_uids.txt'
