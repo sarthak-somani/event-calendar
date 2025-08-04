@@ -4,6 +4,7 @@ from email.header import decode_header
 import json
 import os
 import ssl
+# Corrected the import statement as per the new library structure
 from google import genai
 import time
 
@@ -23,8 +24,11 @@ PROCESSED_UIDS_FILE = 'processed_uids.txt'
 EVENTS_JSON_FILE = 'events.json'
 
 # --- Configure the Gemini API Client ---
+# Using the genai.Client() method which requires an up-to-date library.
 # The client automatically uses the GEMINI_API_KEY from environment variables.
 if GEMINI_API_KEY:
+    # This assumes the user has run 'pip install -U google-genai'
+    # to get a version that supports genai.Client()
     client = genai.Client()
 else:
     client = None
