@@ -108,46 +108,46 @@ def process_email_with_gemini(subject, body):
 
     If it is NOT an event announcement, return ONLY the JSON object: {{"is_event": false}}.
     """
-    try:
-        # Add a retry mechanism for API calls with exponential backoff
-        for attempt in range(3):
-            try:
-                response = model.generate_content(prompt)
-                if not response.text:
-                    print("         > Gemini returned an empty response. Retrying...")
-                    time.sleep(2 ** attempt) 
-                    continue
+    # Add a retry mechanism for API calls with exponential backoff
+    for attempt in range(3):
+        try:
+            response = model.generate_content(prompt)
+            if not response.text:
+                print("         > Gemini returned an empty response. Retrying...")
+                time.sleep(2 ** attempt) 
+                continue
 
-                cleaned_text = response.text.strip().replace("```json", "").replace("```", "")
-                data = json.loads(cleaned_text)
+            cleaned_text = response.text.strip().replace("```json", "").replace("```", "")
+            data = json.loads(cleaned_text)
 
-                if data.get("is_event") is False:
-                    print("         > Gemini determined this is not an event.")
-                    return None
+            if data.get("is_event") is False:
+                print("         > Gemini determined this is not an event.")
+                return None
 
-                # Assuming end time is the same as start time if not provided
-                end_time = data.get('endTime', data.get('startTime'))
-                
-                calendar_event = {
-                    "title": data.get("title"),
-                    "start": f"{data.get('startDate')}T{data.get('startTime')}",
-                    "end": f"{data.get('endDate')}T{end_time}",
-                    "extendedProps": {
-                        "description": data.get("description"),
-                        "venue": data.get("venue"),
-                        "organisingBody": data.get("organisingBody"),
-                        "contact": data.get("contact")
-                    }
+            # Assuming end time is the same as start time if not provided
+            end_time = data.get('endTime', data.get('startTime'))
+            
+            calendar_event = {
+                "title": data.get("title"),
+                "start": f"{data.get('startDate')}T{data.get('startTime')}",
+                "end": f"{data.get('endDate')}T{end_time}",
+                "extendedProps": {
+                    "description": data.get("description"),
+                    "venue": data.get("venue"),
+                    "organisingBody": data.get("organisingBody"),
+                    "contact": data.get("contact")
                 }
-                print(f"         > Gemini extracted event: {calendar_event['title']}")
-                return calendar_event
-            except Exception as e:
-                print(f"         > Attempt {attempt + 1} failed: {e}")
-                if attempt == 2:
-                    raise
-    except Exception as e:
-        print(f"         > Error calling Gemini or parsing response: {e}")
-        return None
+            }
+            print(f"         > Gemini extracted event: {calendar_event['title']}")
+            return calendar_event
+        except Exception as e:
+            print(f"         > Attempt {attempt + 1} failed: {e}")
+            if attempt == 2:
+                # If all retries fail, raise the exception to be caught in the main loop
+                raise
+    # This part is reached if retries fail and an exception is raised and caught.
+    print(f"         > Error calling Gemini or parsing response after retries.")
+    return None
 
 
 def main():
@@ -163,7 +163,8 @@ def main():
     new_events = []
     current_uid_to_check = last_processed_uid + 1
     emails_processed_in_run = 0
-    latest_uid_in_run = last_processed_uid
+    # This will track the last UID that was successfully processed in its entirety.
+    uid_to_save = last_processed_uid
 
     try:
         # Use a more secure SSL context for the connection
@@ -226,11 +227,13 @@ def main():
                     print(f"   - Re-marking UID {current_uid_to_check} as unread.")
                     mail.store(str(current_uid_to_check), '-FLAGS', '(\\Seen)')
 
-                latest_uid_in_run = current_uid_to_check
+                # Only update the UID to save after the entire check for the current UID is successful.
+                # If an error occurred (like a Gemini API failure), this line will not be reached for that UID.
+                uid_to_save = current_uid_to_check
                 current_uid_to_check += 1
 
     except Exception as e:
-        print(f"\nAn error occurred: {e}")
+        print(f"\nAn error occurred during processing: {e}. Halting script.")
     finally:
         if new_events:
             print(f"\nProcessed {len(new_events)} new events in this run.")
@@ -247,10 +250,11 @@ def main():
                 json.dump(all_events, f, indent=4)
             print(f"Successfully updated {EVENTS_JSON_FILE}.")
 
-        if latest_uid_in_run > last_processed_uid:
+        # Save the last successfully processed UID to the state file.
+        if uid_to_save > last_processed_uid:
             with open(PROCESSED_UIDS_FILE, 'w') as f:
-                f.write(str(latest_uid_in_run))
-            print(f"State file updated with latest processed UID: {latest_uid_in_run}")
+                f.write(str(uid_to_save))
+            print(f"State file updated with latest processed UID: {uid_to_save}")
 
         print("\n--- Script Finished ---")
 
