@@ -11,7 +11,7 @@ import time
 # --- CONFIGURATION ---
 IMAP_SERVER = 'imap.iitb.ac.in'
 IMAP_PORT = 993
-TARGET_RECIPIENT = "student-notices.iitb.ac.in"
+TARGET_RECIPIENT = "student-notices@iitb.ac.in"
 MAX_EMAILS_TO_PROCESS = 25
 
 # --- SECRETS (from environment variables) ---
