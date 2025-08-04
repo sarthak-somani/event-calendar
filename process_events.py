@@ -174,47 +174,61 @@ def main():
             mail.login(EMAIL_USERNAME, EMAIL_PASSWORD)
             print("Login successful.")
             
-            # Select the INBOX in readonly mode to prevent marking emails as read
-            mail.select('INBOX', readonly=True) 
+            # Select the INBOX, readonly=False allows us to change flags (e.g., mark as unread)
+            mail.select('INBOX', readonly=False) 
 
             while emails_processed_in_run < MAX_EMAILS_TO_PROCESS:
                 print(f"\nChecking UID: {current_uid_to_check}...")
 
-                # Fetch just the 'To' header first to check the recipient
-                status, msg_data = mail.fetch(str(current_uid_to_check), '(BODY[HEADER.FIELDS (TO)])')
-
-                if status != 'OK' or not msg_data or not msg_data[0]:
-                    print("No more emails found or fetch failed. Stopping check.")
+                # First, fetch the flags for the current UID to check if it's unread
+                status_flags, flags_data = mail.fetch(str(current_uid_to_check), '(FLAGS)')
+                if status_flags != 'OK' or not flags_data or not flags_data[0]:
+                    print("No more emails found or could not fetch flags. Stopping check.")
                     break
+                
+                # Check if the \Seen flag is NOT in the list of flags
+                is_unread = b'\\Seen' not in flags_data[0]
 
-                if isinstance(msg_data[0], tuple):
-                    headers = email.message_from_bytes(msg_data[0][1])
-                    to_header = clean_header_text(headers['to'])
+                if is_unread:
+                    print(f"   - UID {current_uid_to_check} is unread. Checking recipient...")
+                    
+                    # If it's unread, then check the recipient
+                    status_to, to_data = mail.fetch(str(current_uid_to_check), '(BODY[HEADER.FIELDS (TO)])')
 
-                    if TARGET_RECIPIENT in to_header:
-                        print(f"   - Relevant recipient found. Fetching full body for UID {current_uid_to_check}...")
+                    if status_to == 'OK' and isinstance(to_data[0], tuple):
+                        headers = email.message_from_bytes(to_data[0][1])
+                        to_header = clean_header_text(headers['to'])
 
-                        # Fetch the full email since the recipient matches
-                        status_full, msg_data_full = mail.fetch(str(current_uid_to_check), '(RFC822)')
+                        if TARGET_RECIPIENT in to_header:
+                            print(f"   - Relevant recipient found. Fetching full body for UID {current_uid_to_check}...")
 
-                        if status_full == 'OK':
-                            full_msg = email.message_from_bytes(msg_data_full[0][1])
-                            subject = clean_header_text(full_msg['subject'])
-                            body = get_email_body(full_msg)
+                            # Fetch the full email. This action marks it as read by the server.
+                            status_full, msg_data_full = mail.fetch(str(current_uid_to_check), '(RFC822)')
 
-                            if not body:
-                                print("   - Skipping: No plain text body found.")
-                            else:
-                                event_data = process_email_with_gemini(subject, body)
-                                if event_data:
-                                    new_events.append(event_data)
-                        
-                        emails_processed_in_run += 1
-                        # Pause to respect API rate limits
-                        print("         > Pausing for 6 seconds...")
-                        time.sleep(6)
-                    else:
-                        print(f"   - UID {current_uid_to_check} is not addressed to {TARGET_RECIPIENT}. Skipping.")
+                            if status_full == 'OK':
+                                full_msg = email.message_from_bytes(msg_data_full[0][1])
+                                subject = clean_header_text(full_msg['subject'])
+                                body = get_email_body(full_msg)
+
+                                if not body:
+                                    print("   - Skipping: No plain text body found.")
+                                else:
+                                    event_data = process_email_with_gemini(subject, body)
+                                    if event_data:
+                                        new_events.append(event_data)
+                            
+                            # After processing, remove the \Seen flag to mark it as unread again
+                            print(f"   - Re-marking UID {current_uid_to_check} as unread.")
+                            mail.store(str(current_uid_to_check), '-FLAGS', '(\\Seen)')
+
+                            emails_processed_in_run += 1
+                            # Pause to respect API rate limits
+                            print("         > Pausing for 6 seconds...")
+                            time.sleep(6)
+                        else:
+                            print(f"   - UID {current_uid_to_check} is not addressed to {TARGET_RECIPIENT}. Skipping.")
+                else:
+                    print(f"   - UID {current_uid_to_check} has already been read. Skipping.")
 
                 latest_uid_in_run = current_uid_to_check
                 current_uid_to_check += 1
