@@ -18,9 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const isMobile = window.innerWidth < 768;
-    
-    // ### CHANGE 1: Default to our new custom list view on mobile ###
-    const initialCalendarView = isMobile ? 'listSevenDay' : 'dayGridMonth';
+    // On mobile, default to the year-long list view.
+    const initialCalendarView = isMobile ? 'listYear' : 'dayGridMonth';
 
     const calendar = new FullCalendar.Calendar(calendarEl, {
         initialView: initialCalendarView,
@@ -28,21 +27,35 @@ document.addEventListener('DOMContentLoaded', function() {
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
-            // ### CHANGE 2: Replace 'listWeek' with our new view button ###
-            right: 'dayGridMonth,timeGridWeek,listSevenDay' 
-        },
-
-        // ### CHANGE 3: Define the new custom 7-day list view ###
-        views: {
-            listSevenDay: {
-                type: 'list',
-                duration: { days: 7 },
-                buttonText: 'agenda' // Set the button text to 'agenda'
-            }
+            // Add 'listYear' to the available views
+            right: 'dayGridMonth,timeGridWeek,listYear'
         },
         
         events: function(fetchInfo, successCallback, failureCallback) {
-            fetch('events.json').then(response => response.json()).then(data => { populateEventList(data); successCallback(data); }).catch(error => { console.error("Error fetching events:", error); failureCallback(error); });
+            fetch('events.json')
+                .then(response => response.json())
+                .then(data => {
+                    populateEventList(data);
+                    successCallback(data);
+
+                    // ### THIS IS THE NEW PART ###
+                    // After the calendar loads, find today's date and scroll to it.
+                    // We use a small delay to ensure the calendar has finished rendering.
+                    setTimeout(() => {
+                        const todayElement = document.querySelector('.fc-list-day-today');
+                        if (todayElement) {
+                            todayElement.scrollIntoView({
+                                behavior: 'smooth',
+                                block: 'center' // This will center today in the view
+                            });
+                        }
+                    }, 200); // 200ms delay
+
+                })
+                .catch(error => {
+                    console.error("Error fetching events:", error);
+                    failureCallback(error);
+                });
         },
 
         eventClick: function(info) {
