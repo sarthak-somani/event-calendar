@@ -22,12 +22,12 @@ GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 PROCESSED_UIDS_FILE = 'processed_uids.txt'
 EVENTS_JSON_FILE = 'events.json'
 
-# --- Configure the Gemini API ---
+# --- Configure the Gemini API Client ---
+# The client automatically uses the GEMINI_API_KEY from environment variables.
 if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    client = genai.Client()
 else:
-    model = None
+    client = None
 
 def clean_header_text(header_value):
     """Decodes email header text into a readable string."""
@@ -87,7 +87,7 @@ def get_latest_processed_uid():
 
 def process_email_with_gemini(subject, body):
     """Analyzes email content with Gemini to extract event details."""
-    if not model:
+    if not client:
         print("         > Gemini API key not configured. Skipping API call.")
         return None
 
@@ -111,7 +111,11 @@ def process_email_with_gemini(subject, body):
     # Add a retry mechanism for API calls with exponential backoff
     for attempt in range(3):
         try:
-            response = model.generate_content(prompt)
+            # Using the new client method to generate content
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt
+            )
             if not response.text:
                 print("         > Gemini returned an empty response. Retrying...")
                 time.sleep(2 ** attempt) 
