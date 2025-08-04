@@ -4,7 +4,7 @@ from email.header import decode_header
 import json
 import os
 import ssl
-import google.generativeai as genai
+from google import genai
 import time
 
 # --- CONFIGURATION ---
