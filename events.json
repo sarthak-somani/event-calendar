@@ -86,5 +86,27 @@
             "organisingBody": "Language Resource and Writing Centre (LRWC)",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Condolence Meeting for Mr Rohit Sinha",
+        "start": "2025-08-04T17:00:00",
+        "end": "NoneT17:00:00",
+        "extendedProps": {
+            "description": "A condolence meeting for Mr Rohit Sinha, who passed away recently, is scheduled.",
+            "venue": "LA 001",
+            "organisingBody": "Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay",
+            "contact": "Dr. Ajay Singh Panwar, Head, Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay, Phone: +91-22-2576 7600"
+        }
+    },
+    {
+        "title": "e-Yantra Robotics Competition (eYRC 2025-26)",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "e-Yantra Robotics Competition (eYRC 2025-26) is IIT Bombay's signature Project-Based Learning (PBL) robotics competition, now open for registrations. It invites participants to showcase talents in robotics and engineering, involving technologies such as Robot Operating System (ROS), Drone Control, Image Processing, 3D Designing, Embedded Systems, Control Systems Design, Field Programmable Gate Arrays (FPGAs) Programming, and Reinforcement Learning.",
+            "venue": null,
+            "organisingBody": "e-Yantra, IIT Bombay",
+            "contact": null
+        }
     }
 ]
