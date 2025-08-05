@@ -141,5 +141,16 @@
             "organisingBody": "UPAY NGO, GRA, IIT Bombay",
             "contact": "Archishman Ray, Tanushree (Overall Coordinators, GRA, IIT Bombay), Phone: 9831876729, 7850869073"
         }
+    },
+    {
+        "title": "Shashwat Panda Memorial Lecture",
+        "start": "2025-08-08T17:00:00",
+        "end": "NoneT17:00:00",
+        "extendedProps": {
+            "description": "A lecture by Ms. Rama Bijapurkar titled 'Understanding India's Household Consumption Story'.",
+            "venue": "PC Saxena Auditorium",
+            "organisingBody": "Office of Dean ACR",
+            "contact": null
+        }
     }
 ]
