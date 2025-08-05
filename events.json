@@ -108,5 +108,27 @@
             "organisingBody": "e-Yantra, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Basic First Aid and CPR Training",
+        "start": "2025-08-09T11:00:00",
+        "end": "2025-08-09T11:00:00",
+        "extendedProps": {
+            "description": "Join us for a hands-on Basic First Aid and CPR Training session organized by the Fire & Safety Section, Office of Dean (IPS). This is a great opportunity to equip yourself with life-saving skills and be prepared to act in emergencies. The first 50 registrants will secure their spot on a first-come, first-served basis. This Raksha Bandhan, let us extend the bond of protection beyond tradition, by learning CPR and being there for someone when it matters most.",
+            "venue": null,
+            "organisingBody": "Fire & Safety Section, Office of Dean (IPS), Indian Institute of Technology Bombay",
+            "contact": "Amit Kumar, Technical Officer, Fire and Safety Section, Office of Dean (IPS), IIT Bombay, Telephone: +91-22 21593050"
+        }
+    },
+    {
+        "title": "Independence Day Programme 2025",
+        "start": "2025-08-15TNone",
+        "end": "2025-08-15TNone",
+        "extendedProps": {
+            "description": "Official announcement for the Independence Day Programme and celebrations, inviting all to attend in person or via live webcast.",
+            "venue": null,
+            "organisingBody": "IIT Bombay",
+            "contact": null
+        }
     }
 ]
