@@ -152,5 +152,16 @@
             "organisingBody": "Office of Dean ACR",
             "contact": null
         }
+    },
+    {
+        "title": "Fine Arts NOCS Trials",
+        "start": "2025-08-06T18:30:00",
+        "end": "2025-08-06T18:30:00",
+        "extendedProps": {
+            "description": "Important update regarding the Fine Arts NOCS trials previously announced. The trials will now be held only on 6th August 2025 from 6:30 PM to 8:00 PM at LC 301, Lecture Complex. Please note that there will be no trials on 7th August as mentioned earlier.",
+            "venue": "LC 301, Lecture Complex",
+            "organisingBody": "Institute Cultural Council",
+            "contact": "Omprakash Chaturvedi (NSO Cultural Coordinator) - 7972643853"
+        }
     }
 ]
