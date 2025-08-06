@@ -218,5 +218,38 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Meet Vanja, 9323587701"
         }
+    },
+    {
+        "title": "Careers in Astronomy & Astrophysics",
+        "start": "NoneT19:30:00",
+        "end": "NoneT19:30:00",
+        "extendedProps": {
+            "description": "Krittika, the Astronomy Club of IIT Bombay, invites you to a Q&A panel discussion for all those curious about turning their passion for astronomy and astrophysics into a career. Learn about the diverse paths the field offers, hear firsthand experiences from those who\u2019ve pursued it and get your questions answered by professionals in the domain.",
+            "venue": "Seminar Hall, 2nd Floor, Physics Dept.",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "Yash Palwe (99709 73860), Anvit Khade (99877 99311), Shahu Patil (+91 91460 50850)"
+        }
+    },
+    {
+        "title": "Institute Technical Summer Projects (ITSP) Exhibition 2025",
+        "start": "2025-08-09T14:00:00",
+        "end": "2025-08-09T14:00:00",
+        "extendedProps": {
+            "description": "Invitation to one of the coolest events kicking off the tech scene at IIT Bombay, showcasing amazing student projects from AI and robotics to drones and design, built as part of the ITSP program. Attendees can explore innovative ideas, chat with project teams, learn how things were built from scratch, and spark ideas for future projects.",
+            "venue": "Convocation Hall Foyer",
+            "organisingBody": "Institute Technical Council",
+            "contact": "Gaurish (9766206523), Aniket (6205741275), Sumedh (7588055255), Veeraditya (9449007525), Shahu Patil (+91 91460 50850)"
+        }
+    },
+    {
+        "title": "Institute Technical Council (ITC) UG & PG Freshers Orientation",
+        "start": "2025-08-09T14:00:00",
+        "end": "NoneT14:00:00",
+        "extendedProps": {
+            "description": "Welcome to IIT Bombay! The Institute Technical Council (ITC) invites UG & PG Freshers to their orientation, serving as the first step into IITB's vibrant tech world. This event marks the beginning of your journey with 9 diverse Technical Clubs (robotics, coding, astronomy, energy science, mathematics, Biotech, etc.). It's a gateway to discover where you belong, offering a firsthand look at IITB's tech scene, interaction with club members, and insights into involvement opportunities, hands-on learning, competitions, and projects designed to spark creativity and technical growth. Attendees can also expect cool freebies by arriving early.",
+            "venue": "Convocation Hall",
+            "organisingBody": "Institute Technical Council (ITC), IIT Bombay",
+            "contact": "Shahu Patil, General Secretary Technical Affairs 25-26, IIT Bombay, +91 91460 50850"
+        }
     }
 ]
