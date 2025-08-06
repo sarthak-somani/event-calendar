@@ -174,5 +174,38 @@
             "organisingBody": "Technical Affairs, IIT Bombay",
             "contact": "Siva Madhav Chinta: +91 8639147440, Prabhat Dubey: +91 9076373141, Shahu Patil: +91 91460 50850"
         }
+    },
+    {
+        "title": "BioFront Symposium 2k25: Unveiling New Frontiers of Biotech",
+        "start": "2025-08-09TNone",
+        "end": "2025-08-10TNone",
+        "extendedProps": {
+            "description": "A pan-India online symposium hosted by BioX, IIT Bombay, exploring the convergence of biotechnology with engineering, AI, data science, nanotech, and material sciences. Features keynote talks by leading researchers and industry experts, interactive sessions, and thematic panel discussions on emerging domains like Neuroscience, Health-tech, Bioinformatics, and Nano-tech.",
+            "venue": "Online (MS Teams)",
+            "organisingBody": "BioX, IIT Bombay, in collaboration with Biotech Club \u2013 IIT Madras, Science Club \u2013 IISER Pune, BioNexus \u2013 SRMIST, and Genesys \u2013 NIT Rourkela",
+            "contact": "Gaurish Khodke, BioX Manager 25-26 (+91 9766206523); Shahu Patil, General Secretary Technical Affairs 25-26, IIT Bombay (+91 91460 50850)"
+        }
+    },
+    {
+        "title": "Har Ghar Tiranga Campaign 2025",
+        "start": "2025-08-13TNone",
+        "end": "2025-08-15TNone",
+        "extendedProps": {
+            "description": "Independence Day 2025 'Har Ghar Tiranga' campaign encouraging campus residents to hoist flags and post selfies on harghartiranga.com (Aug 13-15, 2025). A selfie booth will be at the Institute Arch on Aug 15, 2025. A national online quiz on MyGov (quiz.mygov.in) offers certificates and cash prizes.",
+            "venue": "IIT Bombay Campus (Institute Arch for selfie booth) and Online platforms",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Vartalap - Let's Talk: Balancing Books and Being",
+        "start": "2025-08-08T19:00:00",
+        "end": "2025-08-08T19:00:00",
+        "extendedProps": {
+            "description": "This month's Vartalap session, titled 'BALANCING BOOKS AND BEING: Growing Through Change in Academic Life', is a reflective session dedicated to helping students navigate transitions, support mental wellness, and find steadiness in academic life. Part of a monthly expert-led series on mental health and wellness, Vartalap provides a space to pause, listen, and explore themes like well-being, relationships, and personal growth through honest conversation, not a lecture. It is open to all students, whether new or established.",
+            "venue": "LC-102, Lecture Hall Complex - 1",
+            "organisingBody": "Team SWC, IIT Bombay",
+            "contact": null
+        }
     }
 ]
