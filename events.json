@@ -207,5 +207,16 @@
             "organisingBody": "Team SWC, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Beginner and Intermediate Swimming Camp",
+        "start": "2024-08-08T07:15:00",
+        "end": "2024-08-18T07:15:00",
+        "extendedProps": {
+            "description": "A series of Aquatics Camps by the Institute Sports Council offering swimming lessons from a respected coach. Camps include Intermediate (7:15 AM - 8:00 AM, Basic Freestyle required), Girls Beginners (5:30 PM - 6:15 PM), and Boys Beginner (7:00 PM - 7:45 PM), each with 30 seats and a fee of Rs 100/-.",
+            "venue": null,
+            "organisingBody": "Institute Sports Council",
+            "contact": "Meet Vanja, 9323587701"
+        }
     }
 ]
