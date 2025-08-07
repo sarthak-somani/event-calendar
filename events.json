@@ -273,5 +273,16 @@
             "organisingBody": "Central Library, IIT Bombay",
             "contact": "Chief Library Officer, Central Library, IIT Bombay, Powai, Mumbai - 400 076, Email: office.library@iitb.ac.in, Phone: 022 2576 8921"
         }
+    },
+    {
+        "title": "Inter IIT Pre Camp Cricket Trials",
+        "start": "2025-08-17T10:00:00",
+        "end": "2025-08-24T10:00:00",
+        "extendedProps": {
+            "description": "The Institute Sports Council announces Inter IIT Pre Camp PG and UG cricket trials. PG trials are on Sunday, August 17th, and UG trials on Sunday, August 24th, both commencing promptly at 10 am at the Indoor Cricket Courts. Participants must bring appropriate sports shoes and batters require abdomen support. Registration is mandatory via the provided Google Form.",
+            "venue": "Indoor Cricket Courts",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Pradyumna Gugulothu (Institute Cricket Secretary): 7103954490"
+        }
     }
 ]
