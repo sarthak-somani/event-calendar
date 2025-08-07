@@ -251,5 +251,27 @@
             "organisingBody": "Institute Technical Council (ITC), IIT Bombay",
             "contact": "Shahu Patil, General Secretary Technical Affairs 25-26, IIT Bombay, +91 91460 50850"
         }
+    },
+    {
+        "title": "Independence Day 2025 Celebrations",
+        "start": "2025-08-15T09:00:00",
+        "end": "2025-08-15T09:00:00",
+        "extendedProps": {
+            "description": "Announcement of Mr. Rajeev M. Pandia, a distinguished alumnus, as the Chief Guest for Independence Day 2025 celebrations at IIT Bombay. The email highlights his extensive career in the chemical industry and significant contributions.",
+            "venue": "Institute Arch",
+            "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay)",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "National Librarian's Day Celebrations",
+        "start": "2025-08-12T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "Invitation to celebrate National Librarian's Day, featuring a special talk by Dr. Jagdish Arora on 'Beyond the Books and Journals: Role of AI in the Future of Academic Libraries'.",
+            "venue": "Conference Hall, Central Library, IIT Bombay",
+            "organisingBody": "Central Library, IIT Bombay",
+            "contact": "Chief Library Officer, Central Library, IIT Bombay, Powai, Mumbai - 400 076, Email: office.library@iitb.ac.in, Phone: 022 2576 8921"
+        }
     }
 ]
