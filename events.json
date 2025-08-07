@@ -284,5 +284,27 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Pradyumna Gugulothu (Institute Cricket Secretary): 7103954490"
         }
+    },
+    {
+        "title": "Shashwat Panda Memorial Lecture",
+        "start": "2025-08-08T17:00:00",
+        "end": "NoneT17:00:00",
+        "extendedProps": {
+            "description": "Ms. Rama Bijapurkar will deliver a lecture on Understanding India\u2019s Household Consumption Story.",
+            "venue": "PC Saxena Auditorium",
+            "organisingBody": "Office of Dean ACR",
+            "contact": null
+        }
+    },
+    {
+        "title": "Careers in Astronomy & Astrophysics",
+        "start": "2025-08-07T19:30:00",
+        "end": "2025-08-07T19:30:00",
+        "extendedProps": {
+            "description": "Krittika, the Astronomy Club of IIT Bombay, invites you to a Q&A panel discussion for all those curious about turning their passion for astronomy and astrophysics into a career. Learn about the diverse paths the field offers, hear firsthand experiences from those who\u2019ve pursued it and get your questions answered by professionals in the domain. Meet Our Panelists: - Gaurav Waratkar \u2013 Postdoctoral researcher at Caltech, specializing in high-energy astrophysics, astronomical instrumentation, and gravitational wave transients. - Praveer Tiwari \u2013 Postdoctoral researcher at IIT Bombay, with expertise in supermassive black holes, gravitational waves, and nuclear astrophysics. - Yogesh Wagh \u2013 PhD at Liverpool John Moores University (LJMU), working on near-Earth asteroid detection, gamma-ray burst (GRB) afterglows, and scheduling algorithms for gravitational wave follow-ups. - Sameer Patil \u2013 Phd at STARLAB, he is a technologist turned Astrophysicist with 25 years of software experience at firms like Morgan Stanley, MCSI and Google, he is now doing research in 21 cm cosmology, GRBs and use of AI/ML techniques in Astrophysics.",
+            "venue": "Seminar Hall, 2nd Floor, Physics Dept.",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "Yash Palwe: 99709 73860, Anvit Khade: 99877 99311"
+        }
     }
 ]
