@@ -317,5 +317,16 @@
             "organisingBody": "NSS IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "XLR8 Orientation",
+        "start": "2025-08-09T16:30:00",
+        "end": "NoneT16:30:00",
+        "extendedProps": {
+            "description": "Join the Electronics & Robotics Club (ERC) for the XLR8 Orientation, IIT Bombay\u2019s largest tech event. This session offers a firsthand look at robotics and electronics, featuring a dynamic obstacle course challenge and a hands-on workshop to build your own WiFi-controlled bot from scratch. Expect exciting surprises and a memorable session, perfect for beginners and curious minds.",
+            "venue": "LA 002",
+            "organisingBody": "Electronics and Robotics Club",
+            "contact": "Saravan Kumar: +918247227509, Srivathsa Thotakura: +919137164841"
+        }
     }
 ]
