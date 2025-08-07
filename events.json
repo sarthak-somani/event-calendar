@@ -306,5 +306,16 @@
             "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
             "contact": "Yash Palwe: 99709 73860, Anvit Khade: 99877 99311"
         }
+    },
+    {
+        "title": "NSS Department Orientation for NOCS students",
+        "start": "NoneT09:30:00",
+        "end": "NoneT09:30:00",
+        "extendedProps": {
+            "description": "Greetings from NSS IIT Bombay! Are you ready to step into a journey that blends purpose with passion? To introduce you to the joy of volunteering and making real-world impact, NSS IIT Bombay is conducting a Department Orientation. This session will walk you through our wide range of initiatives, show you how each department contributes to meaningful change, and help you find your place in this movement. Mandatory for all freshers who selected NSS as NOCS 1st or 2nd preference. Others who are curious and passionate are warmly welcome too! Exciting freebies await you\u2026 But the real reward? Discovering how you can help change lives \u2014 starting with your own. Join the WhatsApp group for regular updates about the same - https://chat.whatsapp.com/GUajfMHNYliFHMNVVOOsAK",
+            "venue": "LH102",
+            "organisingBody": "NSS IIT Bombay",
+            "contact": null
+        }
     }
 ]
