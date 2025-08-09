@@ -361,5 +361,27 @@
             "organisingBody": "Hindustan Petroleum Corporation Limited (HPCL), Research Hub for Green Energy and Sustainability (GESH IITB), Centre of Excellence in Oil, Gas, and Energy (CoE-OGE IITB)",
             "contact": "Ms. Jaya K, Senior Associate - Entrepreneurship, GESH IITB, 30006497@iitb.ac.in"
         }
+    },
+    {
+        "title": "Institute Technical Council (ITC) UG & PG Freshers Orientation",
+        "start": "2025-08-09T14:00:00",
+        "end": "2025-08-09T14:00:00",
+        "extendedProps": {
+            "description": "Welcome to IIT Bombay! This orientation is your first step into the vibrant world of tech at IITB, marking the beginning of your journey with 9 diverse Technical Clubs under ITC (covering fields like robotics, coding, astronomy, energy science, mathematics, Biotech and more). This is your chance to discover where you belong now. Get a firsthand look at how the tech scene at IITB works, interact with club members, and discover how to get involved. We\u2019ll also walk you through opportunities for hands-on learning, competitions, and projects \u2014 all designed to spark your creativity and technical growth.",
+            "venue": "Convocation Hall",
+            "organisingBody": "Institute Technical Council (ITC), IIT Bombay",
+            "contact": "Shahu Patil, General Secretary Technical Affairs, IIT Bombay; +91 91460 50850; gsectech@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Extended Services of SWC: One-on-one Emotional Support",
+        "start": "2025-08-09T10:00:00",
+        "end": "2025-08-10T10:00:00",
+        "extendedProps": {
+            "description": "Counsellor will be available for one-on-one emotional support at the SWC Office. Students can walk-in or contact via phone/email during specified hours. The Student Wellness Centre encourages students to utilize available support for emotional well-being. Emergency contact information and an online counselling platform are also provided.",
+            "venue": "SWC Office (Nandan Nilekani Main Building, 3rd floor)",
+            "organisingBody": "Student Wellness Centre, IIT Bombay",
+            "contact": "wellness@iitb.ac.in"
+        }
     }
 ]
