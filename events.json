@@ -394,5 +394,16 @@
             "organisingBody": "PG-CAMP team",
             "contact": "Priyanka Talwar, General Secretary Academic Affairs (PG), Post Graduate Council for Academics and Mentoring Programmes, Indian Institute of Technology Bombay, Powai, Mumbai - 400076. Email: gsecaapg@iitb.ac.in, Contact: +91 8637313704"
         }
+    },
+    {
+        "title": "Iyengar Yoga | Weekly Morning Sessions",
+        "start": "NoneT06:15:00",
+        "end": "NoneT06:15:00",
+        "extendedProps": {
+            "description": "Yogastha invites you to weekly morning Iyengar Yoga sessions focusing on precision, alignment, and strength, guided by an experienced teacher. Accessible for all levels. No registration needed; mats provided.",
+            "venue": "Yoga Room, 3rd Floor, New Gymkhana Building (Opp. Hostel 11)",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "+91 9619000065"
+        }
     }
 ]
