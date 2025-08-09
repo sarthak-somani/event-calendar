@@ -383,5 +383,16 @@
             "organisingBody": "Student Wellness Centre, IIT Bombay",
             "contact": "wellness@iitb.ac.in"
         }
+    },
+    {
+        "title": "Resume-Building Session with Industry Leader",
+        "start": "2025-08-10T11:00:00",
+        "end": "2025-08-10T11:00:00",
+        "extendedProps": {
+            "description": "The resume-building session for PG (masters or PhD) final year students sitting for placements will teach how to craft a resume that stands out. PG students will receive 1 incentive point for attending from 10:50 AM till the end. Open to all final year PG students.",
+            "venue": "LA 201",
+            "organisingBody": "PG-CAMP team",
+            "contact": "Priyanka Talwar, General Secretary Academic Affairs (PG), Post Graduate Council for Academics and Mentoring Programmes, Indian Institute of Technology Bombay, Powai, Mumbai - 400076. Email: gsecaapg@iitb.ac.in, Contact: +91 8637313704"
+        }
     }
 ]
