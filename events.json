@@ -427,5 +427,16 @@
             "organisingBody": "Adventure Club, Institute Sports Council, IIT Bombay",
             "contact": "Mohit Yadav, Manager- Adventure Club: +91 8233470289; Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay: +91 9619000065"
         }
+    },
+    {
+        "title": "XLR8",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "Your first and biggest event with the Electronics & Robotics Club! No prerequisites required \u2013 no coding, no soldering, no prior experience with microcontrollers. Bring your curiosity and enthusiasm to build your very first project at IIT Bombay.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Electronics & Robotics Club",
+            "contact": "Saravan Kumar: +918247227509, Srivathsa Thotakura: +919137164841. Website: https://erc.tech-iitb.org/, Instagram: https://www.instagram.com/erc.iitb. General Secretary Technical Affairs: Shahu Patil (+91 91460 50850)."
+        }
     }
 ]
