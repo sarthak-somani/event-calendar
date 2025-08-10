@@ -405,5 +405,16 @@
             "organisingBody": "Yogastha, IIT Bombay",
             "contact": "+91 9619000065"
         }
+    },
+    {
+        "title": "Resume-Building Session with Industry Leader",
+        "start": "2025-08-10T11:00:00",
+        "end": "2025-08-10T11:00:00",
+        "extendedProps": {
+            "description": "A resume-building session specifically for PG (masters or PhD) final year students preparing for placements. The session will be led by Industry Leader Danny Savla (SVP - Technology, Genesys International) and will focus on how to craft a resume that stands out. Attendees will earn 1 incentive point for full attendance.",
+            "venue": "LA 201",
+            "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PG-CAMP)",
+            "contact": "gsecaapg@iitb.ac.in"
+        }
     }
 ]
