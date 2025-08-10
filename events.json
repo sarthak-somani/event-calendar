@@ -416,5 +416,16 @@
             "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PG-CAMP)",
             "contact": "gsecaapg@iitb.ac.in"
         }
+    },
+    {
+        "title": "River Rafting Kolad",
+        "start": "2025-08-15TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "Adventure Club invites you to be part of our first-ever River Rafting trip at Kolad on 15th August 2025. Experience the thrill of riding the rapids of the Kundalika River, surrounded by lush monsoon landscapes. Whether you\u2019re a first-timer or an adventure pro, this adrenaline-packed activity is perfect for all skill levels.",
+            "venue": "Kolad, Kundalika River",
+            "organisingBody": "Adventure Club, Institute Sports Council, IIT Bombay",
+            "contact": "Mohit Yadav, Manager- Adventure Club: +91 8233470289; Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay: +91 9619000065"
+        }
     }
 ]
