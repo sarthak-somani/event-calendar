@@ -449,5 +449,16 @@
             "organisingBody": "Office of Dean R&D, IIT Bombay",
             "contact": "tc2025@ircc.iitb.ac.in"
         }
+    },
+    {
+        "title": "AtomQuest 2025: Atomberg's Flagship Engineering Challenge",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "AtomQuest 2025 is Atomberg's flagship innovation-driven hackathon where top engineering talent from across India builds real-world solutions. It offers \u20b92,00,000 in cash prizes, exclusive mentorship from Atomberg's product & R&D leaders, and direct internship and full-time opportunities. All UG, PG, and PhD engineering students from any branch and year can apply in teams of 3-5 members. Cross-discipline and cross-college teams are encouraged.",
+            "venue": null,
+            "organisingBody": "Atomberg Technologies",
+            "contact": "Rakshita Singh (Campus SPOC): +91 7007702371"
+        }
     }
 ]
