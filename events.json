@@ -438,5 +438,16 @@
             "organisingBody": "Electronics & Robotics Club",
             "contact": "Saravan Kumar: +918247227509, Srivathsa Thotakura: +919137164841. Website: https://erc.tech-iitb.org/, Instagram: https://www.instagram.com/erc.iitb. General Secretary Technical Affairs: Shahu Patil (+91 91460 50850)."
         }
+    },
+    {
+        "title": "TechConnect 2025 \u2013 IIT Bombay\u2019s Flagship R&D Showcase",
+        "start": "2025-12-22TNone",
+        "end": "2025-12-24TNone",
+        "extendedProps": {
+            "description": "TechConnect 2025 is IIT Bombay\u2019s flagship Research & Development showcase, providing a platform for faculty, researchers, students, industry professionals, and policymakers to engage in dialogue, explore cutting-edge research, and foster collaborations. It includes a TechConnect Exhibition, TechConnect Symposium, and ResCon \u2013 The Undergraduate Research Conclave.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Office of Dean R&D, IIT Bombay",
+            "contact": "tc2025@ircc.iitb.ac.in"
+        }
     }
 ]
