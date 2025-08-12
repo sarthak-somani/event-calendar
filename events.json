@@ -471,5 +471,16 @@
             "organisingBody": "Team ChemEca IIT Bombay",
             "contact": "Param: +91 9428989809, Ojas: +91 7058448506, Jayant: +91 9518340057, Renudhruva: +91 636615695"
         }
+    },
+    {
+        "title": "National Librarian's Day Celebrations",
+        "start": "2025-08-12T11:00:00",
+        "end": "2025-08-12T11:00:00",
+        "extendedProps": {
+            "description": "Celebration of National Librarian's Day, featuring a special talk by Dr. Jagdish Arora on 'Beyond the Books and Journals: Role of AI in the Future of Academic Libraries'.",
+            "venue": "Conference Hall, Central Library, IIT Bombay",
+            "organisingBody": "Central Library, IIT Bombay",
+            "contact": "Chief Library Officer, Central Library, IIT Bombay. Email: office.library@iitb.ac.in, Phone: 022 2576 8921."
+        }
     }
 ]
