@@ -526,5 +526,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Nand Kishore, dean.aa@iitb.ac.in, Phone: 022-2576-7157 (Office), 9820605370 (Mobile)"
         }
+    },
+    {
+        "title": "ShARE IITB Orientation",
+        "start": "2025-08-13T20:30:00",
+        "end": "2025-08-13T20:30:00",
+        "extendedProps": {
+            "description": "An orientation session by ShARE IITB, a student-run leadership and consulting organization. This event is for 2nd and 3rd-year undergraduate students and postgraduate students, introducing ShARE, detailing its recruitment process, and announcing winners of ShARE's Business Challenge who will get direct interview opportunities. The session includes engaging activities, fun games, prizes, freebies, and features a special guest speaker, Disha Lalwani (IITB alumna and Analyst at DBS Bank), who will share career insights and her experience with ShARE.",
+            "venue": "LC 201",
+            "organisingBody": "ShARE IITB, UGAC",
+            "contact": "gsecaaug@iitb.ac.in"
+        }
     }
 ]
