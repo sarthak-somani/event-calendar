@@ -493,5 +493,38 @@
             "organisingBody": "Fourthwall \u2013 the Dramatics Club of IIT Bombay",
             "contact": "Omprakash Chaturvedi, Institute Dramatics Secretary, 7972643853"
         }
+    },
+    {
+        "title": "Exchange 101 Session",
+        "start": "2025-08-13TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "A session on the NI product LabVIEW",
+        "start": "2025-08-13T14:00:00",
+        "end": "2025-08-13T14:00:00",
+        "extendedProps": {
+            "description": "A session for users of LabVIEW software from NI, focusing on the NI platform, PXIe systems, hardware interaction using Instrument Studio and LabVIEW, setup and testing of Device Under Test (DUT), test automation with TestStand, and information on procuring and servicing NI products with support from BlauPlug. The session includes an overview of National Instruments and its technology platforms.",
+            "venue": "LH 301, Indian Institute of Technology, Bombay, 400076, India",
+            "organisingBody": "Computer Centre, Indian Institute of Technology Bombay, in collaboration with National Instruments and BlauPlug",
+            "contact": "Jyoti Prasad Maharana (Ph.D, IIT Bombay), Computer Centre. Telephone: Office Desk: +91-022-25767753, Computer Centre Office: +91-022-2576 7751, Cell: +91-9920278063"
+        }
+    },
+    {
+        "title": "IITB Staff Excellence Awards Function",
+        "start": "2025-08-15T10:15:00",
+        "end": "NoneT10:15:00",
+        "extendedProps": {
+            "description": "The IIT Bombay Staff Excellence Awards will be conferred to the awardees. You are cordially invited to felicitate the first batch of awardees and recognize the consistent contributions of non-teaching officers and staff.",
+            "venue": "B Nag Auditorium, VMCC Ground Floor",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Nand Kishore, dean.aa@iitb.ac.in, Phone: 022-2576-7157 (Office), 9820605370 (Mobile)"
+        }
     }
 ]
