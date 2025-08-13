@@ -559,5 +559,38 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Independence Day Programme 2025",
+        "start": "2025-08-15T08:55:00",
+        "end": "2025-08-15T08:55:00",
+        "extendedProps": {
+            "description": "Revised schedule for the Independence Day Programme 2025: 08.55 am: The Director arrives at the venue. 08.59 am: The Director proceeds to the dais. 09.00 am: The Director hoists the National Flag, and the National Anthem follows. 09.05 am: Address by the Director. 09.10 am: Address by the Chief Guest, Shri Rajiv M. Pandia, Distinguished alumnus. 09.15 am: Felicitation of the two longest serving employees by the Director & the Chief guest. 09.20 am: Cultural Programme. Followed by Staff Excellence award function at B Nag Auditorium, VMCC. All are invited to attend the above events. Those who are unable to attend the Independence Day celebrations can participate virtually by watching the live web-casting available at the link below: https://www.youtube.com/c/IITBombayOfficialChannel",
+            "venue": null,
+            "organisingBody": "IIT Bombay",
+            "contact": "Vasumathi S, DR (F&SS)"
+        }
+    },
+    {
+        "title": "Tiranga Yatra - Independence Day 2025",
+        "start": "2025-08-15T10:30:00",
+        "end": "2025-08-15T10:30:00",
+        "extendedProps": {
+            "description": "The annual Tiranga Yatra, a spirited procession across the IIT Bombay campus, where participants carry a 1000 ft Tricolour to celebrate India's Independence Day, shared heritage, unity, and national pride.",
+            "venue": "Main Archway (near Main Building) to NCC Area, IIT Bombay Campus",
+            "organisingBody": "NCC IIT Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Gram Bhraman: A Rural Exploration Camp & Field Visit to Mamnoli",
+        "start": "2025-08-17TNone",
+        "end": "2025-08-17TNone",
+        "extendedProps": {
+            "description": "The Group for Rural Activities (GRA) invites you to 'Gram Bhraman', an extraordinary rural exploration camp and field visit to Mamnoli, Kalyan, scheduled for 17th August, 2025. This immersive experience offers a dive into village life amidst lush greenery, alongside insights from Samatol foundation, an NGO working in child rehabilitation. Participants will engage in village exploration, a round table discussion with Vijay Jadhav (founder of Samatol foundation), and direct interaction with children rehabilitated by Samatol. Samatol foundation aims to reunite abandoned/orphaned kids with their families, having successfully reunited over 15000 children. Note: This initiative is not for UG Freshers (2025 UG entrants).",
+            "venue": "Mamnoli, Kalyan",
+            "organisingBody": "GRA, IIT Bombay",
+            "contact": "Archishman Ray (9831876729), Tanushree (7850869073)"
+        }
     }
 ]
