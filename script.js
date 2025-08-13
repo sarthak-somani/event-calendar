@@ -37,25 +37,30 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(data => {
                     populateEventList(data);
                     successCallback(data);
-
-                    // ### THIS IS THE NEW PART ###
-                    // After the calendar loads, find today's date and scroll to it.
-                    // We use a small delay to ensure the calendar has finished rendering.
-                    setTimeout(() => {
-                        const todayElement = document.querySelector('.fc-list-day-today');
-                        if (todayElement) {
-                            todayElement.scrollIntoView({
-                                behavior: 'smooth',
-                                block: 'center' // This will center today in the view
-                            });
-                        }
-                    }, 200); // 200ms delay
-
                 })
                 .catch(error => {
                     console.error("Error fetching events:", error);
                     failureCallback(error);
                 });
+        },
+
+        loading: function(isLoading) {
+            if (!isLoading && isMobile) {
+                // When the calendar is done loading, scroll to today if in mobile view.
+                const today = new Date();
+                const year = today.getFullYear();
+                const month = String(today.getMonth() + 1).padStart(2, '0');
+                const day = String(today.getDate()).padStart(2, '0');
+                const todayStr = `${year}-${month}-${day}`;
+                const todayElement = document.querySelector(`[data-date="${todayStr}"]`);
+
+                if (todayElement) {
+                    todayElement.scrollIntoView({
+                        behavior: 'auto',
+                        block: 'start'
+                    });
+                }
+            }
         },
 
         eventClick: function(info) {
