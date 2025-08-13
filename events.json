@@ -537,5 +537,27 @@
             "organisingBody": "ShARE IITB, UGAC",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "A session on the NI product LabVIEW",
+        "start": "2025-08-13T14:00:00",
+        "end": "2025-08-13T14:00:00",
+        "extendedProps": {
+            "description": "A session for users of LabVIEW software on the NI platform. The agenda includes: Overview of National Instruments and its technology platforms, PXIe Platform exploration, Hands-on Hardware Interaction (measurements with Instrument Studio, LabVIEW interaction with PXIe hardware), Setup and Testing of Device Under Test (DUT) using PXIe instruments, Automating test sequences with TestStand, and Services offered by BlauPlug as an Alliance Partner of NI (procurement, maintenance, service support).",
+            "venue": "LH 301",
+            "organisingBody": "Indian Institute of Technology, Bombay (IITB) - Computer Centre",
+            "contact": "Dr Jyoti Prasad Maharana (jyoti@iitb.ac.in)"
+        }
+    },
+    {
+        "title": "Joy of Discovery in the Modern Era : Some Reflections and Directions",
+        "start": "2025-08-13T17:15:00",
+        "end": "2025-08-13T17:15:00",
+        "extendedProps": {
+            "description": "About the Speaker: Prof. B. Ananthanarayan is a professor and former chair of the center for High Energy Physics at the Indian Institute of Science. He obtained his B.Tech. in Chemical Engineering from IIT Madras in 1985 (as part of the last five year batch) and completed his M.S. and Ph.D. from the University of Delaware, USA, 1988 and 1991, respectively. After post-doctoral work at the Physical Research Laboratory (PRL) in Ahmedabad, University of Lausanne and Bern, he joined IISc in 1996 and has been there ever since. His research spans several areas of elementary particle physics and field theory. Additionally, he has been involved in editorial work for Springer for over a decade and a half and is well known for his outreach efforts through writings and popular talks. BA was Homi Bhabha Fellow, 2009-2011, was awarded the Rustom Choksi Award for Excellence in Science, 2014 by IISc, held the MSIL Chair of the Division of Physical and Mathematical Sciences, IISc. BA was Chair of CHEP for a record period of over 9 years and 7 months. He is presently on the Governing Council of the IUAC, Delhi, and serves on the India-CERN Task Force of the DAE and DST, and has been recently inducted into the advisory committee for the dual degree of IIIT Hyderabad. Speaker's webpage: https://chep.iisc.ac.in/Personnel/pages/anant/index.html Abstract: In this talk, we shall discuss the project of knowledge production as a profession and as a career, and the calling of a professional. We will present general arguments by looking into some contemporary examples drawn from different disciplines. We will described at a popular level recent discoveries such as gravitational waves which unites physics at the largest and smallest scales and the discovery of the Higgs boson which required a heroic man made machine. We will appeal to other examples from mathematics, computer science, biology, climate science, to name a few to motivate the challenges of the present era. We will also look into the issues of the psychology of creativity. Of importance are also questions of science and engineering in India as a developing country and that of representation of women among others. We will also touch on important issues of the role of the individual, of working in teams, and of communication. Stated differently this talk aims to provide a motivational framework and spells out the gestalt needed for a young person to enter the daunting field of research and discovery and to be a part of the great discoveries that lie ahead. The talk is aimed at a very broad audience and is accessible even to class XI and XII students, and for students across all B. Tech, M.Sc, Ph.D. students in all branches of sciences, and also to teachers and researchers in all areas of science. The speaker is well suited for this as someone with experience in both engineering and science. We wish to leave a lot of time for discussion at the end of the talk and encourage participation from all, young and not so young.",
+            "venue": "Room No. 22, 2nd floor, VMCC, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: (+91-22) 25767026-27"
+        }
     }
 ]
