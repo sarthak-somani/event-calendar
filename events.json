@@ -625,5 +625,16 @@
             "organisingBody": "NCC IIT Bombay",
             "contact": "+91 9579242137, +91 6378959610"
         }
+    },
+    {
+        "title": "India Open Hackathon - OPTIMIZE. ACCELERATE. SCALE",
+        "start": "2023-09-22TNone",
+        "end": "2023-09-26TNone",
+        "extendedProps": {
+            "description": "A unique opportunity to advance HPC & AI projects with the help of dedicated experts and seek collaboration with industry experts. This hackathon aims to help developers and research groups push their real-world projects forward by connecting participants with the latest technologies, robust tool sets, and collective expertise under the guidance of industry experts. Attendees will gain access to powerful leadership-class compute cluster systems with latest GPU architecture, NVIDIA and partner mentors, and certificates.",
+            "venue": null,
+            "organisingBody": "NVIDIA and the OpenACC organization",
+            "contact": "Mr. Vivek Kumar Rai, Business Head, HPC & AI, NVIDIA South Asia, Mobile: +91 9028018738, Email: vivrai@nvidia.com"
+        }
     }
 ]
