@@ -636,5 +636,27 @@
             "organisingBody": "NVIDIA and the OpenACC organization",
             "contact": "Mr. Vivek Kumar Rai, Business Head, HPC & AI, NVIDIA South Asia, Mobile: +91 9028018738, Email: vivrai@nvidia.com"
         }
+    },
+    {
+        "title": "Wellbeing Questionnaire for First-Year UG Students",
+        "start": "2025-08-30T10:00:00",
+        "end": "2025-08-30T10:00:00",
+        "extendedProps": {
+            "description": "The Student Wellness Centre (SWC) conducts an annual Wellbeing Questionnaire (WBQ) for all first-year UG students to support their well-being and ease adjustment to campus life. Participation is mandatory. Students are divided into batches with specific time slots: Batch 1 (10:00 am - 11:00 am): D1-T1, D2-T1, D3-T1, D4-T1 and D1-T2, D2-T2; Batch 2 (11:00 am - 12:00 pm): D3-T2, D4-T2 and D1-T3, D2-T3, D3-T3, D4-T3; Batch 3 (12:00 pm - 1:00 pm): D1-T4, D2-T4, D3-T4, D4-T4 and D1-T5 D2-T5; Batch 4 (2:30 pm - 3:30 pm): D3-T5, D4-T5 and D1-T6, D2-T6, D3-T6, D4-T6; Batch 5 (3:30 pm - 4:30 pm): D1-T7, D2-T7, D3-T7, D4-T7 and D1-T8, D2-T8; Batch 6 (4:30 pm - 5:30 pm): D3-T8, D4-T8 and D1-T9, D2-T9, D3-T9, D4-T9; Batch 7 (5:30 pm - 6:30 pm): B.Des.",
+            "venue": "Software Lab, 2nd Floor, CC Building",
+            "organisingBody": "Student Wellness Centre, IIT Bombay",
+            "contact": "outreach.swc@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Aazadi ke Rang, Vaani ke Sang",
+        "start": "2025-08-14T18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "An evening organized by Vaani Club to honor India's journey through words, marking the 79th Independence Day. The event features an Open Mic where students and professors can share poetry or thoughts on patriotism. All are welcome to perform or attend.",
+            "venue": "Theatre room, Old SAC",
+            "organisingBody": "Vaani Club",
+            "contact": "Mohammad Zaif Ansari, Institute Indian Languages Secretary, 8140275394; Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay, +91 79991 57905"
+        }
     }
 ]
