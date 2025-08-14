@@ -614,5 +614,16 @@
             "organisingBody": "Central Library",
             "contact": null
         }
+    },
+    {
+        "title": "Movie Screening: Film Major (Independence Day 2025)",
+        "start": "2025-08-15T17:00:00",
+        "end": "NoneT17:00:00",
+        "extendedProps": {
+            "description": "Major is a moving tribute to Major Sandeep Unnikrishnan, the braveheart who laid down his life during the 26/11 Mumbai attacks. The film beautifully portrays his journey -- from his childhood dreams to his heroic final mission -- and reminds us of the true meaning of service to the nation. This screening is not just about watching a film; it's about honoring a hero and reflecting on the values of duty, bravery, and selflessness. We encourage everyone to join us, bring along your friends, and immerse yourselves in a story that will leave you inspired and proud. Let's make this Independence Day truly memorable.",
+            "venue": "LTPCSA",
+            "organisingBody": "NCC IIT Bombay",
+            "contact": "+91 9579242137, +91 6378959610"
+        }
     }
 ]
