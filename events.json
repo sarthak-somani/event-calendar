@@ -658,5 +658,27 @@
             "organisingBody": "Vaani Club",
             "contact": "Mohammad Zaif Ansari, Institute Indian Languages Secretary, 8140275394; Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay, +91 79991 57905"
         }
+    },
+    {
+        "title": "Hindi Language Course",
+        "start": "2025-08-19T16:30:00",
+        "end": "NoneT16:30:00",
+        "extendedProps": {
+            "description": "The International Relations Office is introducing a Hindi Language Course, primarily aimed at foreign students, but also open to Indian students and staff members.",
+            "venue": "On-campus, in person",
+            "organisingBody": "International Relations Office",
+            "contact": "international@iitb.ac.in"
+        }
+    },
+    {
+        "title": "National Level Online Quiz: Independence Day",
+        "start": "2025-08-15T16:00:00",
+        "end": "2025-08-15T16:00:00",
+        "extendedProps": {
+            "description": "The Bureau of Indian Standards (BIS), under the Ministry of Consumer Affairs, Food & Public Distribution, Government of India, is organizing a National Level Online Quiz exclusively for BIS MoU partner institutes to test knowledge and celebrate the spirit of Independence Day.",
+            "venue": "Online",
+            "organisingBody": "Bureau of Indian Standards (BIS)",
+            "contact": null
+        }
     }
 ]
