@@ -680,5 +680,16 @@
             "organisingBody": "Bureau of Indian Standards (BIS)",
             "contact": null
         }
+    },
+    {
+        "title": "UPSC Talks with IITB Alumni",
+        "start": "2025-08-17T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "We are pleased to announce the upcoming edition of the UPSC Talks, an event designed to provide valuable insights into one of India's most prestigious and challenging examinations, the UPSC Civil Services Examination. The session will feature distinguished IIT Bombay alumni, who will share their personal journeys, preparation strategies, and perspectives on serving the nation through the civil services. Attendees can expect direct guidance from alumni, interactive Q&A, practical insights into preparation, and networking opportunities with peers and mentors.",
+            "venue": "F.C. Kohli Auditorium",
+            "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
+            "contact": "Parth Dhruv (SARC CTM): 99049 59162, Sarvagya Jain (SARC CTM): 94248 00631"
+        }
     }
 ]
