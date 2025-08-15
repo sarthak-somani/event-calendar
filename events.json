@@ -735,5 +735,16 @@
             "organisingBody": "Hindustan Petroleum Corporation Limited (HPCL), Research Hub for Green Energy and Sustainability (GESH IITB), Centre of Excellence in Oil, Gas, and Energy (CoE-OGE IITB)",
             "contact": "Ms. Jaya K, 30006497@iitb.ac.in"
         }
+    },
+    {
+        "title": "Tools of Analytics: Power BI Workshop",
+        "start": "NoneT18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "We're excited to host a workshop on Power BI, a powerful business intelligence tool that transforms raw data into interactive dashboards and actionable insights. This session will cover Power BI fundamentals - data import, cleaning, visualization, dashboard creation and will showcase real world industry applications. The workshop will be conducted by Mr. Arijit Chowdhury, Senior VP at YES Bank. Drawing on his hands-on expertise, he will share best practices, tips, and tricks to help you make the most of Power BI\u2019s features. The session will be followed by a certification assignment intended to assess the understanding of topics discussed. Participants who successfully complete the assignment will be awarded a certificate of completion.",
+            "venue": "LC 001",
+            "organisingBody": "Analytics Club, IIT Bombay",
+            "contact": "Aryan Kashyap, Manager, Analytics Club, 6206443759, analyticsclub@iitb.ac.in"
+        }
     }
 ]
