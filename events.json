@@ -713,5 +713,27 @@
             "organisingBody": "Dean (Administrative Affairs), IIT Bombay",
             "contact": "dean.aa@iitb.ac.in"
         }
+    },
+    {
+        "title": "Inter IIT Pre-Camp Trials",
+        "start": "2023-08-17T10:00:00",
+        "end": "2023-09-27T10:00:00",
+        "extendedProps": {
+            "description": "Practice sessions and selection trials for various sports (Athletics, Badminton, Basketball, Chess, Cricket, Football, Hockey, Lawn Tennis, Squash, Table Tennis, Volleyball, Weightlifting) to identify and nurture promising athletes for the 58th Inter-IIT Sports Meet. Students must register via the provided Google Form and adhere to sport-specific instructions.",
+            "venue": "Multiple venues across IIT Bombay campus as per sport (e.g., Athletics synthetic track, Indoor badminton court, New SAC, Football Turf)",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay; Phone: +91 9619000065; Website: gymkhana.iitb.ac.in/sports/"
+        }
+    },
+    {
+        "title": "HPCL-IITB Energy Transition Challenge",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "The HPCL-IITB Energy Transition Challenge, jointly organized by Hindustan Petroleum Corporation Limited (HPCL), the Research Hub for Green Energy and Sustainability (GESH IITB), and the Centre of Excellence in Oil, Gas, and Energy (CoE-OGE IITB), aims to engage bright minds like students, startups, researchers, and refinery professionals in ideating practical, scalable, and disruptive solutions for decarbonizing refinery operations and processes. The theme is \"Energy Transition in Refineries through Innovation\". Participants can win cash prizes up to \u20b960,000. Eligibility for Track 1 includes startups and students from IITs, participating as individuals or in teams of up to 4 members.",
+            "venue": null,
+            "organisingBody": "Hindustan Petroleum Corporation Limited (HPCL), Research Hub for Green Energy and Sustainability (GESH IITB), Centre of Excellence in Oil, Gas, and Energy (CoE-OGE IITB)",
+            "contact": "Ms. Jaya K, 30006497@iitb.ac.in"
+        }
     }
 ]
