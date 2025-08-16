@@ -768,5 +768,16 @@
             "organisingBody": "Team ChemEca IIT Bombay",
             "contact": "chemeca.iitb@gmail.com"
         }
+    },
+    {
+        "title": "English Language Improvement Training (ELIT) Orientation",
+        "start": "2024-08-19T17:30:00",
+        "end": "2024-08-19T17:30:00",
+        "extendedProps": {
+            "description": "ELIT's (English Language Improvement Training) orientation is designed to improve language fluency, interpersonal, and soft skills. It is open for all and will feature exciting activities for an engaging and fun English learning journey.",
+            "venue": "LA201",
+            "organisingBody": "ELP Cabinet, English Learning Program (ELP), Student Mentor Program (SMP), IIT Bombay",
+            "contact": "Aditya Rana, Ayush Jaiswal (Cabinet Heads, ELP); +91-9692894061, +91-7974399532; elp.cabinet.smp@gmail.com"
+        }
     }
 ]
