@@ -746,5 +746,16 @@
             "organisingBody": "Analytics Club, IIT Bombay",
             "contact": "Aryan Kashyap, Manager, Analytics Club, 6206443759, analyticsclub@iitb.ac.in"
         }
+    },
+    {
+        "title": "Extended services of SWC: Counsellor on call",
+        "start": "2025-08-16T11:00:00",
+        "end": "2025-08-17T11:00:00",
+        "extendedProps": {
+            "description": "Counsellor on call will be available for one-on-one emotional support. Students can walk in to the SWC office or contact via phone (Institute extension 9070) or email (wellness@iitb.ac.in).",
+            "venue": "SWC Office (Nandan Nilekani Main Building, 3rd floor)",
+            "organisingBody": "Student Wellness Centre, IIT Bombay",
+            "contact": "Phone: 9070 (Institute extension), Email: wellness@iitb.ac.in"
+        }
     }
 ]
