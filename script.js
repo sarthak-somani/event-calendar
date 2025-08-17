@@ -17,17 +17,12 @@ document.addEventListener('DOMContentLoaded', function() {
         }).join('');
     }
 
-    const isMobile = window.innerWidth < 768;
-    // On mobile, default to the year-long list view.
-    const initialCalendarView = isMobile ? 'listYear' : 'dayGridMonth';
-
     const calendar = new FullCalendar.Calendar(calendarEl, {
-        initialView: initialCalendarView,
-        dayMaxEvents: true,
+        initialView: 'dayGridMonth',
+        dayMaxEvents: true, // show a "+ more" link when there are too many events
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
-            // Add 'listYear' to the available views
             right: 'dayGridMonth,timeGridWeek,listYear'
         },
         
@@ -42,25 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     console.error("Error fetching events:", error);
                     failureCallback(error);
                 });
-        },
-
-        loading: function(isLoading) {
-            if (!isLoading && isMobile) {
-                // When the calendar is done loading, scroll to today if in mobile view.
-                const today = new Date();
-                const year = today.getFullYear();
-                const month = String(today.getMonth() + 1).padStart(2, '0');
-                const day = String(today.getDate()).padStart(2, '0');
-                const todayStr = `${year}-${month}-${day}`;
-                const todayElement = document.querySelector(`[data-date="${todayStr}"]`);
-
-                if (todayElement) {
-                    todayElement.scrollIntoView({
-                        behavior: 'auto',
-                        block: 'start'
-                    });
-                }
-            }
         },
 
         eventClick: function(info) {
