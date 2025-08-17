@@ -1,4 +1,3 @@
-/* ... (root variables are the same) ... */
 :root {
     --primary-color: #4A90E2;
     --text-color: #333;
@@ -9,53 +8,66 @@
     --font-family: 'Inter', sans-serif;
 }
 
-/* ### CHANGE 1: Make body fill the screen and act as a flex container ### */
-html, body {
+/* ### NEW: Use CSS Grid for the main page layout ### */
+html {
     height: 100%;
-    margin: 0;
 }
-
 body {
     font-family: var(--font-family);
+    margin: 0;
     background-color: var(--background-color);
     color: var(--text-color);
-    display: flex;
-    flex-direction: column;
+    
+    /* Setup a grid that has a header and content that fills the rest */
+    display: grid;
+    grid-template-rows: auto 1fr; /* Header is auto-sized, content area (1fr) takes all remaining space */
+    height: 100vh; /* Make the body fill the entire viewport height */
 }
 
 header {
-    /* ... (header styles are the same) ... */
     background-color: var(--surface-color);
     text-align: center;
     padding: 20px;
     border-bottom: 1px solid var(--border-color);
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    grid-row: 1; /* Assign header to the first grid row */
 }
 
-/* ... (header h1 is the same) ... */
-header h1 { margin: 0; font-weight: 700; color: var(--primary-color); }
+header h1 {
+    margin: 0;
+    font-weight: 700;
+    color: var(--primary-color);
+}
 
-/* ### CHANGE 2: Make the container grow to fill available space ### */
+/* The main container now fills the second grid row */
 .container {
+    grid-row: 2;
     display: flex;
     gap: 30px;
     padding: 20px;
     max-width: 1400px;
     margin: 0 auto;
-    flex-grow: 1; /* This is the key change */
     width: 100%;
     box-sizing: border-box;
+    overflow: hidden; /* Prevent overflow issues */
 }
 
-/* ### CHANGE 3: Make the calendar container grow vertically ### */
+/* Make the calendar container and the calendar itself fill the height */
 #calendar-container {
     flex: 3;
     min-width: 300px;
-    display: flex; /* Allow the child calendar to grow */
-    flex-direction: column;
+    height: 100%;
+}
+#calendar {
+    background-color: var(--surface-color);
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    height: 100%;
+    box-sizing: border-box;
 }
 
-/* ... (event list styles are the same) ... */
+/* Event list styles (unchanged) */
 #event-list-container { flex: 1; background-color: var(--surface-color); padding: 20px; border-radius: 8px; border: 1px solid var(--border-color); min-width: 300px; height: fit-content; }
 #event-list-container h2 { margin-top: 0; border-bottom: 2px solid var(--primary-color); padding-bottom: 10px; font-size: 1.2rem; }
 #event-list { list-style: none; padding: 0; margin: 0; }
@@ -64,17 +76,7 @@ header h1 { margin: 0; font-weight: 700; color: var(--primary-color); }
 #event-list .event-title { font-weight: 500; display: block; }
 #event-list .event-date { font-size: 0.9rem; color: var(--light-text-color); margin-top: 5px; display: block; }
 
-
-/* ### CHANGE 4: Make the calendar element fill its parent container ### */
-#calendar {
-    background-color: var(--surface-color);
-    padding: 20px;
-    border-radius: 8px;
-    border: 1px solid var(--border-color);
-    flex-grow: 1; /* Allow the calendar to stretch vertically */
-}
-
-/* Media Query for Mobile Devices */
+/* Media Query for Mobile (unchanged) */
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
@@ -87,13 +89,9 @@ header h1 { margin: 0; font-weight: 700; color: var(--primary-color); }
         width: 100%;
     }
 
-    /* Hiding this list on mobile for a cleaner look */
     #event-list-container {
         display: none;
     }
-
-    /* ### CHANGE 5: REMOVE the min-height rule ### */
-    /* .fc-daygrid-day-frame { min-height: 16vh; } */ /* This is no longer needed */
 
     .fc .fc-toolbar {
         flex-direction: column;
