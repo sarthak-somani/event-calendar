@@ -95,23 +95,35 @@ header h1 {
     border: 1px solid var(--border-color);
 }
 
-/* ### THIS IS THE NEW PART ###
-Media Query for Mobile Devices 
-*/
-@media (max-width: 800px) {
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
     .container {
-        /* Change the layout from side-by-side to vertical stacking */
         flex-direction: column;
-        padding: 15px; /* Slightly less padding on mobile */
-        gap: 20px;
+        padding: 10px;
+        gap: 15px;
     }
 
-    #calendar-container {
-        /* Remove the flex sizing to allow natural stacking */
+    #calendar-container, #event-list-container {
         flex: none;
+        width: 100%;
     }
 
     #event-list-container {
-        flex: none;
+        display: none;
+    }
+
+    .fc-daygrid-day-frame {
+        min-height: 12vh;
+    }
+
+    .fc .fc-toolbar {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .fc .fc-toolbar .fc-toolbar-chunk {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
     }
 }
