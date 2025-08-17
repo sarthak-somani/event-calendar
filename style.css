@@ -1,6 +1,6 @@
-/* Define a modern color palette and fonts */
+/* ... (root variables are the same) ... */
 :root {
-    --primary-color: #4A90E2; /* A nice blue */
+    --primary-color: #4A90E2;
     --text-color: #333;
     --light-text-color: #666;
     --background-color: #f8f9fa;
@@ -9,14 +9,22 @@
     --font-family: 'Inter', sans-serif;
 }
 
+/* ### CHANGE 1: Make body fill the screen and act as a flex container ### */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
 body {
     font-family: var(--font-family);
-    margin: 0;
     background-color: var(--background-color);
     color: var(--text-color);
+    display: flex;
+    flex-direction: column;
 }
 
 header {
+    /* ... (header styles are the same) ... */
     background-color: var(--surface-color);
     text-align: center;
     padding: 20px;
@@ -24,75 +32,46 @@ header {
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-header h1 {
-    margin: 0;
-    font-weight: 700;
-    color: var(--primary-color);
-}
+/* ... (header h1 is the same) ... */
+header h1 { margin: 0; font-weight: 700; color: var(--primary-color); }
 
+/* ### CHANGE 2: Make the container grow to fill available space ### */
 .container {
     display: flex;
-    flex-wrap: wrap; /* Allows stacking on smaller screens */
     gap: 30px;
-    padding: 20px; /* Adjusted padding for mobile */
+    padding: 20px;
     max-width: 1400px;
     margin: 0 auto;
+    flex-grow: 1; /* This is the key change */
+    width: 100%;
+    box-sizing: border-box;
 }
 
+/* ### CHANGE 3: Make the calendar container grow vertically ### */
 #calendar-container {
-    flex: 3; 
+    flex: 3;
     min-width: 300px;
+    display: flex; /* Allow the child calendar to grow */
+    flex-direction: column;
 }
 
-#event-list-container {
-    flex: 1;
-    background-color: var(--surface-color);
-    padding: 20px;
-    border-radius: 8px;
-    border: 1px solid var(--border-color);
-    min-width: 300px;
-    height: fit-content;
-}
+/* ... (event list styles are the same) ... */
+#event-list-container { flex: 1; background-color: var(--surface-color); padding: 20px; border-radius: 8px; border: 1px solid var(--border-color); min-width: 300px; height: fit-content; }
+#event-list-container h2 { margin-top: 0; border-bottom: 2px solid var(--primary-color); padding-bottom: 10px; font-size: 1.2rem; }
+#event-list { list-style: none; padding: 0; margin: 0; }
+#event-list li { padding: 15px 10px; border-bottom: 1px solid var(--border-color); }
+#event-list li:last-child { border-bottom: none; }
+#event-list .event-title { font-weight: 500; display: block; }
+#event-list .event-date { font-size: 0.9rem; color: var(--light-text-color); margin-top: 5px; display: block; }
 
-#event-list-container h2 {
-    margin-top: 0;
-    border-bottom: 2px solid var(--primary-color);
-    padding-bottom: 10px;
-    font-size: 1.2rem;
-}
 
-#event-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-#event-list li {
-    padding: 15px 10px;
-    border-bottom: 1px solid var(--border-color);
-}
-
-#event-list li:last-child {
-    border-bottom: none;
-}
-
-#event-list .event-title {
-    font-weight: 500;
-    display: block;
-}
-
-#event-list .event-date {
-    font-size: 0.9rem;
-    color: var(--light-text-color);
-    margin-top: 5px;
-    display: block;
-}
-
+/* ### CHANGE 4: Make the calendar element fill its parent container ### */
 #calendar {
     background-color: var(--surface-color);
     padding: 20px;
     border-radius: 8px;
     border: 1px solid var(--border-color);
+    flex-grow: 1; /* Allow the calendar to stretch vertically */
 }
 
 /* Media Query for Mobile Devices */
@@ -108,13 +87,13 @@ header h1 {
         width: 100%;
     }
 
+    /* Hiding this list on mobile for a cleaner look */
     #event-list-container {
         display: none;
     }
 
-    .fc-daygrid-day-frame {
-        min-height: 16vh;
-    }
+    /* ### CHANGE 5: REMOVE the min-height rule ### */
+    /* .fc-daygrid-day-frame { min-height: 16vh; } */ /* This is no longer needed */
 
     .fc .fc-toolbar {
         flex-direction: column;
