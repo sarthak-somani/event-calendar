@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const calendarEl = document.getElementById('calendar');
     const eventListEl = document.getElementById('event-list');
 
-    // Function to populate the upcoming events list (remains unchanged)
     function populateEventList(events) {
         const now = new Date();
         const upcomingEvents = events.filter(event => new Date(event.start) >= now).sort((a, b) => new Date(a.start) - new Date(b.start)).slice(0, 7);
@@ -17,19 +16,15 @@ document.addEventListener('DOMContentLoaded', function() {
         }).join('');
     }
 
-    // ### CHANGE 1: Add logic to determine the best view for the screen size ###
-    const isMobile = window.innerWidth < 768;
-    const initialCalendarView = isMobile ? 'listYear' : 'dayGridMonth';
-
     const calendar = new FullCalendar.Calendar(calendarEl, {
-        // Use the view we just determined
-        initialView: initialCalendarView,
+        // ### CHANGE 1: Always default to month view ###
+        initialView: 'dayGridMonth',
+        
+        // ### CHANGE 2: Use the height:'100%' option ###
+        // This tells the calendar to fill its parent container.
+        height: '100%',
 
         dayMaxEvents: true, // show a "+ more" link when there are too many events
-        
-        // ### CHANGE 2: Add this line to make the calendar fill the available height ###
-        expandRows: true,
-
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
@@ -42,14 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(data => {
                     populateEventList(data);
                     successCallback(data);
-                    
-                    // This part auto-scrolls the list view to today's date
-                    setTimeout(() => {
-                        const todayElement = document.querySelector('.fc-list-day-today');
-                        if (todayElement) {
-                            todayElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                        }
-                    }, 200);
                 })
                 .catch(error => {
                     console.error("Error fetching events:", error);
