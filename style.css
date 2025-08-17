@@ -113,7 +113,7 @@ header h1 {
     }
 
     .fc-daygrid-day-frame {
-        min-height: 12vh;
+        min-height: 16vh;
     }
 
     .fc .fc-toolbar {
