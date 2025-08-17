@@ -17,9 +17,19 @@ document.addEventListener('DOMContentLoaded', function() {
         }).join('');
     }
 
+    // ### CHANGE 1: Add logic to determine the best view for the screen size ###
+    const isMobile = window.innerWidth < 768;
+    const initialCalendarView = isMobile ? 'listYear' : 'dayGridMonth';
+
     const calendar = new FullCalendar.Calendar(calendarEl, {
-        initialView: 'dayGridMonth',
+        // Use the view we just determined
+        initialView: initialCalendarView,
+
         dayMaxEvents: true, // show a "+ more" link when there are too many events
+        
+        // ### CHANGE 2: Add this line to make the calendar fill the available height ###
+        expandRows: true,
+
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
@@ -32,6 +42,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(data => {
                     populateEventList(data);
                     successCallback(data);
+                    
+                    // This part auto-scrolls the list view to today's date
+                    setTimeout(() => {
+                        const todayElement = document.querySelector('.fc-list-day-today');
+                        if (todayElement) {
+                            todayElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        }
+                    }, 200);
                 })
                 .catch(error => {
                     console.error("Error fetching events:", error);
