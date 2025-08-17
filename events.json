@@ -790,5 +790,16 @@
             "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
             "contact": "Parth Dhruv | SARC CTM | 99049 59162, Sarvagya Jain | SARC CTM | 94248 00631"
         }
+    },
+    {
+        "title": "Krittika Summer Projects 6.0 Presentation",
+        "start": "2025-08-17T21:00:00",
+        "end": "2025-08-17T21:00:00",
+        "extendedProps": {
+            "description": "Krittika - the Astronomy Club of IIT Bombay, invites you all to the Krittika Summer Projects (KSP) 6.0 presentation session. Every summer, we run a range of exciting astrophysics projects through KSP \u2013 one of the largest student-led programs of its kind in the country. This year\u2019s edition brought together passionate mentees and mentors to explore diverse and challenging topics in astronomy and astrophysics. The following are the specific domains of research covered: 1. Gamma Ray Bursts: Theory and Data Analysis 2. Imaging a Bright Neutron Star and a Magnificent Radio Galaxy 3. Design and analysis of radomes for next-generation radio astronomy experiments 4. Thermonuclear Bursts in Neutron Star X-ray Binaries 5. Visualising Geodesics in Schwarzschild Spacetime 6. Bangs, Blips, or Background: Decoding GRB Signals. Now, after weeks of learning, collaboration, and discovery, our mentees are ready to present their work! Come witness their journey, engage with the projects, and celebrate the spirit of curiosity that drives our community.",
+            "venue": "Online: Meeting link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI5MThmMzItMmM2NC00NDZhLTk1MDEtNjRjNGM3Mjk4YjQ2%40thread.v2/0?context=%7b%22Tid%22%3a%22403ee5f4-55b3-45cd-8ae2-824be887a075%22%2c%22Oid%22%3a%22a234b6fb-6003-48d1-a688-57463bca0bf7%22%7d, Meeting ID: 435 257 550 894 3, Passcode: sd2KK2As",
+            "organisingBody": "Krittika - the Astronomy Club of IIT Bombay",
+            "contact": "Team Krittika: Yash Palwe (99709 73860), Anvit Khade (99877 99311). Shahu Patil, General Secretary Technical Affairs 25-26, IIT Bombay (+91 91460 50850)."
+        }
     }
 ]
