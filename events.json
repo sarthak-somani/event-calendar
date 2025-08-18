@@ -834,5 +834,16 @@
             "organisingBody": "InSync",
             "contact": "Harshita Kumar (+91 9589375565), Aditya Sisodiya (+91 79991 57905)"
         }
+    },
+    {
+        "title": "Central Library Book and e-Book Exhibition cum sale",
+        "start": "2025-08-18T11:00:00",
+        "end": "2025-08-24T11:00:00",
+        "extendedProps": {
+            "description": "Central Library is excited to announce a spectacular Book and e-Book Exhibition scheduled to run for seven consecutive days from 18th to 24th August 2025. This literary extravaganza will take place on the First Floor of the Central Library. During this exhibition, esteemed Publishers and Vendors from various domains will come together to showcase an extensive collection of cutting-edge publications across a wide spectrum of subjects: a) Engineering, Sciences, and Technology b) Bio-Sciences, Bio-engineering, and Bio-technology c) Economics and Management d) Humanities and other Social Sciences e) Arts and Design f) General collections, encompassing novels, biographies, and more g) Children's Books, sourced from reputable Publishers, including Universities, Professional Societies, and Associations. The primary objective of this book exhibition is to foster a culture of reading and promote the acquisition of enlightening and valuable books. As a special offer, publishers and vendors are offering generous discounts of up to 50%. Users are encouraged to avail themselves of this remarkable opportunity, whether for personal purchase or to recommend titles for inclusion in the library's collection. Join us at the Central Library's Book and e-Book Exhibition and embark on a journey through the world of knowledge and imagination. Don't miss out on the chance to explore, discover, and enrich your personal and academic pursuits. We look forward to welcoming you from 18-24 August 2025 at the First Floor of the Central Library. Opening Day (18 August 2025): 11:00 am - 8:00 pm. 19-24 August 2025: 10:00 am - 8:00 pm. The following publishers and vendors will be participating in the Print/Electronic resources Exhibition/display and sale. Print Books Publishers/Vendors: Feel Books (P) Ltd (Print + Online), Millennium Enterprises, Overseas Press India Pvt. Ltd, T. V. Enterprises, Vakratund Book House, CBS Publishers and Distributors Pvt. Ltd., Sita Books, Packt, New Age International (P) Ltd. Online Publishers/Vendors: Balani Infotech Pvt. Ltd., IOP Publishing Ltd., BSB Edge, Wolters Kluwer, Pearson India Education Services Pvt. Ltd.",
+            "venue": "First Floor of the Central Library",
+            "organisingBody": "Central Library",
+            "contact": null
+        }
     }
 ]
