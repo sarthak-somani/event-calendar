@@ -845,5 +845,38 @@
             "organisingBody": "Central Library",
             "contact": null
         }
+    },
+    {
+        "title": "HSBC Session on Careers in Banking and Case Competition Workshop",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Career Cell | Consult Club | UGAC",
+            "contact": null
+        }
+    },
+    {
+        "title": "Zumba and Pilates Classes Registration",
+        "start": "2025-08-25T17:30:00",
+        "end": "NoneT17:30:00",
+        "extendedProps": {
+            "description": "Registrations are open for Zumba and Pilates classes offered by the Institute Sports Council. Zumba is a high-energy fitness program combining music with dance moves, designed to improve cardiovascular health, coordination, and overall fitness. Pilates focuses on strengthening the body with an emphasis on core stability, posture, flexibility, and controlled movement. Both programs are suitable for beginners and experienced fitness enthusiasts and will run Mon-Wed-Fri.",
+            "venue": "Screening room, 3rd floor (New SAC, opp. Hostel-11)",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Piyush, Fitness Club Manager, +91 9479591296"
+        }
+    },
+    {
+        "title": "MoU signing between SINE IITB and Monash University",
+        "start": "2025-08-22T11:45:00",
+        "end": "2025-08-22T11:45:00",
+        "extendedProps": {
+            "description": "The MoU will signal the launch of a partnership committed to supporting start-up talent, commercialisation opportunities, and to strengthen ties between Australia and India\u2019s start-up ecosystem and innovation networks.",
+            "venue": "IITB Monash Research Academy Atrium",
+            "organisingBody": "SINE IITB and Monash University",
+            "contact": "partnerships@sineiitb.org"
+        }
     }
 ]
