@@ -889,5 +889,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Piyush, +91 9479591296"
         }
+    },
+    {
+        "title": "Teqball Workshop",
+        "start": "NoneT17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "The Institute Sports Council invites you to experience Teqball, a modern sport combining football and table tennis elements, played on a curved Teq table. It can be played in singles or doubles, testing skill and reflexes by passing the ball with any body part except hands and arms.",
+            "venue": "Indoor Cricket Nets",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Deepraj Singh Kasherwal, Institute Basketball Secretary, Ph: +91 9761543343"
+        }
     }
 ]
