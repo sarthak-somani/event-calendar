@@ -944,5 +944,16 @@
             "organisingBody": "ELP Cabinet and Career Cell, UGAC (in collaboration with ETS India and University of Cambridge)",
             "contact": "elp.cabinet.smp@gmail.com, careercell@iitb.ac.in"
         }
+    },
+    {
+        "title": "The Starttup Lab: Personalized Mentoring Sessions",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "IIC, in collaboration with DSSE, is offering personalized mentoring sessions for individuals / teams which are at various stages of venture creation. The first such session will be conducted on \"World Entrepreneurs Day\" on 21st August. You will need to fill up a google form to book a slot.",
+            "venue": null,
+            "organisingBody": "IIC, DSSE, IIT Bombay",
+            "contact": "Mr Sanjay Kaharat"
+        }
     }
 ]
