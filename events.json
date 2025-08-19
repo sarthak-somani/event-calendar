@@ -966,5 +966,16 @@
             "organisingBody": "Institute Sports Council, IIT Bombay",
             "contact": "Praveen Kumar, Institute Athletics Secretary, Ph: +918958434190"
         }
+    },
+    {
+        "title": "Inter IIT Pre-Camp Football Trials",
+        "start": "2025-08-26T19:30:00",
+        "end": "2025-08-26T19:30:00",
+        "extendedProps": {
+            "description": "Revised schedule for the Football trials for the Inter IIT Pre-Camp, previously postponed due to heavy rains. Please note the updated date and time for the trials.",
+            "venue": "Football Turf",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Praveen Kumar, +918958434190"
+        }
     }
 ]
