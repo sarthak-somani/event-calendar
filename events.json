@@ -977,5 +977,16 @@
             "organisingBody": "Institute Sports Council, IIT Bombay",
             "contact": "Praveen Kumar, +918958434190"
         }
+    },
+    {
+        "title": "UK Government's Fully-Funded Chevening Scholarships & Fellowships Virtual Awareness Session",
+        "start": "2025-08-26T15:00:00",
+        "end": "2025-08-26T15:00:00",
+        "extendedProps": {
+            "description": "Online session providing insights on eligibility, the application process, and tips for success for Chevening Scholarships and Fellowships. Attendees can ask questions directly to the Head of Chevening.",
+            "venue": "Virtual",
+            "organisingBody": "British High Commission",
+            "contact": "Akriti Arora, akriti.arora@fcdo.gov.uk"
+        }
     }
 ]
