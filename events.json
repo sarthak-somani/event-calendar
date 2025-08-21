@@ -1010,5 +1010,27 @@
             "organisingBody": "Institute Sports Council, IIT Bombay",
             "contact": "Meet Vanja, Institute Aquatics Secretary - 9323587701; Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay - +91 9619000065"
         }
+    },
+    {
+        "title": "Eco-Friendly Ganesha Workshop",
+        "start": "2025-08-24T10:00:00",
+        "end": "2025-08-24T10:00:00",
+        "extendedProps": {
+            "description": "A hands-on workshop by NSS IIT Bombay where participants will craft their own eco-friendly clay Ganesha idols, blending devotion with sustainability.",
+            "venue": "Yoga Room, 2nd Floor, New SAC",
+            "organisingBody": "NSS IIT Bombay",
+            "contact": "Vedika Sarode (8657500288), Ashish Singh (8269131466)"
+        }
+    },
+    {
+        "title": "Introduction to Sanskrit Language Course",
+        "start": "2025-08-21T20:30:00",
+        "end": "2025-08-25T20:30:00",
+        "extendedProps": {
+            "description": "This course is specially designed for beginners, and no prior knowledge of Sanskrit is required. Participants will be introduced to the fundamentals of the language in a simple and engaging manner, making it accessible to everyone. We warmly encourage students, faculty, and staff to take this opportunity to explore the richness of Sanskrit through this introductory course.",
+            "venue": "LC 301",
+            "organisingBody": "Centre for Sanskrit Learning, IIT Bombay",
+            "contact": "Mr. Pranav Gogate at +91 8007889485"
+        }
     }
 ]
