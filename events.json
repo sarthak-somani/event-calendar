@@ -1098,5 +1098,16 @@
             "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes, Indian Institute of Technology Bombay (SAP)",
             "contact": "Priyanka Talwar (General Secretary Academic Affairs (PG)), Email: gsecaapg@iitb.ac.in, Phone: +91 8637313704"
         }
+    },
+    {
+        "title": "GRE & TOEFL Preparation Session",
+        "start": "2025-08-22T18:00:00",
+        "end": "2025-08-22T18:00:00",
+        "extendedProps": {
+            "description": "A one-hour session organized in collaboration with ETS India and University of Cambridge, providing invaluable insights, strategies, and exclusive discount codes for GRE and TOEFL exams. Students can arrive at 5 PM to avail discount codes early.",
+            "venue": "LH 302",
+            "organisingBody": "Career Cell, UGAC and English Learning Program (ELP), SMP",
+            "contact": "elp.cabinet.smp@gmail.com, careercell@iitb.ac.in"
+        }
     }
 ]
