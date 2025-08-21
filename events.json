@@ -1054,5 +1054,38 @@
             "organisingBody": "Krittika, IIT Bombay",
             "contact": "Yash Palwe: 9970973860, Anvit Khade: 9987799311, Shahu Patil: +919146050850"
         }
+    },
+    {
+        "title": "Book Issuance from Technology Lending Library (Book Bank)",
+        "start": "2025-09-01T09:30:00",
+        "end": "2025-09-04T09:30:00",
+        "extendedProps": {
+            "description": "The Central Library is issuing books from the Technology Lending Library (Book Bank) to UG students. Eligibility criteria vary for economically weaker section students (parents' income below taxable limit or eligible for MCM Scholarship) and general category students. Eligible students can borrow 5 books for Rs. 51/-, and general category students can borrow remaining books for Rs. 91/-. Books must be returned by the end of the semester. Students must carry a valid Institute Identity Card.",
+            "venue": "Ground Floor, Circulation Section",
+            "organisingBody": "Central Library",
+            "contact": null
+        }
+    },
+    {
+        "title": "Book Issuance from Book Bank for SC/ST Students",
+        "start": "2025-08-25T09:30:00",
+        "end": "2025-08-29T09:30:00",
+        "extendedProps": {
+            "description": "Central Library has a facility to issue 5 text books per semester from the Book Bank to eligible SC/ST undergraduate students. These books must be returned before the end of the semester. Students whose names appear in the list of SC/ST students received from the Academic Office are eligible. Please carry your valid Institute Identity Card.",
+            "venue": "Ground Floor, Circulation Section",
+            "organisingBody": "Central Library",
+            "contact": "Central Library"
+        }
+    },
+    {
+        "title": "Seed Stars 2025: IITB Track - Unlock Funding Opportunities",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "Seed Stars is a 3 month long cohort which brings together India's top pre-seed and seed-stage startups with leading VCs and institutional investors. As a dynamic funding arena, it offers live pitches, rich mentorship opportunities, cohort programs and direct investor engagement. This exclusive track is designed to spotlight startups from IIT Bombay, giving you a powerful stage to: Pitch to top-tier VCs and Investors, 4-week intensive cohort with industry experts, Access flexible funding on your own terms, Gain hands-on mentorship from industry leaders, Expand your network across India's startup ecosystem, Boost your startup's credibility with the IITB tag.",
+            "venue": null,
+            "organisingBody": "E-Cell, IIT Bombay",
+            "contact": "Ishant Singh: +91 85120 94092, Amit Bhartiya: +91 78784 69798"
+        }
     }
 ]
