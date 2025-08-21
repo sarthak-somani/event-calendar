@@ -988,5 +988,27 @@
             "organisingBody": "British High Commission",
             "contact": "Akriti Arora, akriti.arora@fcdo.gov.uk"
         }
+    },
+    {
+        "title": "Inter IIT Aquatics Girls Swimming Trials",
+        "start": "2025-08-22T18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "The Aquatics Club of IIT Bombay will be conducting girls swimming trials as part of the pre-camp selections for the upcoming Inter IIT Aquatics Meet. These trials present a valuable opportunity to be a part of the IIT Bombay contingent and compete at the Inter IIT Sports Meet. Selected students will undergo structured training and gain exposure to high-level competition while representing IIT Bombay. The Inter IIT Aquatics Meet will be held from 30th September to 4th October 2025 at IIT Madras, as part of the Inter IIT Sports Meet.",
+            "venue": "Institute Swimming Pool (in front of Hostel 2)",
+            "organisingBody": "Aquatics Club of IIT Bombay",
+            "contact": "Meet Vanja, Institute Aquatics Secretary, +91 9323587701"
+        }
+    },
+    {
+        "title": "Swimming Preparatory Camp",
+        "start": "2023-08-25TNone",
+        "end": "2023-09-04TNone",
+        "extendedProps": {
+            "description": "The Institute Sports Council is organizing a Swimming Preparatory Camp, part of an ongoing series of Aquatics Camps, to teach swimming. The camp runs from August 25th to September 4th. It offers three distinct sessions: an Intermediate Camp (7:15 AM - 8:00 AM, Basic Freestyle necessary, capacity 30), a Girls Beginners Camp (5:30 PM - 6:15 PM, capacity 30), and a Boys Beginner Camp (7:00 PM - 7:45 PM, capacity 30). Each session costs Rs 100/-. Registration is required via Google Forms.",
+            "venue": null,
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Meet Vanja, Institute Aquatics Secretary - 9323587701; Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay - +91 9619000065"
+        }
     }
 ]
