@@ -1153,5 +1153,16 @@
             "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PGCAMP), IIT Bombay",
             "contact": "Priyanka Talwar (General Secretary Academic Affairs (PG)): gsecaapg@iitb.ac.in, +91 8637313704"
         }
+    },
+    {
+        "title": "Eco-Friendly Ganesha Workshop",
+        "start": "2025-08-23T09:00:00",
+        "end": "2025-08-23T09:00:00",
+        "extendedProps": {
+            "description": "A hands-on workshop by NSS IIT Bombay to craft eco-friendly Ganesha idols, blending devotion with sustainability and honoring tradition and the environment. Open for all.",
+            "venue": "Lakeside Community Hall; Yoga Room, 3rd Floor, New SAC",
+            "organisingBody": "NSS IIT Bombay",
+            "contact": "Vedika Sarode (8657500288), Ashish Singh (8269131466)"
+        }
     }
 ]
