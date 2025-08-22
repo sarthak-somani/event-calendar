@@ -1131,5 +1131,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "UMIC SeDriCa Recruitment Orientation for Sophomores",
+        "start": "2025-08-23T18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "Recruitment Orientation for Team SeDriCa, an interdisciplinary student team at UMIC developing Level 5 self-driving cars. Recruiting UG Second-Year students for technical (Mechatronics, Perception, Motion Planning, Simulation, Controls) and business (Marketing, Sponsorships, Creative Design, Media & PR, Web) teams, offering hands-on experience in autonomous robotics and strategic roles.",
+            "venue": "Classroom 212, Civil Department",
+            "organisingBody": "UMIC SeDriCa (Unmesh Mashruwala Innovation Cell)",
+            "contact": "Parth Agrawal: +91 7351108846, Yash Gupta: +91 8586932188, Yajan Agarwal: +91 7500078990"
+        }
     }
 ]
