@@ -1109,5 +1109,27 @@
             "organisingBody": "Career Cell, UGAC and English Learning Program (ELP), SMP",
             "contact": "elp.cabinet.smp@gmail.com, careercell@iitb.ac.in"
         }
+    },
+    {
+        "title": "58th Inter IIT Sports Meet",
+        "start": "2025-12-14TNone",
+        "end": "2025-12-21TNone",
+        "extendedProps": {
+            "description": "The 58th Inter-IIT Sports Meet is an annual convention of all IITs where they compete and show their prowess in various sports and fight to bring home the prestigious Overall General Championship trophy. This email also calls for nominations for the Contingent Leader of the IIT Bombay team (Bombay Blackcats) for this meet.",
+            "venue": "IIT Madras, IIT Hyderabad and IIT Tirupati",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay, +91 9619000065, gsecsport@iitb.ac.in"
+        }
+    },
+    {
+        "title": "UG Freshmen Sports Orientation",
+        "start": "2025-08-23T15:30:00",
+        "end": "NoneT15:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
