@@ -1142,5 +1142,16 @@
             "organisingBody": "UMIC SeDriCa (Unmesh Mashruwala Innovation Cell)",
             "contact": "Parth Agrawal: +91 7351108846, Yash Gupta: +91 8586932188, Yajan Agarwal: +91 7500078990"
         }
+    },
+    {
+        "title": "Episode 2.0 of SAP - Unlock the World of CFD with OpenFOAM: 3-day Workshop",
+        "start": "2025-08-22T19:00:00",
+        "end": "2025-08-26T19:00:00",
+        "extendedProps": {
+            "description": "An exclusive hands-on workshop on Computational Fluid Dynamics (CFD) with OpenFOAM, led by Dr. Pratyush Kumar (PhD Mechanical, IITB alumnus). The 3-day workshop covers basics of Linux commands for CFD, running first simulations, CFD fundamentals, OpenFOAM case studies, solver workflow, meshing, programming, solver modification, and library customization. Designed to equip students with essential computational tools and practical CFD skills for projects, research, and placements, fostering peer-to-peer learning. Part of the Student Acceleration Program (SAP).",
+            "venue": "LC 202, LH 101",
+            "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PGCAMP), IIT Bombay",
+            "contact": "Priyanka Talwar (General Secretary Academic Affairs (PG)): gsecaapg@iitb.ac.in, +91 8637313704"
+        }
     }
 ]
