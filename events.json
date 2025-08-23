@@ -1208,5 +1208,16 @@
             "organisingBody": "Unmesh Mashruwala Innovation Cell",
             "contact": "Parth Agrawal: +91 7351108846; Yash Gupta: +91 8586932188; Yajan Agarwal: +91 7500078990"
         }
+    },
+    {
+        "title": "National Space Day Celebrations",
+        "start": "2025-08-22T10:00:00",
+        "end": "2025-08-23T10:00:00",
+        "extendedProps": {
+            "description": "Celebration of National Space Day, featuring two guest lectures: Prof. Mayuri Rao on 'The Earliest Stars and How We Study Them' (August 23rd, 2:00 PM, SOM Auditorium) and Naiteek Vikamsey on 'The Journey of Astrophotography \u2013 From Photon to Photograph' (August 23rd, 5:00 PM, SOM Auditorium).",
+            "venue": "New CC, Entrance Foyer",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "+91 91460 50850"
+        }
     }
 ]
