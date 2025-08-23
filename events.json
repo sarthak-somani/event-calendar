@@ -1197,5 +1197,16 @@
             "organisingBody": "Institute Sports Council, IIT Bombay",
             "contact": "Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay, gsecsport@iitb.ac.in, +91 9619000065"
         }
+    },
+    {
+        "title": "UMIC SeDriCa \u2013 Recruitment Orientation for Sophomores",
+        "start": "2025-08-23T18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "An orientation for sophomores interested in joining Team SeDriCa, an interdisciplinary student team from Unmesh Mashruwala Innovation Cell (UMIC) focused on developing a Level 5 self-driving car. Opportunities are available in various technical subsystems (Mechatronics, Perception, Motion Planning, Simulation, Controls) and a Business Team (Marketing, Sponsorships, Creative Design, Media and PR, Web team). Eligibility: UG Second-Year students across all departments, including IDC.",
+            "venue": "LC 002",
+            "organisingBody": "Unmesh Mashruwala Innovation Cell",
+            "contact": "Parth Agrawal: +91 7351108846; Yash Gupta: +91 8586932188; Yajan Agarwal: +91 7500078990"
+        }
     }
 ]
