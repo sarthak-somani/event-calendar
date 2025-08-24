@@ -1219,5 +1219,16 @@
             "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
             "contact": "+91 91460 50850"
         }
+    },
+    {
+        "title": "Central Library Book and e-Book Exhibition cum Sale",
+        "start": "2025-08-18T11:00:00",
+        "end": "2025-08-24T11:00:00",
+        "extendedProps": {
+            "description": "Central Library is excited to announce a spectacular Book and e-Book Exhibition scheduled to run for seven consecutive days from 18th to 24th August 2025 on the First Floor of the Central Library. Esteemed Publishers and Vendors will showcase an extensive collection of cutting-edge publications across various subjects including Engineering, Sciences, Bio-Sciences, Economics, Management, Humanities, Arts, General collections, and Children's Books. The objective is to foster a culture of reading and promote the acquisition of valuable books, with publishers offering generous discounts of up to 50%. Users are encouraged to avail themselves of this opportunity for personal purchase or to recommend titles for the library's collection.",
+            "venue": "First Floor of the Central Library",
+            "organisingBody": "Central Library, IIT Bombay",
+            "contact": "Chief Library Officer, Central Library"
+        }
     }
 ]
