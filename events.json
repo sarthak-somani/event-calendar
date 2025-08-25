@@ -1252,5 +1252,16 @@
             "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PGCAMP), Indian Institute of Technology Bombay",
             "contact": "Priyanka Talwar, General Secretary Academic Affairs (PG), IIT Bombay. Email: gsecaapg@iitb.ac.in, Phone: +91 8637313704"
         }
+    },
+    {
+        "title": "Shadow Program by SARC: Visit to TCS, Pune",
+        "start": "2025-08-29T05:00:00",
+        "end": "2025-08-29T05:00:00",
+        "extendedProps": {
+            "description": "Get an insightful shadowing experience through a visit to TCS (Tata Consultancy Services), Pune, organized by SARC. The itinerary includes interaction with IIT-B alumni, a guided tour of the TCS Pune Campus and Labs, and a demo of innovative solutions. Breakfast, Lunch, and Snacks will be provided. Eligibility: Open to all BTech 3rd & 4th Year, PGs, and PhDs (with preference to CS students). A refundable deposit of Rs. 200 is required. The number of students that will be taken on this excursion is limited.",
+            "venue": "TCS Pune Campus",
+            "organisingBody": "Student Alumni Relations Cell (SARC)",
+            "contact": "Aadit Sule (+91 8459539918), Aastha Maliwal (+91 9403521022)"
+        }
     }
 ]
