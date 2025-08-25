@@ -1285,5 +1285,16 @@
             "organisingBody": "Undergraduate Academic Council (UGAC)",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Coding Circuit: WnCC's Year-long Programming Contest Series",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "WnCC is launching Coding Circuit, a year-long series of 8 programming contests for IIT Bombay students. Spanning Autumn 2025 & Spring 2026, it offers prizes worth \u20b960,000+ and invites top 15 performers to the WnCC Competitive Programming Closed Community. LDAP required. Registration deadline: 29th August 2025.",
+            "venue": "IIT Bombay (online)",
+            "organisingBody": "WnCC",
+            "contact": "Veeraditya, Pratyaksh (WnCC Managers 2025-26) - 9449007525, 9662201929"
+        }
     }
 ]
