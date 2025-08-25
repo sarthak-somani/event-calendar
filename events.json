@@ -1230,5 +1230,16 @@
             "organisingBody": "Central Library, IIT Bombay",
             "contact": "Chief Library Officer, Central Library"
         }
+    },
+    {
+        "title": "Inter IIT Tech Meet 14.0",
+        "start": "2025-12-11TNone",
+        "end": "2025-12-14TNone",
+        "extendedProps": {
+            "description": "The largest annual tech showdown among all IITs\u2014featuring mind-bending competitions, cutting-edge innovation, entrepreneurial brilliance, and tech-for-impact challenges.",
+            "venue": "IIT Patna",
+            "organisingBody": "Institute Technical Council",
+            "contact": "+91 91460 50850"
+        }
     }
 ]
