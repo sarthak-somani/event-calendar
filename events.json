@@ -1307,5 +1307,16 @@
             "organisingBody": "Student Support Services, UGAC",
             "contact": null
         }
+    },
+    {
+        "title": "The Confectionary Night",
+        "start": "2025-08-27T16:30:00",
+        "end": "NoneT16:30:00",
+        "extendedProps": {
+            "description": "Kava, the culinary club of IITB, invites you to explore the art of Indian sweets and learn to make traditional treats, including modaks. Attendees are encouraged to come dressed in traditionals for a fun, flavorful, and memorable evening.",
+            "venue": "Theatre Room, OLD Sac",
+            "organisingBody": "Kava, the culinary club of IITB",
+            "contact": "Varshini Palaparthi (Institute Culinary Arts Overall Coordinator) - 9372234224"
+        }
     }
 ]
