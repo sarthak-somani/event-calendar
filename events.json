@@ -1362,5 +1362,16 @@
             "organisingBody": "Finance Club, IIT Bombay (in collaboration with Zerodha)",
             "contact": "Kopal: 9632445404; Ritwik: 7400290708; financeclub@iitb.ac.in"
         }
+    },
+    {
+        "title": "Wall Slam Tennis Tournament",
+        "start": "2025-08-29T18:00:00",
+        "end": "2025-08-30T18:00:00",
+        "extendedProps": {
+            "description": "On the occasion of National Sports Day 2025, the Institute Sports Council announces Wall Slam \u2013 a test of power, consistency, and control. This exciting event will challenge participants to rally against the wall, showcasing their precision, stamina, and determination. It promises a thrilling display of skill and focus, offering players a platform to test their game and compete in the spirit of sportsmanship and perseverance. Interested students may register through the provided link: https://forms.gle/UKiY95pvE7zWU1u7.",
+            "venue": "Wall Practice Area (near Lower Tennis Courts)",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Nehal Gupta, Institute Lawn Tennis Secretary, Ph: +91 8291025201"
+        }
     }
 ]
