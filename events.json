@@ -1318,5 +1318,38 @@
             "organisingBody": "Kava, the culinary club of IITB",
             "contact": "Varshini Palaparthi (Institute Culinary Arts Overall Coordinator) - 9372234224"
         }
+    },
+    {
+        "title": "Triangle Cup \u2013 3v3 Basketball Tournament",
+        "start": "2025-08-29T17:00:00",
+        "end": "2025-08-30T17:00:00",
+        "extendedProps": {
+            "description": "A 3v3 basketball tournament organized by the Institute Sports Council to celebrate National Sports Day 2025, fostering sportsmanship, teamwork, perseverance, unity, and resilience. Refreshments will be provided for participants.",
+            "venue": "Indoor Basketball Courts",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Deepraj Singh Kasherwal, Institute Basketball Secretary, +91 9761543343"
+        }
+    },
+    {
+        "title": "3 Day Volleyball PG Workshop",
+        "start": "2023-08-28T19:00:00",
+        "end": "2023-08-30T19:00:00",
+        "extendedProps": {
+            "description": "This is a special opportunity for PG students to learn, practice, and enjoy the game under guided training sessions. Whether you\u2019re a beginner or looking to sharpen your skills, this workshop is the perfect place to experience the thrill of volleyball. Only the first 30 registered participants will be selected for the camp. Refreshments will be provided after the sessions and exclusive badges will be given to participants.",
+            "venue": "Court no.3 Indoor Volleyball Courts",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Ghanshyam Choudhary, Institute Volleyball Secretary, 8949401659"
+        }
+    },
+    {
+        "title": "Salsa Workshop",
+        "start": "2025-08-28T18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "A special Salsa Workshop as part of Salsa Night 2025, conducted by professional instructors Aishwarya and Bhushan. No prior dance experience is required, and the workshop is open to everyone. Having a partner is not mandatory, you can easily pair up with others during the workshop. Fee: \u20b9180 per person.",
+            "venue": "Theatre Room, Old SAC",
+            "organisingBody": "InSync",
+            "contact": "Harshita Kumar, +91 9589375565"
+        }
     }
 ]
