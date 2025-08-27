@@ -1351,5 +1351,16 @@
             "organisingBody": "InSync",
             "contact": "Harshita Kumar, +91 9589375565"
         }
+    },
+    {
+        "title": "Zerodha Varsity Quiz",
+        "start": "2025-08-31T14:00:00",
+        "end": "NoneT14:00:00",
+        "extendedProps": {
+            "description": "A quiz on markets and investing concepts, based on Zerodha Varsity modules. It offers participants a chance to test their knowledge, benchmark against peers, demonstrate financial acumen, and gain recognition. Cash prizes worth \u20b925,000 for top 3 teams and refreshments are provided.",
+            "venue": "LA002",
+            "organisingBody": "Finance Club, IIT Bombay (in collaboration with Zerodha)",
+            "contact": "Kopal: 9632445404; Ritwik: 7400290708; financeclub@iitb.ac.in"
+        }
     }
 ]
