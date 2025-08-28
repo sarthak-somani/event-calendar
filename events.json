@@ -1384,5 +1384,16 @@
             "organisingBody": "Student Support Services | UGAC",
             "contact": null
         }
+    },
+    {
+        "title": "Session on Deferred MBA, MiM, MFin and Other Management Programs",
+        "start": "2025-08-31T11:00:00",
+        "end": "2025-08-31T11:00:00",
+        "extendedProps": {
+            "description": "A session to guide students through deferred MBA programs (Stanford, Wharton, Booth, etc.), MiM, MFin, and other management programs. It will cover understanding the application process, career prospects after M7 MBA, funding global MBAs, admission evaluation, profiles admitted, and common myths. Speakers include Sumeet Verlekar (Berkeley MBA, Admissions Mentor), Abhay Kinagi (Wharton Admit), Agrajah Bhobe (Kellogg, Columbia Admit), Harshita Jaju (Columbia Admit), Shlok Zanwar (Columbia, Kellogg Admit), Gehna Gudhainia (MIT Sloan, Chicago Booth Admit), and Jainesh Mehta (Wharton, Columbia, Kellogg Admit). Not intended for UG Freshers.",
+            "venue": "FC Kohli Auditorium",
+            "organisingBody": "Career Cell, Undergraduate Academic Council (UGAC)",
+            "contact": "Parv Khandelwal, careercell@iitb.ac.in, 8302649745"
+        }
     }
 ]
