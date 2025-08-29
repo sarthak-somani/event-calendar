@@ -1450,5 +1450,16 @@
             "organisingBody": "Student Wellness Centre",
             "contact": "outreach.swc@iitb.ac.in"
         }
+    },
+    {
+        "title": "Teachers' Day function",
+        "start": "2025-09-04TNone",
+        "end": "2025-09-04TNone",
+        "extendedProps": {
+            "description": "Felicitation of Prof. S.P. Sukhatme Excellence in Teaching Awardees",
+            "venue": null,
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Shireesh Kedare, director@iitb.ac.in"
+        }
     }
 ]
