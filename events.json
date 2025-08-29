@@ -1406,5 +1406,16 @@
             "organisingBody": "Undergraduate Academic Council (UGAC)",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "PG Freshers Orientation",
+        "start": "2025-08-30T17:45:00",
+        "end": "2025-08-30T17:45:00",
+        "extendedProps": {
+            "description": "An orientation for First Year PG students organized by E-Cell IIT Bombay to introduce them to the entrepreneurial world at IIT Bombay. Features speakers Mrs. Ahana Gautam (Founder & CEO of Open Secret), Mr. Shaji Varghese (SINE, IIT Bombay), and Dr. Ramesh Kuruva (Co-Founder of YNOS & Professor at DSSE), an exclusive visit to SINE, IIT Bombay, fun activities, freebies, and goodies.",
+            "venue": "LH301",
+            "organisingBody": "E-Cell IIT Bombay",
+            "contact": "Amit Bhartiya, Ishant Singh (+91 78784 69798, 8512094092)"
+        }
     }
 ]
