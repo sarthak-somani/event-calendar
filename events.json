@@ -1461,5 +1461,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Shireesh Kedare, director@iitb.ac.in"
         }
+    },
+    {
+        "title": "Core Talks 2025",
+        "start": "2025-08-30TNone",
+        "end": "2025-08-31TNone",
+        "extendedProps": {
+            "description": "Core Talks 2025 is an excellent opportunity for students to explore fundamental areas of their department, guided by alumni. It covers core placements, internships, research options, and higher education possibilities. Open to all students, final-year students can earn up to 2 institute incentive points for attending sessions.",
+            "venue": "Hybrid (Online via MS Teams, Offline sessions)",
+            "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
+            "contact": "Sai Sharanya | SARC CTM | 8309270649, Ganesh Sonawane | SARC CTM | 9975454641"
+        }
     }
 ]
