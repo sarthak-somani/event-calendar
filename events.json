@@ -1417,5 +1417,16 @@
             "organisingBody": "E-Cell IIT Bombay",
             "contact": "Amit Bhartiya, Ishant Singh (+91 78784 69798, 8512094092)"
         }
+    },
+    {
+        "title": "Sophieprod 2025",
+        "start": "2025-08-29T19:00:00",
+        "end": "2025-08-30T19:00:00",
+        "extendedProps": {
+            "description": "Sophieprod 2025 is an annual event showcasing an array of plays, including stage plays, street plays, and mimes by talented students. It celebrates the creativity, passion, and hard work of the student dramatics community, offering captivating performances and rich storytelling for all.",
+            "venue": "LT-PCSA",
+            "organisingBody": "Fourthwall \u2013 the Dramatics Club of IIT Bombay",
+            "contact": "7972643853"
+        }
     }
 ]
