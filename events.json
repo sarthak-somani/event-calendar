@@ -1494,5 +1494,27 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Atharva Naik, +91 9920072252"
         }
+    },
+    {
+        "title": "Movie Night by Saathi",
+        "start": "NoneT20:00:00",
+        "end": "NoneT20:00:00",
+        "extendedProps": {
+            "description": "Saathi invites you to a movie night showcasing the widely acclaimed film \"Runs in the Family\" directed by Ian Gabriel. Take a break, grab your friends, and join us for an evening of cinema, laughter, and community! The film, \"Runs in the Family\", is a heartfelt and quirky road-trip dramedy by Ian Gabriel that follows a father and his genderqueer son as they journey across South Africa to reunite with family. On the way, they meet eccentric characters, face generational clashes, and discover the strength of love, identity, and chosen family.",
+            "venue": "Mini Theatre, 1st Floor, Rahul Bajaj Building",
+            "organisingBody": "Saathi",
+            "contact": "Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay, +91 79991 57905, Instagram: https://www.instagram.com/culturals.iitb, InstiApp: https://www.insti.app/org/culturalsiitb"
+        }
+    },
+    {
+        "title": "Sophieprod Day 2",
+        "start": "2023-08-30T19:00:00",
+        "end": "2023-08-30T19:00:00",
+        "extendedProps": {
+            "description": "After the very successful day 1 of Sophieprod, we are here with one more amazing lineup again to celebrate the creativity, passion, and hard work of the student dramatics community. LineUp for Day 2 - 30th Aug | 7 pm: The Great Raja Master - Hindustani Stage Play, Sachin | Ramesh | Tendulkar - Comic Hindi Stage Play, Chor Police - Mime, Dumblok - Comic Hindi Stage Play, The Missed Timings - Hindi RomComm Play. Join us for an evening of captivating performances, rich storytelling, and unforgettable moments on stage. Whether you're a theatre enthusiast or someone looking for a dose of entertainment, Sophieprod has something for everyone.",
+            "venue": "LT-PCSA",
+            "organisingBody": "Fourthwall \u2013 the Dramatics Club of IIT Bombay!",
+            "contact": "7972643853"
+        }
     }
 ]
