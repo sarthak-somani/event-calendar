@@ -1527,5 +1527,16 @@
             "organisingBody": "Student Wellness Centre, IIT Bombay",
             "contact": "Phone: 9070 (Institute extension); Email: wellness@iitb.ac.in"
         }
+    },
+    {
+        "title": "Workshop on Empowering Developers: AI-Driven Workflows and the Future of Software Development",
+        "start": "2025-09-02T17:30:00",
+        "end": "2025-09-02T17:30:00",
+        "extendedProps": {
+            "description": "A workshop exploring how artificial intelligence is transforming software development. Topics include the evolution of developer workflows, AI's role throughout the software lifecycle, best practices for AI-accelerated coding, and GitHub's vision for the agentic era. Features live demos and addresses common student challenges in learning software development. Participants are encouraged to review introductory Git and GitHub modules beforehand.",
+            "venue": "FC Kohli Auditorium (KRESIT building ground floor)",
+            "organisingBody": "WnCC and DevCom",
+            "contact": "Saket Choudhary, Assistant Professor, Koita Centre for Digital Health, Faculty Advisor, DevCom"
+        }
     }
 ]
