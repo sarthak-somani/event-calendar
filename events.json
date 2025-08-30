@@ -1516,5 +1516,16 @@
             "organisingBody": "Fourthwall \u2013 the Dramatics Club of IIT Bombay!",
             "contact": "7972643853"
         }
+    },
+    {
+        "title": "Counsellor on Call for One-on-One Emotional Support",
+        "start": "2025-08-30T11:00:00",
+        "end": "2025-08-31T11:00:00",
+        "extendedProps": {
+            "description": "Counsellors will be available for one-on-one emotional support. Students can access this service in-person at the SWC Office or remotely via phone during the specified hours. Walk-ins are welcome for in-person support.",
+            "venue": "SWC Office (Nandan Nilekani Main Building, 3rd floor)",
+            "organisingBody": "Student Wellness Centre, IIT Bombay",
+            "contact": "Phone: 9070 (Institute extension); Email: wellness@iitb.ac.in"
+        }
     }
 ]
