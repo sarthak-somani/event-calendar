@@ -1549,5 +1549,16 @@
             "organisingBody": "Undergraduate Academic Council (UGAC)",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Session on Interview Preparation and Professional Soft Skills",
+        "start": "2025-09-03T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "This session, conducted by Ms. Monika Thapar, focuses on interview preparation and professional soft skills. It covers communication strategies for HR interviews, structuring responses, professional etiquette, body language, grooming, handling unexpected questions, and building confidence for interviews. Registration is required due to limited seats, with priority for third and fourth-year students.",
+            "venue": "LC101",
+            "organisingBody": "Student Support Services and Career Cell, UGAC",
+            "contact": "gsecaaug@iitb.ac.in"
+        }
     }
 ]
