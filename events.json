@@ -1670,5 +1670,16 @@
             "organisingBody": "Bar-Ilan University, Israel",
             "contact": "Dr. Komal Kumari (PhD), In-Country Representative (India, Vietnam & Nepal), Email: india.biu@biu.ac.il, Tel: +91 9152026471"
         }
+    },
+    {
+        "title": "Coding Circuit Contest 1",
+        "start": "2025-09-05T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "Coding Circuit's inaugural contest at IIT Bombay, marking the first of an 8-round series across Autumn 2025 & Spring 2026. Participants compete in a premier CP arena for prizes over \u20b960,000 and a chance to join the WnCC CP Closed Community.",
+            "venue": "Lecture Hall Complex",
+            "organisingBody": "WnCC, IIT Bombay",
+            "contact": "Veeraditya (9449007525), Pratyaksh (9662201929)"
+        }
     }
 ]
