@@ -1560,5 +1560,16 @@
             "organisingBody": "Student Support Services and Career Cell, UGAC",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Bharat Innovates 2026",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "A Ministry of Education (MoE) and IIT Bombay initiative, 'Bharat Innovates 2026' is a global innovation showcase to present 100 trailblazing deep-tech innovations (TRL 3-9) from India to industry personnel, investors, and partners at an event in France in June 2026. This multi-stage competition provides participants with boot camps, consultations, and support.",
+            "venue": "France",
+            "organisingBody": "Ministry of Education (MoE) and IIT Bombay",
+            "contact": "Prof. Sankalp Pratap (sankalp.pratap@iitb.ac.in)"
+        }
     }
 ]
