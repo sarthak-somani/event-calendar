@@ -1571,5 +1571,16 @@
             "organisingBody": "Ministry of Education (MoE) and IIT Bombay",
             "contact": "Prof. Sankalp Pratap (sankalp.pratap@iitb.ac.in)"
         }
+    },
+    {
+        "title": "Kabaddi Girls Workshop 2025",
+        "start": "2025-09-02T19:00:00",
+        "end": "2025-09-03T19:00:00",
+        "extendedProps": {
+            "description": "This is a special opportunity for students to experience the thrill of kabaddi through guided training sessions, drills, and matches. Whether you are new to the game or eager to sharpen your skills, this workshop is the perfect chance to raid, defend, and conquer. Come join us and be part of this exciting kabaddi experience. Step on the mat, raid with power, defend with grit, and feel the spirit of the game.",
+            "venue": "Indoor Basketball Courts",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Kanak Tembhare, 9322311654"
+        }
     }
 ]
