@@ -1582,5 +1582,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Kanak Tembhare, 9322311654"
         }
+    },
+    {
+        "title": "Body Composition Scan at Basketball Courts",
+        "start": "2023-09-01T16:30:00",
+        "end": "2023-09-01T16:30:00",
+        "extendedProps": {
+            "description": "Greetings from the Institute Sports Council! Today from 4:30 PM onwards on the basketball courts in continuation of our initiatives for the National Sports Day, we will be having body scanning sessions for everyone. The body scans will help you understand your overall body composition, including fat percentage, muscle mass, water content, as well as a proper mapping of your body's overall development in terms of muscle growth, as well as fat distribution. All people interested are requested to fill out the google form, and pick a time slot, to avoid overcrowding we request everyone to come during their allotted time slot only. The time slots are on a first come first serve basis, and those time slots which already have the max capacity of people, are going to be removed from the options. Please check the current distribution in the link below to choose the slot. Maximum capacity is 30 people per slot. Form- https://forms.gle/pVWe7rEtG2p6SJhw5 Current distribution of people across slots - https://docs.google.com/spreadsheets/d/1uOudtdLZCc1GB5g9tphJvLvd23GtuNWqtgEornLmANQ/edit?usp=sharing",
+            "venue": "Indoor Basketball Court",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay, +91 9619000065"
+        }
     }
 ]
