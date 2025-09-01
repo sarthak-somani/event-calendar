@@ -1648,5 +1648,16 @@
             "organisingBody": "Student Support Services and Career Cell, UGAC (Indian Institute of Technology, Bombay)",
             "contact": "Avani Hasmukh Gala (8657424350), Parv Khandelwal (8302649745), gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "School on Practical Exposure to Characterization Techniques for Research and Applications (SPECTRA-2025)",
+        "start": "2025-11-10T09:30:00",
+        "end": "2025-11-14T09:30:00",
+        "extendedProps": {
+            "description": "A 5-Day Hands-on Workshop on Advanced Characterization Techniques covering High-Resolution Transmission Electron Microscope (HR-TEM), Small Angle X-Ray Scattering (SAXS), Steady-State Photoluminescence (SSPL), Vibrating Sample Magnetometer (VSM) option in PPMS, and Scanning Tunneling Microscope (STM). This workshop is ideal for researchers, students, staff, faculty and professionals eager to deepen their understanding of material characterization.",
+            "venue": "IIT Delhi Sonipat Campus, Rajiv Gandhi Education City, Rai, Sonipat, Haryana",
+            "organisingBody": "Central Research Facility, IIT Delhi",
+            "contact": "Dr. Dinesh Dixit at 8826250050 or ird13536@iitd.ac.in"
+        }
     }
 ]
