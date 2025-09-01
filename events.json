@@ -1593,5 +1593,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay, +91 9619000065"
         }
+    },
+    {
+        "title": "Higher Education Opportunities in France - Campus France Webinar",
+        "start": "2025-09-08T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "An exclusive information session on Higher Education Opportunities in France, organized in collaboration with Campus France - French Embassy in India. Attendees will learn about 1,700+ English-taught programs, understand the application and visa process, discover scholarship opportunities for Indian students, interact directly with Campus France Managers, and get insights into the upcoming Choose France Tour 2025. The session will guide students through the wide range of programs and benefits that studying in France offers.",
+            "venue": "Online",
+            "organisingBody": "Office of International Relations, Indian Institute of Technology (IIT) Bombay, in collaboration with Campus France - French Embassy in India",
+            "contact": "Rebecca (30005718@iitb.ac.in)"
+        }
     }
 ]
