@@ -1692,5 +1692,16 @@
             "organisingBody": "WnCC and DevCom",
             "contact": "Saket Choudhary <saketc@iitb.ac.in>"
         }
+    },
+    {
+        "title": "Global Sustainability Challenge 2025",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "An international competition bringing together student teams from across the globe to tackle pressing real-world sustainability challenges, focusing on Sustainable Energy and Adaptation & Resilience for its 2025 inaugural edition. Participants can collaborate with students worldwide, work under the guidance of expert mentors, compete for rewards and global recognition, and become part of an international network of changemakers in sustainability. Open to interdisciplinary teams of 1-6 university students from anywhere in the world; at least one team member must be 18 or older by Jan 1, 2026. Registration is through the Agorize platform, accessible via the official website.",
+            "venue": null,
+            "organisingBody": "IIT Bombay (founding partner), in collaboration with Stanford Doerr School of Sustainability, Technical University of Munich, Imperial College London, University of Hong Kong, and Maker Bhavan Foundation.",
+            "contact": "https://www.globalsustainabilitychallenge.org/"
+        }
     }
 ]
