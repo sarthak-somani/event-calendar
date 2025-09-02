@@ -1714,5 +1714,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Manthan Goyal, Institute Squash Secretary, 9826022623"
         }
+    },
+    {
+        "title": "Salsa Night",
+        "start": "2025-09-03T18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "The evening we have all been waiting for is finally here! InSync presents Salsa Night, one of the biggest and most exciting night of the year. Get ready for lively music, amazing dance moves, and an evening full of energy and joy. This is going to be a night to remember! Whether you know salsa or just want to try something new, this night is for everyone. Come with your friends and enjoy the fun, laughter, and magic of the evening.",
+            "venue": "OAT, Old SAC",
+            "organisingBody": "InSync",
+            "contact": "Harshita Kumar, +91 9589375565"
+        }
     }
 ]
