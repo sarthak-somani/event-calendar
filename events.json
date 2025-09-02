@@ -1703,5 +1703,16 @@
             "organisingBody": "IIT Bombay (founding partner), in collaboration with Stanford Doerr School of Sustainability, Technical University of Munich, Imperial College London, University of Hong Kong, and Maker Bhavan Foundation.",
             "contact": "https://www.globalsustainabilitychallenge.org/"
         }
+    },
+    {
+        "title": "Post Graduate Squash Workshop",
+        "start": "2023-09-03T17:30:00",
+        "end": "2023-09-04T17:30:00",
+        "extendedProps": {
+            "description": "This workshop is a great opportunity to learn, practice, and enjoy the exciting sport of squash, whether you are a beginner or an experienced player. This workshop will help participants understand the fundamentals of squash, improve their game techniques, and experience the thrill of the sport in a friendly environment.",
+            "venue": "Squash Court, New SAC",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Manthan Goyal, Institute Squash Secretary, 9826022623"
+        }
     }
 ]
