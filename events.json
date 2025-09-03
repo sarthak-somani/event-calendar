@@ -1725,5 +1725,16 @@
             "organisingBody": "InSync",
             "contact": "Harshita Kumar, +91 9589375565"
         }
+    },
+    {
+        "title": "Introduction to Sanskrit Language Course",
+        "start": "2025-09-03T20:30:00",
+        "end": "2025-09-09T20:30:00",
+        "extendedProps": {
+            "description": "This introductory course by the Centre for Sanskrit Learning, IIT Bombay, is designed for beginners with no prior Sanskrit knowledge. It covers fundamentals in a simple and engaging manner. Students, faculty, and staff are encouraged to attend. Participants with at least 80% attendance will receive a certificate.",
+            "venue": "LC 201 (September 3rd and 4th); LC 202 (September 5th to 8th)",
+            "organisingBody": "Centre for Sanskrit Learning, IIT Bombay",
+            "contact": "Mr. Pranav Gogate at +91 8007889485"
+        }
     }
 ]
