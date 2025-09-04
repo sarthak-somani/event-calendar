@@ -1824,5 +1824,16 @@
             "organisingBody": "Indo-Italian Chamber of Commerce and Industry (IICCI)",
             "contact": "Rebecca (30005718@iitb.ac.in)"
         }
+    },
+    {
+        "title": "Trailblazers 2025",
+        "start": "2025-09-06T14:30:00",
+        "end": "2025-09-06T14:30:00",
+        "extendedProps": {
+            "description": "An inspiring session featuring two trailblazing IIT Bombay alumni, Mr. Ashtesh Kumar (Founder of Manastu Space) and Mr. Nivedan Rathi (Founder of Future & AI), who will share their triumph stories in innovation and entrepreneurship, focusing on Space and AI. The event includes interactive Q&A and aims to expand horizons and provide insights from founders shaping the future.",
+            "venue": "LTPCSA Auditorium",
+            "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
+            "contact": "Sarvagya Jain | SARC CTM | 9424800631, Parth Dhruv | SARC CTM | 99049 59162"
+        }
     }
 ]
