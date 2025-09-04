@@ -1769,5 +1769,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Publications & Public Relations Office, IIT Bombay, Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Powerlifting Mock General Championship",
+        "start": "NoneT12:00:00",
+        "end": "NoneT12:00:00",
+        "extendedProps": {
+            "description": "The Powerlifting General Championship will be held for the 1st time in the Mock format. It's a competition open to Men and Women, featuring Squat, Bench Press, and Deadlift, offering a chance to showcase strength and represent your hostel.",
+            "venue": null,
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Prateek Behera (Institute Weightlifting Secretary): 6297957507; Rajwardhan Toraskar (General Secretary, Sports Affairs, IIT Bombay): +91 9619000065"
+        }
     }
 ]
