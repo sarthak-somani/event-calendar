@@ -1813,5 +1813,16 @@
             "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Italian Tech in India 2025 Panel Discussions",
+        "start": "2025-09-20T10:00:00",
+        "end": "2025-09-20T10:00:00",
+        "extendedProps": {
+            "description": "The Indo-Italian Chamber of Commerce and Industry (IICCI) is organizing the 3rd edition of Italian Tech in India, a flagship platform showcasing Italian innovation, technology, and industrial excellence in India, focusing on Agro & Food; Advanced Manufacturing & Engineering; Infrastructure, Construction & Industry; and Power, Renewables & Utilities. IIT Bombay students are invited to attend two specific panel discussions: 'Ease of Doing Business between India, Italy, and the EU: Compliance, Certification, and Cybersecurity' (10:00 AM - 11:30 AM) and 'Skills, Education & Human Capital for Tech Collaboration: Empowering Talent for the Indo-Italian Innovation Ecosystem' (11:45 AM - 1:00 PM).",
+            "venue": "Nehru Centre, Worli, Mumbai",
+            "organisingBody": "Indo-Italian Chamber of Commerce and Industry (IICCI)",
+            "contact": "Rebecca (30005718@iitb.ac.in)"
+        }
     }
 ]
