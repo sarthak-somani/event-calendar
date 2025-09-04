@@ -1791,5 +1791,27 @@
             "organisingBody": "Deputy Registrar (Academic), Indian Institute of Technology Bombay",
             "contact": "022-25767041 / 7987"
         }
+    },
+    {
+        "title": "Student Vaccination Drive",
+        "start": "2025-09-05T09:00:00",
+        "end": "2025-09-06T09:00:00",
+        "extendedProps": {
+            "description": "Mandatory student vaccination drive for various vaccines (MMR, Chicken Pox, Typhoid, Hepatitis 'A') scheduled on September 5th, 2025 (9:00 AM - 5:00 PM) and September 6th, 2025 (9:00 AM - 3:00 PM) at the Hospital New Wing. Registration and time slot booking via provided Google Forms are mandatory. Vaccines are on a payment basis. Students must bring immunization records and printed medical forms, and should be well-hydrated and fed. Students with cold, cough, fever, or on medication in the past 7 days should refrain. A medical folder is mandatory for all students.",
+            "venue": "Hospital New Wing",
+            "organisingBody": "IIT Hospital",
+            "contact": "Dr. Arvind Meshram, In-charge Hospital, CMO(SAG)"
+        }
+    },
+    {
+        "title": "Smart India Hackathon (SIH) 2025 Orientation Session",
+        "start": "2025-09-04T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "The Smart India Hackathon (SIH) is a global innovation challenge. This orientation session, organized by the Institution's Innovation Council (IIC), IIT Bombay, aims to familiarize students with SIH 2025. It will cover an overview of SIH, its significance, participation process, rules, prizes, recognition, guidance on team formation, and next steps, including interaction with last year's IIT Bombay finalists.",
+            "venue": "LC 301",
+            "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": null
+        }
     }
 ]
