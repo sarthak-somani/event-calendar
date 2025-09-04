@@ -1747,5 +1747,16 @@
             "organisingBody": "Maths and Physics Club, IIT Bombay",
             "contact": "Soham Sahasrabuddhe: +91 86025 86808, Nirav Bhattad: +91 95118 96571, Shahu Patil: +91 91460 50850"
         }
+    },
+    {
+        "title": "Weave Your Own Convocation Scarf Workshop",
+        "start": "2025-10-01TNone",
+        "end": "2025-11-30TNone",
+        "extendedProps": {
+            "description": "The IDC Weaving Studio is offering a workshop for students to weave their own handwoven uttariya (convocation scarf). The workshop runs for two months (October-November 2025) with two 3-hour sessions per week at the IDC Weaving Studio. Registration closes on September 20, 2025.",
+            "venue": "Ground floor, IDC Weaving Studio, RBTIC",
+            "organisingBody": "IDC School of Design (IDC Weaving Studio)",
+            "contact": "weaving.idc@gmail.com"
+        }
     }
 ]
