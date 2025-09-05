@@ -1835,5 +1835,27 @@
             "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
             "contact": "Sarvagya Jain | SARC CTM | 9424800631, Parth Dhruv | SARC CTM | 99049 59162"
         }
+    },
+    {
+        "title": "Smart India Hackathon (SIH) 2025",
+        "start": "NoneTNone",
+        "end": "2025-09-09TNone",
+        "extendedProps": {
+            "description": "The Smart India Hackathon (SIH) is the Indian government's flagship innovation initiative, providing students across Indian universities with a platform to solve real-life challenges. This email announces the start of the SIH 2025 process for IIT Bombay students, including team formation and an internal hackathon leading to nominations. Participants can work on impactful problems, gain mentorship, and win prizes of INR 1.5 lakh.",
+            "venue": null,
+            "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": "Prakhar Agrahari / Samyak Pahade (Institution's Innovation Council (IIC), IIT Bombay)"
+        }
+    },
+    {
+        "title": "Masterclass on Quantitative Equity Research and Trading",
+        "start": "2025-09-06T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "An opportunity to learn about quantitative research and algorithmic trading through a special session hosted by the Finance Club. The session will introduce foundations of algorithmic trading and quantitative finance, highlight practical applications, required skill sets, and provide insights into multinational corporations and career options in the industry. No prior knowledge is necessary; bring curiosity and eagerness to learn.",
+            "venue": "LC001, LHC",
+            "organisingBody": "Finance Club, IIT Bombay",
+            "contact": "Kopal | Ritwik | 9632445404 | 7400290708 | financeclub@iitb.ac.in"
+        }
     }
 ]
