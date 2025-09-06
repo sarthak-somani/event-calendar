@@ -1857,5 +1857,16 @@
             "organisingBody": "Finance Club, IIT Bombay",
             "contact": "Kopal | Ritwik | 9632445404 | 7400290708 | financeclub@iitb.ac.in"
         }
+    },
+    {
+        "title": "Ganpati Visarjan Arrangement for IITB Residents",
+        "start": "2025-09-03T09:00:00",
+        "end": "2025-09-06T09:00:00",
+        "extendedProps": {
+            "description": "Special arrangements have been made for eco-friendly Ganesh idol immersion within the IIT Bombay campus. Two Sintex tanks have been placed at the Vatika parking area near the Devi Temple. These facilities will remain available between 9:00 AM and 9:00 PM. All residents are requested to kindly use these designated facilities within the specified time and strictly refrain from immersing Ganesh idols in Powai Lake to help maintain cleanliness, prevent water pollution, and ensure environmental safety.",
+            "venue": "Vatika parking area near the Devi Temple, IIT Bombay campus",
+            "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
+            "contact": "Mr. Rahul Hiwarale - 9930528103, Mr. Ashok Waghela - 8652112024"
+        }
     }
 ]
