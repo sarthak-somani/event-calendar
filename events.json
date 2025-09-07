@@ -1890,5 +1890,16 @@
             "organisingBody": "Undergraduate Academic Council (UGAC)",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Session on Personal Branding",
+        "start": "2023-09-07T19:00:00",
+        "end": "NoneT19:00:00",
+        "extendedProps": {
+            "description": "A gentle reminder to join us for Personal Branding 101 today. Learn how to: Stand out in a crowded space, Hack your Resume, LinkedIn & portfolio, Position yourself for interviews, Build credibility for your side gig. Don\u2019t miss out on the chance to brand yourself and build your edge.",
+            "venue": "Online (MS Teams)",
+            "organisingBody": "Undergraduate Academic Council (UGAC)",
+            "contact": "gsecaaug@iitb.ac.in"
+        }
     }
 ]
