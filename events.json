@@ -1901,5 +1901,16 @@
             "organisingBody": "Undergraduate Academic Council (UGAC)",
             "contact": "gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Mid-semester Tutorial Services Centre (TSC) & Excel Sessions",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Student Support Services, UGAC",
+            "contact": null
+        }
     }
 ]
