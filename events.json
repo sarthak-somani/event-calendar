@@ -1934,5 +1934,16 @@
             "organisingBody": "Kotak Education Foundation",
             "contact": "nandkishor.shimpi@iitbacr.com"
         }
+    },
+    {
+        "title": "Workshop on 'Psychological First-Aid: Support in Times of Need'",
+        "start": "2025-09-10T17:30:00",
+        "end": "2025-10-01T17:30:00",
+        "extendedProps": {
+            "description": "There are times when someone around us is silently struggling, and a few words or actions can mean the difference between despair and hope. In such moments, knowing how to respond with care and understanding can truly save a life. This interactive session will help you learn how to recognize signs of distress, respond with empathy, and guide a person towards safety and support. Together, we will explore lifesaving tools like the QPR technique, grounding techniques and practical first aid strategies for emergencies. Your presence could make all the difference- to a friend, a peer, or even a stranger who needs someone to stand by them. We warmly encourage you to be part of this initiative and help create a culture of compassion and prevention.",
+            "venue": "LC 201",
+            "organisingBody": "Flourishing Hub, IIT Bombay",
+            "contact": null
+        }
     }
 ]
