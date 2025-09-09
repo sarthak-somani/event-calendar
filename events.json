@@ -1945,5 +1945,16 @@
             "organisingBody": "Flourishing Hub, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "National Engineers' Day 2025 Celebration",
+        "start": "2025-09-15T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "A celebration of National Engineers' Day 2025, featuring Prof. Anil Sahasrabudhe as Chief Guest and presentations of the IIT Bombay International Award for Excellence in Research in Engineering and Technology, Dr. P.K. Patwardhan Technology Development Award for 2024, C1973 Faculty Award for Research Excellence, and Best Zonal Work Awards.",
+            "venue": "Prof. B. Nag Auditorium of the Victor Menezes Convention Centre, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Tel: (+91-22) 25767026-27"
+        }
     }
 ]
