@@ -1956,5 +1956,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Tata Crucible Campus Quiz 2025",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "Tata Crucible Campus Quiz 2025 for all college students across India (graduating years 2026-2029). Offers internship and career opportunities with Tata Group, prizes worth over \u20b92.5 lakhs, complimentary vouchers from Tata Group companies, and packages up to \u20b912.5 LPA. Online registration deadline: 2025-09-15.",
+            "venue": "Online",
+            "organisingBody": "Tata Group",
+            "contact": null
+        }
+    },
+    {
+        "title": "Odisha Diaries | Explore Tribal Traditions & Handloom Heritage with GRA",
+        "start": "2025-11-23TNone",
+        "end": "2025-12-01TNone",
+        "extendedProps": {
+            "description": "An immersive end-semester camp organized by the Group for Rural Activities (GRA) IIT Bombay under the 'Gram Bhraman' initiative, taking students to Udala, Mayurbhanj District, Odisha. The camp offers opportunities for handloom and craft immersion, tribal community engagement, grassroots innovation, and cultural heritage exploration, hosted by Yuva Vikas Foundation.",
+            "venue": "Udala, Mayurbhanj District, Odisha",
+            "organisingBody": "Group for Rural Activities (GRA) IIT Bombay, Yuva Vikas Foundation",
+            "contact": "Archishman Ray (9831876729), Tanushree (7850869073)"
+        }
     }
 ]
