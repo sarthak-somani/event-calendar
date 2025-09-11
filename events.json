@@ -2000,5 +2000,27 @@
             "organisingBody": "Office of International Relations, IIT Bombay",
             "contact": "Dr. Ipsita Das, Senior Project Manager, Office of International Relations, IIT Bombay, Tel: +91-22-21593069"
         }
+    },
+    {
+        "title": "\u0939\u093f\u0928\u094d\u0926\u0940 \u092a\u0916\u0935\u093e\u095c\u093e 2025 - \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0924\u093f\u092f\u094b\u0917\u093f\u0924\u093e\u090f\u0901",
+        "start": "2025-09-25T17:00:00",
+        "end": "2025-09-26T17:00:00",
+        "extendedProps": {
+            "description": "Indian Institute of Technology Bombay is organizing two competitions for students as part of Hindi Fortnight 2025: 1. Hindi Memoir Writing: On 2025-09-25, from 5 PM to 7 PM at VMCC, Room No- 2. Topics include 'When I conversed in Hindi' (for non-Hindi speakers) and 'My Hindi Class' (for Hindi speakers). 2. Hindi Debate Competition: On 2025-09-26, from 5 PM to 7 PM at VMCC, Room No- 2. Topic: 'Is higher education in Science and Technology possible through Hindi medium or not?' Detailed information is available in an attached PDF. Interested participants must register using the Google Form link: https://forms.gle/x3jggb34yLryf9r29.",
+            "venue": "VMCC, Room No- 2, Ground Floor/Level",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Dr. Abhishek Tripathi - 9321242481, Mr. Aditya Dwivedi - 9340304499"
+        }
+    },
+    {
+        "title": "Colloquium Lecture by Recipients of the IIT Bombay International Award",
+        "start": "2025-09-15T17:00:00",
+        "end": "2025-09-15T17:00:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay invites you to two colloquium lectures by recipients of the IIT Bombay International Award 2025, Prof. Madhavi Srinivasan and Prof. Chen Change Loy, as part of the Engineers' Day celebrations. Prof. Srinivasan will speak on 'Sustainable Battery Technologies: Research and Development', and Prof. Loy will speak on 'From Segment Anything Efficiently to Matting Anyone Precisely'.",
+            "venue": "EMBA Classroom, 4th Floor, SJMSOM, IIT Bombay",
+            "organisingBody": "Dean ACR Office, IIT Bombay",
+            "contact": null
+        }
     }
 ]
