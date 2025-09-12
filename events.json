@@ -2044,5 +2044,16 @@
             "organisingBody": "Office of Dean ACR, IIT Bombay",
             "contact": "nandkishor.shimpi@iitbacr.com"
         }
+    },
+    {
+        "title": "AIDAO Olympiad",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "International competition for undergraduate, master's, and PhD students in Artificial Intelligence and Data Analysis, offering cash prizes and admission benefits. It features an online qualifying round and an in-person final.",
+            "venue": "Online and in Moscow at HSE University",
+            "organisingBody": "Yandex Education and the HSE University Faculty of Computer Science",
+            "contact": "inter_coop@hse.ru"
+        }
     }
 ]
