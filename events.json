@@ -2066,5 +2066,16 @@
             "organisingBody": "Office of International Relations, IIT Bombay",
             "contact": "30005718@iitb.ac.in"
         }
+    },
+    {
+        "title": "Adult Vaccination for Students",
+        "start": "2025-09-13T14:00:00",
+        "end": "2025-09-13T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination drive for students, offering MMR, Chicken Pox, Typhoid, and Hepatitis 'A' vaccines. Students must bring one passport size latest photo for a new medical file (mandatory). Bring immunization/vaccination records and a printout of the Student Medical form with an attached photo. Healthy breakfast/lunch and hydration are recommended before vaccination.",
+            "venue": "Hospital (old wing - ground floor)",
+            "organisingBody": "IIT Bombay Hospital",
+            "contact": "Dr. Arvind Meshram"
+        }
     }
 ]
