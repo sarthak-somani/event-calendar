@@ -2055,5 +2055,16 @@
             "organisingBody": "Yandex Education and the HSE University Faculty of Computer Science",
             "contact": "inter_coop@hse.ru"
         }
+    },
+    {
+        "title": "Swiss Research Scholarship Informational Session",
+        "start": "2025-09-15T11:00:00",
+        "end": "2025-09-15T11:00:00",
+        "extendedProps": {
+            "description": "An informational session about the ThinkSwiss and Swiss Government Excellence Scholarships 2026-2027, open to candidates from India for PhD, research, and post-doctoral studies. The session, conducted by the Embassy of Switzerland in India, will provide insights into the scholarships and an opportunity to clarify queries directly.",
+            "venue": "VMCC LH23",
+            "organisingBody": "Office of International Relations, IIT Bombay",
+            "contact": "30005718@iitb.ac.in"
+        }
     }
 ]
