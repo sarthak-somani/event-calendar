@@ -2077,5 +2077,16 @@
             "organisingBody": "IIT Bombay Hospital",
             "contact": "Dr. Arvind Meshram"
         }
+    },
+    {
+        "title": "Greenovation Challenge 2025",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "An exclusive platform designed to empower innovators to tackle one of the most pressing global issues: Decarbonising the Power and Steel Sectors. The challenge focuses on fostering innovation in Cleaner production technologies, Energy efficiency improvements, and Renewable energy integration within Power and Steel industries.",
+            "venue": null,
+            "organisingBody": "E-Cell IIT Bombay, in collaboration with EarthON Foundation",
+            "contact": "Ved - +91 8459403210, Amit - +91 7878469798"
+        }
     }
 ]
