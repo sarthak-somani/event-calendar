@@ -2110,5 +2110,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Colloquium Lectures by the recipients of the IIT Bombay International Award 2025",
+        "start": "2025-09-15T17:00:00",
+        "end": "2025-09-15T17:00:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay invites students and faculty to two Colloquium Lectures by the recipients of the prestigious IIT Bombay International Award 2025, delivered as part of the Engineers' Day celebrations. Prof. Madhavi Srinivasan will speak on 'Sustainable Battery Technologies: Research and Development' (5:00 PM \u2013 5:50 PM), and Prof. Chen Change Loy will speak on 'From Segment Anything Efficiently to Matting Anyone Precisely' (6:00 PM \u2013 6:50 PM). Detailed speaker biographies and session abstracts are included.",
+            "venue": "EMBA Classroom, 4th Floor, SJMSOM, IIT Bombay",
+            "organisingBody": "Dean ACR Office, IIT Bombay",
+            "contact": "Prof. Upendra Bhandarkar, Dean, Alumni and Corporate Relations, IIT Bombay"
+        }
     }
 ]
