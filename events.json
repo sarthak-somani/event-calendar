@@ -2132,5 +2132,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "INDUX 5.0 - National Hackathon on Industry 5.0 & Smart Manufacturing",
+        "start": "2025-10-11TNone",
+        "end": "2025-10-12TNone",
+        "extendedProps": {
+            "description": "India\u2019s first National-level Hackathon on Industry 5.0 and Smart Manufacturing, inviting 300+ student teams to develop solutions for real-world challenges under the theme \"Innovate for Industry, Build for Bharat\". Focus areas include Industrial Digitalization, Industry IoT, Robotics, AI/ML, Automation, EHS, Digital Twin, Image Processing, and Sustainability. The event features expert mentorship, attractive rewards (cash prizes up to \u20b91,00,000, prototype grants, internships, incubation support), and national recognition.",
+            "venue": "Vikrant University, Gwalior (M.P.)",
+            "organisingBody": "Vikrant University, Quality Circle Forum of India (QCFI) and SenseLive",
+            "contact": "Email: info@induxhack.com, Website: www.induxhack.com"
+        }
     }
 ]
