@@ -2154,5 +2154,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, pro@iitb.ac.in"
         }
+    },
+    {
+        "title": "Antarlaya: A Journey Within Through Dance and Meditation",
+        "start": "2025-09-24T18:30:00",
+        "end": "2025-09-24T18:30:00",
+        "extendedProps": {
+            "description": "An immersive evening of meditation, music, and dance, presenting Indian classical and world dance traditions interwoven with meditation to guide participants on an inner journey of self-realisation. Highlights include Kathak, Odissi, Flamenco, and Sahaja Yoga Meditation. Refreshments provided.",
+            "venue": "PC Saxena Auditorium (LT PCSA), IIT Bombay",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "Nidhi Verma at +918602409282"
+        }
+    },
+    {
+        "title": "Nutrition, Brain Health & Mood",
+        "start": "2025-09-23T19:30:00",
+        "end": "NoneT19:30:00",
+        "extendedProps": {
+            "description": "Join the Student Wellness Centre for 'Nutrition, Brain Health & Mood', the inaugural session of their 'THROUGH THE LENS' panel discussion series. Experts Dr. Titiksha Kubal (Nutritional Psychiatrist), Ms. Shambhavi Kamat (Dietitian), and Dr. Prachi Patil (Gastroenterologist) will discuss how mindful eating, nutrition, and gut health influence mental and emotional wellbeing, with a live Q&A. Open to all IIT Bombay community members. Register at https://forms.gle/ssVBNLS5jzG7njBQ6.",
+            "venue": "PC Saxena Auditorium",
+            "organisingBody": "Student Wellness Centre (SWC), IIT Bombay",
+            "contact": null
+        }
     }
 ]
