@@ -2187,5 +2187,16 @@
             "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
             "contact": "Prakhar Agrahari (+91-9328154065), Samyak Pahade (+91 93260 16906)"
         }
+    },
+    {
+        "title": "Adult vaccination for students",
+        "start": "2025-09-20T14:00:00",
+        "end": "2025-09-20T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination for students, featuring MMR, Chicken Pox, Typhoid, and Hepatitis 'A' vaccines. Scheduled as a walk-in event. Making a medical folder is mandatory; bring one passport size latest photo for the new file. Students must bring immunization/vaccination record for verification, printout of their Student Medical form with attached photo, have a healthy breakfast/lunch, hydrate well, and carry biscuits/fruits and water bottle.",
+            "venue": "hospital (old wing - ground floor)",
+            "organisingBody": "IIT Bombay Hospital",
+            "contact": "Dr. Arvind Meshram"
+        }
     }
 ]
