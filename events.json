@@ -2176,5 +2176,16 @@
             "organisingBody": "Student Wellness Centre (SWC), IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Smart India Hackathon 2025 (SIH 2025)",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "An announcement regarding the Smart India Hackathon (SIH) 2025, informing students about the addition of 100+ new Problem Statements and the reopening of submissions. It details eligibility for UG and PG students of IIT Bombay, provides key updates on new and existing submissions, a unified evaluation process, and an extended submission deadline of September 24, 2025, EOD. The email includes useful resources and links for participation, team formation, and official information, encouraging maximum participation from IIT Bombay students to represent the institution in future rounds.",
+            "venue": null,
+            "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": "Prakhar Agrahari (+91-9328154065), Samyak Pahade (+91 93260 16906)"
+        }
     }
 ]
