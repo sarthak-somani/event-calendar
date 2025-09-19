@@ -2209,5 +2209,16 @@
             "organisingBody": "Outreach Team, Student Wellness Centre (SWC), IIT Bombay",
             "contact": "outreach.swc@iitb.ac.in"
         }
+    },
+    {
+        "title": "UnIITy Walk 2025: United for Peace and Diversity",
+        "start": "2025-10-02T08:00:00",
+        "end": "2025-10-02T08:00:00",
+        "extendedProps": {
+            "description": "The UnIITy Walk 2025 is an annual initiative inspired by the timeless principles of UNITY, INCLUSIVITY, and NON-VIOLENCE, as advocated by Mahatma Gandhi. This 5-kilometre walk encourages all members of the IIT Bombay community, including students, faculty, and staff to participate wholeheartedly to walk in unity, promote inclusivity, and reaffirm commitment to non-violence.",
+            "venue": "SAC, Opposite Hostel 1, IIT Bombay Campus",
+            "organisingBody": "IIT Bombay Alumni Association",
+            "contact": "Mr. Jijo Yohanan - 97739 37300"
+        }
     }
 ]
