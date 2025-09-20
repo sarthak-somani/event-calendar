@@ -2220,5 +2220,16 @@
             "organisingBody": "IIT Bombay Alumni Association",
             "contact": "Mr. Jijo Yohanan - 97739 37300"
         }
+    },
+    {
+        "title": "SARCathon 2025 \u2013 A series of Pan-IIT Competitions",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "SARCathon 2025, organized by the Student Alumni Relations Cell (SARC), IIT Bombay, is a series of Pan-IIT competitions spanning consulting, entrepreneurship, technology, finance, and cybersecurity. It brings together students from over 17 IITs to test their skills and creativity, guided by IIT Bombay alumni. The event features competitions like ConsultQuest, Bizarro, AI Hackathon, Portfolio Playoff, and Catch The Flag (CTF), with a prize pool exceeding \u20b95 lakhs. The deadline to register is 24 September, 2025.",
+            "venue": null,
+            "organisingBody": "Student Alumni Relations Cell (SARC), IIT Bombay",
+            "contact": "Parth Dhruv (+91 99049 59162), Sarvagya Jain (+91 9424800631)"
+        }
     }
 ]
