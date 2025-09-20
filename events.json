@@ -2242,5 +2242,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Awareness program on Indian Sign Language (ISL)",
+        "start": "2025-09-23T10:00:00",
+        "end": "2025-09-23T10:00:00",
+        "extendedProps": {
+            "description": "Held in observance of September 23rd - International Sign Language Day, National Institute for the Empowerment of Persons with Intellectual Disabilities (NIEPID), Regional Centre Navi Mumbai is going to conduct an awareness program on \"Indian Sign Language (ISL)\" to sensitize the students, staff and faculty members. The program duration will be around 30 minutes in which some basic signs of ISL will be practiced followed by the National Anthem in Indian Sign Language.",
+            "venue": "F.C. Kohli Auditorium, KReSIT Building",
+            "organisingBody": "PwD Student Cell, IIT Bombay",
+            "contact": null
+        }
     }
 ]
