@@ -2396,5 +2396,16 @@
             "organisingBody": "Adventure Club (Institute Sports Council)",
             "contact": "Mohit Yadav (+91 82334 70289), Rajwardhan Toraskar (+91 9619000065)"
         }
+    },
+    {
+        "title": "WeSpeak \u2018s DB101 (Club Orientation)",
+        "start": "2023-09-22T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "Ever wondered what makes debating more than just an exchange of arguments? WeSpeak, the Speaking Arts Club of IIT Bombay, invites you to DB101 Orientation to explore the craft of clear thinking, sharp expression, and persuasive delivery. Discover opportunities like achieving in national and international debate tournaments representing IIT Bombay and organizing India's most sought after Debate Competition. Members will share their journeys. The highlight is a live showcase debate with senior debaters battling on an audience-decided motion. This is an entry into a community to sharpen speaking skills, gain confidence, travel the globe, represent IIT Bombay, and join a vibrant family. Freebies will be provided.",
+            "venue": "LH 101",
+            "organisingBody": "WeSpeak, the Speaking Arts Club of IIT Bombay",
+            "contact": "Shreyas Kumbhar, Institute Speaking Arts Secretary, +91 8856858118"
+        }
     }
 ]
