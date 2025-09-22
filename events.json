@@ -2352,5 +2352,49 @@
             "organisingBody": "Photography Club \u2018Pixels\u2019",
             "contact": "Toyaj Kabi (+91 72053 30801), Aditya Sisodiya (+91 79991 57905)"
         }
+    },
+    {
+        "title": "Udghosh Kabaddi & Spardha Kho-Kho Camp Trials",
+        "start": "2025-09-22T19:00:00",
+        "end": "2025-09-24T19:00:00",
+        "extendedProps": {
+            "description": "Trials for the Institute Kabaddi and Kho-Kho teams to participate in Udghosh (IIT Kanpur Sports Fest \u2013 Kabaddi) and Spardha (IIT BHU Sports Fest \u2013 Kho-Kho). Registration Links: Kabaddi (Udghosh): https://forms.gle/owpRwJiHPU37xEWt5, Kho-Kho (Spardha): https://forms.gle/Cp9nP6tqGwsphHna6. Proper sports attire is mandatory for all trials. For more updates and information, follow us on Instagram: https://www.instagram.com/indiangames_iitb?utm_source=ig_web_button_share_sheet&igsh=bmp0eXR4cm0zN21k.",
+            "venue": "Kabaddi mat, Indoor Basketball court; Indoor Kho-Kho court",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Kanak Tembhare, Institute Indian Games Secretary, M: +91 9322311654, E: kanaktembhare.iigs@gmail.com; Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay, M: +91 9619000065"
+        }
+    },
+    {
+        "title": "Swimming Camp",
+        "start": "2023-09-24T07:15:00",
+        "end": "NoneT07:15:00",
+        "extendedProps": {
+            "description": "Registration is open for a series of Aquatics Swimming Camps, providing an opportunity to learn swimming from a respected coach. The first class commences on September 24th. Available camps include: Intermediate (7:15 AM - 8:00 AM, 30 seats, Rs 100, basic freestyle required); Girls Beginners (5:30 PM - 6:15 PM, 30 seats, Rs 100); Boys Beginners (7:00 PM - 7:45 PM, 30 seats, Rs 100).",
+            "venue": null,
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Meet Vanja (Institute Aquatics Secretary): 9323587701; Rajwardhan Toraskar (General Secretary, Sports Affairs, IIT Bombay): +91 9619000065"
+        }
+    },
+    {
+        "title": "Hello World! \u2013 Freshers\u2019 Orientation",
+        "start": "2025-09-24T20:30:00",
+        "end": "2025-09-24T20:30:00",
+        "extendedProps": {
+            "description": "Join WnCC for Hello World! \u2013 Freshers\u2019 Orientation. Discover coding at IITB, meet your tribe, and dive into an evening of learning, games, and giveaways. Bring laptops for hands-on activities. Participate in a special game involving ITC SSO to find teammates; bring your full team (3-4 members) for exciting prizes. No prior coding experience required. Freebies, giveaways, and pizzas provided.",
+            "venue": "LA002",
+            "organisingBody": "WnCC",
+            "contact": "Veeraditya: 9449007525, Pratyaksh: 9662201929"
+        }
+    },
+    {
+        "title": "Kaas Pathar Trek",
+        "start": "2025-09-28TNone",
+        "end": "2025-09-28TNone",
+        "extendedProps": {
+            "description": "Adventure Club invites you to join our trek to Kaas Pathar (Valley of Flowers, Maharashtra) on 28th September 2025 (Sunday). Known as the \u201cPlateau of Flowers,\u201d Kaas is a UNESCO World Natural Heritage Site that comes alive with a breathtaking bloom of vibrant wildflowers during this season. The trek offers an easy trail with mesmerizing landscapes, making it perfect for nature enthusiasts and photography lovers alike.",
+            "venue": "Kaas Pathar, Valley of Flowers, Maharashtra",
+            "organisingBody": "Adventure Club (Institute Sports Council)",
+            "contact": "Mohit Yadav (+91 82334 70289), Rajwardhan Toraskar (+91 9619000065)"
+        }
     }
 ]
