@@ -2484,5 +2484,16 @@
             "organisingBody": "IIT Bombay Cricket Club (Institute Sports Council)",
             "contact": "Pradyumna Gugulothu (+91 70139 54490)"
         }
+    },
+    {
+        "title": "Hindi Book Exhibition",
+        "start": "2025-09-22T10:00:00",
+        "end": "2025-09-23T10:00:00",
+        "extendedProps": {
+            "description": "An exhibition of Hindi books organized on the occasion of Hindi Pakhwada. This email serves as a reminder for the final day of the exhibition, closing at 5 PM. Attendees are encouraged to explore, purchase for personal use, and recommend enlightening books for the library.",
+            "venue": "First Floor of the Central Library",
+            "organisingBody": "Central Library",
+            "contact": null
+        }
     }
 ]
