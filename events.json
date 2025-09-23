@@ -2495,5 +2495,27 @@
             "organisingBody": "Central Library",
             "contact": null
         }
+    },
+    {
+        "title": "Enhancing Teaching and Learning with Google Workspace Tools",
+        "start": "2025-09-24T14:30:00",
+        "end": "2025-09-24T14:30:00",
+        "extendedProps": {
+            "description": "The Computer Centre has provisioned Google Workspace for Education Plus for IIT Bombay users. To enhance utilization, the Training and Development Cell, in collaboration with the Computer Centre, is organizing a training session. Session Highlights include Google Meet (breakout rooms, polls, Q&A, captions, noise cancellation, live streaming), Google Classroom (Gemini, originality reports, peer matching, practice sets, templates), Productivity Tools (eSignatures in Docs/Drive, Google Cloud Search), and Generative AI (Gemini & NotebookLM for research, summarization, and content creation).",
+            "venue": "LA-202, Lecture Hall, IIT Bombay",
+            "organisingBody": "Training and Development Cell, IIT Bombay, in collaboration with Computer Centre",
+            "contact": "Ms. Pramila Yeshwant Sasalekar, Senior Assistant Registrar, Training and Development Cell, IIT Bombay. Tel: 022 02159 6006"
+        }
+    },
+    {
+        "title": "Smart India Hackathon (SIH) 2025 - New Problem Statements Added & Submissions Reopened",
+        "start": "2025-09-19T09:54:00",
+        "end": "2025-09-24T09:54:00",
+        "extendedProps": {
+            "description": "100+ new Problem Statements have been added on the Smart India Hackathon (SIH) 2025 portal. This is a fresh opportunity to explore impactful challenges and showcase innovative solutions. All UG (B.Tech, B.S etc) and PG (M.Tech, PhD, etc) students of IIT Bombay are eligible to participate in SIH 2025. Key updates include new submissions open, updating existing submissions, and unified evaluation. The new submission deadline for everyone is 24th September 2025 (Wednesday), EOD.",
+            "venue": null,
+            "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": "Prakhar Agrahari (+91-9328154065), Samyak Pahade (+91 93260 16906)"
+        }
     }
 ]
