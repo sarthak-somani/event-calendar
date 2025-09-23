@@ -2550,5 +2550,16 @@
             "organisingBody": "WnCC & ScaleUp",
             "contact": "Veeraditya: 9449007525, Pratyaksh: 9662201929"
         }
+    },
+    {
+        "title": "SARC UG Freshers' Orientation 2025",
+        "start": "2025-09-24T15:30:00",
+        "end": "NoneT15:30:00",
+        "extendedProps": {
+            "description": "An interactive orientation for UG Freshers by the Student Alumni Relations Cell (SARC) to introduce them to SARC and foster connections at IIT Bombay. Features engaging activities like Mini-SeekOut, fun games, prizes, giveaways, and interaction with distinguished alumni Om Sharma (MEMS, Batch of 2007) and Prashant Jain (CSE, Batch of 2012). Refreshments will be provided.",
+            "venue": "LTPCSA",
+            "organisingBody": "Student Alumni Relations Cell (SARC)",
+            "contact": "Parth Dhruv (SARC CTM: 99049 59162), Sarvagya Jain (SARC CTM: 94248 00631)"
+        }
     }
 ]
