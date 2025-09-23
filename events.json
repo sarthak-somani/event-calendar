@@ -2473,5 +2473,16 @@
             "organisingBody": "Cultural Affairs, IIT Bombay",
             "contact": "Somya Dahiaya, Fine Arts Captain, +91 9653797211"
         }
+    },
+    {
+        "title": "Girls Cricket Workshop",
+        "start": "2023-09-24T17:30:00",
+        "end": "2023-09-24T17:30:00",
+        "extendedProps": {
+            "description": "The IIT Bombay Cricket Club is organizing a Girls Cricket Workshop, exclusively designed to introduce you to the game, sharpen your skills, and build your confidence on the pitch. Whether you\u2019re completely new to cricket or already have some experience, this workshop promises to be engaging, fun, and empowering. This workshop will cover the basics of batting, bowling, and fielding.",
+            "venue": "Indoor Cricket Nets (opposite Hostel 3)",
+            "organisingBody": "IIT Bombay Cricket Club (Institute Sports Council)",
+            "contact": "Pradyumna Gugulothu (+91 70139 54490)"
+        }
     }
 ]
