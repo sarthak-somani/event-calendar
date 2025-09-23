@@ -2517,5 +2517,27 @@
             "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
             "contact": "Prakhar Agrahari (+91-9328154065), Samyak Pahade (+91 93260 16906)"
         }
+    },
+    {
+        "title": "Movie Night- Screening of Gravity",
+        "start": "2024-09-24T21:00:00",
+        "end": "NoneT21:00:00",
+        "extendedProps": {
+            "description": "After a grueling week of midsems and late-night study sessions, it's time to unwind and switch orbits. Krittika, the Astronomy Club of IIT Bombay, invites you to a screening of the acclaimed space thriller Gravity. Join us for an evening that offers a cinematic journey beyond Earth. Bring your friends, relax, and let the cosmos captivate you.",
+            "venue": "LTPCSA",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "Anvit Khade and Yash Palwe, Krittika Managers"
+        }
+    },
+    {
+        "title": "Antarlaya: A Journey Within Through Dance and Meditation",
+        "start": "2025-09-24T18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "An immersive evening of meditation, music, and dance, presenting Indian classical and world dance traditions (Kathak, Odissi, Flamenco) interwoven with meditation, guiding participants on a profound inner journey of self-realisation. Highlights include Sahaja Yoga Meditation for awakening inner silence and a collective celebration of music, rhythm, and spirit. Refreshments are provided.",
+            "venue": "PC Saxena Auditorium (LT PCSA), IIT Bombay",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "Nidhi Verma at +918602409282"
+        }
     }
 ]
