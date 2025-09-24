@@ -2715,5 +2715,27 @@
             "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
             "contact": "Prakhar Agrahari & Samyak Pahade, +91-9328154065 & +91-9326016906"
         }
+    },
+    {
+        "title": "Vaani's Aaghaz (Club Orientation)",
+        "start": "NoneT17:30:00",
+        "end": "NoneT17:30:00",
+        "extendedProps": {
+            "description": "Vaani, The Indian Languages Club of IIT Bombay, invites you to Aaghaz, their first event after the Blackout period. This evening celebrates the diversity of Indian languages, featuring a special performance by Pallavi Gurbani (Hindi poetry and storytelling). It welcomes participants to sing, recite poetry, or speak in their mother tongue or any Indian language, and listeners to appreciate India's diverse literary traditions.",
+            "venue": "Theatre room OLD SAC",
+            "organisingBody": "Vaani, The Indian Languages Club of IIT Bombay",
+            "contact": "Mohammed Zaif Ansari, Institute Indian Languages Secretary (+91 8140275394); Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay (+91 79991 57905)"
+        }
+    },
+    {
+        "title": "Capabilities and Advantages of Laser-free Confocal facility at BSBE",
+        "start": "NoneT14:30:00",
+        "end": "NoneT14:30:00",
+        "extendedProps": {
+            "description": "An offline seminar to promote the capabilities and advantages of the laser-Free Confocal Facility housed in the Department of Biosciences and Bioengineering (BSBE), under the supervision of Prof. Anirban Banerjee.",
+            "venue": "BSBE, Seminar Room (A), Ground floor.",
+            "organisingBody": "Department of Biosciences and Bioengineering (BSBE)",
+            "contact": "Prof. Anirban Banerjee"
+        }
     }
 ]
