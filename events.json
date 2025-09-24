@@ -2605,5 +2605,38 @@
             "organisingBody": "Training and Development Cell, in collaboration with the Computer Centre, Indian Institute of Technology Bombay",
             "contact": "Ms. Pramila Yeshwant Sasalekar, Senior Assistant Registrar, Training and Development Cell, Indian Institute of Technology Bombay. Tel (Office) - 022 02159 6006"
         }
+    },
+    {
+        "title": "SARCathon 2025",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "SARCathon 2025 is the flagship pan-IIT competition where students from over 18+ IITs will compete across five exciting challenges: Consult Quest, AI Hackathon, Portfolio Playoff, Bizarro, and Catch The Flag. Participants stand to gain prizes and incentives worth over \u20b95 Lakhs along with exclusive internship opportunities. The registration deadline has been extended to 25th September, 11:59 PM.",
+            "venue": null,
+            "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
+            "contact": "Parth Dhruv | SARC CTM | 99049 59162; Sarvagya Jain | SARC CTM | 94248 00631"
+        }
+    },
+    {
+        "title": "'Ek Din, Ek Ghanta, Ek Saath' shramdaan movement",
+        "start": "2025-09-25T08:00:00",
+        "end": "2025-09-25T08:00:00",
+        "extendedProps": {
+            "description": "As part of Swachhata Hi Seva 2025 Campaign, this is a cleanliness drive organized for the IIT campus community. Volunteers will gather at specific locations along the route from the Market Gate to the Hillside area and will be provided with collection bags and hand gloves.",
+            "venue": "Along the route from the Market Gate to the Hillside area. Gathering points: Market Gate parking area and Hill side area near Udaygiri H1- 15.",
+            "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay)",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel.No.: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Village Development through Public Participation in Water Conservation, Forest Protection, and Environmental Preservation",
+        "start": "2025-10-01T16:00:00",
+        "end": "NoneT16:00:00",
+        "extendedProps": {
+            "description": "Facing a critical water shortage from deforestation, Shri Chaitram Pawar united his village thirty-five years ago. They banned grazing and firewood cutting, and built 450 small bunds to capture rainwater. The results were transformative: nine new ponds rejuvenated wells and groundwater. A hamlet that once fetched water from 5 km away now supplies five villages. Reliable water enabled double-cropping, ending migration and boosting the economy. The community later secured forest rights for 44 villages, which now manage their own conservation programs. Chaitramji's lifelong dedication to transforming his region through community-led water and forest conservation has promoted sustainable village development. His work with the Baripada Gram Vikas Samitee has revitalized agriculture, improved groundwater levels, and restored the dignity of the tribal community by building a self-reliant model village in Nandurbar, Maharashtra. Shri Chaitram Devchand Pawar is a distinguished social worker and environmental conservationist with over three decades of dedicated service to tribal and rural communities. Beginning his journey with the Vanvasi Kalyan Ashram, he now oversees impactful work across over 100 villages in Maharashtra and Gujarat as the Regional Head for the Marathwada and Khandesh divisions. His leadership has significantly expanded the scope of this work, which now operates through 14 clusters spanning 6 states. His innovative community-driven livelihood and leadership development model has been widely recognized and adopted by other organizations across the Western Ghats. He is the first recipient of Maharashtra's Van Bhushan Puraskar recognized in 2024 for his significant contributions to forest conservation, sustainable development, and social reform in Maharashtra. He is a recipient of the Padma Shri [1] award, for his work with forest-dwelling tribes, focusing on self-reliance, natural resource conservation, and the implementation of the Forest Rights Act [2]. In recognition of his expertise, he was appointed as an Expert Member on the Advisory Committee of the Ministry of Environment, Forests, and Climate Change, Government of India, in 2015. Despite international recognition such as the IFAD International Prize and the \"Aadivasi Mitra\" award, and despite holding key roles in state and central government committees, he remains detached from the limelight.",
+            "venue": "F.C. Kohli Auditorium, Kanwal Rekhi Building (KReSIT), IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
