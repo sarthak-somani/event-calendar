@@ -2594,5 +2594,16 @@
             "organisingBody": "Analytics Club, Undergraduate Academic Council (UGAC)",
             "contact": "Aryan Kashyap, Manager, Analytics Club, Undergraduate Academic Council (UGAC), 6206443759, analyticsclub@iitb.ac.in"
         }
+    },
+    {
+        "title": "Training Session on Google Workspace for Education Plus: Enhancing Teaching and Learning with Google Workspace Tools",
+        "start": "2025-09-24T14:30:00",
+        "end": "2025-09-24T14:30:00",
+        "extendedProps": {
+            "description": "The Computer Centre has provisioned Google Workspace for Education Plus for IIT Bombay users, effective from February 2025. To enhance utilization, the Training and Development Cell, in collaboration with the Computer Centre, is organizing this training session. Speaker: Ms. Jagriti Dubey (Deployment Specialist, Cloud Companions Technology - Google Partner). Session Highlights: Google Meet (Breakout rooms, polls, Q&A, captions, noise cancellation, live streaming), Google Classroom (Gemini, originality reports, peer matching, practice sets, templates), Productivity Tools (eSignatures in Docs/Drive, Google Cloud Search), Generative AI (Gemini & NotebookLM for research, summarization, and content creation). Registration was required via form (https://forms.gle/c4XkEFm7h8d9YBzW9) by September 23, 2025, 5:00 PM.",
+            "venue": "LA-202, Lecture Hall, IIT Bombay",
+            "organisingBody": "Training and Development Cell, in collaboration with the Computer Centre, Indian Institute of Technology Bombay",
+            "contact": "Ms. Pramila Yeshwant Sasalekar, Senior Assistant Registrar, Training and Development Cell, Indian Institute of Technology Bombay. Tel (Office) - 022 02159 6006"
+        }
     }
 ]
