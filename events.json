@@ -2649,5 +2649,27 @@
             "organisingBody": "Kava, the Culinary Club of IITB",
             "contact": "9372234224"
         }
+    },
+    {
+        "title": "Swachhotsav 2025",
+        "start": "2025-10-01T14:30:00",
+        "end": "NoneT14:30:00",
+        "extendedProps": {
+            "description": "An event to present the Institute Cleanliness Awards, recognizing dedicated efforts in creating and maintaining a clean, green, and happy campus. It will also include the presentation of appreciation certificates for various competitions held as part of Swachhata Pakhwada 2025 for students of Campus School, Kendriya Vidyalaya, and IIT Bombay. Prof. Ramesh Venkateswaran will be the Chief Guest.",
+            "venue": "P.C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay (Publications & Public Relations Office)",
+            "contact": "Tel: (+91-22) 25767026-27 (Public Relations Office)"
+        }
+    },
+    {
+        "title": "Resume Making & Apping Series | Session 1: How to Build a Resume",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Career Cell | EnPoWER | UGAC",
+            "contact": null
+        }
     }
 ]
