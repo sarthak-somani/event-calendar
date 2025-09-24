@@ -2704,5 +2704,16 @@
             "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
             "contact": "+91 91460 50850"
         }
+    },
+    {
+        "title": "SIH 2025 Internal Hackathon",
+        "start": "NoneTNone",
+        "end": "2025-09-24TNone",
+        "extendedProps": {
+            "description": "Reminder for SIH 2025 Internal Hackathon submission deadline and sample presentations.",
+            "venue": null,
+            "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": "Prakhar Agrahari & Samyak Pahade, +91-9328154065 & +91-9326016906"
+        }
     }
 ]
