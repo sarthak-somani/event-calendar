@@ -2737,5 +2737,38 @@
             "organisingBody": "Department of Biosciences and Bioengineering (BSBE)",
             "contact": "Prof. Anirban Banerjee"
         }
+    },
+    {
+        "title": "Capabilities and Advantages of Laser-free Confocal facility at BSBE",
+        "start": "2025-10-07T14:30:00",
+        "end": "2025-10-07T14:30:00",
+        "extendedProps": {
+            "description": "An offline seminar to promote the capabilities and advantages of the Laser-free Confocal Facility under the supervision of Prof. Anirban Banerjee, located in the Department of Biosciences and Bioengineering (BSBE).",
+            "venue": "BSBE, Seminar Room (A), Ground floor.",
+            "organisingBody": "Centre for Sophisticated Instruments and Facilities (CSIF)",
+            "contact": "Prof. Anirban Banerjee"
+        }
+    },
+    {
+        "title": "Capabilities and Advantages of Laser-free Confocal facility at BSBE",
+        "start": "2025-10-07T14:30:00",
+        "end": "2025-10-07T14:30:00",
+        "extendedProps": {
+            "description": "An offline seminar promoting the capabilities and advantages of the Laser-Free Confocal Facility under the supervision of Prof. Anirban Banerjee, located in the Department of Biosciences and Bioengineering (BSBE). Those interested may contact Prof. Banerjee directly.",
+            "venue": "BSBE, Seminar Room (A), Ground floor.",
+            "organisingBody": "Centre for Sophisticated Instruments and Facilities (CSIF)",
+            "contact": null
+        }
+    },
+    {
+        "title": "Registration for PhD Placements 2025\u201326",
+        "start": "2025-09-24TNone",
+        "end": "2025-10-17TNone",
+        "extendedProps": {
+            "description": "PhD Placement Registration for the Academic Year 2025-26 is now open. Registration is mandatory for placement opportunities and must be completed online within the specified period. Students must review the PhD Placement Policy and Process documents before registering. JAFs from companies are expected from October for registered students.",
+            "venue": "https://campus.placements.iitb.ac.in/",
+            "organisingBody": "Placement Cell, IIT Bombay",
+            "contact": "your respective PhD Placement Managers"
+        }
     }
 ]
