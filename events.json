@@ -2583,5 +2583,16 @@
             "organisingBody": "IIT Bombay Cultural Affairs",
             "contact": "Phalansh Eeshev (+91 8764194823), Toyaj Kabi (72053 30801), Aditya Sisodiya (+91 79991 57905)"
         }
+    },
+    {
+        "title": "CodeLite Analytics: An AI Application Hackathon",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "An AI App Hackathon focused on solving real in-house institutional challenges, in collaboration with Zoho Creator, exclusive to IIT Bombay students. Participants will work on problem statements derived from real issues within the institute, creating solutions with a tangible impact on campus operations and student life. It offers the chance to build and showcase AI-powered applications, win exciting prizes, and gain recognition.",
+            "venue": "Online (Zoho Creator platform)",
+            "organisingBody": "Analytics Club, Undergraduate Academic Council (UGAC)",
+            "contact": "Aryan Kashyap, Manager, Analytics Club, Undergraduate Academic Council (UGAC), 6206443759, analyticsclub@iitb.ac.in"
+        }
     }
 ]
