@@ -2682,5 +2682,27 @@
             "organisingBody": "Publications & Public Relations Office, Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "IITB Rocket Team Freshers' Orientation",
+        "start": "2024-09-25T21:00:00",
+        "end": "NoneT21:00:00",
+        "extendedProps": {
+            "description": "Greetings from the IITB Rocket Team. We\u2019re thrilled to invite you to the Rocket Team Fresher Orientation! This is your chance to catch a glimpse of what we do \u2014 from sketching rocket designs on paper to actually launching them at the International Rocket Engineering Competition, USA. Whether you\u2019re curious about experimenting, solving challenges, or just exploring new ideas, this is the perfect place to see if it sparks your passion. The orientation will give you an insider\u2019s view of our work, the exciting projects you could be part of, and how you can contribute to something both creative and challenging.",
+            "venue": "LH 101",
+            "organisingBody": "IITB Rocket Team",
+            "contact": "Sarvesh Patil, Team Lead, IITB Rocket Team, 9423034000"
+        }
+    },
+    {
+        "title": "Movie Night - Screening of Gravity",
+        "start": "2025-09-24T21:00:00",
+        "end": "NoneT21:00:00",
+        "extendedProps": {
+            "description": "After a grueling week of midsems and late-night study sessions, it's time to unwind and switch orbits. Krittika, the Astronomy Club of IIT Bombay, invites you to a screening of the acclaimed space thriller Gravity. Join us for an evening that offers a cinematic journey beyond Earth. Bring your friends, relax, and let the cosmos captivate you.",
+            "venue": "LTPCSA",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "+91 91460 50850"
+        }
     }
 ]
