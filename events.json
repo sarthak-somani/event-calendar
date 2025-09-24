@@ -2671,5 +2671,16 @@
             "organisingBody": "Career Cell | EnPoWER | UGAC",
             "contact": null
         }
+    },
+    {
+        "title": "Gandhi Jayanti & Swaranjali cultural programme",
+        "start": "2025-10-02T09:00:00",
+        "end": "2025-10-02T09:00:00",
+        "extendedProps": {
+            "description": "An annual cultural programme, Swaranjali, celebrating the birth anniversaries of Mahatma Gandhi and Lal Bahadur Shastri, and observing Swachhata Diwas. All campus residents are invited.",
+            "venue": "PC Saxena auditorium",
+            "organisingBody": "Publications & Public Relations Office, Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, (+91-22) 25767026-27"
+        }
     }
 ]
