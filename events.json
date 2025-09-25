@@ -2924,5 +2924,16 @@
             "organisingBody": "StyleUp, the Fashion Club of IIT Bombay",
             "contact": "Muskan Soni, Institute Fashion Nominee, 9812920301"
         }
+    },
+    {
+        "title": "Git 101",
+        "start": "2025-09-27T19:30:00",
+        "end": "NoneT19:30:00",
+        "extendedProps": {
+            "description": "Web and Coding Club, IIT Bombay presents the first session of the 101 Series: Git-101. This workshop will cover essential Git and GitHub concepts from bare basics, with no pre-requisites. Participants should bring their laptops for an interactive session.",
+            "venue": "LH 101",
+            "organisingBody": "Web and Coding Club (WnCC), IIT Bombay",
+            "contact": "Utkarsh Tanwar: 8826799261, Riddhi Yeola: 7735361219, Veeraditya: 9449007525, Pratyaksh: 9662201929, Shahu Patil: +919146050850"
+        }
     }
 ]
