@@ -2935,5 +2935,27 @@
             "organisingBody": "Web and Coding Club (WnCC), IIT Bombay",
             "contact": "Utkarsh Tanwar: 8826799261, Riddhi Yeola: 7735361219, Veeraditya: 9449007525, Pratyaksh: 9662201929, Shahu Patil: +919146050850"
         }
+    },
+    {
+        "title": "Lord of the Lit",
+        "start": "NoneT19:00:00",
+        "end": "NoneT19:00:00",
+        "extendedProps": {
+            "description": "Greetings from literati! Finally, the hour has come when weary minds must lay aside their troubles, and hearts must be turned to merrier things. We beckon you to our shire, known to many as Literati. Few know of its full measure, a guild of riddlers and readers, of quizlords and wordsmiths, of board gamers and verse weavers, and above all, a gathering of kindred spirits. On this day of gathering, we cast wide the gates and summon all those willing to listen, play, and learn, whether you are seasoned in quests of knowledge or merely curious to set foot upon the path. Come, join us on the eve of the 26th of September, as we journey through everything that is Literati. We promise you an evening of quizzes, word games, cryptics, board games, and, of course, a chance to meet companions alike spirit. <333",
+            "venue": "LC 102",
+            "organisingBody": "Literati",
+            "contact": "7021226057"
+        }
+    },
+    {
+        "title": "IMLP (Introductory Music Learning Program) Session 0",
+        "start": "2025-09-26T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "Symphony - the Music Club of IIT Bombay is back with the Introductory Music Learning Program (IMLP). IMLP is a 4-week, free course aimed at making music accessible to everyone. Session 0 will cover course policy and structure, provide a sneak peek into each discipline, offer a chance to meet instructors and fellow music lovers, and include a QnA session with fun and freebies. Registrations are open, but attendance for Session 0 is also possible without prior registration.",
+            "venue": "LH102",
+            "organisingBody": "Symphony - the Music Club of IIT Bombay",
+            "contact": "Siddharth Kumar Khanda (Institute Music Secretary, Institute Cultural Council, Ph: 7568267949, Email: ismusic@iitb.ac.in), Aditya Sisodiya (General Secretary, Cultural Affairs, IIT Bombay, Ph: +91 79991 57905)"
+        }
     }
 ]
