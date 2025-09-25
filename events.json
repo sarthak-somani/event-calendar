@@ -2869,5 +2869,27 @@
             "organisingBody": "Student Wellness Centre (SWC) x SilverScreen, IIT Bombay",
             "contact": "outreach.swc@iitb.ac.in"
         }
+    },
+    {
+        "title": "Design 101",
+        "start": "2023-09-25T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "We\u2019re excited to invite you to Design 101 \u2013 a fun kickoff event by the Design Club, IIT Bombay! \u2728 This is your chance to dive into the world of design, discover what we do, play exciting games, win freebies, and vibe with fellow creative minds. Whether you\u2019re brand new to design or already know a bit, this evening is all about fun, creativity, and good energy. \ud83c\udfa8\ud83d\udd25 No prior experience needed\u2014just bring your curiosity and enthusiasm.",
+            "venue": "LC 102",
+            "organisingBody": "Design Club, IIT Bombay",
+            "contact": "Aman Russell, Institute Design Secretary, Mob. No.: +91 79029 21178; Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay, Mob. No.: +91 79991 57905"
+        }
+    },
+    {
+        "title": "The Startup Lab: Weekly Mentoring Sessions",
+        "start": "2025-08-21T14:00:00",
+        "end": "2025-08-21T14:00:00",
+        "extendedProps": {
+            "description": "Personalized mentoring sessions for individuals / teams at various stages of venture creation or entrepreneurial identity creation. Sessions are held every Thursday. The first session was on World Entrepreneurs Day.",
+            "venue": null,
+            "organisingBody": "Institution Innovation Council (IIC) in collaboration with DSSE",
+            "contact": "Mr Sanjay Kaharat"
+        }
     }
 ]
