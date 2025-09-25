@@ -2825,5 +2825,27 @@
             "organisingBody": "BioX Club",
             "contact": "Gaurish K (+91 9766206523), Shahu Patil (+91 91460 50850)"
         }
+    },
+    {
+        "title": "Blood Donation Drive",
+        "start": "2025-09-28T10:00:00",
+        "end": "2025-09-28T10:00:00",
+        "extendedProps": {
+            "description": "The National Service Scheme (NSS), IIT Bombay, is organizing a blood donation drive. Blood donation is a noble act that can help save countless lives, and participants are encouraged to contribute to make a significant difference in someone's life.",
+            "venue": "Convo Foyer",
+            "organisingBody": "NSS IIT Bombay",
+            "contact": "Shubham: 9359172874, Arpita: 9356878979"
+        }
+    },
+    {
+        "title": "Equity Research Competition 2026",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "An Equity Research Competition organized by the Finance Club, UGAC, IIT Bombay. Participants in teams of 1-3 will select a stock, conduct advanced research, and present their findings to a panel of experts. The competition comprises two rounds: submission of decks (Round 1) and an offline presentation (Round 2). Exciting prizes await the winners.",
+            "venue": null,
+            "organisingBody": "Finance Club, UGAC",
+            "contact": "Kopal | Ritwik, Managers, Finance Club, Undergraduate Academic Council, 9632445404 | 7400290708"
+        }
     }
 ]
