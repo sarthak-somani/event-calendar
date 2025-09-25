@@ -2847,5 +2847,27 @@
             "organisingBody": "Finance Club, UGAC",
             "contact": "Kopal | Ritwik, Managers, Finance Club, Undergraduate Academic Council, 9632445404 | 7400290708"
         }
+    },
+    {
+        "title": "Sanskrit Certificate Courses",
+        "start": "2025-09-29T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "The Sanskrit Certificate Courses are jointly organized by IIT Bombay and Kavikulaguru Kalidas Sanskrit University. Level 1 (L1) is for beginners. Batch 1 classes are on Mondays & Thursdays, 8:30 PM - 10:00 PM. Batch 2 classes are on Tuesdays & Fridays, 8:30 PM - 10:00 PM (weekend option available). Course Fee: \u20b92000/- (inclusive of study material).",
+            "venue": null,
+            "organisingBody": "IIT Bombay and Kavikulaguru Kalidas Sanskrit University",
+            "contact": "Mr. Pranav Gogate +91 80078 89485"
+        }
+    },
+    {
+        "title": "Soulcial: Short Film Making Competition & Screening Event",
+        "start": "2025-10-11TNone",
+        "end": "2025-10-11TNone",
+        "extendedProps": {
+            "description": "Soulcial is a short filmmaking competition and screening event by SWC x SilverScreen. Participants are invited to share stories through film around themes like Resilience, Hope, Connection, Belonging, Self-Care, Overcoming Challenges, Empathy, and New Beginnings. It is open to all members of the IITB community (students, faculty, staff, residents). Film duration: 5-10 minutes. Team size: No minimum or maximum (solo entries welcome). The submission deadline for films has been extended to Wednesday, 8th October 2025, 11:59 PM. Exciting prizes await winners, and all participants receive certificates. The Soulcial Screening has been rescheduled to Saturday, 11th October 2025. Timings and venue for the screening will be shared soon. Registration for both the competition and the screening event is available via provided links.",
+            "venue": null,
+            "organisingBody": "Student Wellness Centre (SWC) x SilverScreen, IIT Bombay",
+            "contact": "outreach.swc@iitb.ac.in"
+        }
     }
 ]
