@@ -2792,5 +2792,16 @@
             "organisingBody": "Institute Sports Council, IIT Bombay",
             "contact": "Piyush, Fitness Club Manager, +91 9479591296"
         }
+    },
+    {
+        "title": "RC Plane Competition 2025",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "The most awaited Aerial Design Competition, RC Plane 2025 is finally here, where designs on paper actually take flight and RC pilots are born. This is your chance to design, build, and fly your very own RC aircraft and see it fly among the birds in the sky!",
+            "venue": null,
+            "organisingBody": "Aeromodelling Club, IIT Bombay",
+            "contact": "Visvakrt Ram: +91 8074023208, Krupa Pai: +91 9833370147, Shahu Patil: +91 91460 50850"
+        }
     }
 ]
