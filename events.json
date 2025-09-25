@@ -2891,5 +2891,27 @@
             "organisingBody": "Institution Innovation Council (IIC) in collaboration with DSSE",
             "contact": "Mr Sanjay Kaharat"
         }
+    },
+    {
+        "title": "Sport Of The Month | Pickleball",
+        "start": "2023-09-27T17:15:00",
+        "end": "2023-10-05T17:15:00",
+        "extendedProps": {
+            "description": "The Institute Sports Council introduces Pickleball, a dynamic sport blending elements of badminton, tennis, and table tennis. Played on a smaller court with a paddle and a perforated ball, it's easy to learn yet offers endless strategy and skill. Available in singles (1 vs 1) and doubles (2 vs 2) formats, it's perfect for a quick workout or a friendly challenge. We invite you to experience the thrill.",
+            "venue": "Lawn Tennis Courts",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Akshat Karkar (Institute Board Games Secretary, 9321609259); Rajwardhan Toraskar (General Secretary, Sports Affairs, IIT Bombay, +91 9619000065)"
+        }
+    },
+    {
+        "title": "Institute Badminton Open",
+        "start": "2025-09-27TNone",
+        "end": "2025-09-29TNone",
+        "extendedProps": {
+            "description": "Get ready to bring your best game to the court. The Institute Badminton Open is here, a chance to test your skills, compete with the best on campus, and enjoy three days of exciting matches. Open for all campus residents. Registration fee: INR 50/-. Gum sole shoes are compulsory.",
+            "venue": "Indoor Badminton Courts",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Sai Charan, Institute Badminton Secretary, 7358179779"
+        }
     }
 ]
