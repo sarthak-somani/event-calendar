@@ -3034,5 +3034,38 @@
             "organisingBody": "BioX Club",
             "contact": "Gaurish K (BioX Manager 25-26, +91 9766206523); Shahu Patil (General Secretary Technical Affairs 25-26, IIT Bombay, +91 91460 50850)"
         }
+    },
+    {
+        "title": "Session on Legal and Financial frameworks for Businesses",
+        "start": "2025-09-27T16:00:00",
+        "end": "2025-09-27T16:00:00",
+        "extendedProps": {
+            "description": "Are you interested in building your own business, but find the legalities too complex? The session will break down the essentials of building a business the right way, from choosing the right legal structure and safeguarding intellectual property to navigating taxes, compliance and funding options. This session will give aspiring business-persons the legal and financial toolkit they need to grow confidently. The session will run for an hour, followed by a 20\u201325 minute Q&A segment. Don\u2019t miss this chance to get clarity on the foundations of building a legally sound and financially viable business. Meeting ID: 431 232 134 510 1, Passcode: TC2vA9QK, Meeting link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDIxMThjZTgtZGFjMC00MTcxLTgzZWUtNzk3ZmY1OWUyMjk0%40thread.v2/0?context=%7b%22Tid%22%3a%22403ee5f4-55b3-45cd-8ae2-824be887a075%22%2c%22Oid%22%3a%22949854ad-af0b-43d9-8417-928337744a7f%22%7d",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "Finance Club, Undergraduate Academic Council (UGAC)",
+            "contact": "Kopal (9632445404), Ritwik (7400290708)"
+        }
+    },
+    {
+        "title": "Onspot Filmmaking Challenge",
+        "start": "2023-09-27T10:00:00",
+        "end": "2023-09-27T10:00:00",
+        "extendedProps": {
+            "description": "Ever wondered what it\u2019s like to make your own film? This is your chance! With mentors from SilverScreen to guide you, spend a full day creating your film. Come on with your friends, bring your ideas and energy. Your films will be screened the very next day for everyone to watch. Everyone is welcome to participate, and for freshers, it\u2019s a special first-time opportunity inside IITB to create a film from scratch. Remember, life is too short to not make films.",
+            "venue": "Open Air Theatre (OAT), IIT Bombay",
+            "organisingBody": "SilverScreen",
+            "contact": "Chaheti Rathore: 8955226755"
+        }
+    },
+    {
+        "title": "Saathi Orientation",
+        "start": "2024-09-27T16:00:00",
+        "end": "NoneT16:00:00",
+        "extendedProps": {
+            "description": "Come hang out, get to know what Saathi is all about, and be part of making IITB a safe, inclusive, and welcoming space for everyone. Open to all - queer folks, *allies*, and anyone curious to learn more. A chance to connect, make friends, and find community\u2728",
+            "venue": "CL 234, Dept. of Chemistry",
+            "organisingBody": "Saathi",
+            "contact": "+91 79991 57905 (Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay)"
+        }
     }
 ]
