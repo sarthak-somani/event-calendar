@@ -3067,5 +3067,49 @@
             "organisingBody": "Saathi",
             "contact": "+91 79991 57905 (Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay)"
         }
+    },
+    {
+        "title": "Dandiya Night 2025",
+        "start": "2025-09-27T18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "The festive beats of Navratri are here, and it\u2019s time to light up the campus with music, color, and dance! Roots, the Institute Classical and Folk Arts Club, invites you to Dandiya Night 2025 \u2013 an evening where tradition meets celebration, and every step brings joy. Whether you\u2019re a seasoned garba pro or just looking to swirl your way into the festive mood, this is the place to be! Dress up in your festive best, bring along your energy and enthusiasm, and get ready for a night filled with colors, culture, and celebration. We look forward to seeing you on the dance floor!",
+            "venue": "OAT, Old SAC, IIT Bombay",
+            "organisingBody": "Roots - Institute Classical and Folk Arts Club",
+            "contact": "Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay; +91 79991 57905; Instagram: https://www.instagram.com/culturals.iitb; InstiApp: https://www.insti.app/org/culturalsiitb"
+        }
+    },
+    {
+        "title": "Kotak Kanya Scholarship Orientation Session",
+        "start": "2025-09-30T18:00:00",
+        "end": "2025-09-30T18:00:00",
+        "extendedProps": {
+            "description": "Due to high occupancy during the previous on-campus orientation, this online session is organized for 1st-year B.Tech women students of IIT Bombay to learn more about the Kotak Kanya Scholarship. The session will cover scholarship benefits, financial support, eligibility, application process, mentorship, and growth opportunities.",
+            "venue": "Online (https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGViMWE3MDMtZjAxMi00NDQ0LWEyNTYtOWYwNDg0N2E5M2E2%40thread.v2/0?context=%7b%22Tid%22%3a%22052f915c-5795-49bf-aa62-6197515f0338%22%2c%22Oid%22%3a%2231acba4e-7204-4a11-bc49-434f4be4ce62%22%7d)",
+            "organisingBody": "Office of Dean ACR, IIT Bombay",
+            "contact": null
+        }
+    },
+    {
+        "title": "Internship Season 2025-26 for 2nd year UG & 1st year MSc/MSc-Phd Students",
+        "start": "2025-09-23TNone",
+        "end": "2025-10-04TNone",
+        "extendedProps": {
+            "description": "Announcement of the Internship Season 2025-26, outlining important dates and deadlines for registration, payment, resume submission, proof submission, and verification for 2nd year UG and 1st year MSc/MSc-Phd students. Key dates are: Registration and Payment Open on 23rd September; Registration and Payment Deadline on 28th September, 2025 at 11:59 PM; Resume Submission, Proof Submission and Proof Verification Deadline on 1st October; Resume Verification by Placement Office on 4th October.",
+            "venue": null,
+            "organisingBody": "Placement Managers 2025-26, IIT Bombay",
+            "contact": "pm.placement@iitb.ac.in"
+        }
+    },
+    {
+        "title": "National Level Online Quiz Competition on the occasion of World River Day",
+        "start": "2025-09-28T16:00:00",
+        "end": "2025-09-28T16:00:00",
+        "extendedProps": {
+            "description": "The Bureau of Indian Standards (BIS) is hosting a National Level Online Quiz Competition for students of MoU partner institutes. The quiz will have 30 questions in 30 minutes, based on 'Standards Watch 19 & 20' and study material on water pollution and conservation. Prizes include \u20b915,000 (1st), \u20b910,000 (2nd), \u20b95,000 (3rd), and 10 consolation prizes of \u20b91,000 each. Participation link: https://quiz.bis.gov.in. Study materials are also provided via external links.",
+            "venue": "Online",
+            "organisingBody": "Bureau of Indian Standards (BIS)",
+            "contact": null
+        }
     }
 ]
