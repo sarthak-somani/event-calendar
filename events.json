@@ -2957,5 +2957,16 @@
             "organisingBody": "Symphony - the Music Club of IIT Bombay",
             "contact": "Siddharth Kumar Khanda (Institute Music Secretary, Institute Cultural Council, Ph: 7568267949, Email: ismusic@iitb.ac.in), Aditya Sisodiya (General Secretary, Cultural Affairs, IIT Bombay, Ph: +91 79991 57905)"
         }
+    },
+    {
+        "title": "Mid Semester Examination for BB 101 course",
+        "start": "2025-09-27T14:30:00",
+        "end": "2025-09-27T14:30:00",
+        "extendedProps": {
+            "description": "The Mid Semester Examination for BB 101 course that was scheduled on 17th September, 2025 has been rescheduled to 27th September, 2025 from 14.30 to 16.30 hrs. The seating arrangement is made available at https://acad.iitb.ac.in/files/BB101_Aut_midsem_25-26.pdf.",
+            "venue": null,
+            "organisingBody": "Deputy Registrar (Academic), Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), IIT Bombay, Tele: 022-25767041"
+        }
     }
 ]
