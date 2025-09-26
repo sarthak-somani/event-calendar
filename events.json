@@ -3122,5 +3122,16 @@
             "organisingBody": "Literati; Cultural Affairs, IIT Bombay",
             "contact": "Sakshi Kanal, Institute Literary Arts Secretary: 70212 26057; Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay: +91 79991 57905, gseccult@iitb.ac.in, Instagram: https://www.instagram.com/culturals.iitb, InstiApp: https://www.insti.app/org/culturalsiitb"
         }
+    },
+    {
+        "title": "Seminar and Demonstration: Laser-Free Confocal Microscope",
+        "start": "NoneT14:30:00",
+        "end": "NoneT14:30:00",
+        "extendedProps": {
+            "description": "A seminar followed by a hands-on demonstration of the Laser-Free Confocal Microscope at the Imaging Facility, Department of Biosciences and Bioengineering. This advanced system enables high-speed, multi-channel imaging with significantly reduced photobleaching compared to conventional point-scanning laser confocal microscopes. The topic is 'Capabilities and Advantages of Laser-free Confocal Microscope at BSBE'. Interested individuals are cordially invited to register via the provided form.",
+            "venue": "BSBE, Seminar Room (A), Ground floor.",
+            "organisingBody": "Centre for Sophisticated Instruments and Facilities (CSIF), Indian Institute of Technology Bombay",
+            "contact": "saranya@iitb.ac.in"
+        }
     }
 ]
