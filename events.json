@@ -3001,5 +3001,27 @@
             "organisingBody": "Indian Institute of Technology Bombay, Academic Section",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay, Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Techfest Freshmen Orientation",
+        "start": "2025-09-27T15:30:00",
+        "end": "NoneT15:30:00",
+        "extendedProps": {
+            "description": "Techfest is thrilled to invite all first-year UG and PG students to the Freshmen Orientation, your exclusive gateway into the electrifying world of Asia's Largest Science and Technology Festival. Step into 28 years of legacy, innovation, and unforgettable experiences as you discover what makes Techfest the beating heart of IIT Bombay. Get introduced to the departments of Techfest, including Exhibitions, Lectures, Technoholix, and many more. Discover how each department brings cutting-edge ideas to life! To make it even more special, refreshments, surprise goodies, and exclusive movie tickets await you. Freshmen Orientation promises an unforgettable experience with a powerful talk show by Mr. Ashneer Grover on AI v/s Human, the renowned entrepreneur and author who redefined India's startup culture. You'll also get to know Techfest, witness a dazzling Laser Show, and enjoy a thrilling Tron Performance. Adding to the excitement, catch the exclusive trailer of Tron: Ares by Disney and stay tuned for surprise elements you won't see coming. This isn't just another orientation; it's your launchpad into the future, your first step into a community that breathes technology, thrives on creativity, and celebrates inspiration.",
+            "venue": "Convocation Hall, IIT Bombay",
+            "organisingBody": "Techfest",
+            "contact": null
+        }
+    },
+    {
+        "title": "Git-101 Workshop",
+        "start": "2025-09-26T19:30:00",
+        "end": "NoneT19:30:00",
+        "extendedProps": {
+            "description": "The session will cover the essentials of Git and GitHub from the ground up\u2014perfect for beginners. Don\u2019t forget to bring your laptops for the interactive exercises!",
+            "venue": "LH 101",
+            "organisingBody": "WnCC",
+            "contact": "Utkarsh Tanwar: 88267 99261, Riddhi Yeola: 87672 61552, Nishil Seth: 94075 62590"
+        }
     }
 ]
