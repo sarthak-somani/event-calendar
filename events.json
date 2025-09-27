@@ -3144,5 +3144,16 @@
             "organisingBody": "Team Techfest 2025-26",
             "contact": null
         }
+    },
+    {
+        "title": "ConsultX 2025",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "ConsultX: the flagship case competition for future strategists that strive to disrupt the norm. This is the challenge where ambition meets opportunity to pave the way for solutions that change lives. Get ready to innovate and inspire ideas that combat real-world problems, faced across our institute and our country. Channel your inner business titan to create strategies that bring about lasting impacts and earn a chance to showcase your skills to win exciting rewards! Registration deadline: 3 October. Submission deadline: 12 October.",
+            "venue": null,
+            "organisingBody": "Consult Club, IIT Bombay (Undergraduate Academic Council - UGAC)",
+            "contact": "Anjali Jangid, Manager, Consult Club, Undergraduate Academic Council (UGAC), 8005540470, consultclub@iitb.ac.in"
+        }
     }
 ]
