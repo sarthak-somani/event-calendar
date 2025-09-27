@@ -3166,5 +3166,16 @@
             "organisingBody": "SilverScreen Club, Cultural Affairs, IIT Bombay",
             "contact": "8955226755 (Chaheti Rathore)"
         }
+    },
+    {
+        "title": "Session on Quantitative Arbitrage and applied relative value",
+        "start": "2023-09-28T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "We are delighted to invite you to an engaging session on Quantitative Arbitrage and applied relative value, designed to provide both clarity and depth into one of the most exciting areas of quantitative finance. The session will cover: How traders identify and exploit mispricings across markets; Fundamentals of relative value strategies, pairs trading, and statistical arbitrage; Tools, data, and skills needed to identify and execute these strategies. We are honored to host Mr. Goldy Goyal, Vice President of Commodities Arbitrage Strategies at Tower Research Capital, who will share his expertise and experience in the field. This session is open to all those interested in the intersection of finance, data, and strategy. Whether you are beginning your journey or looking to strengthen your understanding of quantitative methods, this event promises valuable insights and practical knowledge.",
+            "venue": "LC202",
+            "organisingBody": "Finance Club | Undergraduate Academic Council (UGAC)",
+            "contact": "Kopal (9632445404) | Ritwik (7400290708), Managers, Finance Club; Kartik Shilpi Singhal, General Secretary, Academic Affairs (UG) - gsecaaug@iitb.ac.in"
+        }
     }
 ]
