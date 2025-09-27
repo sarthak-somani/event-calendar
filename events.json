@@ -3133,5 +3133,16 @@
             "organisingBody": "Centre for Sophisticated Instruments and Facilities (CSIF), Indian Institute of Technology Bombay",
             "contact": "saranya@iitb.ac.in"
         }
+    },
+    {
+        "title": "Techfest Freshmen Orientation",
+        "start": "2025-09-27T15:30:00",
+        "end": "2025-09-27T15:30:00",
+        "extendedProps": {
+            "description": "Techfest Freshmen Orientation 2025 is your exclusive gateway into the electrifying world of Asia's Largest Science and Technology Festival. It promises an unforgettable evening filled with breathtaking light performances, electrifying shows, a powerful talk show by Mr. Ashneer Grover on AI v/s Human, a dazzling Laser Show, and a thrilling Tron Performance. Get introduced to various Techfest departments and catch the exclusive trailer launch of TRON: Ares by Disney. Refreshments, surprise goodies, and exclusive movie tickets will be provided.",
+            "venue": "Convocation Hall, IIT Bombay",
+            "organisingBody": "Team Techfest 2025-26",
+            "contact": null
+        }
     }
 ]
