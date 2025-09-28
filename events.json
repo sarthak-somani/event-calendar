@@ -3177,5 +3177,27 @@
             "organisingBody": "Finance Club | Undergraduate Academic Council (UGAC)",
             "contact": "Kopal (9632445404) | Ritwik (7400290708), Managers, Finance Club; Kartik Shilpi Singhal, General Secretary, Academic Affairs (UG) - gsecaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Freshers\u2019 Evening, InSync Orientation",
+        "start": "2023-09-29T17:00:00",
+        "end": "2023-09-29T17:00:00",
+        "extendedProps": {
+            "description": "The session will introduce you to the club, its activities, and the opportunities that await you. Refreshments will be on us!",
+            "venue": "Theatre Room, Old SAC",
+            "organisingBody": "InSync",
+            "contact": "Harshita Kumar, Institute Dance Secretary, +91 95893 75565; Aditya Sisodiya, General Secretary, Cultural Affairs, IIT Bombay, +91 79991 57905"
+        }
+    },
+    {
+        "title": "Mixed Cricket League 2025",
+        "start": "2025-10-04TNone",
+        "end": "2025-11-02TNone",
+        "extendedProps": {
+            "description": "The Cricket Club IITB is excited to announce the Mixed Cricket League 2025, a fun and competitive cricket tournament designed for all cricket enthusiasts on campus. Whether you're a seasoned player or just looking to enjoy some casual cricket with friends, this event promises a great time for everyone! It is a knockout tournament for teams of 8 (maximum 5 boys and 3 girls), playing 7 on the field (5 boys and 2 girls). Registration fee is \u20b9300 per team.",
+            "venue": "Open Air Theatre (Old SAC)",
+            "organisingBody": "Institute Sports Council, Cricket Club IITB",
+            "contact": "Pradyumna Gugulothu (+91 70139 54490), Rajwardhan Toraskar (+91 9619000065)"
+        }
     }
 ]
