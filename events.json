@@ -3199,5 +3199,16 @@
             "organisingBody": "Institute Sports Council, Cricket Club IITB",
             "contact": "Pradyumna Gugulothu (+91 70139 54490), Rajwardhan Toraskar (+91 9619000065)"
         }
+    },
+    {
+        "title": "Calisthenics Workshop",
+        "start": "2025-09-29T19:30:00",
+        "end": "2025-09-30T19:30:00",
+        "extendedProps": {
+            "description": "Calisthenics is a form of bodyweight training that emphasizes core strength, flexibility, balance, and full-body conditioning. It uses natural movements to build muscular endurance and control, making it effective for both beginners and advanced fitness enthusiasts.",
+            "venue": "Yoga Room, 3rd Floor, New SAC (opp. Hostel-11)",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Piyush Tailor, Fitness Club Manager, +91 9479591296"
+        }
     }
 ]
