@@ -3287,5 +3287,27 @@
             "organisingBody": "AUV-IITB",
             "contact": "Instagram: https://www.instagram.com/auviitb/, Linkedin: https://shorturl.at/axOW8, Recruitment Whatsapp group: https://chat.whatsapp.com/HBvO8zYCpm8K4etQkV2xPC?mode=ems_copy_t, Anirudh: +91 7878592501, Sparsh: +91 7030880070, Khushajh: +91 9950525333"
         }
+    },
+    {
+        "title": "Freshiezza 2025",
+        "start": "2025-10-10TNone",
+        "end": "2025-10-12TNone",
+        "extendedProps": {
+            "description": "A pan-ICC festival of 15+ cultural competitions exclusively for first-years, where four student pools (H16A, H16B, H16C, H1) compete for the Overall Freshiezza Championship with points awarded for podium finishes and participation.",
+            "venue": null,
+            "organisingBody": "Cultural Affairs, IIT Bombay",
+            "contact": "Sthitadhi Mutsuddy, Institute Cultural Nominee, 8250573763, ugnomcult@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Creative Workshops & Sustainability Action with NSS x Project Circular Bharat by HUL",
+        "start": "2025-10-01T13:00:00",
+        "end": "2025-10-01T13:00:00",
+        "extendedProps": {
+            "description": "NSS IIT Bombay is thrilled to invite you to the Project Circular Bharat event, organised by Hindustan Unilever to mark Swachhata Diwas. This is a celebration of creativity, sustainability, and community action, featuring Creative Upcycling Workshop, Community Action Workshop, and Interactive Start-up Stalls related to waste management. It offers hands-on experience and a chance to represent NSS IIT Bombay.",
+            "venue": "HUL Office, near Gundavali Metro Station, Andheri East",
+            "organisingBody": "NSS IIT Bombay and Hindustan Unilever (HUL)",
+            "contact": "Yashita Chaudhari (+91 9322509931), Kavish Porwal (+91 9993448847)"
+        }
     }
 ]
