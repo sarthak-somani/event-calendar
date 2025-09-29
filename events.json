@@ -3309,5 +3309,16 @@
             "organisingBody": "NSS IIT Bombay and Hindustan Unilever (HUL)",
             "contact": "Yashita Chaudhari (+91 9322509931), Kavish Porwal (+91 9993448847)"
         }
+    },
+    {
+        "title": "Basic to Advanced Photo Editing Workshop",
+        "start": "2023-09-30T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": "Rang and Pixels, the Photography and Fine Arts Club of IIT Bombay, is excited to invite you to a Photo Editing Workshop where we\u2019ll take you from the basics to advanced techniques using Adobe Lightroom. Whether you\u2019re just starting out or already familiar with editing, this session will help you sharpen your skills, explore creative tools, and learn powerful techniques like masking to bring your photos to life. No prior experience is required\u2014just bring your curiosity and passion for photography.",
+            "venue": "LH 301",
+            "organisingBody": "Rang and Pixels, the Photography and Fine Arts Club of IIT Bombay",
+            "contact": "Toyaj: +91 7205 330801, Tanishk: +91 91160 17345"
+        }
     }
 ]
