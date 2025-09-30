@@ -3353,5 +3353,16 @@
             "organisingBody": "Office of Dean ACR, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "SilverScreen - The Premiere",
+        "start": "2023-09-30T19:30:00",
+        "end": "NoneT19:30:00",
+        "extendedProps": {
+            "description": "The premiere event for SilverScreen, IIT Bombay's hub for film and media enthusiasts. Features on-spot film screenings, talks, discussions, freebies, and refreshments. An opportunity to learn about SilverScreen and participate in its activities.",
+            "venue": "Theatre Room",
+            "organisingBody": "SilverScreen",
+            "contact": "Chaheti Rathore (Institute Film and Media Secretary, 8955226755), Aditya Sisodiya (General Secretary, Cultural Affairs, IIT Bombay, +91 79991 57905, Instagram: https://www.instagram.com/culturals.iitb, InstiApp: https://www.insti.app/org/culturalsiitb)"
+        }
     }
 ]
