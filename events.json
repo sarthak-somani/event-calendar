@@ -3419,5 +3419,16 @@
             "organisingBody": "Institute Hostel Affairs Council and Institute Sports Council",
             "contact": "Anshuman Lodhi: +91 79993 75286, Praveen Kumar: +91 89584 34190"
         }
+    },
+    {
+        "title": "Perfios Fintech Innovation Challenge 2025",
+        "start": "2025-12-11TNone",
+        "end": "2025-12-12TNone",
+        "extendedProps": {
+            "description": "A one-of-its-kind national platform for innovators, startups, and students to reimagine the way India experiences fintech. A 3-month intensive hackathon focused on building cutting-edge solutions to revolutionize the fintech and insurtech industry.",
+            "venue": "IIT Bombay",
+            "organisingBody": "The Entrepreneurship Cell, IIT Bombay in collaboration with Perfios",
+            "contact": "Om: 7020558192, Tanushree: 9001931602"
+        }
     }
 ]
