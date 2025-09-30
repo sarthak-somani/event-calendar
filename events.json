@@ -3364,5 +3364,27 @@
             "organisingBody": "SilverScreen",
             "contact": "Chaheti Rathore (Institute Film and Media Secretary, 8955226755), Aditya Sisodiya (General Secretary, Cultural Affairs, IIT Bombay, +91 79991 57905, Instagram: https://www.instagram.com/culturals.iitb, InstiApp: https://www.insti.app/org/culturalsiitb)"
         }
+    },
+    {
+        "title": "Swachhata Pakhwada Awards 2025 Ceremony",
+        "start": "2025-10-01T14:30:00",
+        "end": "NoneT14:30:00",
+        "extendedProps": {
+            "description": "An awards ceremony to felicitate the winners of the Cleanliness Competition under Phase 3 of the \"Clean Campus Drive\" and distribute cash prizes, rotating trophies, and certificates to the top performers.",
+            "venue": "Prof. P.C. Saxena Auditorium",
+            "organisingBody": "Dean Strategy",
+            "contact": null
+        }
+    },
+    {
+        "title": "IITBAA UnIITy Walk 2025: United for Peace and Diversity",
+        "start": "2025-10-02T07:30:00",
+        "end": "2025-10-02T07:30:00",
+        "extendedProps": {
+            "description": "The IIT Bombay Alumni Association (IITBAA) announces UnIITy Walk 2025, an annual 5-kilometer walk inspired by the principles of UNITY, INCLUSIVITY, and NON-VIOLENCE, as advocated by Mahatma Gandhi. All members of the IIT Bombay community, including students, faculty, and staff, are encouraged to participate to promote unity, inclusivity, and non-violence.",
+            "venue": "SAC, Opposite Hostel 1, IIT Bombay Campus",
+            "organisingBody": "IIT Bombay Alumni Association (IITBAA)",
+            "contact": "Mr. Jijo Yohanan - 97739 37300"
+        }
     }
 ]
