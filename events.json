@@ -3452,5 +3452,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Rajwardhan Toraskar, General Secretary, Sports Affairs, IIT Bombay, +91 9619000065"
         }
+    },
+    {
+        "title": "TechConnect 2025",
+        "start": "2025-12-22TNone",
+        "end": "2025-12-24TNone",
+        "extendedProps": {
+            "description": "IIT Bombay\u2019s annual Research & Development showcase, featuring a Tech Exhibition, Symposium, and ResCon. It showcases IIT Bombay\u2019s cutting-edge research, interactive departmental sessions, and vibrant undergraduate innovations, serving as a platform for faculty, students, industry, and policymakers to connect, exchange ideas, and explore opportunities for collaboration and impact.",
+            "venue": null,
+            "organisingBody": "Office of Dean R&D, IIT Bombay",
+            "contact": "Ananthakrishnan B (+91 9319140171), Vedant Dave (+91 7666723355), Mohan Krishna Katta (+91 6302215608), Kartik Singhal (+91 9871027639)"
+        }
     }
 ]
