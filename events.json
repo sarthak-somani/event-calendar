@@ -3507,5 +3507,27 @@
             "organisingBody": "Office of Dean ACR",
             "contact": null
         }
+    },
+    {
+        "title": "Peak Re Sponsored ARECA Case Competition 2025",
+        "start": "2025-10-03TNone",
+        "end": "2025-11-30TNone",
+        "extendedProps": {
+            "description": "A case competition for full-time undergraduate or postgraduate students in the APAC region interested in the general insurance actuarial field, providing hands-on experience with real-world and practical examples. It offers monetary awards totalling USD 5,000, free CAS Exam registrations for winning team members, and an opportunity to present to senior management of Peak Re and CAS Asia Ambassador and the CAS ARECA Committee.",
+            "venue": null,
+            "organisingBody": "Casualty Actuarial Society (CAS) and CAS ARECA, sponsored by Peak Re",
+            "contact": "International@casact.org, vbhartiya@casact.org, blin@casact.org"
+        }
+    },
+    {
+        "title": "Mental Health Week",
+        "start": "2014-10-06T18:00:00",
+        "end": "2014-10-11T18:00:00",
+        "extendedProps": {
+            "description": "A line-up of events hosted by the Student Wellness Centre to help you pause, check in with yourself, and explore simple ways to care for your mind, on the occasion of World Mental Health Day. This week is all about taking a moment to breathe, connect, and remember that mental health is just as important as physical health.",
+            "venue": "Prof. B. Nag Auditorium, G-floor, VMCC",
+            "organisingBody": "Student Wellness Centre",
+            "contact": null
+        }
     }
 ]
