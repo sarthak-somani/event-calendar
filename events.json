@@ -3529,5 +3529,16 @@
             "organisingBody": "Student Wellness Centre",
             "contact": null
         }
+    },
+    {
+        "title": "Complex Chips: Classroom to Commercialization",
+        "start": "2025-10-15T15:30:00",
+        "end": "2025-10-15T15:30:00",
+        "extendedProps": {
+            "description": "A talk presented by Prof. Rajesh Zele, recipient of the Dr. P. K. Patwardhan Technology Development Award 2024, focusing on his R&D work.",
+            "venue": "LA001",
+            "organisingBody": "Dean (R&D) and Associate Dean (R&D)",
+            "contact": null
+        }
     }
 ]
