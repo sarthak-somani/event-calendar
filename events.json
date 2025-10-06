@@ -3551,5 +3551,16 @@
             "organisingBody": "Office of Dean ACR",
             "contact": null
         }
+    },
+    {
+        "title": "Microscale Thermophoresis (MST) Seminar",
+        "start": "2025-10-09T10:30:00",
+        "end": "2025-10-09T10:30:00",
+        "extendedProps": {
+            "description": "An offline seminar on Microscale Thermophoresis (MST) (NanoTemper). The session will focus on the principles, applications, and experimental design strategies of MST technology. It will provide insights into: The working principle of MST and its advantages; Experimental design considerations for accurate measurements; Data acquisition, analysis, and interpretation; Case studies and applications. The seminar will conclude with an interactive discussion focusing on addressing queries and explore how MST can be integrated into ongoing research projects. All students, researchers, and faculty members are warmly invited to participate.",
+            "venue": "Seminar Room A, Department of Biosciences and Bioengineering (BSBE)",
+            "organisingBody": "SPR Facility, Department of Biosciences and Bioengineering, IIT Bombay",
+            "contact": "Prof. Samir Maji"
+        }
     }
 ]
