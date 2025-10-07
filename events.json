@@ -3562,5 +3562,16 @@
             "organisingBody": "SPR Facility, Department of Biosciences and Bioengineering, IIT Bombay",
             "contact": "Prof. Samir Maji"
         }
+    },
+    {
+        "title": "Pulse Polio Camp",
+        "start": "2025-10-12T09:00:00",
+        "end": "2025-10-12T09:00:00",
+        "extendedProps": {
+            "description": "IITB hospital will conduct a pulse polio camp from 9.00 am to 4.00 pm at the Hospital for children below 5 years of age as part of the Pulse Polio Drive scheduled by BMC.",
+            "venue": "IITB Hospital",
+            "organisingBody": "IITB Hospital",
+            "contact": null
+        }
     }
 ]
