@@ -3584,5 +3584,16 @@
             "organisingBody": "Team AZeotropy 2025-26",
             "contact": "Sneha Mane | Events Head | +91 9552712986, Gokul M | Events Head | +91 7010677523"
         }
+    },
+    {
+        "title": "Beyond Solar Cells: Unlocking the Potential of Halide Perovskites",
+        "start": "2025-10-13T17:00:00",
+        "end": "NoneT17:00:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay is organizing an Institute Lecture by Prof. Prashant V. Kamat (University of Notre Dame) titled 'Beyond Solar Cells: Unlocking the Potential of Halide Perovskites'. The lecture will cover new opportunities for tailoring light energy harvesting and photon management with perovskite quantum dots, including applications in display devices and photocatalysis, and insights into interfacial charge transfer processes. You are welcome to attend.",
+            "venue": "P.C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
