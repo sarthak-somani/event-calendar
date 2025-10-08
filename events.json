@@ -3573,5 +3573,16 @@
             "organisingBody": "IITB Hospital",
             "contact": null
         }
+    },
+    {
+        "title": "AZeotropy's All Team Meet",
+        "start": "2025-10-08T17:30:00",
+        "end": "2025-10-08T17:30:00",
+        "extendedProps": {
+            "description": "An invitation to AZeotropy's All Team Meet, an evening packed with energy, inspiration, and fun. Featuring guests Manali Pawar (Dy. Manager, Commercial Excellence at Tata Chemicals), Dr. Prashant Parihar (Chief Manager, R&D at BPCL), and Vinay Natekar (Stand-up Artist & Ventriloquist), the event promises games, exciting prizes, pizza, and coke.",
+            "venue": "LH 102",
+            "organisingBody": "Team AZeotropy 2025-26",
+            "contact": "Sneha Mane | Events Head | +91 9552712986, Gokul M | Events Head | +91 7010677523"
+        }
     }
 ]
