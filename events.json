@@ -3617,5 +3617,16 @@
             "organisingBody": "Institution Innovation Council, IIT Bombay",
             "contact": "Mr. Sanjay Kharat at 8898291682"
         }
+    },
+    {
+        "title": "The future of CERN, and outstanding questions in particle physics",
+        "start": "2025-10-17T17:15:00",
+        "end": "2025-10-17T17:15:00",
+        "extendedProps": {
+            "description": "CERN, in Geneva, Switzerland, is the world's largest laboratory for particle physics and a beacon of international collaboration, with member states from across the globe, including India, contributing engineers, scientists, and ideas. At its heart lies the Large Hadron Collider, the most powerful particle accelerator ever built, whose experiments have yielded profound insights into the fundamental laws of nature, most famously the discovery of the Higgs boson in 2012. Today, the global particle physics community at CERN is shaping the next European Strategy for Particle Physics, a process that may chart the course toward a new flagship collider to succeed the LHC. In this colloquium, I will review where we stand in our understanding of the fundamental building blocks of matter, explain how long-term strategy in our field is developed, and highlight some of the outstanding questions about the Universe that we hope to address in the years ahead.",
+            "venue": "F.C. Kohli Auditorium, Kanwal Rekhi Building (KReSIT), IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
