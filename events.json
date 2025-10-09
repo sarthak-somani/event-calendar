@@ -3639,5 +3639,16 @@
             "organisingBody": "Office of Dean R&D, IIT Bombay",
             "contact": "Ananthakrishnan B | +91 9319140171, Vedant Dave | +91 7666723355, Mohan Krishna Katta | +91 6302215608, Kartik Singhal | +91 9871027639"
         }
+    },
+    {
+        "title": "Ambition to Impact: Building a Contributor Mindset",
+        "start": "2025-10-15T18:00:00",
+        "end": "2025-10-16T18:00:00",
+        "extendedProps": {
+            "description": "A 4-hour interactive workshop by The Flourishing Hub, IIT Bombay, spread across two evenings. It aims to help students reflect on what it means to make a genuine difference, shifting from success measured by results to impact felt through contribution. Topics include finding meaning, integrating values into everyday actions, contributing to uplift self and others, and building trust through authenticity.",
+            "venue": "LC-201 and LT-202",
+            "organisingBody": "The Flourishing Hub, IIT Bombay",
+            "contact": null
+        }
     }
 ]
