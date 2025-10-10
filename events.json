@@ -3650,5 +3650,16 @@
             "organisingBody": "The Flourishing Hub, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Complex Chips: Classroom to Commercialization",
+        "start": "2025-10-15T15:30:00",
+        "end": "2025-10-15T15:30:00",
+        "extendedProps": {
+            "description": "Prof. Rajesh Zele, Department of Electrical Engineering, recipient of the Dr. P. K. Patwardhan Technology Development Award 2024, will give a talk on his R&D work. All are cordially invited to attend.",
+            "venue": "LA001",
+            "organisingBody": "Dean (R&D) Office, IIT Bombay",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
