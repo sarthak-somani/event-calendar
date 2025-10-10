@@ -3661,5 +3661,16 @@
             "organisingBody": "Dean (R&D) Office, IIT Bombay",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Origins - The Grand Kickoff to Third Decade of E-Summit",
+        "start": "2025-10-11T17:30:00",
+        "end": "NoneT17:30:00",
+        "extendedProps": {
+            "description": "Origins is the grand opening event for E-Summit's third decade, fostering entrepreneurship and innovation. The evening features inspiring talks from Gaurav Taneja (Co-Founder, Beast Life) and Shlok Srivastava & Yuvraj Bhati (Co-Founders, NewLearn). It also includes Pitch n' Go, an on-ground competition where IIT Bombay's hostels battle it out, and exciting food stalls.",
+            "venue": "Open Air Theatre, IIT Bombay",
+            "organisingBody": "E-Cell IIT Bombay",
+            "contact": null
+        }
     }
 ]
