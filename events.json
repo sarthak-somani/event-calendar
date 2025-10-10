@@ -3683,5 +3683,16 @@
             "organisingBody": "NCC IIT Bombay",
             "contact": "+91 9130171410"
         }
+    },
+    {
+        "title": "Anomaly Segmentation in Brain MRI Scans with Weak Labels - An Approach using Enriched Spatial Attention with Random Embeddings.",
+        "start": "2025-10-15T16:00:00",
+        "end": "2025-10-15T16:00:00",
+        "extendedProps": {
+            "description": "Invitation to a webinar organized by the Technocraft Center for Applied Artificial Intelligence (TCA2I), IIT Bombay. The session will be delivered by Prof. P. Balamurugan and will cover \"Anomaly Segmentation in Brain MRI Scans with Weak Labels - An Approach using Enriched Spatial Attention with Random Embeddings.\" Topics include an introduction to RASALoRE, a two-stage approach for weakly supervised anomaly segmentation (covering classification-based discriminative dual prompt tuning and refinement with random embeddings), and experimental evaluations on multiple Brain MRI datasets.",
+            "venue": "Online",
+            "organisingBody": "Technocraft Center for Applied Artificial Intelligence (TCA2I), IIT Bombay",
+            "contact": "Manjesh Kumar Hanawal, Professor-In-Charge, TCAAI"
+        }
     }
 ]
