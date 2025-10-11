@@ -3705,5 +3705,16 @@
             "organisingBody": "Chief Vigilance Officer, Indian Institute of Technology Bombay",
             "contact": "Dr. K. G. Suresh, Phone: 91-22-25767559, Cell: 9869649706"
         }
+    },
+    {
+        "title": "Origins - The Grand Kickoff to Third Decade of E-Summit",
+        "start": "2025-10-11T18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "The grand opening event marking the beginning of E-Summit's third decade, featuring speakers Gaurav Taneja (Beast Life) and Shlok Srivastava & Yuvraj Bhati (NewLearn). The event also includes the Pitch n' Go competition and food stalls.",
+            "venue": "Open Air Theatre, IIT Bombay",
+            "organisingBody": "E-Cell, IIT Bombay",
+            "contact": null
+        }
     }
 ]
