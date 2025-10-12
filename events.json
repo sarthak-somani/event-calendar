@@ -3716,5 +3716,16 @@
             "organisingBody": "E-Cell, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Introducing Hult Prize @ IIT Bombay",
+        "start": "2025-10-15T19:00:00",
+        "end": "2025-10-15T19:00:00",
+        "extendedProps": {
+            "description": "Introduction to the Hult Prize campus round (2026 edition) at IIT Bombay, a global competition challenging students to create social enterprises aligned with UN Sustainable Development Goals for a chance to win $1 million. The event will feature a guest speaker, Arundhati Kumar, and an Entrepreneurship Quiz.",
+            "venue": "LH 302",
+            "organisingBody": "Hult Prize @ IIT Bombay",
+            "contact": "Akshat - 9321589006"
+        }
     }
 ]
