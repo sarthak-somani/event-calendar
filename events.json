@@ -3760,5 +3760,16 @@
             "organisingBody": "Dean ACR Office",
             "contact": "Dean ACR Office"
         }
+    },
+    {
+        "title": "Scaling Law for PEG-induced Macromolecular Crowding",
+        "start": "2025-10-14T15:30:00",
+        "end": "2025-10-14T15:30:00",
+        "extendedProps": {
+            "description": "Abstract:\nMacromolecular crowding profoundly shapes intracellular phase behavior, yet the absence of a universal metric for crowding strength limits our ability to compare and predict phase separation across different systems. Here, we use the well-characterized bovine serum albumin (BSA)\u2013polyethylene glycol (PEG) system to dissect the physics of depletion-induced phase separation under crowding. By mapping full phase diagrams for BSA in the presence of PEG of varying molecular weights and polydispersity, we show that the observed behavior is quantitatively captured by Generalized Free Volume Theory (GFVT). Crucially, we identify an entropic crowd- ing parameter \u2014 the ratio of PEG volume fraction to the polymer-excluded volume fraction \u2014 that collapses the data across a range of PEG sizes onto a single master curve. This scaling captures the thermodynamics of crowding-induced LLPS independently of crowder size and covers a broad range of proteins beyond BSA, revealing that protein solubility under crowding is governed by the polymer's occupancy of accessible free volume. Our findings establish a universal control parameter for PEG-induced entropic crowding, enabling quantitative comparison of phase behavior across experimental and physiological contexts.  \n\nAbout the speaker:\nProf. Rebane has completed his PhD in Physics at Yale University. During his doctoral work, Prof. Rebane used single-molecule optical tweezers to study the assembly of SNARE proteins. His postdoctoral research at the Yale School of Medicine focused on how liquid\u2013liquid phase separation of membrane proteins might shape and maintain the architecture of the Golgi Apparatus. He worked at ETH Z\u00fcrich to study the emergent properties of metabolically active droplets of phase-separated proteins, where he was awarded the Ambizione grant from the Swiss National Science Foundation. His primary research areas include: Soft Matter Physics, Single-Molecule Biophysics, Liquid-Liquid Phase Separation, Optical Tweezers, and Intracellular Trafficking. For more information, you may visit his websitehttps://nyuad.nyu.edu/en/academics/divisions/science/faculty/aleksander-rebane.html",
+            "venue": "Seminar Room A, Ground floor, Department of Biosciences and Bioengineering, IIT Bombay",
+            "organisingBody": "The Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN) and Department of Biosciences and Bioengineering at IIT Bombay",
+            "contact": "Samir K Maji, PhD\nInstitute Chair Professor\nProfessor-In Charge, SCAN\nhttps://www.scan.iitb.ac.in\nEmail:pic.scan@iitb.ac.in"
+        }
     }
 ]
