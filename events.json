@@ -3749,5 +3749,16 @@
             "organisingBody": "Institute Sports Council, Aavhan Team, Fitizen India Sports Events",
             "contact": "+91 9619000065"
         }
+    },
+    {
+        "title": "ACCESS Awards 2025",
+        "start": "NoneTNone",
+        "end": "2025-10-15TNone",
+        "extendedProps": {
+            "description": "Announcement of the ACCESS Awards competition (2025 edition) for students engaged in climate and sustainability. Supported by alumni donors Dr. Vinaya Kapoor and Dr. Samir Kapoor, it offers cash prizes, mentorship, and incubation for entrepreneurial climate innovation across themes like Impacts & Adaptation and Mitigation & Finance. Open to teams (2-5 members) with at least one current IIT Bombay student.",
+            "venue": null,
+            "organisingBody": "Dean ACR Office",
+            "contact": "Dean ACR Office"
+        }
     }
 ]
