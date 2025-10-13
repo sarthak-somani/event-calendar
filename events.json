@@ -3738,5 +3738,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "(+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "IITB Half Marathon - 7th Edition",
+        "start": "2025-11-02TNone",
+        "end": "2025-11-02TNone",
+        "extendedProps": {
+            "description": "The IITB Half Marathon, now in its 7th edition, brings together elite runners, fitness enthusiasts, alumni, students, and families. It features 5 km, 10 km, and 21.1 km timed run categories. This edition emphasizes sustainability and Net Zero goals, offering special discounts for IITB students, faculty, and staff.",
+            "venue": "Old SAC, IIT Bombay",
+            "organisingBody": "Institute Sports Council, Aavhan Team, Fitizen India Sports Events",
+            "contact": "+91 9619000065"
+        }
     }
 ]
