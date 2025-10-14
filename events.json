@@ -3771,5 +3771,16 @@
             "organisingBody": "The Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN) and Department of Biosciences and Bioengineering at IIT Bombay",
             "contact": "Samir K Maji, PhD\nInstitute Chair Professor\nProfessor-In Charge, SCAN\nhttps://www.scan.iitb.ac.in\nEmail:pic.scan@iitb.ac.in"
         }
+    },
+    {
+        "title": "Blood Donation for Rapid Hemoglobin Measurement Study",
+        "start": "NoneT11:30:00",
+        "end": "NoneT11:30:00",
+        "extendedProps": {
+            "description": "Volunteers are sought for a blood donation drive to test a new rapid hemoglobin measurement machine developed by the Chemical Engineering Department. Participants will donate 3 mL of venous blood (collected by Agilus Labs) and a drop of finger-prick blood. The study is approved by the Institute Ethics Committee of IIT Bombay. All volunteers will receive a free complete blood count (CBC) report and a chocolate bar/coconut water. Interested individuals can choose a day and slot via a provided Google Sheet.",
+            "venue": "Fluid Mechanics Lab (below ChEA canteen), Ground Floor, Chemical Engineering Dept.",
+            "organisingBody": "Department of Chemical Engineering, IIT Bombay",
+            "contact": "Mahesh S Tirumkudulu"
+        }
     }
 ]
