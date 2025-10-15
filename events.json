@@ -3804,5 +3804,16 @@
             "organisingBody": "Dean (R&D) Office",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Introducing Hult Prize @ IIT Bombay: Orientation & Campus Round Launch",
+        "start": "2025-10-15T19:00:00",
+        "end": "2025-10-15T19:00:00",
+        "extendedProps": {
+            "description": "An orientation and launch event for the Hult Prize @ IIT Bombay campus round, inviting changemakers to explore innovation, sustainability, and entrepreneurship. Learn how to participate in the world's largest student startup competition with a chance to win $1 Million in funding for social enterprises aligned with UN Sustainable Development Goals. The event features a guest speaker, entrepreneurship quiz, and refreshments like pizza.",
+            "venue": "LH 302",
+            "organisingBody": "Hult Prize, IIT Bombay",
+            "contact": "Akshat - 9321589006"
+        }
     }
 ]
