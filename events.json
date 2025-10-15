@@ -3793,5 +3793,16 @@
             "organisingBody": "Caf\u00e9 Quantum / Indian Institute of Technology Bombay",
             "contact": "Sanjay Anant Bhingarde, Manager, Hospitality, Indian Institute of Technology Bombay, Phone: +91-22-25768947"
         }
+    },
+    {
+        "title": "Talk: Complex Chips: Classroom to Commercialization",
+        "start": "2025-10-15T15:30:00",
+        "end": "2025-10-15T15:30:00",
+        "extendedProps": {
+            "description": "A talk by Prof. Rajesh Zele, Department of Electrical Engineering, recipient of the Dr. P. K. Patwardhan Technology Development Award 2024. You are cordially invited to attend the talk, to learn the R&D work by the awardee. Find the flyer here: https://drive.google.com/file/d/1yJSHlww-4NMWp7XGKTPqBCy9jYajNGG2/view?usp=sharing",
+            "venue": "LA001",
+            "organisingBody": "Dean (R&D) Office",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
