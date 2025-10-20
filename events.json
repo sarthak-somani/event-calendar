@@ -3815,5 +3815,16 @@
             "organisingBody": "Hult Prize, IIT Bombay",
             "contact": "Akshat - 9321589006"
         }
+    },
+    {
+        "title": "Winter School 2025 at TU Wien, Austria",
+        "start": "2025-11-13TNone",
+        "end": "2025-11-25TNone",
+        "extendedProps": {
+            "description": "This immersive program at TU Wien, Austria, offers a unique opportunity for Masters & PhD students to engage in an intercultural and interdisciplinary environment. It features lectures, site visits/excursions, hands-on sessions, and an intensive design thinking workshop, providing both theoretical insight and practical experience. Travel allowance and accommodation will be covered by TU Wien. Eligibility criteria include students from 2nd year onward of Masters and Ph.D. programs in specific departments (Mechanical Engineering, Civil Engineering, Environmental Science & Engineering, GESH, Climate Studies, Energy Science & Engineering) who possess a valid passport.",
+            "venue": "TU Wien, Austria",
+            "organisingBody": "Technische Universit\u00e4t (TU) Wien",
+            "contact": "Ms. Chandrika Naik - ir.outgoing@iitb.ac.in, Dr. Ipsita Das - ipsita.das@iitb.ac.in"
+        }
     }
 ]
