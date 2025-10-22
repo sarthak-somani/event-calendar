@@ -3859,5 +3859,16 @@
             "organisingBody": "Student Alumni Relations Cell (SARC)",
             "contact": "Sai Sharanya (+91 83092 70649), Ganesh Sonawane (+91 99754 54641)"
         }
+    },
+    {
+        "title": "RISE (Rural Immersion Program) - 9th Batch, Winter 2025 Call for Applications",
+        "start": "2025-12-01TNone",
+        "end": "2025-12-14TNone",
+        "extendedProps": {
+            "description": "RISE (Rural Immersion Program) at IIT-Bombay is a fully funded 2-week program for students to live with local families, engage with communities, and apply technical knowledge to solve real-world problems in India's villages. The 9th Batch (Winter 2025) applications are open until October 31, 2025.",
+            "venue": "India's villages",
+            "organisingBody": "CTARA, IIT-Bombay",
+            "contact": "riseiitb@gmail.com"
+        }
     }
 ]
