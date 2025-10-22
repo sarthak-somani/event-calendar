@@ -3826,5 +3826,16 @@
             "organisingBody": "Technische Universit\u00e4t (TU) Wien",
             "contact": "Ms. Chandrika Naik - ir.outgoing@iitb.ac.in, Dr. Ipsita Das - ipsita.das@iitb.ac.in"
         }
+    },
+    {
+        "title": "Group Mentoring",
+        "start": "2025-11-02T12:00:00",
+        "end": "2025-11-02T12:00:00",
+        "extendedProps": {
+            "description": "Group Mentoring is an alumni-guided initiative, part of Alumination '25, designed to illuminate career pathways and provide valuable insights from accomplished IIT Bombay alumni across diverse professional domains. These focused interactions with an expert alumnus and a small group of students (8-10) offer an excellent opportunity to understand industry expectations, explore various career trajectories, and seek guidance on making informed career decisions. Domains covered include Finance, Consulting, IT/Software, Data Analytics (AI/ML), Quantitative Finance, and Product Management.",
+            "venue": "Lecture Hall Complex",
+            "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
+            "contact": "Aastha Maliwal (SARC CTM: 9403521022), Aadit Sule (SARC CTM: 8459539918)"
+        }
     }
 ]
