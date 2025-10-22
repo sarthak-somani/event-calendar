@@ -3848,5 +3848,16 @@
             "organisingBody": "E-Cell, IIT Bombay",
             "contact": "Rachit: +91 9719362033, Shreeya: +91 8767749189"
         }
+    },
+    {
+        "title": "Alumination 2025: Mock Interviews, Group Discussions, and Hostalgia",
+        "start": "2025-11-01T10:00:00",
+        "end": "2025-11-02T10:00:00",
+        "extendedProps": {
+            "description": "As part of Alumination'25: An Aureate Ascent, SARC presents Mock Interviews & Group Discussions\u2014a golden opportunity to engage with distinguished alumni for career insights and sharpen interview/GD skills. Additionally, SARC proudly presents Hostalgia, a heartfelt celebration of IIT Bombay's hostel culture, featuring hostel tales through PAFs, GCs, alumni conversations, informal lunchtime sessions, and evening interactions.",
+            "venue": "Online, LHC, and Respective Hostels",
+            "organisingBody": "Student Alumni Relations Cell (SARC)",
+            "contact": "Sai Sharanya (+91 83092 70649), Ganesh Sonawane (+91 99754 54641)"
+        }
     }
 ]
