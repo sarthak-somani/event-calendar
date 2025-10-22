@@ -3837,5 +3837,16 @@
             "organisingBody": "Student Alumni Relations Cell, IIT Bombay",
             "contact": "Aastha Maliwal (SARC CTM: 9403521022), Aadit Sule (SARC CTM: 8459539918)"
         }
+    },
+    {
+        "title": "EnB Buzz Competition",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "EnB Buzz is an exciting competition for UG and PG Freshers. Participants, in teams of 3 (or individually paired), will brainstorm innovative solutions to real-world challenges and pitch startup ideas with mentor support. A cash prize of INR 25,000 is available.",
+            "venue": null,
+            "organisingBody": "E-Cell, IIT Bombay",
+            "contact": "Rachit: +91 9719362033, Shreeya: +91 8767749189"
+        }
     }
 ]
