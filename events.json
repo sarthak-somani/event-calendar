@@ -3870,5 +3870,16 @@
             "organisingBody": "CTARA, IIT-Bombay",
             "contact": "riseiitb@gmail.com"
         }
+    },
+    {
+        "title": "Workshops & Innovation Expo | Alumination \u201925",
+        "start": "2025-10-02T11:00:00",
+        "end": "2025-11-02T11:00:00",
+        "extendedProps": {
+            "description": "Student Alumni Relations Cell proudly presents Alumination '25, featuring exclusive certification workshops for career exploration and insights from distinguished alumni, with certificates for participants. Also, the Innovation Expo 2025 will showcase IIT Bombay's entrepreneurial spirit and research excellence through startups, tech teams, and faculty projects, connecting innovators with alumni, VCs, and industry leaders for collaboration and investment.",
+            "venue": "LC 101 & LC 102, Lecture Hall Complex; SOM Foyer, IIT Bombay",
+            "organisingBody": "Student Alumni Relations Cell",
+            "contact": "Sarvagya Jain (+91 9424800631), Parth Dhruv (+91 9904959162), Anurag Hiwre (+91 7058250898), Gaurav Mankele (+91 7007816616)"
+        }
     }
 ]
