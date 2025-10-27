@@ -3903,5 +3903,16 @@
             "organisingBody": "IIT-Bombay (Center for Technology Alternatives for Rural Areas - CTARA)",
             "contact": "riseiitb@gmail.com"
         }
+    },
+    {
+        "title": "RISE orientation for UG students",
+        "start": "2023-10-28T20:30:00",
+        "end": "NoneT20:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LC 002",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
