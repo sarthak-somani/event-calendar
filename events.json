@@ -3892,5 +3892,16 @@
             "organisingBody": "IIT Bombay",
             "contact": "Sanjay Mahajani, +91 (22) 2576 7246"
         }
+    },
+    {
+        "title": "RISE - Rural Immersion Program (Winter 2025, 9th Batch)",
+        "start": "2025-12-01TNone",
+        "end": "2025-12-14TNone",
+        "extendedProps": {
+            "description": "RISE (Rural Immersion Program) at IIT-Bombay offers a fully funded, 2-week immersive experience for students to apply their technical knowledge in India's villages. Participants will live with local families, engage with communities, and contribute to rural development projects across Maharashtra, Gujarat, MP, Karnataka, and Andhra Pradesh. The program aims to transform perspectives and drive real change.",
+            "venue": "Rural India (across Maharashtra, Gujarat, MP, Karnataka, and Andhra Pradesh)",
+            "organisingBody": "IIT-Bombay (Center for Technology Alternatives for Rural Areas - CTARA)",
+            "contact": "riseiitb@gmail.com"
+        }
     }
 ]
