@@ -3914,5 +3914,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Vigilance Awareness Week Essay Competition",
+        "start": "2025-10-29T13:00:00",
+        "end": "2025-10-29T13:00:00",
+        "extendedProps": {
+            "description": "An essay competition is being held as part of Vigilance Awareness Week (Oct 27 - Nov 2, 2025). Participants must be physically present and write the essay on the spot. Broad topics include Vigilance, Personal integrity, Society, Developed Nation, and Cyber age. Separate prizes will be awarded for employees (staff and faculty) and students. Reporting time is 12:45 PM.",
+            "venue": "VMCC 21 (LH 21)",
+            "organisingBody": "Chief Vigilance Officer, Indian Institute of Technology Bombay",
+            "contact": "Dr. K. G. Suresh, Chief Vigilance Officer and Professor, Dept. of Physics, Indian Institute of Technology Bombay. Phone: 91-22-25767559, Cell: 9869649706"
+        }
+    },
+    {
+        "title": "Shadow Program by SARC | Visit to Corning, Pune | Alumination 2025",
+        "start": "2025-10-30T05:00:00",
+        "end": "2025-10-30T05:00:00",
+        "extendedProps": {
+            "description": "A unique opportunity for students (except 1st year Btechs) to witness innovation at Corning Incorporated, a global leader in materials science. The visit includes a guided tour of facilities and labs, engaging conversations with professionals and alumni, and interactive sessions designed to connect classroom learning with real-world applications. Breakfast, lunch, and snacks will be provided. The number of students for this excursion is limited.",
+            "venue": "Corning, Pune",
+            "organisingBody": "Student Alumni Relations Cell",
+            "contact": "Aadit Sule | +91 8459539918, Aastha Maliwal | +91 9403521022"
+        }
     }
 ]
