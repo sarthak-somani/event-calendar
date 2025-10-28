@@ -3969,5 +3969,49 @@
             "organisingBody": "3D Bioprinter Central Facility (in collaboration with Cellink)",
             "contact": "Jitendra Kumawat (30006312@iitb.ac.in)"
         }
+    },
+    {
+        "title": "Integrity Pledge Administration",
+        "start": "2025-10-29T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "You are invited to assemble for an Integrity Pledge as part of the Vigilance Awareness Week, observed from 27th October to 2nd November 2025, commemorating the birthday of Sardar Vallabhbhai Patel.",
+            "venue": "PCSA",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Ganesh Bhorkade, Registrar, Indian Institute of Technology Bombay, Powai, Mumbai- 400 076, Tel: 022- 25767020 / 7021"
+        }
+    },
+    {
+        "title": "Workshop on Building Sustainable Ventures",
+        "start": "2025-10-30T19:00:00",
+        "end": "2025-10-30T19:00:00",
+        "extendedProps": {
+            "description": "Hult Prize IIT Bombay in Collaboration with the Investment Team are excited to invite you to the Workshop on Building Sustainable Ventures, an exclusive session on Ideation, sustainable venture building, and venture capital insights, featuring one of India's most renowned investors. The workshop will be led by Mr. Karthik Reddy, Co-founder and Managing Partner of Blume Ventures. Come Discover the ideation-to-investment journey directly from an industry leader Experience an engaging mix of learning, interaction, and startup simulation. Refreshments Awaits!",
+            "venue": "LC 201",
+            "organisingBody": "Hult Prize IIT Bombay",
+            "contact": "Yuvraj - +91 96162 52560"
+        }
+    },
+    {
+        "title": "Engineers' Ring of Honour (EROH) 2025 - Scholarship Contest",
+        "start": "2025-11-02TNone",
+        "end": "2025-11-24TNone",
+        "extendedProps": {
+            "description": "The Engineers' Ring of Honour (EROH) 2025 is a national-level scholarship contest by Naukri Campus where engineering students can win up to \u20b920,000 and semester sponsorship. It consists of an Aptitude Test (Round 1) and a Case Study (Round 2). Registrations close on 1st November 2025.",
+            "venue": null,
+            "organisingBody": "Naukri Campus",
+            "contact": "nishant.k@naukricampus.com"
+        }
+    },
+    {
+        "title": "SCAN-BSBE Half-day Workshop on Brain Health",
+        "start": "2025-11-04T10:00:00",
+        "end": "2025-11-04T10:00:00",
+        "extendedProps": {
+            "description": "A half-day workshop organized by The Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN) and Department of Biosciences and Bioengineering at IIT Bombay, focusing on Brain Health with expert lectures on topics like astrocytes and neurodegenerative diseases.",
+            "venue": "Seminar Hall A, Ground Floor, BSBE",
+            "organisingBody": "The Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN) and Department of Biosciences and Bioengineering at IIT Bombay",
+            "contact": "pic.scan@iitb.ac.in"
+        }
     }
 ]
