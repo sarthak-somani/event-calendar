@@ -3936,5 +3936,16 @@
             "organisingBody": "Student Alumni Relations Cell",
             "contact": "Aadit Sule | +91 8459539918, Aastha Maliwal | +91 9403521022"
         }
+    },
+    {
+        "title": "WRCB\u2019s Colloquium: Enzyme - Driven pathways for sustainable pharmaceutical synthesis",
+        "start": "2025-10-29T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "Prof. Debabrata Maiti from the Department of Chemistry at IITB will provide a fascinating glimpse into his group\u2019s research on enzyme engineering for greener synthesis of relevant pharmaceuticals, work that bridges chemistry and synthetic biology to create sustainable pathways for complex drug molecules. Join us for an engaging session exploring how expanding enzyme capabilities can transform modern drug development and chemical manufacturing.",
+            "venue": "Room 121, (Ground floor), Dept. of Chemical Engineering, IITB",
+            "organisingBody": "WRCB",
+            "contact": null
+        }
     }
 ]
