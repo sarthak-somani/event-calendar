@@ -3958,5 +3958,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "3D Bioprinter Workshop",
+        "start": "2025-11-21TNone",
+        "end": "2025-11-22TNone",
+        "extendedProps": {
+            "description": "A 2-day hands-on training workshop on 3D Bioprinting in collaboration with Cellink. Open to IIT Bombay students, researchers, and faculty members interested in exploring cutting-edge bioprinting technologies and applications in tissue engineering, biomedical research, and biofabrication. Registration fees: 500 (refund issued after successful completion). Seats are limited, first-come, first-served basis.",
+            "venue": "IIT Bombay",
+            "organisingBody": "3D Bioprinter Central Facility (in collaboration with Cellink)",
+            "contact": "Jitendra Kumawat (30006312@iitb.ac.in)"
+        }
     }
 ]
