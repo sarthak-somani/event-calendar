@@ -4035,5 +4035,16 @@
             "organisingBody": "India AI",
             "contact": "+91-22-25767026-27"
         }
+    },
+    {
+        "title": "Workshop on Building Sustainable Ventures",
+        "start": "2025-10-30T17:30:00",
+        "end": "2025-10-30T17:30:00",
+        "extendedProps": {
+            "description": "An exclusive workshop on Ideation, sustainable venture building, and venture capital insights, featuring Mr. Karthik Reddy, Co-founder and Managing Partner of Blume Ventures. Participants will learn fundamentals of Ideation and venture building, how to identify problems and create feasible solutions, gain investor insights, and participate in a Fictional Startup Challenge. Refreshments will be provided.",
+            "venue": "LC001",
+            "organisingBody": "Hult Prize IIT Bombay in Collaboration with the Investment Team",
+            "contact": "Yuvraj - +91 96162 52560"
+        }
     }
 ]
