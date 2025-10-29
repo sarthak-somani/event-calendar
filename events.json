@@ -4024,5 +4024,16 @@
             "organisingBody": "WRCB",
             "contact": null
         }
+    },
+    {
+        "title": "India AI Impact Summit 2026",
+        "start": "2026-02-19TNone",
+        "end": "2026-02-20TNone",
+        "extendedProps": {
+            "description": "India's flagship AI event, the India AI Impact Summit 2026, offers an opportunity to showcase AI innovations across three competition tracks: AI for All (global challenges), AI by Her (women-led innovations), and YUVAI (youth-driven breakthroughs). It aims to highlight cutting-edge AI research and solutions. The last date to apply for showcasing innovations is 31st October, 2025. Visit https://impact.indiaai.gov.in/ for detailed information.",
+            "venue": "New Delhi",
+            "organisingBody": "India AI",
+            "contact": "+91-22-25767026-27"
+        }
     }
 ]
