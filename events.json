@@ -4046,5 +4046,27 @@
             "organisingBody": "Hult Prize IIT Bombay in Collaboration with the Investment Team",
             "contact": "Yuvraj - +91 96162 52560"
         }
+    },
+    {
+        "title": "Un-Engineering",
+        "start": "2025-11-02T14:00:00",
+        "end": "2025-11-02T14:00:00",
+        "extendedProps": {
+            "description": "A session celebrating the inspiring and unconventional journeys of IIT Bombay alumni who have ventured beyond traditional paths to create lasting impact. The event features Dr. Michael Patra, Former Deputy Governor, Reserve Bank of India, and Mr. Ashank Desai, Founder & Chairman, Mastek.",
+            "venue": "LT-PCSA",
+            "organisingBody": "Student Alumni Relations Cell",
+            "contact": "Sarvagya Jain (+91 9424800631), Parth Dhruv (+91 9904959162)"
+        }
+    },
+    {
+        "title": "Start It Up",
+        "start": "2025-11-02T15:30:00",
+        "end": "NoneT15:30:00",
+        "extendedProps": {
+            "description": "As part of our flagship fest Alumination '25, An Aureate Ascent, Get ready to ignite your entrepreneurial spirit, as we're excited to present Start It Up, a session that celebrates the spirit of innovation and entrepreneurship. Start It Up aims to uncover the real journey behind building a startup from idea to impact. Through interactive discussions and engaging activities, gain valuable insights into what it truly takes to create something groundbreaking. Featured Speakers: Ankit Mehta, CEO & Co-founder, ideaForge, India's leading drone manufacturer and recipient of the ET 40 Under 40 award. Jaideep Poonia, Co-founder, Khatabook, a fintech platform empowering over 10 million small businesses across India. Rajeev Agrawal, CEO & Co-founder, Innoviti Technologies, a fintech company revolutionizing payment solutions across India.",
+            "venue": "LT-PCSA",
+            "organisingBody": "Student Alumni Relations Cell (SARC), IIT Bombay",
+            "contact": "Aadit Sule (+91 8459539918), Aastha Maliwal (+91 9403521022)"
+        }
     }
 ]
