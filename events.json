@@ -4068,5 +4068,16 @@
             "organisingBody": "Student Alumni Relations Cell (SARC), IIT Bombay",
             "contact": "Aadit Sule (+91 8459539918), Aastha Maliwal (+91 9403521022)"
         }
+    },
+    {
+        "title": "Open House for Polymer Processing Facility",
+        "start": "2025-11-04T10:00:00",
+        "end": "2025-11-04T10:00:00",
+        "extendedProps": {
+            "description": "This is an excellent opportunity to familiarize yourself with this state-of-the-art processing facility, and learn how you can use this for your research. The polymer processing facility is an institute facility that can be used to melt process polymers. The facility has a small 5g twin-screw extruder (from DSM) and a larger 50g twin-screw extruder (Process 11) from Thermo Haake, in addition to pelletizers, injection moulding equipment. With these, one can melt process polymers, extrude, blend and mould into product forms. You can also use these to prepare nanocomposites from the melt state of the polymer. The molten polymer can subsequently be extruded into fibers, tape, or can be injection molded into standard shapes for further testing. I invite you to view the facility and meet Vishakha Bansod (who takes care of the facility) to learn how you can use this for your research. What you can expect to see: - DSM 5g-scale twin screw extruder - Thermo-Haake twin screw extruder - Filament and tape preparation, pelletization - Injection moulding",
+            "venue": "F-3 shed Polymer Processing Facility (https://maps.app.goo.gl/svUfYo7MekSrUJ2m7 , across from MMMF lab)",
+            "organisingBody": "FMC, Polymer Processing Facility",
+            "contact": "Guruswamy Kumaraswamy (guruswamy@iitb.ac.in)"
+        }
     }
 ]
