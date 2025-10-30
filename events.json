@@ -4101,5 +4101,16 @@
             "organisingBody": "SINE IIT Bombay & Nitto Denko Corporation",
             "contact": "Dimple Boricha, Senior Associate - Outreach & Community, Society for Innovation & Entrepreneurship (SINE), Indian Institute of Technology, Bombay (IIT Bombay). Email: dimple.boricha@sineiitb.org, Phone: 022 - 2576 7016 | 25721220."
         }
+    },
+    {
+        "title": "Introduction to the Business of Biotech: Financial ecosystem, industry & innovation drivers, current financing trends and bioentrepreneurship",
+        "start": "2025-11-03T17:00:00",
+        "end": "NoneT17:00:00",
+        "extendedProps": {
+            "description": "The translation of scientific discoveries into commercial products required an understanding of their unique business and financial ecosystem. This lecture introduces basic concepts in the business of biotech and current trends in global bioentrepreneurship to science students and life science researchers. The financial ecosystem of the biotech and pharmaceutical industry is described initially, which will be followed by the analysis of key drivers influencing its growth. An emphasis in the lecture will be dedicated to the process of starting biotech companies, including a discussion of various financing strategies crucial for their initial establishment and subsequent evolution. As unique cases, crowdfunding of biotech companies will be presented; moreover, the existing paradox of profit-based investment practices of therapies versus disease burden-based investment will be highlighted. Ultimately, the lecture aims to provide a cohesive, global vision of the current biotech business ecosystem, underscoring its complexities and dynamism, highlighting opportunities in bioentrepreneurship to cumulatively serve as a practical foundation for students and researchers in academia.",
+            "venue": "Seminar Room B, Ground floor, Department of Biosciences and Bioengineering (BSBE), IIT Bombay",
+            "organisingBody": "Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN)",
+            "contact": "pic.scan@iitb.ac.in"
+        }
     }
 ]
