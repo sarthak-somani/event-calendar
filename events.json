@@ -4134,5 +4134,16 @@
             "organisingBody": "Student Alumni Relations Cell",
             "contact": "Sarvagya Jain | SARC CTM | +91 94248 00631, Parth Dhruv | SARC CTM | +91 99049 59162"
         }
+    },
+    {
+        "title": "Half Marathon",
+        "start": "2025-11-02TNone",
+        "end": "2025-11-02TNone",
+        "extendedProps": {
+            "description": "Half Marathon scheduled at IIT Bombay.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
