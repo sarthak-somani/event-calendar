@@ -4145,5 +4145,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "RISE (Rural Immersion Program)",
+        "start": "2025-12-01TNone",
+        "end": "2025-12-14TNone",
+        "extendedProps": {
+            "description": "The Rural Immersion Program (RISE) at IIT-Bombay offers students an opportunity to apply technical knowledge to real-world problems in Indian villages. Participants will live with local families, engage with communities, and contribute to rural development projects across Maharashtra, Gujarat, MP, Karnataka, and Andhra Pradesh. The program is fully funded and focuses on experiential learning and creating impact.",
+            "venue": "Villages in Maharashtra, Gujarat, MP, Karnataka, and Andhra Pradesh, India",
+            "organisingBody": "CTARA, IIT-Bombay",
+            "contact": "riseiitb@gmail.com"
+        }
+    },
+    {
+        "title": "WRCB\u2019s joint Colloquium with KCDH, SCAN: AI in Breast MRI \u2013 A Boon or Bane?",
+        "start": "2025-11-03T11:30:00",
+        "end": "2025-11-03T11:30:00",
+        "extendedProps": {
+            "description": "An engaging session on \u201cAI in Breast MRI \u2013 A Boon or Bane?\u201d by Prof. N. R. Jagannathan (Retired Professor & Head, Department of NMR & MRI Facility, AIIMS New Delhi, and Distinguished Visiting Professor, KCDH, IIT Bombay). Dr. Jagannathan is a globally recognized expert in molecular imaging, MRI spectroscopy, and metabolomics, with over 300 peer-reviewed publications and several prestigious awards. His pioneering work in breast cancer imaging earned him the distinction of being the first Asian Fellow of the International Society for Magnetic Resonance in Medicine (ISMRM).",
+            "venue": "CC-105, New Computer Centre Building, IIT Bombay",
+            "organisingBody": "WRCB, KCDH, SCAN",
+            "contact": null
+        }
     }
 ]
