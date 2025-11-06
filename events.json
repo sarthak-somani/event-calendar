@@ -4178,5 +4178,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "+91-22-25767026-27"
         }
+    },
+    {
+        "title": "Lumina's First Online Event",
+        "start": "2025-11-15TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "The first online event of Lumina, an initiative by IIT Bombay and its global alumni associations, featuring distinguished speakers IITB alumna Kavita Bala (Provost of Cornell University) and Sharada Srinivasan (eminent archaeologist and professor at NIAS Bangalore).",
+            "venue": "Online",
+            "organisingBody": "IIT Bombay Alumni Association",
+            "contact": "Prof. Upendra V. Bhandarkar, Dean - Alumni and Corporate Relations, IIT Bombay"
+        }
     }
 ]
