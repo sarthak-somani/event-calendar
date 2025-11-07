@@ -4211,5 +4211,27 @@
             "organisingBody": "IIT Campus School & Junior College",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay; Tel: +91-22-25767026-27"
         }
+    },
+    {
+        "title": "NMR Training Workshop",
+        "start": "2025-11-18TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "A training workshop on the usage and operation of the 500 MHz and 400 MHz NMR spectrometers, organized by the Department of Chemistry. This workshop is open to all interested PhD scholars, postdoctoral fellows, and researchers across the institute who wish to obtain operatorship for the NMR facility. Key Highlights include: Introduction to the instrumentation and functioning of the 500 MHz and 400 MHz NMR spectrometers; Hands-on training in sample preparation, shimming, tuning/matching, data acquisition, and processing; Best practices for instrument handling and safety protocols.",
+            "venue": "NMR Laboratory, Ground Floor, Department of Chemistry",
+            "organisingBody": "Department of Chemistry",
+            "contact": "niteen_kadam@chem.iitb.ac.in"
+        }
+    },
+    {
+        "title": "Adult vaccination for students",
+        "start": "2025-11-08T14:00:00",
+        "end": "2025-11-08T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination for students, featuring MMR, Chicken Pox, Typhoid, and Hepatitis 'A' vaccines. Making a medical folder is mandatory; students must bring a passport size latest photo, immunization/vaccination record, and a printout of their Student Medical form. Students are instructed to have healthy breakfast/lunch and hydrate well before coming.",
+            "venue": "IITB hospital (old wing - ground floor)",
+            "organisingBody": "IITB Hospital",
+            "contact": null
+        }
     }
 ]
