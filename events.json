@@ -4189,5 +4189,16 @@
             "organisingBody": "IIT Bombay Alumni Association",
             "contact": "Prof. Upendra V. Bhandarkar, Dean - Alumni and Corporate Relations, IIT Bombay"
         }
+    },
+    {
+        "title": "Rural Immersion Program (RISE)",
+        "start": "2025-12-01TNone",
+        "end": "2025-12-14TNone",
+        "extendedProps": {
+            "description": "Step Into the Real India - Join RISE! The Rural Immersion Program (RISE) at IIT-Bombay takes you beyond textbooks and into India's villages to solve real-world problems. Participants live with local families, engage with communities, discover rural realities, and apply technical knowledge to create solutions for rural development. It's fully funded, covering travel, lodging, and logistics. The program offers learning from experienced NGO fieldworkers, contribution to rural development projects, and networking with changemakers. Turn knowledge into action and unlock your potential while driving real change in rural India!",
+            "venue": "Rural villages across Maharashtra, Gujarat, MP, Karnataka, and Andhra Pradesh, India",
+            "organisingBody": "CTARA, IIT-Bombay",
+            "contact": "riseiitb@gmail.com"
+        }
     }
 ]
