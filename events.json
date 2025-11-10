@@ -4277,5 +4277,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "WRCB PRISM Colloquium: Brain-Computer Interfaces (BCIs)",
+        "start": "NoneT11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "Please join us for the upcoming talk in the WRCB PRISM Colloquium Series, featuring Prof. Srinivasan Ramakrishnan, Department of Chemistry, IIT Bombay, who will explore the frontier of Brain-Computer Interfaces (BCIs), where neuroscience meets advanced materials and engineering. Learn how flexible, polymer-based neural probes and nanoscale electrode innovations are paving the way for safe, long-term BCIs that could transform neurorehabilitation and human-machine interaction. Refreshments will be provided.",
+            "venue": "Room 121 ground floor, Dept. of Chem Engg., IIT Bombay",
+            "organisingBody": "Wadhwani Research Center for Bioengineering (WRCB), IIT Bombay",
+            "contact": "Dr. Bratati Mukherjee, Senior Project Manager, Wadhwani Research Center for Bioengineering, IIT Bombay. Ph. no. 0222576(IITB Ext. 5504), Cell phone: 9833667592"
+        }
     }
 ]
