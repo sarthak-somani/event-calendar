@@ -4299,5 +4299,16 @@
             "organisingBody": "Department of Biosciences and Bioengineering and SCAN Centre, IIT Bombay",
             "contact": "Samir K Maji, pic.scan@iitb.ac.in"
         }
+    },
+    {
+        "title": "IITB Campus School and Junior College Golden Jubilee",
+        "start": "2025-11-12TNone",
+        "end": "2025-11-15TNone",
+        "extendedProps": {
+            "description": null,
+            "venue": "IITB Campus",
+            "organisingBody": "IITB Campus School and Junior College",
+            "contact": "Captain Ambuj Khare (Retd), Chief Security Officer and Head, Indian Institute of Technology Bombay"
+        }
     }
 ]
