@@ -4288,5 +4288,16 @@
             "organisingBody": "Wadhwani Research Center for Bioengineering (WRCB), IIT Bombay",
             "contact": "Dr. Bratati Mukherjee, Senior Project Manager, Wadhwani Research Center for Bioengineering, IIT Bombay. Ph. no. 0222576(IITB Ext. 5504), Cell phone: 9833667592"
         }
+    },
+    {
+        "title": "Mechanisms of Axon Growth and Regeneration",
+        "start": "2025-11-12T16:00:00",
+        "end": "NoneT16:00:00",
+        "extendedProps": {
+            "description": "Almost everyone who has seen neurons under a microscope for the first time is fascinated by their beauty and their complex shape. Early on during development, however, neurons look round and simple without signs of their future complexity. How do neurons develop their sophisticated structure? How do they initially generate domains that later have distinct functions within neuronal circuits, such as the axon? Can a better understanding of the underlying developmental mechanisms help us in pathological conditions, such as a spinal cord injury, to induce axons to regenerate? Here, Prof. Frank will talk about the cytoskeleton as a driving force for initial neuronal polarization and axon growth. He will then explore how cytoskeletal changes help to reactivate the growth program of injured CNS axons to elicit axon regeneration after a spinal cord injury. Finally, he will discuss whether axon growth and synapse formation could represent mutually excluding processes. Pursuing this developmental hypothesis has helped his group to generate a novel perspective on regeneration failure in the adult CNS and to provide new paths to overcome this. Thus, this talk will describe how we can utilize developmental mechanisms to induce axon regeneration in the adult spinal cord following injury.",
+            "venue": "Seminar Room A, Ground floor, Department of Biosciences and Bioengineering (BSBE), IIT Bombay",
+            "organisingBody": "Department of Biosciences and Bioengineering and SCAN Centre, IIT Bombay",
+            "contact": "Samir K Maji, pic.scan@iitb.ac.in"
+        }
     }
 ]
