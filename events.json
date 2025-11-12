@@ -4310,5 +4310,16 @@
             "organisingBody": "IITB Campus School and Junior College",
             "contact": "Captain Ambuj Khare (Retd), Chief Security Officer and Head, Indian Institute of Technology Bombay"
         }
+    },
+    {
+        "title": "Wild animal awareness session",
+        "start": "NoneT17:30:00",
+        "end": "NoneT17:30:00",
+        "extendedProps": {
+            "description": "This is to inform all that the Institute has arranged a wild animal awareness session at F.C. Kohli Auditorium from 5:30 p.m. onwards, followed by a question-and-answer session. The team from MFSGNP and the Forest Dept, Sanjay Gandhi National Park, will conduct the wild animal session. This session aims to educate Staff/students,/Faculty, and their families with the knowledge to protect themselves from wild animals and save lives. We urge all members of the community to attend this session to stay informed and contribute to a safer environment. Your participation will help us collectively address this situation with awareness and responsibility.",
+            "venue": "F.C. Kohli Auditorium",
+            "organisingBody": "Indian Institute of Technology Bombay, MFSGNP, and Forest Dept, Sanjay Gandhi National Park",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
+        }
     }
 ]
