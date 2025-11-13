@@ -4343,5 +4343,27 @@
             "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay), MFSGNP, and the Forest Department, Sanjay Gandhi National Park",
             "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay, Powai, Mumbai- 400 076"
         }
+    },
+    {
+        "title": "IIT Bombay FinEdge 2025",
+        "start": "2025-11-28TNone",
+        "end": "2025-11-28TNone",
+        "extendedProps": {
+            "description": "IITB FinEdge 2025 is a one-day flagship event hosted by ASPIRE, IIT Bombay Research Park on Friday, November 28, 2025. It is designed to bring together leading voices from industry, academia, startups, and policy to foster dialogue and collaboration in the rapidly evolving Fintech landscape. This event marks an important step in IIT Bombay's mission to strengthen academia-industry partnerships and catalyze innovation across verticals such as banking, insurance, capital markets, and entrepreneurship. With IIT Bombay's deep expertise in AI, blockchain, data science, and cybersecurity, FinEdge 2025 aims to nurture a vibrant Fintech ecosystem. Key highlights include opportunities to build long-term research and industry partnerships, access to talent pipelines, networking with startups, innovators, investors, and mentors, and participation in policy-level dialogues on emerging Fintech frontiers. Registration is free.",
+            "venue": null,
+            "organisingBody": "ASPIRE, IIT Bombay Research Park",
+            "contact": "Vikram -- Professor, Department of Earth Sciences; Prof-in-Charge, ASPIRE - IITB Research Park; Convener, National Centre of Excellence in CCUS; Indian Institute of Technology (IIT) Bombay, Powai, Mumbai - 400076, India; Ph: +91-22-2576-7254"
+        }
+    },
+    {
+        "title": "Campus School Children\u2019s Day bash",
+        "start": "2025-11-14TNone",
+        "end": "2025-11-14TNone",
+        "extendedProps": {
+            "description": "IIT Campus School & Junior College is celebrating its 50th anniversary with an epic Children's Day bash for the campus community's children. The event will feature games, magic shows, fun stalls, and various activities to celebrate childhood. Highlights include Games Galore, Magic Shows, Fun Stalls, and celebrating imagination. All kids of the campus community are invited.",
+            "venue": null,
+            "organisingBody": "IIT Campus School & Junior College",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay. Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
