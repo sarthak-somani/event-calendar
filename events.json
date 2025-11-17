@@ -4376,5 +4376,16 @@
             "organisingBody": "Wadhwani Research Centre for Bioengineering (WRCB), IIT Bombay",
             "contact": "Ashutosh"
         }
+    },
+    {
+        "title": "ICGA Meeting and Talks",
+        "start": "2014-11-18T16:20:00",
+        "end": "2014-11-18T16:20:00",
+        "extendedProps": {
+            "description": "A delegation from the Indian Cancer Genome Atlas (ICGA) Foundation is visiting IIT Bombay. The visit includes talks by Dr. Jean Claude Zenklusen (Former Director, TCGA) on 'Global Lessons from TCGA' and Prof. Sunil Badve (Emory University) on 'Why India Needs Its Own Cancer Genome'. This will be followed by a Fireside Chat and Audience Q&A, moderated by Prof. Shekhar Mande. The event concludes with networking over tea/snacks. ICGA aims to develop indigenous multi-omics datasets of cancers, similar to TCGA, with IIT Bombay as a participant.",
+            "venue": "PC Saxena Auditorium",
+            "organisingBody": "ICGA Foundation (hosted by IIT Bombay)",
+            "contact": null
+        }
     }
 ]
