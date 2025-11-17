@@ -4387,5 +4387,16 @@
             "organisingBody": "ICGA Foundation (hosted by IIT Bombay)",
             "contact": null
         }
+    },
+    {
+        "title": "Open Talk Sessions for 3D Bioprinter Workshop",
+        "start": "2025-11-21TNone",
+        "end": "2025-11-22TNone",
+        "extendedProps": {
+            "description": "Open talk sessions as part of the 3D Bioprinter Hands-on Training Workshop organized by the 3D Bioprinter Central Facility in collaboration with Cellink. These talk sessions are open to all, unlike the hands-on training which is for registered participants. A detailed talk schedule and timings are available via a provided Google Drive link.",
+            "venue": "Seminar Room B, Ground Floor, BSBE (Bioscience) Building, IIT Bombay",
+            "organisingBody": "3D Bioprinter Central Facility in collaboration with Cellink",
+            "contact": "Jitendra Kumawat, 30006312@iitb.ac.in"
+        }
     }
 ]
