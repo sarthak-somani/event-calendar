@@ -4398,5 +4398,16 @@
             "organisingBody": "3D Bioprinter Central Facility in collaboration with Cellink",
             "contact": "Jitendra Kumawat, 30006312@iitb.ac.in"
         }
+    },
+    {
+        "title": "2026 Kyoto University Amgen Scholars Program",
+        "start": "2026-06-05TNone",
+        "end": "2026-08-06TNone",
+        "extendedProps": {
+            "description": "A fully funded eight-week summer undergraduate research program in life sciences and biotechnology, supported by the Amgen Foundation. It offers hands-on laboratory experience, networking opportunities, workshops, cultural events, and includes a three-day Asia Symposium in Tokyo for undergraduate students from colleges and universities across Asia.",
+            "venue": "Kyoto University, Japan",
+            "organisingBody": "Kyoto University",
+            "contact": "amgenscholars@mail2.adm.kyoto-u.ac.jp"
+        }
     }
 ]
