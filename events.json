@@ -4420,5 +4420,16 @@
             "organisingBody": "Dean (R&D) and Associate Dean (R&D), IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "The nu Frontier: Current Challenges and Opportunities in Neutrino Physics",
+        "start": "2025-11-19T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "Neutrinos are among the most fascinating and mysterious particles in the Universe. They are incredibly abundant--trillions pass through our bodies every second--yet they interact so weakly with matter that they are notoriously difficult to detect. Despite this elusiveness, neutrinos have already transformed our understanding of nature: the discovery of neutrino oscillations showed that these particles have mass, a result that required physics beyond the original Standard Model of Particle Physics. Neutrinos have come a long way: once considered impossible to detect, they now take center stage in particle physics, astrophysics, and cosmology. In this colloquium, we highlight how precision neutrino physics is shaping our understanding of nature and how neutrinos have become versatile astrophysical messengers, but also how neutrinos can be a real nuisance in searches for other rare particle physics processes. Along the way, we highlight some of the theoretical challenges we face in modern neutrino physics.",
+            "venue": "F.C. Kohli Auditorium, Kanwal Rekhi Building (KReSIT), IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: (+91-22) 25767026-27"
+        }
     }
 ]
