@@ -4442,5 +4442,16 @@
             "organisingBody": "Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN), IIT Bombay",
             "contact": "pic.scan@iitb.ac.in"
         }
+    },
+    {
+        "title": "IITB FinEdge 2025 FinTech Hackathon",
+        "start": "2025-11-27TNone",
+        "end": "2025-11-28TNone",
+        "extendedProps": {
+            "description": "A hybrid hackathon organized as part of IITB FinEdge 2025, challenging students to build creative and practical solutions to two real-world problem statements. Participants have the opportunity to earn an internship with Magic Bus and cash prizes. It is open to students from any institute and background.",
+            "venue": "Hybrid (Virtual briefing on 27 Nov, On-campus pitching at IIT Bombay on 28 Nov)",
+            "organisingBody": "ASPIRE - IIT Bombay Research Park, Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": "Email: indus_acad@iitbresearchpark.com, Phone: +91 9730125654 / +91 8898291682"
+        }
     }
 ]
