@@ -4431,5 +4431,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Cell Communication Through Notch: A Paradigm of Biological Complexity",
+        "start": "2025-11-24T15:30:00",
+        "end": "2025-11-24T15:30:00",
+        "extendedProps": {
+            "description": "Cell-cell interactions are the quintessence of metazoan morphogenesis. The Notch signaling pathway represents a fundamental cornerstone of the cell communication framework that controls the development of the organism, having profound consequences in both health and disease.",
+            "venue": "Seminar Room A, Ground floor, Department of Biosciences and Bioengineering (BSBE), IIT Bombay",
+            "organisingBody": "Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN), IIT Bombay",
+            "contact": "pic.scan@iitb.ac.in"
+        }
     }
 ]
