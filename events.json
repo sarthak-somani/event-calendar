@@ -4464,5 +4464,16 @@
             "organisingBody": "Dean (R&D) and Associate Dean (R&D), IIT Bombay",
             "contact": "Prof. Sachin C. Patwardhan (Dean R&D), Prof. Leena Vachhani (Associate Dean R&D)"
         }
+    },
+    {
+        "title": "Adult vaccination for students",
+        "start": "2025-11-22T14:00:00",
+        "end": "2025-11-22T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination drive for students, scheduled as a walk-in event. Students are required to have a medical folder (mandatory for medical certificates/reimbursement), for which they need to bring one passport size latest photo. Recommended vaccines include MMR, Chicken Pox, Typhoid, and Hepatitis 'A', offered optionally due to high incidence and morbidity. Students must report to the hospital (old wing - ground floor) with their immunization/vaccination record and a printout of their Student Medical form with an attached photo. They are instructed to have a healthy breakfast/lunch and hydrate themselves well before coming.",
+            "venue": "hospital (old wing - ground floor)",
+            "organisingBody": "In-charge Hospital, CMO(SAG)",
+            "contact": "Dr. Arvind Meshram, In-charge Hospital, CMO(SAG)"
+        }
     }
 ]
