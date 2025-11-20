@@ -4453,5 +4453,16 @@
             "organisingBody": "ASPIRE - IIT Bombay Research Park, Institution's Innovation Council (IIC), IIT Bombay",
             "contact": "Email: indus_acad@iitbresearchpark.com, Phone: +91 9730125654 / +91 8898291682"
         }
+    },
+    {
+        "title": "Lecture Series (Session 2): IIT Bombay Research Award",
+        "start": "2025-11-27T14:30:00",
+        "end": "2025-11-27T14:30:00",
+        "extendedProps": {
+            "description": "Session 2 of the Lecture Series for the IIT Bombay Research Awards 2024, featuring lectures by Prof. Santanu Ghosh ('Mechanistic insights into extrachromosomal genome partitioning'), Prof. Pradip Kalbar ('Advancing Circular Economy in Indian Cities: Key Challenges and Pathways for Opportunity'), and Prof. Swatantra Pratap Singh ('Electroconductive Membranes: Dominating Selectivity without compromising Permeability'). Each lecture is 20 minutes with 5 minutes for Q&A. The event includes welcome remarks by Dean (R&D) and a vote of thanks. A flyer for the session is available at: https://drive.google.com/file/d/1PnjtMX2G3-eh_9t7lLvtpQRULuM83BKa/view?usp=sharing",
+            "venue": "LC 201, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Dean (R&D) and Associate Dean (R&D), IIT Bombay",
+            "contact": "Prof. Sachin C. Patwardhan (Dean R&D), Prof. Leena Vachhani (Associate Dean R&D)"
+        }
     }
 ]
