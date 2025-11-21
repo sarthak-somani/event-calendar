@@ -4519,5 +4519,16 @@
             "organisingBody": "IIT Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Lectures by Prof \u00c9lisabeth Guazzelli, University of Paris on Granular and Suspension Flows",
+        "start": "2025-11-25T15:00:00",
+        "end": "2025-11-27T15:00:00",
+        "extendedProps": {
+            "description": "Prof. \u00c9lisabeth Guazzelli from the University of Paris will deliver a short course (two lectures) on 'Rheology of dense granular suspensions across flow regimes' and a seminar on 'Spreading of dense granular suspension drops' as a Distinguished Visiting Professor at IIT Bombay. She is a leading fluid mechanician specialising in granular flows and sediment transport.",
+            "venue": "Chemical Engineering Department, IIT Bombay (Rooms 119 and 121)",
+            "organisingBody": "Department of Chemical Engineering, IIT Bombay",
+            "contact": "Professor Mahesh S Tirumkudulu, Head, Department of Chemical Engineering, IIT Bombay, Phone: +91-22-25767200"
+        }
     }
 ]
