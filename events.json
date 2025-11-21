@@ -4486,5 +4486,27 @@
             "organisingBody": "NITI Aayog, WEP, IIT Bombay",
             "contact": "Professor Amit Sethi, Electrical Engineering, IIT Bombay, +91 22 2159 3528, +91 22 2576 7483"
         }
+    },
+    {
+        "title": "Basic Spoken Sanskrit and Grammar Online Classes",
+        "start": "20205-11-25T19:00:00",
+        "end": "20206-11-24T19:00:00",
+        "extendedProps": {
+            "description": "The Centre for Sanskrit Learning, IIT Bombay (IITB-CSL) is starting online classes for Basic Spoken Sanskrit and Grammar. Classes will be held on Tuesdays and Fridays from 7:00 PM - 8:30 PM. The course duration is 1 year, with a fee of 2000/-.",
+            "venue": "Online",
+            "organisingBody": "Centre for Sanskrit Learning, IIT Bombay (IITB-CSL)",
+            "contact": "Mr. Pranav Gogate +91 80078 89485"
+        }
+    },
+    {
+        "title": "2nd National Wellbeing Conclave",
+        "start": "2025-11-22TNone",
+        "end": "2025-11-23TNone",
+        "extendedProps": {
+            "description": "This initiative, under the aegis of the Ministry of Education, aims to foster a meaningful dialogue on mental health and to explore innovative strategies for cultivating emotionally resilient and compassionate campus communities. The Conclave will showcase an exhibition highlighting exemplary institutional practices, alongside interactive sessions including expert talks, skill-building workshops, and panel discussions. The focus areas will encompass mental health in colleges, empathy development, and the creation of inclusive wellbeing ecosystems.",
+            "venue": "VMCC, IIT Bombay",
+            "organisingBody": "Student Wellness Centre, IIT Bombay",
+            "contact": "Deepak Marla, Vice-Chairperson, SWC, Associate Professor, ME, IIT Bombay"
+        }
     }
 ]
