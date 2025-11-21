@@ -4475,5 +4475,16 @@
             "organisingBody": "In-charge Hospital, CMO(SAG)",
             "contact": "Dr. Arvind Meshram, In-charge Hospital, CMO(SAG)"
         }
+    },
+    {
+        "title": "NITI Aayog & WEP AI By Her 2026 Challenge Q&A Session",
+        "start": "2025-11-22T09:00:00",
+        "end": "2025-11-22T09:00:00",
+        "extendedProps": {
+            "description": "NITI Aayog and WEP representatives will visit IIT Bombay to motivate and answer questions from individuals and teams interested in applying for the 'AI By Her 2026' global challenge, which spotlights women innovators in AI, powered by WEP & MeitY. Registration for this Q&A session is required via the provided Google Form.",
+            "venue": "GG Conference Room, IIT Bombay (Powai)",
+            "organisingBody": "NITI Aayog, WEP, IIT Bombay",
+            "contact": "Professor Amit Sethi, Electrical Engineering, IIT Bombay, +91 22 2159 3528, +91 22 2576 7483"
+        }
     }
 ]
