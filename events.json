@@ -4530,5 +4530,27 @@
             "organisingBody": "Department of Chemical Engineering, IIT Bombay",
             "contact": "Professor Mahesh S Tirumkudulu, Head, Department of Chemical Engineering, IIT Bombay, Phone: +91-22-25767200"
         }
+    },
+    {
+        "title": "National Competition - Hack for Social Cause (one team to represent IIT Bombay)",
+        "start": "2025-11-24TNone",
+        "end": "2025-11-28TNone",
+        "extendedProps": {
+            "description": "The Ministry of Youth Affairs & Sports (MoYAS) has launched \"Hack for Social Cause,\" an initiative under VBYLD 2026, designed to empower youth aged 18-29 to build scalable, technology-driven solutions for Social impact. This email announces the internal screening process at IIT Bombay to select one standout team to represent the Institute at the State and National levels for this competition.",
+            "venue": null,
+            "organisingBody": "IIC, IIT Bombay and Enactus IIT Bombay",
+            "contact": "Yash Toshniwal | Shivam Sonker, Phone: 9381456793"
+        }
+    },
+    {
+        "title": "Fintech Hackathon",
+        "start": "2025-11-27TNone",
+        "end": "2025-11-28TNone",
+        "extendedProps": {
+            "description": "A Hybrid Hackathon organized as part of IITB FinEdge 2025. Participants will build creative and practical solutions to two real-world problem statements. The event includes a virtual briefing and problem statement walkthrough for shortlisted 10 teams on Nov 27, followed by the final hackathon and on-campus pitching on Nov 28. Prizes include cash awards and an internship with Magic Bus. Teams can have up to 4 members, and eligibility is open to students from any institute and background.",
+            "venue": "Hybrid (Virtual on Nov 27, On-campus at IIT Bombay on Nov 28)",
+            "organisingBody": "IIC, IIT Bombay and ASPIRE - IIT Bombay Research Park",
+            "contact": "ASPIRE, IIT Bombay Research Park Foundation, Email: indus_acad@iitbresearchpark.com, Phone: +91 9730125654 / +91 8898291682"
+        }
     }
 ]
