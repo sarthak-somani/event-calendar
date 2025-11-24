@@ -4552,5 +4552,16 @@
             "organisingBody": "IIC, IIT Bombay and ASPIRE - IIT Bombay Research Park",
             "contact": "ASPIRE, IIT Bombay Research Park Foundation, Email: indus_acad@iitbresearchpark.com, Phone: +91 9730125654 / +91 8898291682"
         }
+    },
+    {
+        "title": "Lecture Series (Session 1): IIT Bombay Research Award",
+        "start": "2025-11-24T14:30:00",
+        "end": "2025-11-24T14:30:00",
+        "extendedProps": {
+            "description": "Lecture Series (Session 1) presenting the research endeavours and achievements made by IIT Bombay colleagues who are recipients of the IIT Bombay Research Awards for the year 2024. This session includes lectures by Prof. Rajarshi Chakrabarti (Dept. of Chemistry), Prof. Hrishikesh Gadgil (Dept. of Aerospace Engg.), and Prof. Manish Kumar (Dept. of Civil Engg.). Each lecture, including discussions, is expected to last 25 minutes (20 minutes for the presentation and 5 minutes for Q&A).",
+            "venue": "LC 201, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Dean (R&D) Office, IIT Bombay",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
