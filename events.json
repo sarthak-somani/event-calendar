@@ -4574,5 +4574,38 @@
             "organisingBody": "Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN), IIT Bombay",
             "contact": "pic.scan@iitb.ac.in"
         }
+    },
+    {
+        "title": "Golden Jubilee FUEL SPORTS FEST",
+        "start": "2025-12-04TNone",
+        "end": "2025-12-05TNone",
+        "extendedProps": {
+            "description": "IIT Campus School & Jr.College is celebrating its Golden Jubilee, marking 50 years. To commemorate this milestone, a two-day FUEL SPORTS FEST will feature BASKETBALL & FOOTBALL COMPETITIONS and interactive sessions, with 20 schools across Mumbai participating. All faculty, staff, and students of IIT Bombay are invited.",
+            "venue": "IIT Campus school & Junior College School ground",
+            "organisingBody": "IIT Campus School & Jr.College",
+            "contact": "Valsalakumari MK, Principal, IIT Campus School & Junior College"
+        }
+    },
+    {
+        "title": "Participation in the online reading of the preamble",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "To commemorate Constitution Day, celebrated annually on 26th November, the Ministry of Education has requested participation in an online reading of the Preamble to the Constitution of India. Participants can access the reading and download an e-certificate from the portal.",
+            "venue": "https://constitution75.com/preambles",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Constitution Day Celebration",
+        "start": "2025-11-26T11:00:00",
+        "end": "2025-11-26T11:00:00",
+        "extendedProps": {
+            "description": "IIT Bombay cordially invites you to a special programme to commemorate the adoption of the Constitution of India, featuring the Reading of the Preamble, an Institute Talk titled 'Some aspects of Indian Constitution and its working' by Mr. Vishwanath Giriraj (IAS Retd.), and Mass Singing of Vande Mataram.",
+            "venue": "F. C. Kohli Auditorium, Kanwal Rekhi Building (KReSIT), IIT Bombay",
+            "organisingBody": "IIT Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
