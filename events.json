@@ -4651,5 +4651,16 @@
             "organisingBody": "Office of Dean (R&D), IIT Bombay",
             "contact": "Nijitha/Shraddha, PA to Dean (R&D)"
         }
+    },
+    {
+        "title": "Cultural Programme",
+        "start": "NoneT19:00:00",
+        "end": "NoneT19:00:00",
+        "extendedProps": {
+            "description": "A cultural programme organised as part of the ongoing conference on 'Role of IPR in promoting Indigenous Knowledge Systems and Viksit Bharat'.",
+            "venue": "Prof. B. Nag Auditorium, VMCC",
+            "organisingBody": "International Conference on \"Role of IPR (Intellectual Property Rights) in promoting Indigenous Knowledge System and Viksit Bharat\"",
+            "contact": "Dr. Ranjit Kumar Das, Mob: 9819768924, Email: drrkdas@iitb.ac.in"
+        }
     }
 ]
