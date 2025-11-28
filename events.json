@@ -4673,5 +4673,16 @@
             "organisingBody": "Ministry of Parliamentary Affairs, in collaboration with MyGov",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "The First Ten Years of Gravitational-Wave Observations and Beyond",
+        "start": "2025-12-10T16:30:00",
+        "end": "2025-12-10T16:30:00",
+        "extendedProps": {
+            "description": "Gravitational-wave observations have ushered in a new era in fundamental physics and astrophysics, giving us the ability to witness the dynamics of spacetime directly. In less than a decade, detections by LIGO and Virgo have revealed unexpected populations of black holes and neutron stars, challenging long-standing ideas of how massive stars form, evolve, and die. Gravitational-wave observations have also provided an unprecedented view of dense matter, a new tool for cosmology and unveiled new tests of general relativity confirming the Hawking Area Law and the Kerr nature of black holes. Yet current detectors can probe only the nearby Universe. Next-generation observatories--Cosmic Explorer and the Einstein Telescope--will open access to black hole mergers at cosmic dawn and neutron star mergers beyond the epoch of peak star formation. Together, they promise discoveries that will reshape astrophysics, cosmology, and fundamental physics.",
+            "venue": "IC-1 SJMSOM, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
