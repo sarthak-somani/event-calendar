@@ -4684,5 +4684,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Innovations in Jet Noise Reduction Technology",
+        "start": "2025-12-02T17:15:00",
+        "end": "2025-12-02T17:15:00",
+        "extendedProps": {
+            "description": "Noise from aircraft jet engines during take-off and landing remains one of aviation's key environmental challenges and could ultimately limit future air transportation growth. NASA's 1995 Environmental Charter identified a fourfold reduction in jet noise within 25 years as one of its Three Pillars of Success. This lecture highlights innovative jet noise reduction concepts and technologies that Dr. Mengle conceived and experimentally validated during his 35+ years of career at Boeing, Rolls-Royce, GE and Aero Insights. Among them are the now-familiar serrations on engine nozzle lips, known as chevrons, and their adaptive versions made from shape-memory alloys (SMA)--tested at model scale and in full-scale flight tests, and now featured on aircraft such as the Boeing 747-8 and 737 MAX. The pioneering advances he made in lobe-mixer designs to reduce jet noise in supersonic planes and medium-thrust engines will also be presented. Jet noise control blends aerodynamics, acoustics, materials science, and environmental engineering, where experiments often guide theory. The talk will show how first-principles physics and creative experimentation can lead to practical designs that help make commercial aviation quieter and more sustainable.",
+            "venue": "LC101, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Essay Competition Prize Distribution",
+        "start": "2026-01-26TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "Cash prizes and certificates to the winners will be distributed during the forthcoming Republic Day function.",
+            "venue": null,
+            "organisingBody": "CVO, IIT Bombay",
+            "contact": "Dr. K. G. Suresh, Chief Vigilance Officer and Professor, Dept. of Physics, Indian Institute of Technology Bombay, Mumbai 400076. Phone: 91-22-25767559, Cell: 9869649706"
+        }
     }
 ]
