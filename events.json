@@ -4706,5 +4706,27 @@
             "organisingBody": "CVO, IIT Bombay",
             "contact": "Dr. K. G. Suresh, Chief Vigilance Officer and Professor, Dept. of Physics, Indian Institute of Technology Bombay, Mumbai 400076. Phone: 91-22-25767559, Cell: 9869649706"
         }
+    },
+    {
+        "title": "Valedictory Function - International Conference on \"Role of IPR (Intellectual Property Rights) in promoting Indigenous Knowledge System and Viksit Bharat\"",
+        "start": "2025-11-28T17:30:00",
+        "end": "2025-11-28T18:45:00",
+        "extendedProps": {
+            "description": "Invitation to the Valedictory Function for the International Conference on \"Role of IPR (Intellectual Property Rights) in promoting Indigenous Knowledge System and Viksit Bharat\". The program includes addresses by Prof. S.V. Kulkarni, Prof. Arpita Sinha, and Prof. Shireesh B. Kedare (Director, IIT Bombay), Best Paper Award Distribution, an address by Chief Guest Dr. Dinesh Patil (Joint Controller of Patents and Designs, Mumbai), a brief report and vote of thanks by Dr. Ranjit Kumar Das, followed by High Tea.",
+            "venue": "Prof. B. Nag Auditorium, VMCC, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay)",
+            "contact": "Dr. Ranjit Kumar Das, Convener. Mob: 9819768924, Email: drrkdas@iitb.ac.in"
+        }
+    },
+    {
+        "title": "IIT Bombay Research Award Lecture Series - Session 4",
+        "start": "2025-12-04T14:30:00",
+        "end": "2025-12-04T16:10:00",
+        "extendedProps": {
+            "description": "Further to the announcement of the IIT Bombay Research Awards for the year 2024, this is Session 4 of the Lecture Series. It features presentations on research by Prof. Vikram Vishal, Prof. Swathy Manohar, and Prof. Sujoy Bhore, including discussions and Q&A.",
+            "venue": "LC 201, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Dean (R&D) and Associate Dean (R&D), IIT Bombay",
+            "contact": null
+        }
     }
 ]
