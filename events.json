@@ -4739,5 +4739,16 @@
             "organisingBody": "Hult Prize IIT Bombay",
             "contact": "Yuvraj - +91 96162 52560"
         }
+    },
+    {
+        "title": "Hacktimus 2025 | Fynd\u2019s Annual Hackathon",
+        "start": "2025-12-05TNone",
+        "end": "2025-12-12TNone",
+        "extendedProps": {
+            "description": "Hacktimus 2025 is Fynd\u2019s annual hackathon, organized in a hybrid format from December 5-12, 2025. It encourages innovation by challenging students to build real-world automation solutions using Fynd\u2019s Boltic platform. Participants can earn internship or full-time roles at Fynd, receive guidance from tech leads, and compete for attractive rewards like an iPhone 17.",
+            "venue": "Fynd Office, Mumbai",
+            "organisingBody": "Fynd",
+            "contact": null
+        }
     }
 ]
