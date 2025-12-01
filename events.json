@@ -4750,5 +4750,16 @@
             "organisingBody": "Fynd",
             "contact": null
         }
+    },
+    {
+        "title": "Hacktimus 2025 - Fynd's Annual Hackathon",
+        "start": "2025-12-05TNone",
+        "end": "2025-12-12TNone",
+        "extendedProps": {
+            "description": "Hacktimus 2025 is Fynd's annual hackathon, inviting students to engage with Fynd's technology team. This platform encourages innovation, offering participants the chance to earn internship or full-time roles at Fynd based on their performance. The event emphasizes building real-world automation solutions using Fynd's Boltic platform, allowing participants to demonstrate technical abilities to industry professionals and mentors. It's a week-long experience fostering learning, creativity, and career growth, with attractive rewards including an iPhone 17, tech gadgets, and exclusive swags.",
+            "venue": "Fynd Office, Mumbai (for offline participation days)",
+            "organisingBody": "Student Alumni Relations Cell (SARC), Indian Institute of Technology Bombay in collaboration with Fynd",
+            "contact": null
+        }
     }
 ]
