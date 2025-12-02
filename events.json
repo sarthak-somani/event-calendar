@@ -4761,5 +4761,27 @@
             "organisingBody": "Student Alumni Relations Cell (SARC), Indian Institute of Technology Bombay in collaboration with Fynd",
             "contact": null
         }
+    },
+    {
+        "title": "IIT Bombay Research Award Lecture Series - Session 3",
+        "start": "2025-12-02T14:30:00",
+        "end": "2025-12-02T14:30:00",
+        "extendedProps": {
+            "description": "Further to the announcement of the IIT Bombay Research Awards for the year 2024, we are pleased to inform you about the Lecture Series - Session 3. Each lecture, including discussions, is expected to last 25 minutes (20 minutes for the presentation and 5 minutes for Q&A). Schedule: 2:30 pm to 2:35 pm - Welcome and Introductory remarks by ADean (R&D); 2:40 pm to 3:05 pm - Prof. Gurminder Singh, Department of Mechanical Engineering (Lecture Title: Low Cost Additive Manufacturing Methods for Difficult-to-Print Materials); 3:10 pm to 3:35 pm - Prof. Swagata Basu, Department of Civil Engineering (Lecture Title: Disaster Risk and Resilience of Aging Highway Bridges); 3:40 pm to 4:05 pm - Prof. Srinivasan Ramakrishnan, Department of Chemistry (Lecture Title: Designing Reactive Interphases for High Energy Solid-State Batteries); 4:05 pm to 4:10 pm - Vote of Thanks by ADean (R&D). We cordially invite you to attend the lectures and learn about the research endeavours and achievements made by our colleagues.",
+            "venue": "LC 201, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Dean (R&D) Office, IIT Bombay",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Innovations in Jet Noise Reduction Technology",
+        "start": "2025-12-02T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay is organising an Institute Lecture on \"Innovations in Jet Noise Reduction Technology\" by Dr. Vinod G. Mengle. Dr. Mengle is the Founder and CEO of Aero Insights, LLC, and was formerly Chief Chevron Design Architect at Boeing. He is an internationally well-known research engineer and inventor in aeroacoustics, specializing in aircraft jet noise reduction, best known for conceiving the Azimuthally Varying Chevrons. The lecture will highlight innovative jet noise reduction concepts and technologies that Dr. Mengle conceived and experimentally validated during his 35+ years of career at Boeing, Rolls-Royce, GE and Aero Insights. Among them are the now-familiar serrations on engine nozzle lips, known as chevrons, and their adaptive versions made from shape-memory alloys (SMA). The pioneering advances he made in lobe-mixer designs to reduce jet noise in supersonic planes and medium-thrust engines will also be presented. The talk will show how first-principles physics and creative experimentation can lead to practical designs that help make commercial aviation quieter and more sustainable.",
+            "venue": "LC101, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: +91-22-25767026-27"
+        }
     }
 ]
