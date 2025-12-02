@@ -4783,5 +4783,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel: +91-22-25767026-27"
         }
+    },
+    {
+        "title": "Digital Twin for Large-Scale Systems",
+        "start": "2025-12-02T16:00:00",
+        "end": "2025-12-02T16:00:00",
+        "extendedProps": {
+            "description": "An online webinar organized by the Technocraft Center for Applied Artificial Intelligence (TCA2I), IIT Bombay. This session will be delivered by Prof. Jayendran Venkateswaran, Institute Chair Professor at the Department of Industrial Engineering and Operations Research (IEOR), IIT Bombay. The webinar focuses on how Digital Twin technologies enhance decision-making in modern large-scale systems, including supply chains. Topics covered include how Digital Twins improve decision-making, real-time synchronization between physical and digital environments, and key Digital Twin methodologies illustrated through applications from literature and ongoing research. TCA2I serves as a hub for research and innovation in AI-driven solutions across domains such as Cybersecurity, Communication Networks, Digital Health, and Digital Transformation.",
+            "venue": "Online",
+            "organisingBody": "Technocraft Center for Applied Artificial Intelligence (TCA2I), IIT Bombay",
+            "contact": "Manjesh Kumar Hanawal, Professor-In-Charge, TCAAI"
+        }
     }
 ]
