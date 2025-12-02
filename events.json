@@ -4805,5 +4805,27 @@
             "organisingBody": "PWD Cell, IIT Bombay",
             "contact": "Sunil Kumar Singh : +91 7030573029"
         }
+    },
+    {
+        "title": "Aadhar Camp",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "ICICI Bank is conducting an Aadhar camp for IIT Bombay campus residents. Please see details below: https://drive.google.com/file/d/1Bx1ZsJZ5jdmbzqJVyC05zHB0JSFJdfS9/view?usp=sharing",
+            "venue": null,
+            "organisingBody": "ICICI Bank",
+            "contact": null
+        }
+    },
+    {
+        "title": "International Day of Persons with Disabilities 2025 Celebration",
+        "start": "2025-12-03T15:00:00",
+        "end": "2025-12-03T15:00:00",
+        "extendedProps": {
+            "description": "Celebration of the International Day of Persons with Disabilities (IDPD) 2025 by the PWD Cell, IIT Bombay, promoting inclusion, accessibility, and equal opportunities. The program includes an Inaugural Ceremony, Keynote Address, Experience Sharing, a Special Cultural Performance by NIEPID's special children, High Tea, and a Panel Discussion on Building an Inclusive Campus. 50 students from NIPIED and Helen Keller Institute for Deaf & Dumb will be joining for the cultural program. Volunteers are invited to register via a Google link.",
+            "venue": "IDC AUDITORIUM, IIT Bombay",
+            "organisingBody": "PWD Cell, IIT Bombay",
+            "contact": "Sunil Kumar Singh : +91 7030573029"
+        }
     }
 ]
