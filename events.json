@@ -4838,5 +4838,16 @@
             "organisingBody": "PWD Cell, IIT Bombay",
             "contact": "Sunil Kumar Singh : +91 7030573029"
         }
+    },
+    {
+        "title": "Lecture Series (Session 4 - 4th Dec 2025): IIT Bombay Research Award",
+        "start": "2025-12-04T14:30:00",
+        "end": "2025-12-04T14:30:00",
+        "extendedProps": {
+            "description": "A lecture series (Session 4) showcasing research endeavours and achievements by IIT Bombay colleagues, associated with the IIT Bombay Research Awards for the year 2024. Featuring lectures by Prof. Vikram Vishal, Prof. Swathy Manohar, and Prof. Sujoy Bhore.",
+            "venue": "LC 201, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Office of Dean (R&D), IIT Bombay",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
