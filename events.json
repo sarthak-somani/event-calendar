@@ -4849,5 +4849,16 @@
             "organisingBody": "Office of Dean (R&D), IIT Bombay",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Adult vaccination for students",
+        "start": "2025-12-06T14:00:00",
+        "end": "2025-12-06T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination for students offering MMR, Chicken Pox, Typhoid, and Hepatitis 'A' vaccines. Mandatory medical folder creation requires a passport-size photo. Students must bring immunization records and a printout of their Student Medical form. Healthy breakfast/lunch and hydration are required prior to vaccination.",
+            "venue": "Hospital (old wing - ground floor)",
+            "organisingBody": "IITB Hospital",
+            "contact": "Dr. Arvind Meshram, In-charge Hospital, CMO(SAG)"
+        }
     }
 ]
