@@ -4860,5 +4860,16 @@
             "organisingBody": "IITB Hospital",
             "contact": "Dr. Arvind Meshram, In-charge Hospital, CMO(SAG)"
         }
+    },
+    {
+        "title": "WRCB\u2019s PRISM Colloquium: Expanding the Therapeutic Landscape: Discovering Functional Hotspots in Unruly Places.",
+        "start": "2025-12-11T11:00:00",
+        "end": "2025-12-11T11:00:00",
+        "extendedProps": {
+            "description": "Join Prof. Haribabu Arthanari (Dept. of Biological Chemistry & Molecular Pharmacology, Harvard Medical School) as he explores how state-of-the-art NMR is uncovering hidden regulatory hotspots in intrinsically disordered proteins\u2014opening new avenues for therapeutic innovation. Refreshments will be provided. All are welcome! Register here: https://tinyurl.com/y59y2xcd",
+            "venue": "Seminar Room A (BSBE)",
+            "organisingBody": "WRCB-IITB",
+            "contact": null
+        }
     }
 ]
