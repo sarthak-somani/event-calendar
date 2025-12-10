@@ -4915,5 +4915,16 @@
             "organisingBody": "ICICI Bank",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay. Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "21st Edition of the Annual Entrepreneurship Summit (E-Summit)",
+        "start": "2025-12-11T09:30:00",
+        "end": "2025-12-12T09:30:00",
+        "extendedProps": {
+            "description": "The 21st Edition of the Annual Entrepreneurship Summit (E-Summit) by Entrepreneurship Cell, IIT Bombay, is a two-day business conclave designed for the IIT Bombay community. It serves as a platform to learn, network, collaborate, and get inspired by India\u2019s leading entrepreneurs, investors, policymakers, and innovators. The summit features a diverse lineup of talks, competitions (including 'The Ten Minute Million' spot funding event), workshops, expos (Startup Expo), and networking forums (Networking Arena, Incubator Summit).",
+            "venue": "IIT Bombay Campus (including Convocation Hall, LT-PCSA, OAT, LH 102, VMCC, SJMSOM, Lecture Hall Complex, Physics Parking Ground)",
+            "organisingBody": "Entrepreneurship Cell, IIT Bombay",
+            "contact": null
+        }
     }
 ]
