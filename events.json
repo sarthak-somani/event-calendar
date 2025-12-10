@@ -4893,5 +4893,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "WRCB\u2019s PRISM Colloquium: Expanding the Therapeutic Landscape: Discovering Functional Hotspots in Unruly Places",
+        "start": "2025-12-11T11:00:00",
+        "end": "2025-12-11T11:00:00",
+        "extendedProps": {
+            "description": "WRCB-IITB invites you to an exciting PRISM colloquium talk by Prof. Haribabu Arthanari from Harvard Medical School (Dept. of Biological Chemistry & Molecular Pharmacology). Prof. Arthanari will explore how state-of-the-art NMR is uncovering hidden regulatory hotspots in intrinsically disordered proteins\u2014opening new avenues for therapeutic innovation. Refreshments will be provided. All are welcome! Register here: https://tinyurl.com/y59y2xcd",
+            "venue": "Seminar Room A (BSBE)",
+            "organisingBody": "WRCB-IITB",
+            "contact": null
+        }
+    },
+    {
+        "title": "Aadhar Camp for IIT Bombay campus residents",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "ICICI Bank is conducting an Aadhar camp for IIT Bombay campus residents. Due to overwhelming response, the AADHAR camp has been extended by 2 days. Details for the original camp were provided via a Google Drive link.",
+            "venue": "IIT Bombay Campus",
+            "organisingBody": "ICICI Bank",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay. Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
