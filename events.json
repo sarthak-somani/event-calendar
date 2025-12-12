@@ -4937,5 +4937,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "OMICS-4-CLINICS: Student and Faculty Interaction Session",
+        "start": "NoneT09:30:00",
+        "end": "NoneT09:30:00",
+        "extendedProps": {
+            "description": "An exclusive session for IITB students and faculty to engage directly with renowned oncologists and leading clinicians, ask questions, and gain valuable insights into clinical practice and translational research.",
+            "venue": "SINE Seminar Hall, RBTIC (5th Floor)",
+            "organisingBody": "OMICS-4-CLINICS",
+            "contact": "Ashutosh"
+        }
     }
 ]
