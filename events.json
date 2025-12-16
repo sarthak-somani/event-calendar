@@ -4981,5 +4981,16 @@
             "organisingBody": "Mood Indigo Team 2025, Office of Dean Student Affairs, Indian Institute of Technology Bombay",
             "contact": "Office of Dean Student Affairs, IIT Bombay, Cont. 022 2576 7079"
         }
+    },
+    {
+        "title": "Mood Indigo 2025: A Vortex of Vandalism",
+        "start": "2025-12-16T00:30:00",
+        "end": "2025-12-18T00:30:00",
+        "extendedProps": {
+            "description": "IIT Bombay's cultural festival, Mood Indigo 2025, featuring various events, artist performances, competitions, games, and decorations from December 16th to 18th. This announcement includes detailed schedules, security measures, vehicular movement restrictions, and entry procedures for various venues. Note that events on December 17th and 18th are strictly restricted to campus residents and competition participants.",
+            "venue": "IIT Bombay Campus (Convocation Hall, LT-PCSA, Gymkhana Grounds, Open Air Theatre (OAT), NCC Grounds, Convocation Lawns, SAC Back Lawns, SOM Well)",
+            "organisingBody": "Mood Indigo Team 2025",
+            "contact": "dean.sa@iitb.ac.in"
+        }
     }
 ]
