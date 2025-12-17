@@ -4992,5 +4992,16 @@
             "organisingBody": "Mood Indigo Team 2025",
             "contact": "dean.sa@iitb.ac.in"
         }
+    },
+    {
+        "title": "Bird Photography & Creative Writing Contests",
+        "start": "2025-12-05TNone",
+        "end": "2026-01-05TNone",
+        "extendedProps": {
+            "description": "The Biodiversity Lab is observing Bird Watching Month from 5th December 2025 to 5th January 2026, featuring a series of bird walks, workshops, and competitions to promote awareness and appreciation of the rich avian diversity present within the IIT Bombay campus. This initiative culminates in the celebration of National Bird Day on 5th January 2026. As part of this, the IIT Bombay Biodiversity Lab invites entries for a Bird Photography Contest (Theme: Birds in Urban Areas) and an Essay Writing / Creative Writing Competition (topics include: Importance of conserving urban bird habitats, My most memorable birdwatching moment, A story narrated from a bird's perspective). The last date for submission is 28th December 2025.",
+            "venue": "IIT Bombay campus",
+            "organisingBody": "IIT Bombay Biodiversity Lab",
+            "contact": "+91 99204 96660"
+        }
     }
 ]
