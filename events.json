@@ -5003,5 +5003,16 @@
             "organisingBody": "IIT Bombay Biodiversity Lab",
             "contact": "+91 99204 96660"
         }
+    },
+    {
+        "title": "SCAN Annual Symposium 2026 on \u201cNeurodegenerative Disorders in India: Current Practices and Challenges\u201d",
+        "start": "2026-01-09TNone",
+        "end": "2026-01-10TNone",
+        "extendedProps": {
+            "description": "The symposium aims to bring together neurologists, clinicians, scientists, faculty members, students, and early-career researchers to discuss clinical challenges, diagnostic and therapeutic approaches, and recent advances in neurodegenerative disease research, particularly in the Indian context. The program includes invited talks, interactive discussions, and a poster session, offering opportunities for interaction with experts and fostering interdisciplinary learning and collaboration.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN)",
+            "contact": "Samir K Maji, pic.scan@iitb.ac.in"
+        }
     }
 ]
