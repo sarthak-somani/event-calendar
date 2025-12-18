@@ -5014,5 +5014,16 @@
             "organisingBody": "Sunita Sanghi Centre of Aging and Neurodegenerative Diseases (SCAN)",
             "contact": "Samir K Maji, pic.scan@iitb.ac.in"
         }
+    },
+    {
+        "title": "TechConnect 2025",
+        "start": "2025-12-22T10:00:00",
+        "end": "2025-12-24T10:00:00",
+        "extendedProps": {
+            "description": "IIT Bombay - Office of Dean Research & Development's flagship event, TechConnect 2025, showcases IIT Bombay's groundbreaking R&D achievements addressing societal and industry needs, and contributing to fundamental research. It offers an invaluable platform for industries to engage with faculty members and students, fostering the exchange of ideas and exploring potential collaborations. The event comprises an Exhibition (100+ cutting-edge technologies), Department\u2013Industry Symposium (10+ symposia for in-depth interactions), and ResCon (50+ research posters, keynotes, and panel discussions). It will be inaugurated by Mr. N R Narayana Murthy, Founder of Infosys Ltd.",
+            "venue": "Physics Parking Lot, Parking Lot between Electrical and Civil Engineering, Convocation Hall",
+            "organisingBody": "IIT Bombay - Office of Dean Research & Development",
+            "contact": "tc2025@ircc.iitb.ac.in"
+        }
     }
 ]
