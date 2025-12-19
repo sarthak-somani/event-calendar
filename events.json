@@ -5025,5 +5025,27 @@
             "organisingBody": "IIT Bombay - Office of Dean Research & Development",
             "contact": "tc2025@ircc.iitb.ac.in"
         }
+    },
+    {
+        "title": "Pre-registration for HASMED courses for Spring Semester 2025-26",
+        "start": "2025-12-19T00:00:00",
+        "end": "2025-12-23T00:00:00",
+        "extendedProps": {
+            "description": "Introduction to HASMED (Humanities, Arts, Social-Science, Management, Entrepreneurship, and Design) is a basket of courses. Pre-registration for these courses is required for UG students- Division 1 & 2 of 2025 Batch. Students must log in to portal.iitb.ac.in/asc and navigate to Forms/Requests to fill the form. Students can credit any two courses from the basket by giving an order of preference. Course allocation is not entirely based on first and second choices; due to limited seats, students will be allotted courses randomly (independent of branch or AIR) while keeping preferences in mind. Students will be notified about allotted courses on their registration portal. Ensure all possible choices of HASMED courses are submitted during pre-registration.",
+            "venue": "portal.iitb.ac.in/asc",
+            "organisingBody": "Dean/Adean, Academic Programmes",
+            "contact": null
+        }
+    },
+    {
+        "title": "Pre-registration for high demand courses in Spring Semester 2025-26",
+        "start": "2025-12-19TNone",
+        "end": "2025-12-23T13:00:00",
+        "extendedProps": {
+            "description": "Pre-registration for high-demand courses in Spring Semester 2025-26 to avoid first-come-first-serve rushes. Seats will be allotted based on instructor-set criteria (Random, CPI, Custom) for pre-registered students. Allotment results will be visible on December 30, 2025. Students not pre-registering will be placed after the waiting list.",
+            "venue": "portal.iitb.ac.in/asc > Forms/Requests",
+            "organisingBody": "Dean/Adean, Academic Programmes",
+            "contact": null
+        }
     }
 ]
