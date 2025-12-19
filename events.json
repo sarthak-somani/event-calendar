@@ -5047,5 +5047,16 @@
             "organisingBody": "Dean/Adean, Academic Programmes",
             "contact": null
         }
+    },
+    {
+        "title": "Quantum Meets AI: Shaping Tomorrow's Technology",
+        "start": "2025-12-23T14:30:00",
+        "end": "2025-12-23T14:30:00",
+        "extendedProps": {
+            "description": "An online webinar organized by the Asia Technological University Network (ATU-Net) with the theme 'Quantum Meets AI: Shaping Tomorrow\\'s Technology', hosted by Universiti Teknologi Malaysia (UTM). Participants will receive an e-certificate.",
+            "venue": "Zoom Meeting (Online)",
+            "organisingBody": "Asia Technological University Network (ATU-Net)",
+            "contact": null
+        }
     }
 ]
