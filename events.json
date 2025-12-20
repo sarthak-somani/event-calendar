@@ -5058,5 +5058,16 @@
             "organisingBody": "Asia Technological University Network (ATU-Net)",
             "contact": null
         }
+    },
+    {
+        "title": "WRCB's Omics4Clinics: Academia\u2013Clinician Interaction",
+        "start": "NoneT09:00:00",
+        "end": "NoneT09:00:00",
+        "extendedProps": {
+            "description": "The session will feature need-based, one-on-one and small-group discussions with the clinicians present, allowing for focused and meaningful exchanges.",
+            "venue": "SINE Seminar Hall, RBTIC (5th Floor)",
+            "organisingBody": "WRCB",
+            "contact": null
+        }
     }
 ]
