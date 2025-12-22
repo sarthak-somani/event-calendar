@@ -5080,5 +5080,16 @@
             "organisingBody": "Techfest Team, 2025-26, IIT Bombay",
             "contact": "Prof. Suryanarayana Doolla (Dean of Student Affairs, IIT Bombay); suryanarayana.doolla@iitb.ac.in"
         }
+    },
+    {
+        "title": "TechFest 2025",
+        "start": "2025-12-22T09:00:00",
+        "end": "2025-12-24T09:00:00",
+        "extendedProps": {
+            "description": "The 29th edition of TechFest, IIT Bombay's annual science and technology festival, featuring competitions, exhibitions, keynote sessions by prominent speakers (Shri Nitin Gadkari Ji, N. R. Narayana Murthy, CDS Anil Chouhan, Dr. Baburam Bhattarai, Hon\u2019ble Dr. Justice D. Y. Chandrachud, General Manoj Pande, Admiral Radhakrishnan Hari Kumar, Air Chief Marshal Vivek Ram Chaudhari, Dr. V. Narayanan, Prof. Igor V. Belokonov), industry summits, drone shows, robot wars, and various performances and games across the campus.",
+            "venue": "IIT Bombay, Powai, Mumbai",
+            "organisingBody": "Techfest Team, IIT Bombay",
+            "contact": "dean.sa@iitb.ac.in"
+        }
     }
 ]
