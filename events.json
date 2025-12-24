@@ -5102,5 +5102,16 @@
             "organisingBody": "FMC, Polymer Processing Facility",
             "contact": null
         }
+    },
+    {
+        "title": "TechFest 2025",
+        "start": "2025-12-22T08:30:00",
+        "end": "2025-12-24T08:30:00",
+        "extendedProps": {
+            "description": "The 29th edition of TechFest, an annual inter-collegiate festival at IIT Bombay, featuring competitions, brilliant performances, exhibitions, keynote sessions, and other events. This email provides a gentle reminder for the final day's events and an invitation to attend.",
+            "venue": "Indian Institute of Technology Bombay (IITB) campus, Mumbai",
+            "organisingBody": "Techfest Team 2025-26, Office of Dean Student Affairs, Indian Institute of Technology Bombay",
+            "contact": "Office of Dean Student Affairs, IIT Bombay, 022 2576 7079"
+        }
     }
 ]
