@@ -5146,5 +5146,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Building AI That Powers and Protects the Digital Workplace",
+        "start": "2026-01-09T17:15:00",
+        "end": "2026-01-09T17:15:00",
+        "extendedProps": {
+            "description": "Lumina, an IIT Bombay Alumni initiative, invites you to an engaging in-person session with Dr. Girija Narlikar (Director of Engineering at Google). Dr. Narlikar will share insights on how AI and large language models are reshaping workplace productivity, while also addressing critical challenges around safety, security, and abuse prevention. This interactive discussion will explore how responsible AI is built and implemented at scale.",
+            "venue": "Academic Section, 5th Floor, SINE Office, Rahul Bajaj Technology Innovation Centre, IIT Bombay Campus",
+            "organisingBody": "Lumina (an IIT Bombay Alumni initiative)",
+            "contact": "IIT Bombay Alumni Association"
+        }
+    },
+    {
+        "title": "Adult Vaccination",
+        "start": "2026-01-03T14:00:00",
+        "end": "2026-01-03T14:00:00",
+        "extendedProps": {
+            "description": "Kindly note that adult vaccination is scheduled on January 3rd, 2026 between 2pm to 4pm, at IITB Hospital, new wing-Ground floor.",
+            "venue": "IITB Hospital, new wing-Ground floor",
+            "organisingBody": "IITB Hospital",
+            "contact": null
+        }
     }
 ]
