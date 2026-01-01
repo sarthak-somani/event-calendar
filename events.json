@@ -5168,5 +5168,16 @@
             "organisingBody": "IITB Hospital",
             "contact": null
         }
+    },
+    {
+        "title": "Registration for LRWC English Language Support - Spring Term 2026",
+        "start": "2026-01-05T10:00:00",
+        "end": "2026-01-09T10:00:00",
+        "extendedProps": {
+            "description": "Announcement of the registration period for English language support courses and services offered by The Language Resource and Writing Cell (LRWC) for Spring Term 2026. Offerings include courses on academic speaking, writing, and grammatical accuracy, as well as a fluency club and personalized consultations. Registration is on a first-come, first-served basis with limited capacity.",
+            "venue": "LRWC Desk (24x7 Reading Hall, Central Library)",
+            "organisingBody": "The Language Resource and Writing Cell (LRWC), IIT Bombay",
+            "contact": "lrwcinstructor@iitb.ac.in"
+        }
     }
 ]
