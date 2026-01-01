@@ -5179,5 +5179,16 @@
             "organisingBody": "The Language Resource and Writing Cell (LRWC), IIT Bombay",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Adult Vaccination",
+        "start": "2026-01-03T14:00:00",
+        "end": "2026-01-03T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination is scheduled on January 3rd, 2026, between 2pm to 4pm, at IITB Hospital, new wing-Ground floor. Kindly note that the charges for vaccine administration are revised from Rs 175/- to Rs 850/- w.e.f. December 1st, 2025. For the students, it is advised that they should not use the payment link available on external ASC portal. If they are willing to pay Rs 850/- towards administration of vaccine, they can directly pay at the IITBH counter on the day of vaccination.",
+            "venue": "IITB Hospital, new wing-Ground floor",
+            "organisingBody": "Chief Medical Officer, IITBH",
+            "contact": "Dr Sheetal, Actg CMO I/C"
+        }
     }
 ]
