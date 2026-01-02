@@ -5234,5 +5234,16 @@
             "organisingBody": "Biodiversity Lab Initiative, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Adult Vaccination",
+        "start": "2026-01-03T14:00:00",
+        "end": "2026-01-03T14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination session. While charges for vaccine administration were previously announced to be revised from Rs 175/- to Rs 850/- effective December 1st, 2025, the implementation of these revised charges has been deferred until further notice. Students willing to pay Rs 850/- can directly pay at the IITBH counter on the day of vaccination, avoiding the external ASC portal payment link.",
+            "venue": "IITB Hospital, new wing-Ground floor.",
+            "organisingBody": "Chief Medical Officer, IITB Hospital",
+            "contact": "Dr Sheetal, Actg CMO I/C"
+        }
     }
 ]
