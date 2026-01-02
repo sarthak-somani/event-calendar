@@ -5223,5 +5223,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "National Bird Day 2026 Celebration",
+        "start": "2026-01-05TNone",
+        "end": "2026-01-05TNone",
+        "extendedProps": {
+            "description": "An institute-level event organized by the Biodiversity Lab to promote awareness and appreciation of the rich avifaunal diversity of the IIT Bombay campus and to encourage environmental stewardship among students and the campus community. Activities include a bird walk, an exhibition of student entries, and a formal programme with a guest seminar and prize distribution.",
+            "venue": "Soneri Baug and the F. C. Kohli Auditorium",
+            "organisingBody": "Biodiversity Lab Initiative, IIT Bombay",
+            "contact": null
+        }
     }
 ]
