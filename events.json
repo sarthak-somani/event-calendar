@@ -5190,5 +5190,16 @@
             "organisingBody": "Chief Medical Officer, IITBH",
             "contact": "Dr Sheetal, Actg CMO I/C"
         }
+    },
+    {
+        "title": "Conclave on AI for Science at IIT Bombay",
+        "start": "2026-01-08TNone",
+        "end": "2026-01-08TNone",
+        "extendedProps": {
+            "description": "A full day Conclave on AI for Science, serving as a premier Pre-Summit gathering leading up to the India-AI Impact Summit 2026 for the Science Working Group. Hosted by C-MInDS and BharatGen at IIT Bombay in collaboration with Maharashtra Govt, the conclave will bring together senior policy leaders, world-class researchers, and international partners to discuss how AI is transforming scientific discovery and research infrastructure. This event includes a student poster session providing a unique opportunity to showcase research on \"AI for Science\" to a high-level audience of experts and policymakers, exploring areas such as AI for Engineering, Biology and Healthcare, Materials Science and Chemistry, Climate Change and Sustainability, Physics, Computational Sciences, AI Safety, Reproducibility, and Openness.",
+            "venue": "ASPIRE IITB Research Park Foundation, IIT Bombay",
+            "organisingBody": "Centre for Machine Intelligence & Data Science (CMInDS) and BharatGen at IIT Bombay in collaboration with Maharashtra Govt",
+            "contact": "connect.minds@iitb.ac.in"
+        }
     }
 ]
