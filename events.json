@@ -5245,5 +5245,16 @@
             "organisingBody": "Chief Medical Officer, IITB Hospital",
             "contact": "Dr Sheetal, Actg CMO I/C"
         }
+    },
+    {
+        "title": "Institute Gymkhana Elections 2026",
+        "start": "2026-01-10TNone",
+        "end": "2026-02-15TNone",
+        "extendedProps": {
+            "description": "Announcement regarding the Institute Gymkhana Elections 2026. This email outlines the timeline for various stages including filing and withdrawal of nominations, manifesto submission, black box sessions, campaigning, soap box, silent day, and voting day. It also details the posts for general and closed elections, along with the eligibility criteria for candidates. A more detailed email with procedures will follow soon.",
+            "venue": null,
+            "organisingBody": "Election Commission 2026",
+            "contact": "elections@iitb.ac.in"
+        }
     }
 ]
