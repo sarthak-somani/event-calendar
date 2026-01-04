@@ -5256,5 +5256,16 @@
             "organisingBody": "Election Commission 2026",
             "contact": "elections@iitb.ac.in"
         }
+    },
+    {
+        "title": "VMCC Frame Structure Dismantling with Traffic Rerouting and Restrictions",
+        "start": "2026-01-01T20:00:00",
+        "end": "2026-01-05T23:59:59",
+        "extendedProps": {
+            "description": "The Estate office has planned a critical structure dismantling work in VMCC from 2nd to 4th Jan 2026. This will involve the movement of heavy cranes and trailers on the VMCC road, affecting surrounding roads and parking areas. Traffic rerouting and movement restrictions for personnel (including pedestrians) will be implemented. Key restrictions include: VMCC facility closed from 1 PM on 2nd Jan till night of 4th Jan (access only from Infinity corridor on forenoon of 2nd Jan, and for IDC employees). Photography of the activity is to be avoided. Parking will be restricted from 8 PM on 1st Jan 2026 till night of 4th Jan 2026 at IDC, VMCC, RBTIC parking, and road between RBTIC to CSRE. Alternative parking is available at BETic, RM Lab, MMMF Lab, and Monash Building. Vehicular traffic rerouting will be effective from 8 AM on 2nd Jan 2026 to 4th Jan 2026 night, with one-way traffic, diversions for big vehicles, and blockages from KV Junction towards EMD Junction. Residents of TCS quarters should note school buses will not be allowed beyond KV junction. Signages, barricades, and guards will be deployed. The latest update indicates that traffic rerouting will continue till 5 Jan 2026. Kindly refer to the map link for planned rerouting: https://bighome.iitb.ac.in/index.php/s/pzazs3iPc7Q9jf6. All are requested to cooperate.",
+            "venue": "VMCC and vicinity, Indian Institute of Technology Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Captain Ambuj Khare (Retd), Chief Security Officer and Head, Indian Institute of Technology Bombay"
+        }
     }
 ]
