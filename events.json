@@ -5278,5 +5278,16 @@
             "organisingBody": "Hindi Section, Indian Institute of Technology Bombay",
             "contact": "Hindi Section: 022-2572-7939"
         }
+    },
+    {
+        "title": "Lumina Session on \u201cBuilding AI That Powers and Protects the Digital Workplace\u201d",
+        "start": "2026-01-09T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "Lumina, an IIT Bombay Alumni initiative created to connect and empower women across the IITB community, invites students to an engaging in-person session on 'Building AI That Powers and Protects the Digital Workplace'. The event will host Dr. Girija Narlikar (B.Tech, Computer Science, 1993), Director of Engineering at Google. She will discuss the transformative role of AI in workplaces and consumer experiences, sharing insights on how AI, including Gemini in Google Workspace, boosts productivity and ensures user safety and security against spam and abuse. Dr. Narlikar's background includes leadership roles at Instacart, Google Ads, and Facebook Messenger, co-founding a fintech startup, and research at Bell Labs. She holds a BTech from IITB and a PhD from Carnegie Mellon University.",
+            "venue": "SINE 5th Floor Theatre Seating, IIT Bombay.",
+            "organisingBody": "Office of Dean ACR, IIT Bombay; Lumina (IIT Bombay Alumni initiative)",
+            "contact": null
+        }
     }
 ]
