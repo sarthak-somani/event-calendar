@@ -5300,5 +5300,16 @@
             "organisingBody": "E-Cell, IIT Bombay and Brookfield Properties",
             "contact": "Mr. Mridul Mantri, mridul@ecell.in"
         }
+    },
+    {
+        "title": "Raman Spectroscopy Workshop at IIT-Bombay",
+        "start": "2026-01-16T09:00:00",
+        "end": "2026-01-16T09:00:00",
+        "extendedProps": {
+            "description": "Workshop on Raman Spectroscopy organized by the Laser Raman Imaging System (central facility) at SAIF/CSIF Building. The workshop covers basics of Raman Spectroscopy, polarization-dependent Raman Spectroscopy, probing excitations and local dynamics, Renishaw Raman Hardware, and various applications, concluding with a live demo.",
+            "venue": "P. C. Saxena Auditorium, IIT-Bombay",
+            "organisingBody": "Laser Raman Imaging System (central facility), SAIF/CSIF Building",
+            "contact": "Phone: 022-2159-6899, Email: lris@iitb.ac.in"
+        }
     }
 ]
