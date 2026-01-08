@@ -5366,5 +5366,27 @@
             "organisingBody": "The Technocraft Centre for Applied Artificial Intelligence (TCA2I), IIT Bombay",
             "contact": "Manjesh Kumar Hanawal"
         }
+    },
+    {
+        "title": "BIS Webinar on Standardization in Refractories",
+        "start": "2026-01-21T16:00:00",
+        "end": "2026-01-21T16:00:00",
+        "extendedProps": {
+            "description": "The webinar aims to provide participants with insights into current technologies, industry practices, and standardization frameworks across engineering and scientific domains. The session is designed to strengthen technical understanding, support academic research, and enhance skills aligned with emerging industry trends and practical applications.",
+            "venue": "Online",
+            "organisingBody": "Bureau of Indian Standards (BIS), under the Ministry of Consumer Affairs, Food & Public Distribution, Government of India",
+            "contact": null
+        }
+    },
+    {
+        "title": "First Session of the 2025 Nobel Prize's Lecture Series",
+        "start": "2026-01-15T14:30:00",
+        "end": "2026-01-15T14:30:00",
+        "extendedProps": {
+            "description": "The Industrial Research & Consultancy Centre (IRCC) hosts the First Session of the 2025 Nobel Prize's Lecture Series, focusing on the significance of the award-winning work. This session features lectures on Physiology/Medicine and Chemistry categories, followed by high tea.",
+            "venue": "Seminar Room A, Ground floor, Dept. of Biosciences and Bioengineering (BSBE)",
+            "organisingBody": "Industrial Research & Consultancy Centre (IRCC)",
+            "contact": null
+        }
     }
 ]
