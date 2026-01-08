@@ -5344,5 +5344,27 @@
             "organisingBody": "Gatan, Inc.",
             "contact": "info-gatan@ametek.com"
         }
+    },
+    {
+        "title": "SCAN Annual Symposium 2026 on Neurodegenerative Disorders in India: Current Practices and Challenges",
+        "start": "2026-01-09TNone",
+        "end": "2026-01-10TNone",
+        "extendedProps": {
+            "description": "The symposium theme focuses on examining the evolving landscape of neurodegenerative diseases within the Indian context. It aims to highlight existing clinical practices, diagnostic approaches, epidemiological trends, and the unique social and healthcare challenges faced across the country. The event will bring together leading clinicians, neuroscientists, public health experts, and caregivers to share insights and discuss pressing issues in early detection, care delivery, rehabilitation, and long-term disease management. Through a series of focused sessions and expert-led discussions, the symposium seeks to foster meaningful collaboration and inspire actionable strategies to strengthen India\u2019s response to neurodegenerative disorders, ultimately working towards improved quality of life and outcomes for patients and their families.",
+            "venue": "LT PCSA, IIT Bombay",
+            "organisingBody": "SCAN (Sunita Sanghi Centre of Aging and Neurodegenerative Diseases) Centre",
+            "contact": "office.scan@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Smart XR for Real-World Systems: From Immersive Visualization to Adaptive Decision Support",
+        "start": "2026-01-16T12:00:00",
+        "end": "2026-01-16T12:00:00",
+        "extendedProps": {
+            "description": "The Technocraft Centre for Applied Artificial Intelligence (TCA2I), IIT Bombay, is pleased to announce an upcoming webinar on the theme: \"Smart XR for Real-World Systems: From Immersive Visualization to Adaptive Decision Support.\" TCA2I functions as a platform that fosters collaboration between academia, industry, and government, with a focus on developing impactful AI-driven solutions across areas such as Communication Networks, Cybersecurity, AI in Healthcare, Digital Twins, and Digital Transformation. This webinar will be delivered by Dr. Saurabh Jain, Professor, Department of Industrial Engineering and Operations Research (IEOR), IIT Bombay, and an associated faculty member of TCA2I. Prof. Jain works extensively on dynamic, data-driven decision support systems for large-scale applications in domains including manufacturing and healthcare. His research interests encompass AR/VR-based systems, distributed and hybrid simulation techniques, smart sensing, and efficient analytics frameworks. In addition, he brings prior industry experience from the semiconductor sector. Key topics to be covered include: Emerging applications of Extended Reality (XR) in operational and real-world systems; Use of XR for immersive visualization, training, guided workflows, and decision-making; Synergistic integration of XR with AI, simulation, and data-driven analytics; Hybrid and VR-based simulation environments for healthcare use cases; Illustrative case studies in medical training, including Functional Endoscopic Sinus Surgery (FESS) and airway management; Leveraging immersive simulators as data sources for skill evaluation and AI-enabled insights.",
+            "venue": "Online",
+            "organisingBody": "The Technocraft Centre for Applied Artificial Intelligence (TCA2I), IIT Bombay",
+            "contact": "Manjesh Kumar Hanawal"
+        }
     }
 ]
