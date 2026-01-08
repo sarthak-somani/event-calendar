@@ -5333,5 +5333,16 @@
             "organisingBody": "FMC, Polymer Processing Facility",
             "contact": "Guruswamy Kumaraswamy <guruswamy@iitb.ac.in>"
         }
+    },
+    {
+        "title": "Webinar: High electron energy loss spectroscopy at extended fine structure",
+        "start": "2026-01-29T08:00:00",
+        "end": "2026-01-29T08:00:00",
+        "extendedProps": {
+            "description": "Extended x-ray absorption fine structure (EXAFS) at inner shell level is a well-established technique for probing short range structure and chemical ordering and possibly extended to medium range order, as well as other application for coordination environment. Its counterpart extended energy-loss fine structure (EXELFS) in the transmission electron microscopy (TEM) is much left behind due to several technical difficulties, including optics and detection and scattering noises, despite its clear strength at spatial resolution. Here we benchmark our work on Cu-K core loss structure of a Cu-foil for comparable quality with XAS on fine structure (extend range instead of near-edge structure). Furthermore, the deconvoluted core loss spectrum with zero loss peak (ZLP) that removed plural scattering, as a result, its radial distribution function (RDF) shows improved visibility for better fitting. Here we present practical aspects for obtaining high quality EXELFS data and its analysis.",
+            "venue": null,
+            "organisingBody": "Gatan, Inc.",
+            "contact": "info-gatan@ametek.com"
+        }
     }
 ]
