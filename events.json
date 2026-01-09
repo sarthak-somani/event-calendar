@@ -5421,5 +5421,27 @@
             "organisingBody": "Hult Prize IIT Bombay",
             "contact": "Akshat: +91 93215 89006; Yuvraj Verma: +91 96162 52560"
         }
+    },
+    {
+        "title": "Institute Gymkhana Elections 2026",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Institute Gymkhana",
+            "contact": null
+        }
+    },
+    {
+        "title": "Institute Gymkhana Elections 2026 : Nominations Open",
+        "start": "2026-01-10T14:00:00",
+        "end": "2026-01-11T14:00:00",
+        "extendedProps": {
+            "description": "Nominations are open for the Institute Gymkhana Elections 2026, specifically for General Secretary and Institute Secretary positions.",
+            "venue": "SAC conference room",
+            "organisingBody": "IITB Election Commission 2026",
+            "contact": "Abhay Pratap Singh: +91 91186 87737, Priyanka Talwar: +91 86373 13704"
+        }
     }
 ]
