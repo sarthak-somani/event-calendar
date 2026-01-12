@@ -5531,5 +5531,16 @@
             "organisingBody": "Office of International Relations, Indian Institute of Technology Bombay",
             "contact": "Vikash Mishra, Administrative Superintendent, Office of International Relations, Indian Institute of Technology Bombay, 022-2576-4074"
         }
+    },
+    {
+        "title": "The Living Genome as an Active Material",
+        "start": "2026-01-22T17:15:00",
+        "end": "2026-01-22T17:15:00",
+        "extendedProps": {
+            "description": "The genome inside our cells is not a static string of DNA but a highly organized, dynamic structure shaped by biochemical reactions, physical forces, and tiny building blocks of chromatin. Recent work shows that active gene activity and epigenetic processes help organize chromatin at multiple scales -- from the mesoscale patterns revealed by super-resolution imaging and sequencing to nanoscale \"domains\" that act as hubs of transcription and regulatory activity, even in the absence of classical loop structures. These chromatin domains, visible only with advanced microscopy, appear to integrate local chemical marks with larger nuclear architecture, linking small-scale organization to global genome function. Importantly, disruptions in these organizing principles -- whether through altered mechanical cues, epigenetic misregulation, or pathological remodeling -- are increasingly observed in diseases like cancer and fibrosis, where genome structure and gene regulation go awry. Together, this body of work points to a unified, multi-scale physical and biochemical framework for genome organization with direct implications for understanding and ultimately targeting disease.",
+            "venue": "LH 102, Lecture Hall Complex (LHC)",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
