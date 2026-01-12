@@ -5520,5 +5520,16 @@
             "organisingBody": "Language Resource and Writing Cell (LRWC)",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Exclusive Session on the SBI Youth for India Fellowship",
+        "start": "2026-01-19T12:00:00",
+        "end": "2026-01-19T13:00:00",
+        "extendedProps": {
+            "description": "An exclusive interactive session delivered by the SBI Foundation team for final-year Undergraduate and Master's students, as well as students graduating next year, about the highly selective 13-month full-time, paid SBI Youth for India Fellowship. The session will cover diverse career pathways in social entrepreneurship, public policy, the development sector, and leadership roles, explain the fellowship structure, stipend, and benefits, and provide first-hand guidance on the application and selection process.",
+            "venue": null,
+            "organisingBody": "Office of International Relations, Indian Institute of Technology Bombay",
+            "contact": "Vikash Mishra, Administrative Superintendent, Office of International Relations, Indian Institute of Technology Bombay, 022-2576-4074"
+        }
     }
 ]
