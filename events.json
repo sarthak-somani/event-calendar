@@ -5498,5 +5498,27 @@
             "organisingBody": "Indian Institute of Technology Bombay (Publications & Public Relations Office)",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay; Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "A Tale of Two Symmetries",
+        "start": "2026-01-19T17:15:00",
+        "end": "2026-01-19T17:15:00",
+        "extendedProps": {
+            "description": "About the Speaker:\nProf. Chandrashekhar Khare was born in Mumbai, and studied at Cambridge, Oxford and Caltech, where he obtained his Ph.D. in 1995. He worked at the Tata Institute of Fundamental Research and the University of Utah and is now a professor at the University of California, Los Angeles. Prof. Khare's research is in number theory, especially on the relation between modular forms and Galois representations. In 2009, he and Jean-Pierre Winterberger made a remarkable breakthrough with their proof of a celebrated conjecture of J.P. Serre. Prof. Khare's honors and awards include the Fermat Prize (2007), Infosys Prize (2010) and the Cole Prize (2011), and he was elected as a Fellow of the Royal Society in 2012.\n\nAbstract:\nI will trace the development of ideas from a 1916 paper of Ramanujan, to the formulation of a conjecture of Jean-Pierre Serre in the 1970's, to its resolution in 2009 in my joint work with Jean-Pierre Wintenberger. Serre's modularity conjecture was a stimulus to much work that led to developments which were crucial to the methods Andrew Wiles used in his solution in 1994 of Fermat's Last Theorem. When Wiles announced his results he had said that his methods were \"orthogonal\" to Serre's conjecture. Our proof of Serre's conjecture uses a strategy that relies crucially on Wiles's methods. The mathematics around Serre's conjecture and our solution of it remains a central area in Number Theory.\nMy mathematical memoir Chasing A Conjecture: Inside the Mind of a Mathematician talks about some of these ideas at an impressionistic level. This talk will give a more mathematical introduction to these ideas: it will flesh out the interplay of Galois and Ramanujan symmetries that are the main protagonists of my book.",
+            "venue": "F.C. Kohli Auditorium, Kanwal Rekhi Building (KReSIT).",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Writing with Ease and Confidence Workshop series",
+        "start": "2026-01-20T16:00:00",
+        "end": "2026-02-10T16:00:00",
+        "extendedProps": {
+            "description": "The Language Resource and Writing Cell (LRWC) announces a series of four workshops: 'Reading to Write I', 'Reading to Write II', 'Writing to Present Ideas Effectively I', and 'Writing to Present Ideas Effectively II'. These workshops aim to help students approach academic reading, structure arguments, present ideas clearly, and use sources effectively while avoiding plagiarism. Each workshop is 2 hours long.",
+            "venue": "LRWC, 24x7 Reading Hall, Central Library",
+            "organisingBody": "Language Resource and Writing Cell (LRWC)",
+            "contact": "lrwcinstructor@iitb.ac.in"
+        }
     }
 ]
