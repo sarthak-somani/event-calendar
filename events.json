@@ -5564,5 +5564,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Lectures on Nobel Prize 2025 - Session II",
+        "start": "2026-01-20T14:30:00",
+        "end": "2026-01-20T14:30:00",
+        "extendedProps": {
+            "description": "The Second Session of the 2025 Nobel Prize's Lecture Series, organized by the Industrial Research & Consultancy Centre (IRCC), will feature talks on Physics by Prof. Kantimay Das Gupta and Economic Sciences by Prof. Pintu Parui. Topics include 'SLUGS, SQUIDS and macroscopic variables in Quantum Mechanics' and 'Innovation-Driven Economic Growth: Why It Matters', respectively. Each lecture is 20 minutes with 5 minutes for Q&A, followed by High Tea.",
+            "venue": "Seminar Room (Opp. to Physics Office), 2nd floor, Dept. of Physics",
+            "organisingBody": "Industrial Research & Consultancy Centre (IRCC)",
+            "contact": "Prof. Sachin Patwardhan and Prof. Leena Vachhani, Dean (R&D) and Associate Dean (R&D)"
+        }
+    },
+    {
+        "title": "Celebration on National Youth Day",
+        "start": "2026-01-18T17:00:00",
+        "end": "2026-01-18T17:00:00",
+        "extendedProps": {
+            "description": "Institution's Innovation Council (IIC) and Vivekananda Study Circle (VSC) of IIT Bombay celebrate the 164th Jayanti of Swami Vivekananda on National Youth Day. This gathering pays tribute to his vision, inspiring young minds toward leadership and nation-building, featuring Dr. Kiran Bedi and Pravrajika Divyanandaprana.",
+            "venue": "F.C. Kohli Auditorium, KRESIT Building, CSE Department",
+            "organisingBody": "Institution's Innovation Council (IIC) and Vivekananda Study Circle (VSC), IIT Bombay",
+            "contact": "WhatsApp group: https://chat.whatsapp.com/LcZQlKyAhj88GbULsP8hLt"
+        }
     }
 ]
