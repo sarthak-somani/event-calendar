@@ -5608,5 +5608,16 @@
             "organisingBody": "Hult Prize IIT Bombay",
             "contact": "Akshat: +91 93215 89006, Yuvraj: +91 96162 52560"
         }
+    },
+    {
+        "title": "Shadow Program by SARC: Visit to Technocraft Industries",
+        "start": "2026-01-16T08:00:00",
+        "end": "NoneT08:00:00",
+        "extendedProps": {
+            "description": "Unique opportunity for an insightful shadowing experience at Technocraft Industries, including interaction with IIT-B alumni, a guided tour of campus and labs, and a demo of innovative solutions. Refreshments provided. A refundable deposit of Rs. 200 is required.",
+            "venue": "Mumbai",
+            "organisingBody": "Student Alumni Relations Cell (SARC)",
+            "contact": "Aadit Sule | ASMP CTM, SARC | +91 8459539918; Aastha Maliwal | ASMP CTM, SARC | +91 9403521022"
+        }
     }
 ]
