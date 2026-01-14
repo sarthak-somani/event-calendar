@@ -5586,5 +5586,16 @@
             "organisingBody": "Institution's Innovation Council (IIC) and Vivekananda Study Circle (VSC), IIT Bombay",
             "contact": "WhatsApp group: https://chat.whatsapp.com/LcZQlKyAhj88GbULsP8hLt"
         }
+    },
+    {
+        "title": "Library Visit & Orientation Program",
+        "start": "2026-01-19T10:00:00",
+        "end": "2026-01-23T10:00:00",
+        "extendedProps": {
+            "description": "The Central Library is pleased to announce a Library Visit and Orientation Program for all new entrants and senior students. This program is designed to help you navigate our vast collection of resources--from traditional print books to advanced digital databases. It will empower you to utilize the library to its full potential by covering library resources & services, research assistance, and best practices for using facilities effectively.",
+            "venue": "Conference Hall, 2nd Floor, Central Library",
+            "organisingBody": "Central Library, Indian Institute of Technology Bombay",
+            "contact": "In-charge, Reference Section, or the library professional staff at +91-22-2576-8922 / 36"
+        }
     }
 ]
