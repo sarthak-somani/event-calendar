@@ -5597,5 +5597,16 @@
             "organisingBody": "Central Library, Indian Institute of Technology Bombay",
             "contact": "In-charge, Reference Section, or the library professional staff at +91-22-2576-8922 / 36"
         }
+    },
+    {
+        "title": "Hult Prize IIT Bombay Brainstorming Session & Mentorship",
+        "start": "2026-01-17T16:00:00",
+        "end": "2026-01-17T16:00:00",
+        "extendedProps": {
+            "description": "A brainstorming and mentorship session to support teams and individuals interested in participating in the Hult Prize IIT Bombay On-Campus Round. It will be helpful for students with an idea seeking one-on-one mentorship from DSSE faculty, those looking for teammates, unsure how their startup idea aligns with the United Nations Sustainable Development Goals (SDGs), having queries regarding the Hult Prize competition structure or process, or planning to apply for prototyping grants. The session will be guided by Prof. Ramesh Kuruva & Prof. Sankalp Pratap, DSSE, IIT Bombay.",
+            "venue": "LT004",
+            "organisingBody": "Hult Prize IIT Bombay",
+            "contact": "Akshat: +91 93215 89006, Yuvraj: +91 96162 52560"
+        }
     }
 ]
