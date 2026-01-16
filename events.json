@@ -5663,5 +5663,16 @@
             "organisingBody": "Student Alumni Relations Cell, IIT Bombay (SARC)",
             "contact": "Poorvi Bansal | SARC CTM | +91 7014629551, Rutuja Dhabarde | SARC CTM | +91 7506053387"
         }
+    },
+    {
+        "title": "Lecture by Prof. Dame Clare Grey",
+        "start": "2026-01-16T16:00:00",
+        "end": "2026-01-16T16:00:00",
+        "extendedProps": {
+            "description": "Rechargeable batteries have been an integral part of the portable electronics revolution and are now playing a critical role in transport and grid applications to help mitigate climate change. However, these applications come with different sets of challenges. New technologies are being investigated and fundamental science is key to producing non-incremental advances and to develop new strategies for energy storage and conversion.\nThis lecture will provide an overview of some battery chemistries and challenges in the field, illustrating some aspects via our own work. Specifically, I will describe our development of NMR, MRI and new optical methods that allow devices to be probed while they are operating, from the local, to particle and then cell level. This allows transformations of the various cell materials to be followed under realistic conditions without having to disassemble and take apart the cell. Examples include beyond-lithium\" technologies (e.g., sodium-ion batteries, and lithium sulphur and air). Starting with local structure and dynamics, as measured by NMR, I will then show - via the optical methods - how the different dynamics can result in very different intercalation mechanisms, e.g., in graphite. NMR methods can also be used to quantify impurities in solid state battery electrolytes, to correlate impurities with transport and dendrite formation. Finally, extensions of our new metrologies to study a wider range of electrochemical systems will be described.",
+            "venue": "MEMS seminar room",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "sriniramk@iitb.ac.in"
+        }
     }
 ]
