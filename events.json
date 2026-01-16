@@ -5674,5 +5674,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "sriniramk@iitb.ac.in"
         }
+    },
+    {
+        "title": "Exclusive Session on the SBI Youth for India Fellowship",
+        "start": "2026-01-19T12:00:00",
+        "end": "2026-01-19T12:00:00",
+        "extendedProps": {
+            "description": "An exclusive interactive session by the SBI Foundation team on the SBI Youth for India Fellowship. This highly selective 13-month paid fellowship focuses on rural development. Learn about career pathways, fellowship structure, stipend (Rs. 21K/month + 1.1L post fellowship), and get application guidance.",
+            "venue": "Room No. IC2, Shailesh J. Mehta School of Management (SJSOM) Building",
+            "organisingBody": "Office of Dean International Relations, Indian Institute of Technology Bombay in collaboration with SBI Foundation",
+            "contact": "Vikash Mishra, 022-2576-4074"
+        }
     }
 ]
