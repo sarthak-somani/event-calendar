@@ -5729,5 +5729,16 @@
             "organisingBody": "Office of Dean International Relations, Indian Institute of Technology Bombay",
             "contact": "Vikash Mishra, Administrative Superintendent, Office of International Relations, Indian Institute of Technology Bombay, 022-2576-4074"
         }
+    },
+    {
+        "title": "2025 Nobel Prize's Lecture Series - Session II",
+        "start": "2026-01-20T14:30:00",
+        "end": "2026-01-20T14:30:00",
+        "extendedProps": {
+            "description": "The Industrial Research & Consultancy Centre (IRCC) presents the Second Session of the 2025 Nobel Prize's Lecture Series. This session focuses on Physics and Economic Sciences, featuring Prof. Kantimay Das Gupta discussing 'SLUGS, SQUIDS and macroscopic variables in Quantum Mechanics' (Physics) and Prof. Pintu Parui on 'Innovation-Driven Economic Growth: Why It Matters' (Economic Sciences). Each lecture is 20 minutes with a 5-minute Q&A. High Tea will follow the lectures.",
+            "venue": "Seminar Room (Opp. to Physics Office), 2nd floor, Dept. of Physics",
+            "organisingBody": "Industrial Research & Consultancy Centre (IRCC)",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
