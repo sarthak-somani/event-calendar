@@ -5751,5 +5751,16 @@
             "organisingBody": "Office of Dean ACR",
             "contact": null
         }
+    },
+    {
+        "title": "The Golden Triangle: A Multi-Modal Approach in Musculoskeletal Biomechanics",
+        "start": "NoneT15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "WRCB\u2013IIT Bombay is pleased to announce the sixth speaker in our colloquium series, PRISM - Prof. Darshan Shah, Department of Mechanical Engineering, IIT Bombay. In his talk titled \u201cThe Golden Triangle: A Multi-Modal Approach in Musculoskeletal Biomechanics,\u201d Prof. Shah will share insights from his laboratory\u2019s work that integrates in-vivo, in-vitro, and in-silico approaches to study joint function and human motion. The talk will highlight how this integrated framework is being leveraged to develop advanced training models and assistive technologies for musculoskeletal applications. We look forward to your participation in what promises to be an engaging and insightful session!",
+            "venue": "BSBE Seminar Hall A",
+            "organisingBody": "WRCB\u2013IIT Bombay",
+            "contact": null
+        }
     }
 ]
