@@ -5784,5 +5784,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Republic Day Programme 2026",
+        "start": "2026-01-26TNone",
+        "end": "2026-01-26TNone",
+        "extendedProps": {
+            "description": "An announcement for the Republic Day Programme 2026. All are invited to attend the Republic Day celebrations. Those who are unable to attend can participate by watching the live web-casting. A circular with more details is available via a provided link.",
+            "venue": null,
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "The Living Genome as an Active Material",
+        "start": "2026-01-22T17:15:00",
+        "end": "2026-01-22T17:15:00",
+        "extendedProps": {
+            "description": "Prof. Vivek Shenoy is the Eduardo D. Glandt President's Distinguished Professor in the School of Engineering and Applied Sciences at the University of Pennsylvania. Dr. Shenoy's research focuses on developing theoretical concepts and numerical methods to understand the basic principles that control the behavior of biological systems. He has used rigorous analytical methods and multiscale modeling techniques, ranging from molecular to continuum methods, to gain physical insight into a myriad of problems in mechanobiology and biomaterials. He is the principal investigator and director of the NSF-funded Science and Technology Center for Engineering Mechanobiology established in 2016 and an MPI of the National Cancer Institute-funded Metastasis Research Network (MetNet) center funded in 2021. Shenoy is an ISI Web of Science/Clarivate Analytics Highly Cited Researcher. Abstract: The genome inside our cells is not a static string of DNA but a highly organized, dynamic structure shaped by biochemical reactions, physical forces, and tiny building blocks of chromatin. Recent work shows that active gene activity and epigenetic processes help organize chromatin at multiple scales -- from the mesoscale patterns revealed by super-resolution imaging and sequencing to nanoscale \"domains\" that act as hubs of transcription and regulatory activity, even in the absence of classical loop structures. These chromatin domains, visible only with advanced microscopy, appear to integrate local chemical marks with larger nuclear architecture, linking small-scale organization to global genome function. Importantly, disruptions in these organizing principles -- whether through altered mechanical cues, epigenetic misregulation, or pathological remodeling -- are increasingly observed in diseases like cancer and fibrosis, where genome structure and gene regulation go awry. Together, this body of work points to a unified, multi-scale physical and biochemical framework for genome organization with direct implications for understanding and ultimately targeting disease.",
+            "venue": "LH 102, Lecture Hall Complex (LHC)",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
