@@ -5806,5 +5806,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Hyundai' Center of Excellence | 2nd CoE Global e-Conference on Revolutionary Technologies Shaping EV Power Systems",
+        "start": "2026-02-03T19:00:00",
+        "end": "2026-02-03T19:00:00",
+        "extendedProps": {
+            "description": "Hyundai CoE is delighted to invite you to its 2nd Global E-Conference, a part of the Hyundai's research initiative with IIT Delhi, IIT Bombay, and IIT Madras. This exclusive online event is designed for professors, researchers, and students from any Indian universities and institutes, focusing on the revolutionary technologies shaping EV power systems. The theme is 'From global supply chain and trade policy challenges to a circular and local trend in the battery value chain'. More importantly, Hyundai CoE continuously selects credited PIs for research projects and provides educational opportunities for professors on global EV eco-system trends.",
+            "venue": "Virtual",
+            "organisingBody": "Hyundai CoE in collaboration with IIT Delhi, IIT Bombay, and IIT Madras",
+            "contact": null
+        }
     }
 ]
