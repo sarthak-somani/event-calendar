@@ -5817,5 +5817,16 @@
             "organisingBody": "Hyundai CoE in collaboration with IIT Delhi, IIT Bombay, and IIT Madras",
             "contact": null
         }
+    },
+    {
+        "title": "Graduate Admissions Seminar - Civil Engineering & Disaster Prevention",
+        "start": "2026-03-24T15:00:00",
+        "end": "2026-03-24T15:00:00",
+        "extendedProps": {
+            "description": "An online seminar for prospective Master's and Doctoral degree students in Civil Engineering and Disaster Prevention at Kyoto University. Faculty members and international students will present information on research areas, laboratory environments, admission procedures, and scholarships. The program includes: Opening remarks, Introduction to Kyoto University, Introduction to Civil Engineering fields in the Graduate School of Engineering, Introduction to the Disaster Prevention Research Institute and Student's journey, Admission to Graduate Programs - Application and Scholarships, and a Q&A session.",
+            "venue": "Online",
+            "organisingBody": "Kyoto University",
+            "contact": "aao-ku@mail2.adm.kyoto-u.ac.jp"
+        }
     }
 ]
