@@ -5850,5 +5850,16 @@
             "organisingBody": "International Relations Office",
             "contact": "international@iitb.ac.in"
         }
+    },
+    {
+        "title": "NR Kamath Lecture: Future of Work and Workers in the AI Era",
+        "start": "2026-01-28T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "An interesting lecture by Prof. Pramod Khargonekar, Distinguished Alumnus of IIT Bombay and Distinguished Professor at University of California, Irvine.",
+            "venue": "F C Kohli Auditorium, 1st floor, KReSIT Building, Dept. of CSE, IIT Bombay",
+            "organisingBody": "Office of Dean ACR, IIT Bombay",
+            "contact": null
+        }
     }
 ]
