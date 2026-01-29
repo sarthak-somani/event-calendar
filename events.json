@@ -5861,5 +5861,27 @@
             "organisingBody": "Office of Dean ACR, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Fully Funded British Council Women in STEM Scholarships: Information Webinar",
+        "start": "2026-02-10T18:30:00",
+        "end": "NoneT18:30:00",
+        "extendedProps": {
+            "description": "An online information webinar by The University of Manchester in collaboration with the British Council, detailing fully funded Women in STEM Scholarships for outstanding female students from Bangladesh, India, Nepal, Pakistan, and Sri Lanka interested in pursuing a one-year STEM master's programme in the UK. Participants will learn about the scholarships, application process, hear from previous scholars, and ask questions of University staff and alumni.",
+            "venue": "Online",
+            "organisingBody": "The University of Manchester",
+            "contact": "Aprajita Kalra, india@manchester.ac.uk"
+        }
+    },
+    {
+        "title": "AI in Mobility: For a Better Society\u2014Advancing Road Safety, Connected Vehicles, and Intelligent Logistics",
+        "start": "2026-01-31T09:15:00",
+        "end": "2026-01-31T09:15:00",
+        "extendedProps": {
+            "description": "A one-day national conference focusing on how Artificial Intelligence and connected technologies can significantly improve road safety, urban mobility, and logistics systems in India. It aims to bring together policymakers, judiciary representatives, industry leaders, researchers, startups, and practitioners to deliberate on moving from policy and technology to real-world implementation and measurable impact. The event is a pre-summit initiative of the AI Impact Summit 2026.",
+            "venue": "Research Park Auditorium",
+            "organisingBody": "IIT Bombay",
+            "contact": "Faculty Coordinator: Prof. Archak Mittal, Dept. of Civil Engineering; Student Coordinators: Angshuman Baruah (+91 70029 69667), Suraj Gupta (+91 72470 30087), Divyam Choudhary (+91 99834 67456"
+        }
     }
 ]
