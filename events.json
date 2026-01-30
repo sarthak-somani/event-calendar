@@ -5894,5 +5894,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay, Tele: 022-25767041"
         }
+    },
+    {
+        "title": "DSSE Day 2026 Celebration at IIT Bombay",
+        "start": "2026-01-31T09:00:00",
+        "end": "2026-01-31T09:00:00",
+        "extendedProps": {
+            "description": "Join the DSSE Day 2026 celebration at IIT Bombay, marking over a decade of the entrepreneurship center. The day features a range of events including the launch of the Groww program (funding 400+ student teams with POC and Venture creation grants), a Research Symposium (9 AM-1 PM) for doctoral and masters students, a Fireside chat with Mr Kishore Biyani, a Keynote by Mr Parthasarathy N.S., a Live address by Mr Bharat Desai, and the announcement of Student Entrepreneurship awards. Access the Groww program QR code at 2 PM. See poster for more details.",
+            "venue": "PC Saxena Auditorium IIT Bombay",
+            "organisingBody": "Institution's Innovation council",
+            "contact": null
+        }
+    },
+    {
+        "title": "Special Talk by Dr. E. V. Swaminathan on 'Life Lessons \u2013 Aging and Legacy'",
+        "start": "2026-02-03T10:45:00",
+        "end": "2026-02-03T10:45:00",
+        "extendedProps": {
+            "description": "Dr. E. V. Swaminathan, a renowned life coach, counsellor, and trainer associated with the Brahma Kumaris, will deliver a special talk on the theme 'Life Lessons \u2013 Aging and Legacy'. This event is organized as part of the Class of \u201976 Golden Jubilee Reunion. Faculty members, students, and alumni of IIT Bombay are invited.",
+            "venue": "P. C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "IIT Bombay Alumni Association",
+            "contact": null
+        }
     }
 ]
