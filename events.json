@@ -5916,5 +5916,16 @@
             "organisingBody": "IIT Bombay Alumni Association",
             "contact": null
         }
+    },
+    {
+        "title": "The Lifecycle of Money: Is the Dollar Empire Ending? Masterclass with Dr. Viral Acharya",
+        "start": "2026-02-06T17:30:00",
+        "end": "NoneT17:30:00",
+        "extendedProps": {
+            "description": "Join Dr. Viral Acharya, C.V. Starr Professor of Economics at NYU Stern School of Business and former Deputy Governor of the Reserve Bank of India, for a masterclass. An IIT Bombay alumnus, Dr. Acharya will decode the complex architecture of the global financial system. Topics include De-Dollarization ('Slow Bleed' or 'Sudden Stop'?, 'Network Effect' dilemma, Weaponization of US Dollar, Gold as the geopolitical 'put option'), 'Stress Test' on whether India can/should Decouple (Decoupling myth, India's macro outlook, Strategic autonomy), and Money 2.0 (Clash of Algorithms like Stablecoins/Crypto) and Sovereigns (CBDCs) as well as 'Shadow Banks' vs. Central Banks.",
+            "venue": "B. Nag Auditorium, VMCC, IITB",
+            "organisingBody": "The Motilal Oswal Centre for Capital Markets (MOCCM), in collaboration with the Investment Team, Quant Community and Web & Coding Club, IIT Bombay",
+            "contact": null
+        }
     }
 ]
