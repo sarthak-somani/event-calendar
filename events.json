@@ -5927,5 +5927,16 @@
             "organisingBody": "The Motilal Oswal Centre for Capital Markets (MOCCM), in collaboration with the Investment Team, Quant Community and Web & Coding Club, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "South Asia Regional Finale of the Global Sustainability Challenge",
+        "start": "2026-02-07T09:00:00",
+        "end": "2026-02-07T09:00:00",
+        "extendedProps": {
+            "description": "A pioneering initiative bringing together students from across the world to design and implement innovative solutions to pressing sustainability challenges. Student teams from across the SAARC region and the Middle East will present their work through poster and video presentations. The top-performing teams from this regional finale will qualify for the Global Finale.",
+            "venue": "B Nag Auditorium, VMCC, IIT Bombay",
+            "organisingBody": "Global Sustainability Challenge (organized by a collaboration including IIT Bombay, Stanford Doerr School of Sustainability, Imperial College London, The Hong Kong University of Science & Technology, Technical University of Munich (TUM), Zhejiang University, Maker Bhavan Foundation, YGA, MakerGhat)",
+            "contact": "30006497@iitb.ac.in"
+        }
     }
 ]
