@@ -5938,5 +5938,27 @@
             "organisingBody": "Global Sustainability Challenge (organized by a collaboration including IIT Bombay, Stanford Doerr School of Sustainability, Imperial College London, The Hong Kong University of Science & Technology, Technical University of Munich (TUM), Zhejiang University, Maker Bhavan Foundation, YGA, MakerGhat)",
             "contact": "30006497@iitb.ac.in"
         }
+    },
+    {
+        "title": "Interim Session of the 64th Convocation of the Institute",
+        "start": "2026-02-26T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "Invitation for the Interim Session of the 64th Convocation of the Institute. The invitation is made available on https://bighome.iitb.ac.in/index.php/s/tE4KcN4EQrxmrys. Refer to https://www.iitb.ac.in/newacadhome/convocation/index.jsp for updates.",
+            "venue": "Convocation Hall of the Institute",
+            "organisingBody": "Indian Institute of Technology Bombay, Powai",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
+        }
+    },
+    {
+        "title": "Interim Session of the 64th Convocation of the Institute",
+        "start": "2026-02-28T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "The Interim Session of the 64th Convocation of the Institute, inviting graduands.",
+            "venue": "Convocation Hall of the Institute",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay. Tele: 022-25767041"
+        }
     }
 ]
