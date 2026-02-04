@@ -5960,5 +5960,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay. Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Adult Vaccination",
+        "start": "NoneT14:00:00",
+        "end": "NoneT14:00:00",
+        "extendedProps": {
+            "description": "Adult vaccination will be held at IITB Hospital on the 1st and 3rd Saturdays of every month from 2.00 pm to 4.00 pm.",
+            "venue": "IITB Hospital",
+            "organisingBody": "IITB Hospital",
+            "contact": null
+        }
     }
 ]
