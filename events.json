@@ -5971,5 +5971,16 @@
             "organisingBody": "IITB Hospital",
             "contact": null
         }
+    },
+    {
+        "title": "HKUST Engineering Summer Camp for Elite Students 2026",
+        "start": "2026-07-13TNone",
+        "end": "2026-07-17TNone",
+        "extendedProps": {
+            "description": "An incredible opportunity for senior undergraduate and master's students in engineering-related disciplines from recognized institutions outside Hong Kong to join the HKUST Engineering Summer Camp. The program offers a transformative journey with waived fees and airfare sponsorship for shortlisted participants. Eligibility includes outstanding academic performance, research potential, and English proficiency. For detailed information and application procedures, please visit the website provided.",
+            "venue": "HKUST, Hong Kong",
+            "organisingBody": "School of Engineering, Hong Kong University of Science and Technology (HKUST)",
+            "contact": "sengpgevents@ust.hk"
+        }
     }
 ]
