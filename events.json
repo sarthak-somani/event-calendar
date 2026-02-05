@@ -5993,5 +5993,16 @@
             "organisingBody": "Wadhwani Innovation and Translation Centre (WITC), IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Interim session of 64th Convocation",
+        "start": "2026-02-28T09:30:00",
+        "end": "NoneT09:30:00",
+        "extendedProps": {
+            "description": "Detailed instructions for degree recipients (graduands) attending the Interim session of the 64th Convocation. Key information includes requirements for dues clearance, mandatory visit to the Academic Office for participation earmarking and collection of uttaria, invitation card, transcript, and lunch coupons between Feb 26-27, 2026 (10:00 a.m. to 4:00 p.m.). Also specifies mandatory rehearsal attendance at 3:00 p.m. on Feb 27, 2026, and reporting time for the main event at 9:30 a.m. on Feb 28, 2026, at the Convocation Hall. Entry by invitation card only. Lunch packets available after the ceremony.",
+            "venue": "Convocation Hall",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay, Tele: 022-25767041"
+        }
     }
 ]
