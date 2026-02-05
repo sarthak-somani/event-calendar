@@ -6004,5 +6004,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay, Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Prof. C. V. Seshadri Distinguished Institute Lecture",
+        "start": "2026-02-10T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay cordially invites you to attend the Prof. C. V. Seshadri Distinguished Institute Lecture. Speaker: Prof. Rama Govindarajan, Professor, ICTS\u2013TIFR, Bengaluru, Leading researcher in Fluid Dynamics, Associate Editor, /Physical Review Fluids/. Topic: /Cooperative Settling/.",
+            "venue": "PC Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Dean ACR Office, Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
