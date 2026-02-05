@@ -5982,5 +5982,16 @@
             "organisingBody": "School of Engineering, Hong Kong University of Science and Technology (HKUST)",
             "contact": "sengpgevents@ust.hk"
         }
+    },
+    {
+        "title": "\u0906\u0930\u094b\u0917\u094d\u092f Next: Reimagining the Therapeutic Playbook",
+        "start": "2026-03-20TNone",
+        "end": "2026-03-21TNone",
+        "extendedProps": {
+            "description": "\u0906\u0930\u094b\u0917\u094d\u092f Next is a flagship, invitation-driven forum bringing together leaders from academia, healthcare, policy, industry, startups, and the innovation ecosystem to deliberate on the future of next-generation therapeutics in India. The discussions will focus on: Emerging therapeutic modalities (cell & gene therapies, biologics, and advanced platforms); Translating research into real-world clinical and societal impact; Industry\u2013startup\u2013academic collaboration for scalable healthcare innovation; Pathways toward equitable access aligned with national health priorities. Designed as an interactive and dialogue-centric platform, the event emphasizes meaningful engagement and thought leadership over conventional exhibition formats.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Wadhwani Innovation and Translation Centre (WITC), IIT Bombay",
+            "contact": null
+        }
     }
 ]
