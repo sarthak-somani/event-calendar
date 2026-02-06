@@ -6026,5 +6026,16 @@
             "organisingBody": "Ministry of Education, Government of India",
             "contact": null
         }
+    },
+    {
+        "title": "Mandatory Workshops for Aspiring Student Mentors",
+        "start": "2026-02-14TNone",
+        "end": "2026-03-31TNone",
+        "extendedProps": {
+            "description": "Mandatory Mentor Eligibility Course conducted by the Flourishing Hub of IIT Bombay, comprising four workshops (Gender Sensitisation and POSH, Awareness on Alcohol and Substance Use, Psychological First-Aid, Understanding the role of a mentor). This course is a prerequisite for students aspiring to apply for mentor positions (ISMP, DAMP, ISCP, IRSCP) in the institute for the academic year 2026-27. Full attendance and fulfillment of all requirements are mandatory for selection.",
+            "venue": null,
+            "organisingBody": "Flourishing Hub of IIT Bombay",
+            "contact": "Office of Dean Student Affairs"
+        }
     }
 ]
