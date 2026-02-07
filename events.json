@@ -6048,5 +6048,16 @@
             "organisingBody": "Team SWC, Student Wellness Centre, IIT Bombay",
             "contact": "Phone: 9070 (Institute extension; Between 10 am to 4pm); Email: wellness@iitb.ac.in"
         }
+    },
+    {
+        "title": "Stray animal awareness session",
+        "start": "2026-02-12T11:30:00",
+        "end": "2026-02-12T11:30:00",
+        "extendedProps": {
+            "description": "An awareness session arranged by the Institute to educate Staff/Student/Faculty, and their families, with the knowledge to protect themselves from stray animal bites and save lives. It will be conducted by BMC Veterinary Officer & M/s. Indie Care AI team, Stray animal management agency, and will be followed by a question-and-answer session.",
+            "venue": "P.C.Saxena Auditorium, IIT campus",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
