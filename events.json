@@ -6059,5 +6059,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "One-on-one Emotional Support Session",
+        "start": "NoneT10:00:00",
+        "end": "NoneT10:00:00",
+        "extendedProps": {
+            "description": "Counselor will be available for one-on-one emotional support for students who need support or someone to listen.",
+            "venue": "SWC Office (Nandan Nilekani Main Building, 3rd floor)",
+            "organisingBody": "Student Wellness Centre (SWC), IIT Bombay",
+            "contact": "Phone: 9070 (Institute extension); Email: wellness@iitb.ac.in"
+        }
     }
 ]
