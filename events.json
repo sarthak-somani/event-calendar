@@ -6070,5 +6070,16 @@
             "organisingBody": "Student Wellness Centre (SWC), IIT Bombay",
             "contact": "Phone: 9070 (Institute extension); Email: wellness@iitb.ac.in"
         }
+    },
+    {
+        "title": "General Secretary Soapbox Sessions",
+        "start": "2026-02-09T18:00:00",
+        "end": "2026-02-10T18:00:00",
+        "extendedProps": {
+            "description": "Soapbox sessions for candidates contesting General Secretary positions in Hostel Affairs, Cultural Affairs, and Technical Affairs to present their manifestos. The venue has been changed to Convocation Hall. Attendees must carry ID cards for entry and are advised to maintain decorum; strict action will be taken for any unwanted activities or decorum violations.",
+            "venue": "Convocation Hall",
+            "organisingBody": "Election Commission'26, IIT Bombay",
+            "contact": "Abhay Pratap Singh: +91 91186 87737, Priyanka Talwar: +91 86373 13704"
+        }
     }
 ]
