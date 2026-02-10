@@ -6125,5 +6125,16 @@
             "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay) in collaboration with the Rajiv Gandhi National Institute of Intellectual Property Management (RGNIIPM)",
             "contact": null
         }
+    },
+    {
+        "title": "AI Panel Discussion",
+        "start": "2026-02-11T14:00:00",
+        "end": "2026-02-11T14:00:00",
+        "extendedProps": {
+            "description": "An AI Panel Discussion hosted by IIT Bombay, MyGov India, and IndiaAI (MeitY) ahead of the India AI Impact Summit 2026. The discussion will focus on Artificial Intelligence, its real-world applications, emerging career opportunities, and future scope, followed by an interactive Q&A and student project showcase. The panel features Keerthika Govindswamy, Prashant Warier (Cure.ai), Prof Ranjith (IIT Bombay), Dr Roomani Shrivastava (IIT Bombay), and is emceed by Dr Richa Singh. This is a valuable opportunity for students to engage with AI leaders. The event will be recorded and uploaded to the AI Impact Summit website. Registered students will receive a goody. Register at: https://forms.gle/RBnJ4VtSJphtyCCz9",
+            "venue": "PC Saxena Auditorium, IIT Bombay",
+            "organisingBody": "IIT Bombay, MyGov India, IndiaAI (MeitY)",
+            "contact": "Dr. Sudam Adalinge, Deputy Registrar (Acad-UG), Indian Institute of Technology Bombay, Tele: 022-25767987"
+        }
     }
 ]
