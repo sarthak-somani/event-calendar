@@ -6092,5 +6092,16 @@
             "organisingBody": "IIC IIT Bombay, Groww INV.ENT Program, Desai Sethi School of Entrepreneurship (DSSE)",
             "contact": "alka.chavan@iitb.ac.in"
         }
+    },
+    {
+        "title": "TCA2I Webinar on \"Supply Chain Analytics - Driving Agility & Efficiency: Some Case Studies\"",
+        "start": "2026-02-18T16:00:00",
+        "end": "2026-02-18T16:00:00",
+        "extendedProps": {
+            "description": "This session, organized by TCA2I, IIT Bombay, will explore how AI-driven analytics and mathematical modelling are transforming modern supply chains by bridging rigorous academic research with real-world operational agility and efficiency. Session Highlights include: Supply Chain Resilience (leveraging data to enhance agility in uncertain and dynamic markets), Optimization (insights into network optimization and logistics management), and Evidence-Based Results (real-world case studies demonstrating the operational impact of AI).",
+            "venue": "Online",
+            "organisingBody": "TCA2I, IIT Bombay",
+            "contact": null
+        }
     }
 ]
