@@ -6103,5 +6103,16 @@
             "organisingBody": "TCA2I, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Prof. C. V. Seshadri Distinguished Institute Lecture",
+        "start": "2026-02-10T17:15:00",
+        "end": "2026-02-10T17:15:00",
+        "extendedProps": {
+            "description": "Lecture by Prof. Rama Govindarajan (Professor, ICTS-TIFR, Bengaluru) on the topic 'Cooperative Settling'.",
+            "venue": "PC Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Dean ACR Office, Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
