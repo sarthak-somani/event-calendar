@@ -6114,5 +6114,16 @@
             "organisingBody": "Dean ACR Office, Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Workshop on Intellectual Property Rights (IPR) and Patent & Design Filing",
+        "start": "2026-02-25T12:00:00",
+        "end": "2026-02-25T12:00:00",
+        "extendedProps": {
+            "description": "As part of the celebrations of Azadi Ka Amrit Mahotsav, the Ministry of Education and the University Grants Commission (UGC) have launched an online initiative to promote awareness and basic training in Intellectual Property Rights (IPRs) among students and faculty across universities and colleges in India, with the objective of fostering innovation and creativity. Under this initiative, the Office of the Controller General of Patents, Designs & Trade Marks (CGPDTM), Ministry of Commerce and Industry, launched the National Intellectual Property Awareness Mission (NIPAM) in 2021, aiming to reach out to the maximum number of students and faculty nationwide. This free online session is organized by the Indian Institute of Technology Bombay in collaboration with the Rajiv Gandhi National Institute of Intellectual Property Management (RGNIIPM) for the benefit of students and faculty members of IIT Bombay. The session will be 1 hour long, followed by a Q&A session. E-certificates will be issued to all participants. Faculty members and students are strongly encouraged to attend this session.",
+            "venue": "Online (Cisco Webex)",
+            "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay) in collaboration with the Rajiv Gandhi National Institute of Intellectual Property Management (RGNIIPM)",
+            "contact": null
+        }
     }
 ]
