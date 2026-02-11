@@ -6147,5 +6147,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Publications & Public Relations Office, Indian Institute of Technology Bombay; Tel.No.: (+91-22) 25767026-27; Website: www.iitb.ac.in"
         }
+    },
+    {
+        "title": "AI Panel Discussion",
+        "start": "2026-02-11T14:00:00",
+        "end": "2026-02-11T14:00:00",
+        "extendedProps": {
+            "description": "An AI Panel Discussion hosted by IIT Bombay in collaboration with IndiaAI (MeitY) and MyGov India, ahead of the India AI Impact Summit 2026. The panel features a Tech/AI Influencer (Keerthika Govindswamy), an AI Startup Founder (Prashant Warier, Cure.ai), an IIT Bombay Faculty Member (Prof Ranjith), and an IIT Bombay PhD scholar (Dr Roomani Shrivastava), moderated by Dr Richa Singh. The discussion will cover AI applications, career opportunities, future scope, and include a student showcase of AI-based projects and an interactive Q&A. This is a valuable opportunity to engage with AI leaders and gain insights into India's evolving AI landscape. Registered students will receive a goody.",
+            "venue": "PC Saxena Auditorium, IIT Bombay",
+            "organisingBody": "IIT Bombay in collaboration with IndiaAI (MeitY) and MyGov India",
+            "contact": "dracad@iitb.ac.in"
+        }
     }
 ]
