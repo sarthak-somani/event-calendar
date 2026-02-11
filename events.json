@@ -6180,5 +6180,27 @@
             "organisingBody": "Fire and Safety Section, Indian Institute of Technology Bombay",
             "contact": "Amit Kumar, Fire and Safety Section, Telephone: +91-22 21593057"
         }
+    },
+    {
+        "title": "ICONS 2026 \u2013 CMMM: IIT Bombay Workshop on Critical Minerals, Materials and Metals",
+        "start": "2026-02-20TNone",
+        "end": "2026-02-21TNone",
+        "extendedProps": {
+            "description": "The workshop aims to bring together industry leaders, academic researchers, policymakers, and technology developers to deliberate on challenges and opportunities across the value chain of critical minerals, advanced materials, and strategic metals. Key thematic areas will include resource security, exploration & mining, processing and refining technologies, component manufacturing technologies followed by evaluation of their applications, recycling processes, sustainability and circular economy, energy-transition materials, scale-up and commercialization, ESG, and policy and supply-chain perspectives. ICONS \u2013 CMMM is envisioned as a platform to: Facilitate dialogue between industry and academia on emerging needs and technologies; Highlight ongoing research, pilot-scale developments, and industrial case studies; Identify opportunities for collaboration, joint research, and technology translation.",
+            "venue": "IIT Bombay",
+            "organisingBody": "IIT Bombay - Industrial Research and Consultancy Centre (IRCC) in association with the Centre of Excellence for Critical Minerals, Materials and Metals (CMMM)",
+            "contact": null
+        }
+    },
+    {
+        "title": "Indo-French Year of Innovation Inauguration",
+        "start": "2026-02-17T11:00:00",
+        "end": "2026-02-17T11:00:00",
+        "extendedProps": {
+            "description": "The Hon'ble Prime Minister of India and the French President will announce the Indo-French Year of Innovation, with a focus on industry-academia collaboration. The day will include panel discussions with French and Indian experts on topics such as cultural and creative industry, sustainability, aerospace, and university entrepreneurship ecosystem. Students are invited to represent their respective institutes.",
+            "venue": "Taj Palace",
+            "organisingBody": "DPIIT",
+            "contact": null
+        }
     }
 ]
