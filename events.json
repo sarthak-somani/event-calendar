@@ -6202,5 +6202,27 @@
             "organisingBody": "DPIIT",
             "contact": null
         }
+    },
+    {
+        "title": "Understanding the Glue that Binds Us All",
+        "start": "2026-02-12T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "Despite half a century of international research, scientists still understand very little about the interactions between quarks and gluons inside protons and neutrons especially when they are in large numbers. For instance, adding up the masses of quarks and gluons accounts for only about 1% of a proton's total mass and roughly half of its spin. Where does the rest come from? The answer likely lies in the complex dynamics of gluon interactions. To explore the gluon's role, a groundbreaking new facility--the Electron-Ion Collider (EIC)--is being built at Brookhaven National Laboratory in partnership with Jefferson Lab. This next-generation particle accelerator will collide polarized electrons with polarized protons and nuclei to produce high-resolution \"snapshots\" of their internal structure (think of a 3D MRI of the proton), enabling physicists to better understand how quarks and gluons generate mass, spin, and the fundamental properties of matter. The EIC is a global collaboration involving more than 1,500 scientists from nearly 300 institutions, including a significant contingent from India. Once operational later in the next decade, the collider is expected to revolutionize understanding of the strong nuclear force--the \"glue\" that binds the building blocks of visible matter throughout the universe. In this talk, I will outline the open questions in quark-gluon dynamics and present the current status of the EIC project that is poised to address them.",
+            "venue": "P.C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Publications & Public Relations Office, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Spring Session of the 64th Convocation",
+        "start": "2026-02-28T11:00:00",
+        "end": "2026-02-28T11:00:00",
+        "extendedProps": {
+            "description": "You are invited to attend the Spring Session of the 64th Convocation. Mr. Motilal Oswal, CEO & Co-Founder of Motilal Oswal Financial Services Ltd. (MOFSL), will be the Chief Guest on the occasion. Live streaming will be available.",
+            "venue": "Convocation Hall, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Publications & Public Relations Office, IIT Bombay; Tel: (+91-22) 25767026-27"
+        }
     }
 ]
