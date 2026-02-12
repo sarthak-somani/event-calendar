@@ -6235,5 +6235,16 @@
             "organisingBody": "WRCB",
             "contact": null
         }
+    },
+    {
+        "title": "Discover Funded Research Opportunities in Multidisciplinary Brain Sciences at Bar-Ilan University, Israel",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "A webinar showcasing funded research opportunities in Multidisciplinary Brain Sciences at The Leslie and Susan Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Israel. It will provide insights into research programs, laboratories, faculty interaction, and available scholarships for M.Sc., Ph.D., and Postdoctoral candidates across diverse fields such as Neuroscience, AI/ML, Data Science, Cognitive Science, Psychology, and more. Attendees will learn about research and labs, meet faculty, hear about funding options, and interact with current students.",
+            "venue": "Online (Webinar)",
+            "organisingBody": "Bar-Ilan University, Israel",
+            "contact": "india.biu@biu.ac.il"
+        }
     }
 ]
