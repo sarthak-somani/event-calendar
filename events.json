@@ -6246,5 +6246,16 @@
             "organisingBody": "Bar-Ilan University, Israel",
             "contact": "india.biu@biu.ac.il"
         }
+    },
+    {
+        "title": "Mandatory Eligibility Course for Aspiring ISCP 2026-27 Positions",
+        "start": "2026-02-14TNone",
+        "end": "2026-03-31TNone",
+        "extendedProps": {
+            "description": "A mandatory Mentor Eligibility Course required for all Institute Student Companion Program (ISCP) positions for the upcoming academic year. The course consists of four essential workshops: Gender Sensitization and POSH, Awareness on Alcohol and Substance Use, Psychological First-Aid, and Understanding the Role of a Mentor. Completion of all four workshops is a strict prerequisite for ISCP application consideration.",
+            "venue": null,
+            "organisingBody": "Institute Student Companion Programme (ISCP)",
+            "contact": "Ronit Pawar, Parth Pandya, iscp@iitb.ac.in, +91 7350742608, +91 8850713039"
+        }
     }
 ]
