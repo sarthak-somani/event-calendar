@@ -6257,5 +6257,16 @@
             "organisingBody": "Institute Student Companion Programme (ISCP)",
             "contact": "Ronit Pawar, Parth Pandya, iscp@iitb.ac.in, +91 7350742608, +91 8850713039"
         }
+    },
+    {
+        "title": "WITC-IITB's SynBio'26 | Synthetic Biology Conference",
+        "start": "2026-02-21TNone",
+        "end": "2026-02-21TNone",
+        "extendedProps": {
+            "description": "A day-long dynamic conference bringing together researchers, innovators, industry leaders, to explore the newest frontiers of Synthetic Biology and its implication for India's bioeconomy. From engineering proteins and recombinant enzymes to sustainable biomanufacturing and next-gen therapeutics, the event will feature: Insightful talks by leading experts, High-level discussions on India-centric bioeconomy challenges, Networking opportunities with academia & industry, Emerging research shaping the future of synthetic-biology enabled technologies.",
+            "venue": "IDC Mini-theatre (1st floor) RBTIC, IITB.",
+            "organisingBody": "WITC-IITB",
+            "contact": null
+        }
     }
 ]
