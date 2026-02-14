@@ -6268,5 +6268,16 @@
             "organisingBody": "WITC-IITB",
             "contact": null
         }
+    },
+    {
+        "title": "Gymkhana Elections 2026",
+        "start": "2026-02-15T10:00:00",
+        "end": "2026-02-15T10:00:00",
+        "extendedProps": {
+            "description": "Instructions and guidelines for the Gymkhana Elections 2026, including voting rules (10 AM to 8 PM, Feb 15, 2026), campus restrictions, and contact details for officials.",
+            "venue": "Online",
+            "organisingBody": "Election Commission 2026",
+            "contact": "elections@iitb.ac.in"
+        }
     }
 ]
