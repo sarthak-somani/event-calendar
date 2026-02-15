@@ -6279,5 +6279,16 @@
             "organisingBody": "Election Commission 2026",
             "contact": "elections@iitb.ac.in"
         }
+    },
+    {
+        "title": "Gymkhana Elections 2026 - Voting Instructions & Polling Day Guidelines",
+        "start": "2026-02-15T10:00:00",
+        "end": "2026-02-15T10:00:00",
+        "extendedProps": {
+            "description": "Announcement for the Gymkhana Elections 2026 polling day for IIT Bombay students. This email provides detailed voting instructions, polling rules, general guidelines for campus conduct during election day, and contact information for support. Voting is conducted online.",
+            "venue": "Online",
+            "organisingBody": "Election Commission, IIT Bombay",
+            "contact": "elections@iitb.ac.in"
+        }
     }
 ]
