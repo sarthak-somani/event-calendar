@@ -6301,5 +6301,16 @@
             "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
             "contact": "Abhiraj or Preetam - 9415694923 | 9538339873"
         }
+    },
+    {
+        "title": "7th edition of the PRISM Colloquium Series: Next-generation allogeneic cell therapies by Dr. Dinesh Kundu",
+        "start": "2026-02-17T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "In this session our speaker will explore how allogeneic, off-the-shelf cell therapies, including CAR-NK and CAR-(\u03b3\u03b4) T cell platforms are being designed for scale, speed, and affordability, with applications in cancer and neglected diseases. He will also highlight India\u2019s growing opportunity to emerge as a global hub for accessible next-generation cell and gene therapies. Don't miss this opportunity to get an exciting glimpse into an emerging field of therapeutics!",
+            "venue": "BSBE Seminar Room B",
+            "organisingBody": "WRCB",
+            "contact": null
+        }
     }
 ]
