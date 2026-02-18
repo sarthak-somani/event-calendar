@@ -6312,5 +6312,16 @@
             "organisingBody": "WRCB",
             "contact": null
         }
+    },
+    {
+        "title": "TCA2I Webinar on \"Supply Chain Analytics - Driving Agility & Efficiency: Some Case Studies.\"",
+        "start": "2026-02-18T16:00:00",
+        "end": "2026-02-18T16:00:00",
+        "extendedProps": {
+            "description": "The session will explore how AI-driven analytics and mathematical modelling are transforming modern supply chains by bridging rigorous academic research with real-world operational agility and efficiency.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "TCA2I, IIT Bombay",
+            "contact": null
+        }
     }
 ]
