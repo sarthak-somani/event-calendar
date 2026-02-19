@@ -6334,5 +6334,16 @@
             "organisingBody": "Institution's Innovation Council",
             "contact": null
         }
+    },
+    {
+        "title": "SECOIAS International Summer School 2026 - Security and Communication in Aerospace Embedded Systems",
+        "start": "2026-06-22TNone",
+        "end": "2026-07-03TNone",
+        "extendedProps": {
+            "description": "A two-week program at INSA Toulouse, France, on Security and Communication in Aerospace Embedded Systems. Targets Bachelor-level students (120 ECTS+) in electronics, computer science, telecommunications, or electrical engineering. Features hands-on modules (Nanosatellite, Antenna Design, Secure Wireless Comm, Security Challenges), 5 ECTS credits, cultural activities (Carcassonne, Airbus, LAAS-CNRS visits, French Language). Program fee: 1,250 EUR (includes accommodation, lunches, visits, public transport). Application deadline: March 16, 2026. Limited to 16 places.",
+            "venue": "INSA Toulouse, 135 avenue de Rangueil, 31077 Toulouse Cedex 4, France",
+            "organisingBody": "INSA Toulouse / SECOIAS Team",
+            "contact": "secoias.contact@insa-toulouse.fr"
+        }
     }
 ]
