@@ -6367,5 +6367,16 @@
             "organisingBody": "Centre for Sanskrit Learning (CSL), IIT Bombay",
             "contact": "Mr. Pranav Gogate +91 80078 89485"
         }
+    },
+    {
+        "title": "ICONS 2026: IIT Bombay Workshop on Critical Minerals, Materials and Metals",
+        "start": "2026-02-20TNone",
+        "end": "2026-02-21TNone",
+        "extendedProps": {
+            "description": "As part of IIT Bombay - Industrial Research and Consultancy Centre (IRCC)'s annual International Conference on New and Emerging Concepts (ICONS) series, this focused workshop aims to bring together industry leaders, academic researchers, policymakers, and technology developers to deliberate on challenges and opportunities across the value chain of critical minerals, advanced materials, and strategic metals. Key thematic areas include resource security, exploration & mining, processing and refining technologies, component manufacturing technologies followed by evaluation of their applications, recycling processes, sustainability and circular economy, energy-transition materials, scale-up and commercialization, ESG, and policy and supply-chain perspectives. It is envisioned as a platform to facilitate dialogue, highlight ongoing research, and identify collaboration opportunities. The program will feature keynote lectures, invited talks, panel discussions, and selected presentations by experts from industry, academia, and research organizations, showcasing relevant research outputs, technologies, and solutions.",
+            "venue": "IIT Bombay",
+            "organisingBody": "IIT Bombay - Industrial Research and Consultancy Centre (IRCC) in association with the Centre of Excellence for Critical Minerals, Materials and Metals (CMMM)",
+            "contact": "Prof. Sachin Patwardhan and Prof. Leena Vachhani, Dean (R&D) and Associate Dean (R&D), IIT Bombay"
+        }
     }
 ]
