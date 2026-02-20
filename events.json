@@ -6345,5 +6345,27 @@
             "organisingBody": "INSA Toulouse / SECOIAS Team",
             "contact": "secoias.contact@insa-toulouse.fr"
         }
+    },
+    {
+        "title": "Matribhasha Diwas (International Mother Language Day)",
+        "start": "2026-02-20T17:00:00",
+        "end": "2026-02-20T19:00:00",
+        "extendedProps": {
+            "description": "Cultural programmes in different languages will be presented during the function. We request you all to attend and make the event a grand success.",
+            "venue": "P.C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay. Tel: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "IITB-CSL Annual Sanskrit Fest \"\u090b\u0924\u092e\u094d (\u1e5btam) 2026\"",
+        "start": "2026-03-08T10:00:00",
+        "end": "2026-03-08T10:00:00",
+        "extendedProps": {
+            "description": "The Centre for Sanskrit Learning (CSL), IIT Bombay, warmly invites you to its Annual Sanskrit Fest -- \u090b\u0924\u092e\u094d (\u1e5btam) 2026, a full-day celebration of Sanskrit's enduring beauty and depth of knowledge. \u090b\u0924\u092e\u094d (\u1e5btam) will feature dynamic performances by renowned artists and insightful discussions with distinguished scholars from across India, exploring the richness of Sanskrit thought, art, and culture. This festival welcomes everyone -- from beginners to avid learners -- to experience Sanskrit through music, theatre, and scholarship. With this inaugural celebration of \u090b\u0924\u092e\u094d (\u1e5btam), we aspire to create a meaningful and memorable day filled with wisdom, performances, and community.",
+            "venue": "LT-PCSA, IIT Bombay",
+            "organisingBody": "Centre for Sanskrit Learning (CSL), IIT Bombay",
+            "contact": "Mr. Pranav Gogate +91 80078 89485"
+        }
     }
 ]
