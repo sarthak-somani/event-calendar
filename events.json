@@ -6400,5 +6400,16 @@
             "organisingBody": "Indian Institute of Technology Bombay (Office of Dean R&D) in collaboration with Rajiv Gandhi National Institute of Intellectual Property Management (RGNIIPM)",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Mobility Program 2026",
+        "start": "2026-06-02TNone",
+        "end": "2026-06-12TNone",
+        "extendedProps": {
+            "description": "The Mobility Program 2026, hosted by Universitas Multi Data Palembang (UMDP), is themed \"Strengthening Global Relationship through Sustainable Innovation and Technology.\" The program includes academic courses, cultural immersion experiences, networking sessions, and academic and innovation competitions. City tour highlights include Songket traditional weaving, Museum Sultan Mahmud Badaruddin II, Pempek industry, and Kemaro Island cultural visit. Participants will gain valuable international exposure, intercultural collaboration experience, and global networking opportunities. The program is hybrid, with an online session from June 2-8, 2026, and an offline program from June 9-12, 2026.",
+            "venue": "Universitas Multi Data Palembang (UMDP), Indonesia",
+            "organisingBody": "Universitas Multi Data Palembang (UMDP)",
+            "contact": "charisma@mdp.ac.id"
+        }
     }
 ]
