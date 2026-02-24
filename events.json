@@ -6411,5 +6411,27 @@
             "organisingBody": "Universitas Multi Data Palembang (UMDP)",
             "contact": "charisma@mdp.ac.id"
         }
+    },
+    {
+        "title": "Live Information Session for Global Consumer Intelligence (GCI) World 2026 Program",
+        "start": "2026-02-25T14:30:00",
+        "end": "2026-02-25T14:30:00",
+        "extendedProps": {
+            "description": "Session to give students a clearer picture of the course, its global networking opportunities, and the curriculum.",
+            "venue": "Online via Zoom",
+            "organisingBody": "Matsuo-Iwasawa Laboratory, The University of Tokyo",
+            "contact": "Dr. Nishanth Koganti at nishanth.koganti@matsuo-institute.com"
+        }
+    },
+    {
+        "title": "Information Session: University of Tokyo's Global AI Program (GCI World 2026)",
+        "start": "2026-02-25T14:30:00",
+        "end": "2026-02-25T15:30:00",
+        "extendedProps": {
+            "description": "Live Information Session for the Global Consumer Intelligence (GCI) World 2026 Program, covering course details, global networking opportunities, and curriculum. The GCI World 2026 program is a 3-month online course on Python, Machine Learning, and Data-Driven Marketing Strategy.",
+            "venue": "Online (Zoom Meeting ID: 936 3895 2721, Passcode: 495071)",
+            "organisingBody": "Matsuo-Iwasawa Laboratory, The University of Tokyo",
+            "contact": "Dr. Nishanth Koganti at nishanth.koganti@matsuo-institute.com"
+        }
     }
 ]
