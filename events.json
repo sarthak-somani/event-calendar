@@ -6466,5 +6466,16 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
         }
+    },
+    {
+        "title": "Spring Session of the 64th Convocation of the Institute",
+        "start": "2026-02-28T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "Invitation to the Spring Session of the 64th Convocation of the Institute. Graduands are required to attend a compulsory rehearsal on February 27, 2026, at 3:00 p.m. at the Convocation Hall to be allowed to participate in the Convocation.",
+            "venue": "Convocation Hall of the Institute",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
+        }
     }
 ]
