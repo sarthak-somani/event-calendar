@@ -6455,5 +6455,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Cleanliness Drive",
+        "start": "2026-03-01T07:30:00",
+        "end": "2026-03-01T07:30:00",
+        "extendedProps": {
+            "description": "We are organising a cleanliness drive along the route from the Market Gate to the Hillside area, Research Park, Powai lake fringe road (Padmavati Devi Temple to Boat House). We invite and encourage all members of the IIT campus community to participate actively in this initiative. Your involvement in this drive will contribute to maintaining the cleanliness and beauty of our campus. Let's come together and make a positive impact on our environment.",
+            "venue": "Assembly points: Main Gate Parking area, Market Gate Parking Area, Near the Udaygiri building (Hillside area), Hostel No. 12 Junction (Research Park Bridge), Guest House near the ramp junction. Drive route: from the Market Gate to the Hillside area, Research Park, Powai lake fringe road (Padmavati Devi Temple to Boat House).",
+            "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
+        }
     }
 ]
