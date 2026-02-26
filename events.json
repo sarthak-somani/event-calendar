@@ -6477,5 +6477,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Spring session of the 64th Convocation of the Institute",
+        "start": "2026-02-28T11:00:00",
+        "end": "2026-02-28T11:00:00",
+        "extendedProps": {
+            "description": "Invitation for the Spring Session of the 64th Convocation of the Institute for graduands. The main ceremony is on Saturday, 28th February, 2026 at 11:00 a.m. at the Convocation Hall. A compulsory rehearsal is scheduled for Friday, 27th February, 2026 at 3:00 p.m. at the same venue.",
+            "venue": "Convocation Hall of the Institute",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
+        }
     }
 ]
