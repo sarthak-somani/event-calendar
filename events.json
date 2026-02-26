@@ -6444,5 +6444,16 @@
             "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay) and Rajiv Gandhi National Institute of Intellectual Property Management (RGNIIPM)",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Prof. N. R. Kamath Distinguished Institute Lecture \u2013 Prof. Bruce Hajek",
+        "start": "2026-03-02T17:15:00",
+        "end": "2026-03-02T17:15:00",
+        "extendedProps": {
+            "description": "On Scaling Cryptocurrencies \u2013 Payment Channels and Bridges",
+            "venue": "P. C. Saxena Auditorium",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
