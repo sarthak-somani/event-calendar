@@ -6488,5 +6488,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Online Student Conference: Shaping Asia\u2019s Future: Development, Innovation, and Society in Transition",
+        "start": "2026-04-10TNone",
+        "end": "2026-04-12TNone",
+        "extendedProps": {
+            "description": "Call for Applications for an online student-led conference bringing together undergraduate and first-year Master's students from AUA member universities to present and discuss their research addressing key 21st-century challenges across multiple academic tracks. The event will be held online, free of charge, and conducted in English. Prizes for winners are also mentioned.",
+            "venue": "Online",
+            "organisingBody": "Student Government of Nazarbayev University",
+            "contact": "student_government@nu.edu.kz"
+        }
     }
 ]
