@@ -6499,5 +6499,16 @@
             "organisingBody": "Student Government of Nazarbayev University",
             "contact": "student_government@nu.edu.kz"
         }
+    },
+    {
+        "title": "Spring Session of the 64th Convocation of the Institute",
+        "start": "2026-02-28T09:30:00",
+        "end": "NoneT09:30:00",
+        "extendedProps": {
+            "description": "Invitation and reporting instructions for graduands for the Spring Session of the 64th Convocation.",
+            "venue": "Convocation Hall",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay. Tele: 022-25767041"
+        }
     }
 ]
