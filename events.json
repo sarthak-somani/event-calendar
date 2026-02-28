@@ -6510,5 +6510,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Indian Institute of Technology Bombay. Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Cleanliness Drive",
+        "start": "2026-03-01T07:30:00",
+        "end": "2026-03-01T07:30:00",
+        "extendedProps": {
+            "description": "A cleanliness drive organized by the Public Health Office, IIT Bombay, along the route from the Market Gate to the Hillside area, Research Park, Powai lake fringe road (Padmavati Devi Temple to Boat House). All members of the IIT campus community are invited to participate actively to contribute to maintaining the cleanliness and beauty of the campus.",
+            "venue": "Along the route from the Market Gate to the Hillside area, Research Park, Powai lake fringe road (Padmavati Devi Temple to Boat House). Assembly points: Main Gate Parking area, Market Gate Parking Area, Near the Udaygiri building (Hillside area), Hostel No. 12 Junction (Research Park Bridge), Guest House near the ramp junction.",
+            "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
+        }
     }
 ]
