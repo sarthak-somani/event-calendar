@@ -6521,5 +6521,16 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
         }
+    },
+    {
+        "title": "Musical evening",
+        "start": "2026-03-02T19:30:00",
+        "end": "NoneT19:30:00",
+        "extendedProps": {
+            "description": "We cordially invite you to a musical evening by Shri. Nilimesh Chakraborty and Shri. Monit Das. Shri. Nilimesh Chakraborty, born into a musical family, started learning at age 2 and has performed extensively across the nation and in 67 countries. He is an empanelled artist of SPICMACAY and ICCR since 2012. Shri. Monit Das is a dynamic Sarod player, a disciple of Pt. Debojyoti Bose, who has represented India globally, received several accolades, and serves as a professor in Pharmaceuticals.",
+            "venue": "PC Saxena Auditorium",
+            "organisingBody": "Publications & Public Relations Office, Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
