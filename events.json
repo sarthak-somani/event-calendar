@@ -6532,5 +6532,27 @@
             "organisingBody": "Publications & Public Relations Office, Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Musical evening by Shri. Nilimesh Chakraborty and Shri. Monit Paul",
+        "start": "2026-03-02T19:30:00",
+        "end": "2026-03-02T19:30:00",
+        "extendedProps": {
+            "description": "We cordially invite you to a musical evening by Shri. Nilimesh Chakraborty and Shri. Monit Paul. Shri. Nilimesh Chakraborty was born into a musical family. His mother late Mrs. Suparna Chakraborty was a Sarod player. He started his learning from the early age of 2 under his uncle Shri. Ajoy Chakraborty and then from Shri. Debasish Majumdar, a disciple of late Pt. Shankar Ghosh. Since last 20 years, he is under the guidance of Pt. Swapan Siva of Farukkabad gharana. He has performed extensively across the nation in various prestigious music festivals and has also represented India in international festivals of music and art in 67 countries. He is also an empanelled artist of SPICMACAY and ICCR since 2012. Shri. Monit Das is one of the most dynamic Sarod players from this generation under the Senia Bangash gharana. A disciple of Pt. Debojyoti Bose under the legacy of Ustad Amjad Ali Khan, he has represented India in various prestigious music festivals across the globe and received several accolades. He also serves as a professor in Pharmaceuticals in a reputed university in Kolkata.",
+            "venue": "PC Saxena Auditorium",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Tel: (+91-22) 25767026-27"
+        }
+    },
+    {
+        "title": "Prof. N. R. Kamath Distinguished Institute Lecture",
+        "start": "2026-03-02T17:15:00",
+        "end": "2026-03-02T17:15:00",
+        "extendedProps": {
+            "description": "Indian Institute of Technology Bombay cordially invites you to attend the Prof. N. R. Kamath Distinguished Institute Lecture. Speaker: Prof. Bruce Hajek, Professor of Electrical & Computer Engineering, University of Illinois at Urbana-Champaign, Former Editor-in-Chief, IEEE Transactions on Information Theory, Member, U.S. National Academy of Engineering. Topic: On Scaling Cryptocurrencies \u2013 Payment Channels and Bridges.",
+            "venue": "P. C. Saxena Auditorium",
+            "organisingBody": "Office of Dean ACR, Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
