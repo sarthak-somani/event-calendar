@@ -6576,5 +6576,16 @@
             "organisingBody": "IIT Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Hult Prize India Nationals 2026",
+        "start": "2026-03-15TNone",
+        "end": "2026-04-12TNone",
+        "extendedProps": {
+            "description": "IIT Bombay will be hosting the prestigious Hult Prize India Nationals 2026, one of the world's largest student competitions for social entrepreneurship. This electrifying event empowers student entrepreneurs to develop innovative solutions for pressing global issues and pitch their ventures to esteemed experts.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Hult Prize IIT Bombay",
+            "contact": "+91 87706 78570"
+        }
     }
 ]
