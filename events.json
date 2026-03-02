@@ -6554,5 +6554,27 @@
             "organisingBody": "Office of Dean ACR, Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Informational Session on KOSPIE Programme",
+        "start": "2026-03-03T16:00:00",
+        "end": "NoneT16:00:00",
+        "extendedProps": {
+            "description": "DAAD is organising an online informational session on the KOSPIE Programme. The KOSPIE Programme is the Combined Study and Practice Stays for Engineers from Developing Countries. This programme focuses on training professionals and managerial staff in engineering and natural sciences. The support provided benefits the students and, indirectly, the universities and the labour market (industry and public administration) in developing and newly industrialised countries.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "DAAD",
+            "contact": "Rebecca Jadin, Office of International Relations, +91-22-2576-5077"
+        }
+    },
+    {
+        "title": "67th Foundation Day Celebrations",
+        "start": "2026-03-10T15:00:00",
+        "end": "NoneT15:00:00",
+        "extendedProps": {
+            "description": "Invitation to the 67th Foundation Day of IIT Bombay on Tuesday, March 10, 2026, featuring Chief Guest Prof. (Dr.) Balram Bhargava (Padma Shri; National Academy of Sciences Meghnad Saha Distinguished National Chair; Immediate Past DG of ICMR; Immediate Past Secretary, Department of Health Research, GoI; Former Chief of Cardiothoracic Centre, AIIMS, New Delhi and Former President of National Academy of Sciences, India). The celebrations include the presentation of the Prof. S.C. Sahasrabudhe Lifetime Achievement Award 2025-26, Prof. S.C. Bhattacharya Award for Excellence in Pure Sciences 2025, Prof. H.H. Mathur Award for Excellence in Applied Sciences 2025, Distinguished Alumnus Awards 2026, Young Alumni Achiever Awards 2026, and Institute Cleanliness Awards. The function will be telecast LIVE on IIT Bombay's YouTube channel.",
+            "venue": "P.C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "IIT Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
