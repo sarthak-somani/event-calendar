@@ -6598,5 +6598,16 @@
             "organisingBody": "Fire and Safety Section (FSS), Office of the Dean IPS, IIT Bombay",
             "contact": "Mr. Mangesh, Jr. Mechanic, FSS, IIT Bombay (mangeshsrkt@iitb.ac.in | Ext. 3051)"
         }
+    },
+    {
+        "title": "Stall by Saraswat Bank",
+        "start": "NoneT10:00:00",
+        "end": "NoneT10:00:00",
+        "extendedProps": {
+            "description": "Saraswat Bank, Powai Branch has set up a promotional stall at SOM junction for one week (10 am - 6 pm). The purpose of this stall is to promote and create awareness about various products of the bank. Products include Saving & Current accounts, Fixed Deposit schemes, Loans and Credit cards, Various tax saving investment schemes and Mutual Funds, Insurance etc. KYC and queries of existing account holders.",
+            "venue": "SOM junction",
+            "organisingBody": "Saraswat Bank",
+            "contact": null
+        }
     }
 ]
