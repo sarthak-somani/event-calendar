@@ -6642,5 +6642,27 @@
             "organisingBody": "LRWC (Learning Resources and Writing Center)",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Radhika Rajan Women Leadership Lecture",
+        "start": "2026-03-09T17:15:00",
+        "end": "2026-03-09T17:15:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay cordially invites you to the Radhika Rajan Women Leadership Lecture, part of the Radhika Rajan Women Leadership Lecture Series. Dr. Sarita Ahlawat, Co-founder and Managing Director of BotLab Dynamics, will deliver a talk titled 'From Early Failures to World Records: The Story of BotLab Dynamics.' The lecture will trace her entrepreneurial journey from early setbacks to building globally recognised, indigenous drone technologies, offering valuable insights into leadership, perseverance, innovation, and technology-driven impact for aspiring researchers, entrepreneurs, and changemakers.",
+            "venue": "F. C. Kohli Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
+    },
+    {
+        "title": "Kaladarshan",
+        "start": "NoneT18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "Road Painting event",
+            "venue": "the road starting from Old SAC to Hostel 4",
+            "organisingBody": "The Photography and Fine Arts Club",
+            "contact": null
+        }
     }
 ]
