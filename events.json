@@ -6675,5 +6675,27 @@
             "organisingBody": "Universitas Brawijaya, Indonesia",
             "contact": "kanjibillya.s@iitb.ac.in"
         }
+    },
+    {
+        "title": "International Women's Day Event: Walk/Run, Panel Discussion & Lightning Pitch on Women Entrepreneurship",
+        "start": "2026-03-08TNone",
+        "end": "2026-03-08TNone",
+        "extendedProps": {
+            "description": "An event for International Women's Day 2026 focused on women entrepreneurship, featuring a 5km walk/run, a panel discussion, and a 3-minute lightning pitch competition with prizes up to INR 20k. Open to students of all genders. Seats are limited, registration required via form. Time and venue details to be shared later.",
+            "venue": null,
+            "organisingBody": "Institution's Innovation Council",
+            "contact": null
+        }
+    },
+    {
+        "title": "Transverse Mentoring 2026",
+        "start": "2026-03-07TNone",
+        "end": "2026-03-07TNone",
+        "extendedProps": {
+            "description": "A part of the Alumni-Student Mentorship Program, Transverse Mentoring 2026 offers students a unique opportunity to gain valuable career insights directly from experienced alumni in an interactive, small-group setting. Sessions will cover topics like IT Software vs AI/ML, Data Scientist vs Data Analyst, Management Consulting vs Strategy Consulting, Product Management vs Consulting, Quantitative Trading vs Quantitative Research, and Venture Capital vs Investment banking, fostering personalized, two-way interactions tailored to student interests.",
+            "venue": null,
+            "organisingBody": "Student Alumni Relations Cell (SARC)",
+            "contact": "Aastha Maliwal (+91 9403521022), Aadit Sule (+91 8459539918)"
+        }
     }
 ]
