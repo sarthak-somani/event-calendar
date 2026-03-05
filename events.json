@@ -6664,5 +6664,16 @@
             "organisingBody": "The Photography and Fine Arts Club",
             "contact": null
         }
+    },
+    {
+        "title": "COSMOS 2026 - Collaborative Summer Mission on Sustainability",
+        "start": "2026-03-27TNone",
+        "end": "2026-04-25TNone",
+        "extendedProps": {
+            "description": "COSMOS 2026 is an international summer program designed for undergraduate and graduate students (max 28 years) focusing on collaborative learning, intercultural exchange, and sustainability initiatives aligned with SDGs. It comprises online courses (27-29 March 2026) and an onsite program in Malang, Indonesia (22-25 April 2026), offering 2 academic credits. Key themes: youth leadership, social inclusion, climate action, biodiversity protection, and global collaboration. Top 10 online participants get full sponsorship for the onsite program. Registration: 24 February - 20 March 2026. More info/registration: https://io.ub.ac.id/cosmos2026",
+            "venue": "Online and Malang, Indonesia",
+            "organisingBody": "Universitas Brawijaya, Indonesia",
+            "contact": "kanjibillya.s@iitb.ac.in"
+        }
     }
 ]
