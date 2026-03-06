@@ -6708,5 +6708,16 @@
             "organisingBody": "Office of International Relations, IIT Bombay and IITB-Tohoku University Japan Cell",
             "contact": "Office of International Relations, IIT Bombay"
         }
+    },
+    {
+        "title": "Sports workshops for Women: International Women's day celebrations",
+        "start": "2026-03-10T19:00:00",
+        "end": "2026-03-14T19:00:00",
+        "extendedProps": {
+            "description": "The Gender Cell, in association with the Gymkhana Department, is organizing a series of sports events and workshops for women (students, staff, and faculty) as part of the International Women's Day celebrations. Events include Squash workshop, Chess workshop, and a Badminton One day Tournament.",
+            "venue": "New SAC Squash Courts (Ground Floor), New SAC Yoga Room (Third Floor), Badminton Courts (Opposite Hostel-2)",
+            "organisingBody": "Gender Cell, in association with the Gymkhana Department, IIT Bombay",
+            "contact": null
+        }
     }
 ]
