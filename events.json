@@ -6697,5 +6697,16 @@
             "organisingBody": "Student Alumni Relations Cell (SARC)",
             "contact": "Aastha Maliwal (+91 9403521022), Aadit Sule (+91 8459539918)"
         }
+    },
+    {
+        "title": "Information Session: JYPE & COLABS Programs by Prof. Yoshitaka Kasukabe, Tohoku University",
+        "start": "2026-03-11T17:00:00",
+        "end": "2026-03-11T17:00:00",
+        "extendedProps": {
+            "description": "The Office of International Relations and the IITB-Tohoku University Japan Cell invite faculty members and students to an information session by Prof. Yoshitaka Kasukabe from Tohoku University, Japan. Prof. Kasukabe will share insights on the Tohoku University Junior Year Program in English (JYPE) and the Cooperative Laboratory Study Program (COLABS). These are STEM-based, research-oriented exchange programs where students undertake individual research training under the supervision of a Tohoku University research group (JYPE for undergraduate, COLABS for graduate). Prof. Kasukabe, who is Professor Emeritus and Specially Appointed Professor at Tohoku University and Chair of these programs, will explain their structure and importance in promoting academic exchange.",
+            "venue": "1st Floor, Seminar Hall, Civil Engineering Department",
+            "organisingBody": "Office of International Relations, IIT Bombay and IITB-Tohoku University Japan Cell",
+            "contact": "Office of International Relations, IIT Bombay"
+        }
     }
 ]
