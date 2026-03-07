@@ -6719,5 +6719,16 @@
             "organisingBody": "Gender Cell, in association with the Gymkhana Department, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "National Safety Week 2026 Quiz",
+        "start": "2026-03-10T11:30:00",
+        "end": "2026-03-10T11:30:00",
+        "extendedProps": {
+            "description": "On the occasion of National Safety Week 2026, the Fire & Safety Section, Office of the Dean (IPS), invites all campus community members (staff, faculty, students, project staff, site PMC, contractor, and family members) to participate in an online Safety Quiz. The quiz is designed to be completed in approximately 2-5 minutes. The top three performers will be recognized and called to an award function on March 11, 2026, and all participants will receive a digital certificate of participation.",
+            "venue": "Online",
+            "organisingBody": "Fire & Safety Section, Office of the Dean (IPS)",
+            "contact": "Amit Kumar (+91-22 21593050)"
+        }
     }
 ]
