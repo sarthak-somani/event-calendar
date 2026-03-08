@@ -6763,5 +6763,16 @@
             "organisingBody": "Institution's Innovation Council (IIC) IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "LRWC English Language Support: March - April 2026",
+        "start": "2026-03-05T10:00:00",
+        "end": "2026-04-11T22:00:00",
+        "extendedProps": {
+            "description": "LRWC IITB announces English language support programs for March-April 2026, featuring a 'Writing with Ease and Confidence Workshop Series', 'Debating and Discussion Skills in English- I' course, 'Essentials for Academic Writing' course, 'Fluency Club', and 'Personalised Language & Writing Consultations'. In-person registration at LRWC from March 05-07, 2026 (10 AM - 6 PM) on a first-come, first-served basis, requiring an identity card. IITB email ID needed for full offering details. Visit the provided link for session venues and outcomes.",
+            "venue": "LRWC, Central Library",
+            "organisingBody": "LRWC IITB",
+            "contact": "lrwcinstructor@iitb.ac.in"
+        }
     }
 ]
