@@ -6774,5 +6774,16 @@
             "organisingBody": "LRWC IITB",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Safety Quiz - National Safety Week 2026",
+        "start": "2026-03-10T20:30:00",
+        "end": "2026-03-11T20:30:00",
+        "extendedProps": {
+            "description": "An online Safety Quiz celebrating National Safety Week 2026, organized by the Fire & Safety Section, IIT Bombay. The quiz form will be active for 24 hours, from 8:30 PM on March 10, 2026, to 8:30 PM on March 11, 2026. Award consideration for the top three performers is limited to submissions made within the first 30 minutes (8:30 PM - 9:00 PM on March 10, 2026). All participants will receive a digital certificate. Open to all campus community members including staff, faculty, students, project staff, site PMC, contractor, and family members.",
+            "venue": "Online",
+            "organisingBody": "Fire & Safety Section, Office of the Dean (IPS), Indian Institute of Technology Bombay",
+            "contact": "Amit Kumar, +91-22 21593050"
+        }
     }
 ]
