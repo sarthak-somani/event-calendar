@@ -6840,5 +6840,16 @@
             "organisingBody": "Associate Dean (EHS), Infrastructure Planning and Support, Indian Institute of Technology Bombay",
             "contact": "Prakash Nanthagopalan, PhD, Associate Dean (EHS)"
         }
+    },
+    {
+        "title": "Exchange 101 Session",
+        "start": "2026-03-10TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "Semester Exchange Program",
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
