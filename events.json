@@ -6796,5 +6796,27 @@
             "organisingBody": "IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Women at the Helm: Leadership, Institutions & Innovation",
+        "start": "2024-03-09T16:00:00",
+        "end": "2024-03-09T16:00:00",
+        "extendedProps": {
+            "description": "Conceived as a sharp, reflective dialogue, the session will examine how academic leadership shapes research translation and institution-building within India's innovation landscape. The format is concise: brief interventions followed by a moderated exchange.",
+            "venue": "ASPIRE, IITB Research Park Foundation premises",
+            "organisingBody": "ASPIRE, IITB Research Park Foundation",
+            "contact": "Vikram Vishal, +91-22-2576-7254"
+        }
+    },
+    {
+        "title": "Radhika Rajan Women Leadership Lecture \u2013 From Early Failures to World Records: The Story of BotLab Dynamics",
+        "start": "2026-03-09T17:15:00",
+        "end": "2026-03-09T17:15:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay cordially invites you to attend the Radhika Rajan Women Leadership Lecture, part of the Radhika Rajan Women Leadership Lecture Series. Dr. Sarita Ahlawat, Co-founder and Managing Director of BotLab Dynamics, will deliver a talk titled: \u201cFrom Early Failures to World Records: The Story of BotLab Dynamics.\u201d Her lecture will trace her entrepreneurial journey from early setbacks to building globally recognised, indigenous drone technologies, offering valuable insights into leadership, perseverance, innovation, and technology-driven impact for aspiring researchers, entrepreneurs, and changemakers.",
+            "venue": "F. C. Kohli Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
