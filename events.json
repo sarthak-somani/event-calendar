@@ -6862,5 +6862,16 @@
             "organisingBody": "Seoul National University (SNU)",
             "contact": "summer@snu.ac.kr"
         }
+    },
+    {
+        "title": "Ms. Ami Ganatra's talk: The woman conundrum",
+        "start": "2026-03-10T17:15:00",
+        "end": "2026-03-10T17:15:00",
+        "extendedProps": {
+            "description": "A talk by Ms. Ami Ganatra, IIM A graduate and author of best-sellers Mahabharata unravelled and Ramayana unravelled. This event is part of Shakti Week celebrations at IIT Bombay on the occasion of International Women's Day. Refreshments will be served.",
+            "venue": "VMCC-23",
+            "organisingBody": "IIT Bombay",
+            "contact": null
+        }
     }
 ]
