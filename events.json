@@ -6895,5 +6895,16 @@
             "organisingBody": "The Gender Cell, Gymkhana Department",
             "contact": "Prof. Aparna Singh, Prof. Aditi Chaubal"
         }
+    },
+    {
+        "title": "Shakti Week",
+        "start": "2026-03-08TNone",
+        "end": "2026-03-14TNone",
+        "extendedProps": {
+            "description": "A week-long celebration at IIT Bombay from 8th-14th March 2026 on the occasion of International Women's Day, featuring a series of talks and panel discussions on women leadership, defense, STEM, and wellness. Refreshments will be served, and a lucky draw will be organized.",
+            "venue": "IIT Bombay",
+            "organisingBody": "IIT Bombay",
+            "contact": "Prof. Aparna Singh, Prof. Aditi Chaubal"
+        }
     }
 ]
