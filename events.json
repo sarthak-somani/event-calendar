@@ -6873,5 +6873,16 @@
             "organisingBody": "IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Condolence Meeting for Palla Vivek Reddy",
+        "start": "2026-03-11T12:45:00",
+        "end": "2026-03-11T12:45:00",
+        "extendedProps": {
+            "description": "A condolence meeting for Palla Vivek Reddy (25M0630), a first-year M.Tech student in the Construction Technology and Management program of the Civil Engineering Department, who passed away on March 6, 2026, after an accident.",
+            "venue": "seminar hall (first floor), Civil Engineering department",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
