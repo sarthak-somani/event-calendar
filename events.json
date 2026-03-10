@@ -6851,5 +6851,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Seoul National University's 2026 International Summer Program (ISP)",
+        "start": "2026-06-22TNone",
+        "end": "2026-07-25TNone",
+        "extendedProps": {
+            "description": "A five-week intensive summer program offering high-quality academic courses taught in English by SNU faculty and international scholars. The program has expanded significantly, with a total of 69 courses offered covering a wide range of academic fields. Students apply individually through the official ISP website. Tuition discount opportunities include a 30% group discount for partner universities nominating 30 or more students and a 20% early application discount for applications completed by April 5.",
+            "venue": "Seoul National University",
+            "organisingBody": "Seoul National University (SNU)",
+            "contact": "summer@snu.ac.kr"
+        }
     }
 ]
