@@ -6906,5 +6906,16 @@
             "organisingBody": "IIT Bombay",
             "contact": "Prof. Aparna Singh, Prof. Aditi Chaubal"
         }
+    },
+    {
+        "title": "Safety Quiz",
+        "start": "2026-03-10T11:30:00",
+        "end": "2026-03-10T11:30:00",
+        "extendedProps": {
+            "description": "An online Safety Quiz organized by the Fire & Safety Section, Office of the Dean (IPS), Indian Institute of Technology Bombay, for National Safety Week 2026. Open to all campus community members (staff, faculty, students, project staff, site PMC, Contractor, and family members). The quiz tests basic safety awareness and offers awards for the top three performers (to be recognized at an award function on March 11, 2026), and a digital certificate for all participants.",
+            "venue": "Online",
+            "organisingBody": "Fire & Safety Section, Office of the Dean (IPS), Indian Institute of Technology Bombay",
+            "contact": "Amit Kumar, Fire and Safety Section Head, Indian Institute of Technology Bombay, +91-22 21593050"
+        }
     }
 ]
