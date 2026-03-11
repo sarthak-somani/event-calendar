@@ -6928,5 +6928,16 @@
             "organisingBody": "Office of International Relations, IIT Bombay and IITB-Tohoku University Japan Cell",
             "contact": "Ipsita, Office of International Relations, IIT Bombay"
         }
+    },
+    {
+        "title": "Panel discussion with the Indian Air Force: Courage Under Fire: What Women in Defence Teach Us",
+        "start": "2026-03-11T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "Wing Commander Uvena Fernandes: an ATC officer and the only woman officer to be an umpire in FIFA football events including world cup final. Sqn Ldr Swati Rathore: a flying pilot and one of the first two women to fly the heavy lift Chinook helicopter in the IAF.",
+            "venue": "VMCC-23",
+            "organisingBody": "Shakti Week at IIT Bombay",
+            "contact": null
+        }
     }
 ]
