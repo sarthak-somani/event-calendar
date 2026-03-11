@@ -6983,5 +6983,16 @@
             "organisingBody": "Bureau of Indian Standards (BIS)",
             "contact": null
         }
+    },
+    {
+        "title": "Information Session: JYPE & COLABS Programs by Prof. Yoshitaka Kasukabe, Tohoku University",
+        "start": "2026-03-11T17:00:00",
+        "end": "2026-03-11T17:00:00",
+        "extendedProps": {
+            "description": "Prof. Yoshitaka Kasukabe from Tohoku University will share insights on the Tohoku University Junior Year Program in English (JYPE) and the Cooperative Laboratory Study Program (COLABS). These are STEM-based, research-oriented exchange programs, with core Individual Research Training courses offered at undergraduate (JYPE) and graduate (COLABS) levels under Tohoku University supervision. Prof. Kasukabe, Professor Emeritus and Specially Appointed Professor (Research) at the Global Learning Center, Tohoku University, chairs the JYPE and COLABS programs and has extensive experience in international academic collaboration.",
+            "venue": "1st Floor, Seminar Hall, Civil Engineering Department",
+            "organisingBody": "Office of International Relations, IIT Bombay and IITB-Tohoku University Japan Cell",
+            "contact": "Ipsita, Office of International Relations, IIT Bombay"
+        }
     }
 ]
