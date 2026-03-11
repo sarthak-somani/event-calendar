@@ -6939,5 +6939,38 @@
             "organisingBody": "Shakti Week at IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Safety Quiz",
+        "start": "2026-03-10T20:30:00",
+        "end": "2026-03-11T20:30:00",
+        "extendedProps": {
+            "description": "An online Safety Quiz organized by the Fire & Safety Section of IIT Bombay on the occasion of National Safety Week 2026. The quiz offered awards for top performers participating on March 10, 2026 (8:30 PM - 9:00 PM), and digital certificates for all participants who complete it by March 11, 2026, 8:30 PM. Winners are announced in this email.",
+            "venue": "Online",
+            "organisingBody": "Fire & Safety Section, Office of the Dean (IPS), Indian Institute of Technology Bombay",
+            "contact": "Amit Kumar, Fire and Safety Section Head, +91-22 21593050"
+        }
+    },
+    {
+        "title": "Consultation Meeting on Designated Feeding Spots for Community Dogs on Campus",
+        "start": "2026-03-16T17:00:00",
+        "end": "2026-03-16T17:00:00",
+        "extendedProps": {
+            "description": "The Public Health Office (PHO), in coordination with the Campus Human-Animal Interaction Management Committee, proposes to review and rationalise the designated feeding spots for community dogs on the campus. Campus residents are invited to attend this meeting to share their views and suggestions regarding feeding locations.",
+            "venue": "LC 302",
+            "organisingBody": "Public Health Office (PHO) and Campus Human-Animal Interaction Management Committee",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
+        }
+    },
+    {
+        "title": "Early Stage Venture Creation: IDEAS Level 1 Cohort 18 Program",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "IDEAS Level 1 Cohort 18 is an early-stage venture creation program designed to nurture innovative ideas into successful ventures. This cohort offers a transformative learning journey supported by IITB alumni mentors, team grants (\u20b950,000 to \u20b95,00,000), and a vibrant innovation community. Participants will engage in structured learning through fortnightly masterclasses and regular mentor webinars, focusing on market analysis, customer discovery, and validating problem-solution fit. The program, a legacy initiative of the IIT Bombay Class of 1990, aims to bridge the gap between ideation and incubation, empowering early-stage teams to move from concept to validated business models. Over 1100 students and 415 teams have been part of the IDEAS community, with a track record of success in helping alumni join top incubators and raise significant funding.",
+            "venue": null,
+            "organisingBody": "Desai Sethi School of Entrepreneurship, IIT Bombay",
+            "contact": "ideas.iitb@gmail.com"
+        }
     }
 ]
