@@ -6994,5 +6994,16 @@
             "organisingBody": "Office of International Relations, IIT Bombay and IITB-Tohoku University Japan Cell",
             "contact": "Ipsita, Office of International Relations, IIT Bombay"
         }
+    },
+    {
+        "title": "Workshop on \"Nano-mechanics for Soft Materials\"",
+        "start": "2026-04-08T10:00:00",
+        "end": "2026-04-08T10:00:00",
+        "extendedProps": {
+            "description": "The workshop will focus on the fundamentals and challenges of nanomechanical measurements in soft materials, including advanced nanoindentation techniques and the rate-jump method for determining intrinsic elastic modulus. We are honored to host Prof. Alfonso H. W. Ngan, University of Birmingham, Royal Society Yusuf Hamied Visiting Fellow, as the Chief Guest and speaker for this workshop. He will discuss key aspects of nanomechanical characterization, including the Oliver-Pharr method, challenges in measuring soft materials with viscoelastic behavior, and the application of the rate-jump method for extracting intrinsic elastic modulus free from viscous effects. Students, researchers, and faculty members interested in nano-mechanics, materials characterization, and response of soft materials to mechanical loading are encouraged to attend.",
+            "venue": "Lectures: MEMS Seminar Room; Lab Demonstration: Nanoindenter lab, Basement, Dept of MEMS",
+            "organisingBody": "IIT Bombay and Industron Technical Services Pvt Ltd",
+            "contact": "Nagamani Jaya Balila, jayabalila@iitb.ac.in, jaya86@gmail.com, Phone: 022-25767626"
+        }
     }
 ]
