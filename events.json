@@ -7027,5 +7027,16 @@
             "organisingBody": "IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Chai with Titan",
+        "start": "2026-03-15T16:00:00",
+        "end": "2026-03-15T16:00:00",
+        "extendedProps": {
+            "description": "An exclusive session on raising capital, venture finance, and the founder-investor journey, led by Mr. Manik Pasricha, Vice President at Titan Capital. This interactive session will offer practical insights into how founders secure funding, manage financial strategy, and build scalable ventures, as well as how investors evaluate startups. It includes open discussion and a student pitch session for direct feedback from a VC.",
+            "venue": "LC 201",
+            "organisingBody": "Hult Prize IIT Bombay & PGAC",
+            "contact": "Akshat: +91 93215 89006"
+        }
     }
 ]
