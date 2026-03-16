@@ -7082,5 +7082,16 @@
             "organisingBody": "Seoul National University",
             "contact": "summer@snu.ac.kr"
         }
+    },
+    {
+        "title": "SAP Episode 2.3: Hands-on Workshop on the Open-Source EDA Tool eSim",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
