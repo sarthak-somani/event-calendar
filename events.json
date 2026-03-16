@@ -7049,5 +7049,27 @@
             "organisingBody": "Hult Prize IIT Bombay & PGAC",
             "contact": "Akshat: +91 93215 89006"
         }
+    },
+    {
+        "title": "National Safety Aptitude Test (NSAT) 2026",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "National Safety Aptitude Test (NSAT) 2026 is a national-level examination designed to assess knowledge and aptitude in Occupational Safety, Health, and Environment (OSHE). It provides a standardized platform for students and professionals to evaluate their competency and enhance employability. Participation is encouraged for students, research scholars, and professionals interested in Safety, Health, Environment, or ESG-related fields.",
+            "venue": null,
+            "organisingBody": "National Safety Council (NSC)",
+            "contact": "Amit Kumar, Fire and Safety Section Head, Indian Institute of Technology Bombay, Telephone: +91-22 21593050"
+        }
+    },
+    {
+        "title": "Training Session on Exploring Reaxys AI Tool: Best Practices and New Advancements",
+        "start": "2026-03-18T15:00:00",
+        "end": "2026-03-18T16:00:00",
+        "extendedProps": {
+            "description": "Central Library is organizing an advanced training session on the Reaxys database. The session will cover: Text and structure-based searching techniques, designing and documenting effective search strategies, advanced search techniques for complex queries and multiple information needs, searching for properties, reactions, substances, pharmacological data, drug targets, and bioactivity information, predictive retrosynthesis tools and their applications in synthetic and medicinal chemistry, data related to structure-activity relationships, DMPK, and ADME-Tox properties, monitoring the competitive landscape and identifying innovation opportunities through patent data, saving searches, creating alerts, and exporting data, new developments and AI enhancements in Reaxys, use-case discussions in Chemistry (organic, inorganic, analytical), disease biology, and materials science, and a Q&A session. Faculty members, scientists, research scholars, and students working in the fields of Chemistry (Organic, Inorganic, Physical, Analytical), Chemical Engineering, Natural Products, Chemical Biology, Materials Science, Drug Discovery and Development, and Applied Biology are encouraged to attend. A limited number of seats are available and will be allotted on a first-come, first-served basis.",
+            "venue": "Seminar Hall, First Floor, Central Library",
+            "organisingBody": "Central Library",
+            "contact": "Chief Library Officer, Central Library"
+        }
     }
 ]
