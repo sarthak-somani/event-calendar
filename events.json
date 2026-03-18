@@ -7104,5 +7104,16 @@
             "organisingBody": "Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay",
             "contact": "Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay, Powai, Mumbai - 400 076. Tel No: 022 2159 3778 (O). https://www.minds.iitb.ac.in/"
         }
+    },
+    {
+        "title": "Training Session on Exploring Reaxys AI Tool: Best Practices and New Advancements",
+        "start": "2026-03-18T15:00:00",
+        "end": "2026-03-18T15:00:00",
+        "extendedProps": {
+            "description": "An advanced training session on the Reaxys database covering text and structure-based searching techniques, designing and documenting effective search strategies, advanced search techniques for complex queries and multiple information needs, searching for properties, reactions, substances, pharmacological data, drug targets, and bioactivity information, predictive retrosynthesis tools, data related to structure-activity relationships, DMPK, and ADME-Tox properties, monitoring the competitive landscape and identifying innovation opportunities through patent data, saving searches, creating alerts, and exporting data, new developments and AI enhancements in Reaxys, use-case discussions in Chemistry (organic, inorganic, analytical), disease biology, and materials science, and a Q&A session. Recommended for faculty members, scientists, research scholars, and students working in the fields of Chemistry, Chemical Engineering, Natural Products, Chemical Biology, Materials Science, Drug Discovery and Development, and Applied Biology. Limited seats are available and will be allotted on a first-come, first-served basis.",
+            "venue": "Seminar Hall, First Floor, Central Library",
+            "organisingBody": "Central Library",
+            "contact": null
+        }
     }
 ]
