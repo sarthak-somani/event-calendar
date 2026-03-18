@@ -7115,5 +7115,16 @@
             "organisingBody": "Central Library",
             "contact": null
         }
+    },
+    {
+        "title": "SIH 2026 Pre-Event Orientation Session",
+        "start": "2024-03-21T16:00:00",
+        "end": "2024-03-21T16:00:00",
+        "extendedProps": {
+            "description": "An orientation session for students interested in participating in the official SIH 2026 competition. The session will address queries regarding problem statements and the selection process for SIH 2026, offering an opportunity to compete for national cash prizes and receive mentorship and support.",
+            "venue": "LC 101",
+            "organisingBody": "Institution's Innovation Council, IIT Bombay",
+            "contact": "Abhiraj (9415694923) or Preetam (9538339873)"
+        }
     }
 ]
