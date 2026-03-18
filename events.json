@@ -7093,5 +7093,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Foundational Maths for ML - Optimization",
+        "start": "2026-04-11T14:00:00",
+        "end": "2026-04-12T14:00:00",
+        "extendedProps": {
+            "description": "A rigorous introduction to optimization theory for machine learning, with a focus on convex optimization and its applications in widely used learning methods. Participants will explore foundational ideas such as convex optimization, duality, regression, Support Vector Machines (SVMs), and the kernel trick. This course is part of NEXT AI - Navigating Expert Topics in Artificial Intelligence, a new online learning series by C-MInDS, IIT Bombay, designed to strengthen both foundational and advanced competencies in artificial intelligence and data science. It is intended for students, researchers, faculty members, and industry professionals.",
+            "venue": "Live online",
+            "organisingBody": "Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay",
+            "contact": "Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay, Powai, Mumbai - 400 076. Tel No: 022 2159 3778 (O). https://www.minds.iitb.ac.in/"
+        }
     }
 ]
