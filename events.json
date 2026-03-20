@@ -7126,5 +7126,27 @@
             "organisingBody": "Institution's Innovation Council, IIT Bombay",
             "contact": "Abhiraj (9415694923) or Preetam (9538339873)"
         }
+    },
+    {
+        "title": "Bharat Innovates - Deep-Tech Pre-Summit",
+        "start": "2026-03-21TNone",
+        "end": "2026-03-22TNone",
+        "extendedProps": {
+            "description": "A deep-tech pre-summit organized by Bharat Innovates and IIT Bombay, where over 150 VCs and over 100 corporates will meet 130 startups. This event is part of Bharat Innovates, the premier accelerator for the Indian education ecosystem, with IIT Bombay helming the introductory year's program development and coordination.",
+            "venue": "Research Park, IITB",
+            "organisingBody": "Bharat Innovates & IIT Bombay",
+            "contact": "Prof. Sankalp Pratap, Institution's Innovation Council, DSSE IIT Bombay"
+        }
+    },
+    {
+        "title": "Short film screening 'The People and the Soil'",
+        "start": "NoneT18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "What does farming really look like beyond statistics and policy debates? What knowledge lives in everyday practices, communities, and the soil itself? Join us for a screening of Maati Aani Maanus -- a short film that captures the lived experiences of farmers and how knowledge, technology, and traditions shape agriculture. And how scientists work together with farmers to promote technology adaptation in rural communities. The event includes a Film Screening, followed by a Panel Discussion. Lights refreshments will be available at 5:45 PM and after the panel discussion. Remote participants who would like to join the panel discussion can use the following link: https://uchicago.zoom.us/my/sunandapg?pwd=ai9rOGpFVzVIUkt1Nmx6aVcvbno1dz09. About the Project: The film is a collaboration between STAGE (Scientists, Technologists, and Artists Generating Exploration), University of Chicago, and CTARA, IIT Bombay (Prof. Priya Jadhav's team). It is part of the Vidyut Project, which explores creative ways -- including storytelling, games, and film -- to communicate ideas around energy-efficient irrigation and rural technologies with farming communities in Maharashtra. Through field engagement and collaboration with farmers and their families, the film documents everyday agricultural life and the ways knowledge is created, shared, and sustained within these communities.",
+            "venue": "IDC Auditorium, IIT Bombay",
+            "organisingBody": "STAGE (Scientists, Technologists, and Artists Generating Exploration), University of Chicago and CTARA, IIT Bombay (Prof. Priya Jadhav's team)",
+            "contact": "Priya Jadhav, Faculty, Centre for Technology Alternatives for Rural Areas (CTARA), Phone(O): 022 - 2576 7291"
+        }
     }
 ]
