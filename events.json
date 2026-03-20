@@ -7159,5 +7159,16 @@
             "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay)",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay; Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "SIH 2026 Orientation & Doubt Clearing Session",
+        "start": "2025-03-21T16:00:00",
+        "end": "2025-03-21T16:00:00",
+        "extendedProps": {
+            "description": "An orientation session hosted by the Institution's Innovation Council (IIC) to help students navigate the Smart India Hackathon 2026 selection process, understand problem statements, and maximize chances of winning. The session will cover query clearing on SIH 2025 and 2024 problem statements, details on accessing IIC grants, prototype support, and industry mentorship, and opportunities for team building.",
+            "venue": "LC 201",
+            "organisingBody": "Institution's Innovation Council (IIC), IIT Bombay",
+            "contact": "Abhiraj: 9415694923 | Preetam: 9538339873"
+        }
     }
 ]
