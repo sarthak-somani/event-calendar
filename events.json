@@ -7214,5 +7214,16 @@
             "organisingBody": "Dean (R&D), IIT Bombay",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Prof. CNR Rao Distinguished Lecture Series: Rational Molecular Design of Functional Organic Materials",
+        "start": "2026-03-25T17:15:00",
+        "end": "NoneT17:15:00",
+        "extendedProps": {
+            "description": "The Indian Institute of Technology Bombay cordially invites you to attend a lecture under the Prof. CNR Rao Distinguished Lecture Series. Speaker: Prof. J. N. Moorthy, Professor, Department of Chemistry, IIT Kanpur, Director, IISER Thiruvananthapuram. This lecture will explore the principles and approaches behind designing functional organic materials with targeted properties, offering valuable insights for researchers, students, and practitioners across disciplines. Further details: https://drive.google.com/file/d/1Bjymt2bqfwU-Qf1iGzxv-7wm06LMjy0Q/view?usp=drive_link",
+            "venue": "EMBA Classroom, SJMSOM (4th Floor)",
+            "organisingBody": "Dean ACR Office.",
+            "contact": null
+        }
     }
 ]
