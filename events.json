@@ -7203,5 +7203,16 @@
             "organisingBody": "Environmental Science & Engineering Department, IIT Bombay (Tatva'26)",
             "contact": "Aarav Rangwani | +91 7990972075 | Events Manager, Tatva'26"
         }
+    },
+    {
+        "title": "Talk by recipients of Rakesh Mathur Awards for Excellence in Research 2025",
+        "start": "2026-03-24T14:30:00",
+        "end": "2026-03-24T14:30:00",
+        "extendedProps": {
+            "description": "Presentation by the recipients of the Rakesh Mathur Awards for Excellence in Research 2025, where they will share insights into their outstanding work with the IIT Bombay community. Featuring Prof. K. G. Suresh (Department of Physics), recipient of Prof. S. C. Bhattacharya Award for Excellence in Pure Sciences, speaking on 'Soft, Hard and Smart Magnetic Materials from the Intermetallics Family'; and Prof. R. S. Jangid (Department of Civil Engineering), recipient of Prof. H. H. Mathur Award for Excellence in Applied Sciences, speaking on 'Earthquake-Resistant Design of Structures'.",
+            "venue": "Seminar Room, First Floor, Dept. of Civil Engg.",
+            "organisingBody": "Dean (R&D), IIT Bombay",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
