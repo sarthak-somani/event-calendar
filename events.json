@@ -7225,5 +7225,16 @@
             "organisingBody": "Dean ACR Office.",
             "contact": null
         }
+    },
+    {
+        "title": "Seoul National University's 2026 International Summer Program (ISP)",
+        "start": "2026-06-22TNone",
+        "end": "2026-07-25TNone",
+        "extendedProps": {
+            "description": "A five-week intensive summer program offering high-quality academic courses taught in English by SNU faculty and international scholars. The program covers a wide range of academic fields with a total of 69 courses. Tuition discount opportunities are available.",
+            "venue": "Seoul National University",
+            "organisingBody": "Seoul National University",
+            "contact": "summer@snu.ac.kr"
+        }
     }
 ]
