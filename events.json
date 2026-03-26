@@ -7247,5 +7247,27 @@
             "organisingBody": "The Indian Institute of Technology Bombay, Dean ACR Office",
             "contact": null
         }
+    },
+    {
+        "title": "Drone Udyog Sahyog- Mumbai Edition",
+        "start": "2026-03-27T09:45:00",
+        "end": "2026-03-27T09:45:00",
+        "extendedProps": {
+            "description": "Drone Udyog Sahyog is a national platform connecting OEMs and indigenous manufacturers to accelerate indigenization and strengthen domestic supply chains. Organized by Drone Federation India (DFI) in collaboration with the Drone Centre, IIT Bombay, this event aims to strengthen the country's drone ecosystem and advance the vision of Aatmanirbhar Bharat and Make in India.",
+            "venue": "9th Floor, IIT Bombay's ASPIRE Research Park",
+            "organisingBody": "Drone Federation India (DFI) in collaboration with the Drone Centre, IIT Bombay",
+            "contact": "Prof. Arnab Maity, Department of Aerospace Engineering (arnab.maity@iitb.ac.in)"
+        }
+    },
+    {
+        "title": "Drone Udyog Sahyog - Mumbai Edition",
+        "start": "2026-03-27T09:45:00",
+        "end": "NoneT09:45:00",
+        "extendedProps": {
+            "description": "Drone Udyog Sahyog is a national platform connecting OEMs and indigenous manufacturers to accelerate indigenization and strengthen domestic supply chains.",
+            "venue": "9th Floor, IIT Bombay's ASPIRE Research Park",
+            "organisingBody": "Drone Federation India (DFI), in association with the Drone Centre, IIT Bombay",
+            "contact": "Dr. Arnab Maity, Associate Professor, Drone Centre, Department of Aerospace Engineering, Indian Institute of Technology Bombay, Phone: +91 22 2576 7136"
+        }
     }
 ]
