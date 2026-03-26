@@ -7236,5 +7236,16 @@
             "organisingBody": "Seoul National University",
             "contact": "summer@snu.ac.kr"
         }
+    },
+    {
+        "title": "Mrs. Sarla Doshi Memorial Lecture Series \u2013 From Idea to Impact: Design Thinking Approach by Mr. Anubhav Saxena",
+        "start": "2026-04-01T14:30:00",
+        "end": "NoneT14:30:00",
+        "extendedProps": {
+            "description": "A lecture by Mr. Anubhav Saxena, Chief R&D Officer, Pidilite Industries Limited, on '/From Idea to Impact: Design Thinking Approach/'. This session will delve into how design thinking can be leveraged to translate ideas into impactful solutions, drawing from industry insights and real-world applications.",
+            "venue": "LC-102, Lecture Complex Building (1st Floor)",
+            "organisingBody": "The Indian Institute of Technology Bombay, Dean ACR Office",
+            "contact": null
+        }
     }
 ]
