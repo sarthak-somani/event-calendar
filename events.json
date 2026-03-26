@@ -7269,5 +7269,16 @@
             "organisingBody": "Drone Federation India (DFI), in association with the Drone Centre, IIT Bombay",
             "contact": "Dr. Arnab Maity, Associate Professor, Drone Centre, Department of Aerospace Engineering, Indian Institute of Technology Bombay, Phone: +91 22 2576 7136"
         }
+    },
+    {
+        "title": "IITB Car Racing Team Car Testing",
+        "start": "2026-03-29T00:30:00",
+        "end": "2026-03-31T00:30:00",
+        "extendedProps": {
+            "description": "The IITB Car Racing Team will be testing their car on the road from TCS kiosk to DESE. The mentioned road will not be available for traffic movement during the testing hours. Security guards will be deployed at both ends for necessary assistance on ground. All are requested to cooperate.",
+            "venue": "Road from TCS kiosk to DESE",
+            "organisingBody": "IITB Car Racing Team",
+            "contact": null
+        }
     }
 ]
