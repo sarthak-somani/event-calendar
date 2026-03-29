@@ -7280,5 +7280,16 @@
             "organisingBody": "IITB Car Racing Team",
             "contact": null
         }
+    },
+    {
+        "title": "Stanford Ecopreneurship Global Intensive (EcoGlobal) Program",
+        "start": "2026-06-01TNone",
+        "end": "2026-08-31TNone",
+        "extendedProps": {
+            "description": "Eight-week hybrid program (June-August 2026) for Master's and PhD students to advance sustainability-focused ventures. It offers workshops led by Stanford faculty, 1:1 innovation coaching, regional mentorship, access to a global network of ecopreneurs, and an opportunity to pitch at Stanford's Fall Demo Day.",
+            "venue": "Hybrid",
+            "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (GESH IITB) and Desai Sethi School of Entrepreneurship (DSSE) in collaboration with Stanford",
+            "contact": "Jaya K (Senior Associate- Entrepreneurship, GESH IITB) at 30006497@iitb.ac.in"
+        }
     }
 ]
