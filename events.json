@@ -7313,5 +7313,16 @@
             "organisingBody": "Dean ACR Office, Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "GenAI Bootcamp: AI Skills for the Digital Future",
+        "start": "2026-06-29TNone",
+        "end": "2026-07-03TNone",
+        "extendedProps": {
+            "description": "A 5-day intensive bootcamp by NTU Singapore for pre-university to graduate students. Covers Generative AI foundations, AI copilots, and agentic AI concepts with practical exposure via projects, lab visits, admissions talk, and Singapore landmark visits. Separate classes for pre-university and university groups.",
+            "venue": "Nanyang Technological University, Singapore",
+            "organisingBody": "Nanyang Technological University, Singapore, Academy for Professional and Continuing Education",
+            "contact": "askpace.uip@ntu.edu.sg"
+        }
     }
 ]
