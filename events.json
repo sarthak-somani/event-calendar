@@ -7302,5 +7302,16 @@
             "organisingBody": "Chulalongkorn University, Thailand",
             "contact": "gienichula.2026@gmail.com"
         }
+    },
+    {
+        "title": "Mrs. Sarla Doshi Memorial Lecture Series: From Idea to Impact: Design Thinking Approach",
+        "start": "2026-04-01T14:30:00",
+        "end": "NoneT14:30:00",
+        "extendedProps": {
+            "description": "This session will delve into how design thinking can be leveraged to translate ideas into impactful solutions, drawing from industry insights and real-world applications.",
+            "venue": "LC-102, Lecture Complex Building (1st Floor)",
+            "organisingBody": "Dean ACR Office, Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
