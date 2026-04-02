@@ -7335,5 +7335,16 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Presentation and Evaluation of Student Technical Projects (STP) Proposals",
+        "start": "2026-04-08TNone",
+        "end": "2026-04-21TNone",
+        "extendedProps": {
+            "description": "Student teams are invited to present their inter-disciplinary technical project proposals, which will then be evaluated by the Student Technical Projects Committee (STPC). These projects, geared towards competitions and engineering solutions, receive partial financial support from IRCC.",
+            "venue": null,
+            "organisingBody": "Office of Dean (R&D), IRCC, IIT Bombay",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
