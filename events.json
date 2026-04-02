@@ -7324,5 +7324,16 @@
             "organisingBody": "Nanyang Technological University, Singapore, Academy for Professional and Continuing Education",
             "contact": "askpace.uip@ntu.edu.sg"
         }
+    },
+    {
+        "title": "Cleanliness Drive",
+        "start": "2026-04-04T07:30:00",
+        "end": "2026-04-04T08:30:00",
+        "extendedProps": {
+            "description": "An initiative to organize a cleanliness drive along the route from the Market Gate to the Hillside area, Powai lake fringe road (Padmavati Devi Temple to Boat House). All members of the IIT campus community are invited to participate actively to help maintain the cleanliness and beauty of the campus and make a positive impact on the environment.",
+            "venue": "Assembly at: Main Gate Parking area, Market Gate Parking Area, Near the Udaygiri building (Hillside area), or Guest House near the ramp junction. The drive covers the route from Market Gate to the Hillside area, Powai lake fringe road (Padmavati Devi Temple to Boat House) within the IIT Bombay campus.",
+            "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
+            "contact": null
+        }
     }
 ]
