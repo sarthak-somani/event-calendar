@@ -7346,5 +7346,16 @@
             "organisingBody": "Office of Dean (R&D), IRCC, IIT Bombay",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Biodiversity Explorer: Field Skills & Survey Methods",
+        "start": "2026-04-08TNone",
+        "end": "2026-04-10TNone",
+        "extendedProps": {
+            "description": "A 3-day hands-on workshop by the Biodiversity Lab at IIT Bombay in collaboration with WWF India. Designed for beginners, it teaches scientific methods for observing, identifying, and documenting biodiversity through interactive sessions and immersive fieldwork on the IIT Bombay campus.",
+            "venue": "IIT Bombay campus",
+            "organisingBody": "Biodiversity Lab at IIT Bombay in collaboration with WWF India",
+            "contact": null
+        }
     }
 ]
