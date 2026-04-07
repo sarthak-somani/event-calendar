@@ -7368,5 +7368,16 @@
             "organisingBody": "IITB-Citadel Securities Quantitative Research Lab",
             "contact": null
         }
+    },
+    {
+        "title": "Student Technical Projects (STP) Proposal Presentation and Evaluation 2026-27",
+        "start": "2026-04-12TNone",
+        "end": "2026-04-25TNone",
+        "extendedProps": {
+            "description": "Student teams present their inter-disciplinary technical project proposals for the 2026-27 academic year, which are then evaluated by the Student Technical Projects Committee (STPC) for partial financial support from IRCC.",
+            "venue": null,
+            "organisingBody": "Office of Dean (R&D), IRCC, IIT Bombay",
+            "contact": "Prof. Shrikrishna V. Kulkarni & Prof. Leena Vachhani (Dean (R&D) and Associate Dean (R&D)), Rohit/Nijitha (PA to Dean (R&D)), dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
