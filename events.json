@@ -7357,5 +7357,16 @@
             "organisingBody": "Biodiversity Lab at IIT Bombay in collaboration with WWF India",
             "contact": null
         }
+    },
+    {
+        "title": "IITB-Citadel Securities Research Symposium 2026",
+        "start": "2026-04-07T10:30:00",
+        "end": "2026-04-07T10:30:00",
+        "extendedProps": {
+            "description": "The symposium will feature expert talks by Citadel-associated faculty in the area of quantitative finance, and aims to foster research collaborations at the intersection of academia and industry.",
+            "venue": "SOM auditorium, ground floor",
+            "organisingBody": "IITB-Citadel Securities Quantitative Research Lab",
+            "contact": null
+        }
     }
 ]
