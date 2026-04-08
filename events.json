@@ -7390,5 +7390,16 @@
             "organisingBody": "Yogastha, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Wellbeing Questionnaire for 3rd year UG students",
+        "start": "2026-04-11T14:30:00",
+        "end": "2026-04-11T14:30:00",
+        "extendedProps": {
+            "description": "A mandatory session for 3rd year BS/BTech/BDes/DD students to complete a Wellbeing Questionnaire (WBQ). The questionnaire is designed to understand students' overall wellbeing, including stress levels, emotional health, and general day-to-day experiences. Responses will contribute to improving support systems and wellbeing initiatives on campus. Students are requested to visit the venue at any convenient time within the scheduled slot; the exercise will take approximately 10 minutes.",
+            "venue": "Software Lab 2, CC Building",
+            "organisingBody": "Student Wellness Centre (SWC)",
+            "contact": null
+        }
     }
 ]
