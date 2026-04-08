@@ -7379,5 +7379,16 @@
             "organisingBody": "Office of Dean (R&D), IRCC, IIT Bombay",
             "contact": "Prof. Shrikrishna V. Kulkarni & Prof. Leena Vachhani (Dean (R&D) and Associate Dean (R&D)), Rohit/Nijitha (PA to Dean (R&D)), dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Mass Online Yoga Event",
+        "start": "2026-05-27TNone",
+        "end": "2026-05-27TNone",
+        "extendedProps": {
+            "description": "Yogastha, IIT Bombay, invites its community to participate in a nationwide Mass Online Yoga Event on May 27, 2026, aimed at creating a world record. This event is part of a broader initiative of free live 14-day yoga programs offered by the Ministry of Ayush, leading up to the 12th International Day of Yoga on June 21, 2026. Participants can register at https://moa.habit.yoga?ref=moMoE and join sessions from home.",
+            "venue": "Online",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": null
+        }
     }
 ]
