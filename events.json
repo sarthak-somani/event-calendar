@@ -7401,5 +7401,38 @@
             "organisingBody": "Student Wellness Centre (SWC)",
             "contact": null
         }
+    },
+    {
+        "title": "Department Elections 2026-27",
+        "start": "2026-04-09TNone",
+        "end": "2026-04-12TNone",
+        "extendedProps": {
+            "description": "Announcement of the Department Elections 2026-27, providing details for candidate manifestos, a schedule for soapbox events, and the voting day. Students are encouraged to engage with candidates and participate in the electoral process.",
+            "venue": null,
+            "organisingBody": "General Secretary, Academic Affairs (UG/PG) and Institute Academic Council (PGAC & UGAC)",
+            "contact": "gsecaaug@iitb.ac.in, gsecaapg@iitb.ac.in, isaaug@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Campus Meeting: Biodiversity Lab Design & Conservation Plan",
+        "start": "2026-04-10T11:30:00",
+        "end": "2026-04-10T11:30:00",
+        "extendedProps": {
+            "description": "A presentation and discussion on the design and conservation plan for the living Biodiversity Lab at Soneri Baug. The plan aims to conserve and restore the area as an urban protected forest, integrating ecologically sensitive and sustainable design interventions to enhance biodiversity, habitat quality, and ecological research and learning opportunities. The meeting seeks suggestions from the campus community.",
+            "venue": "Seminar Room 1, Ground Floor, Victor Menezes Convention Centre (VMCC)",
+            "organisingBody": "Biodiversity Lab",
+            "contact": null
+        }
+    },
+    {
+        "title": "DE 250: Exhibition cum Presentation",
+        "start": "2026-04-13T15:00:00",
+        "end": "2026-04-18T15:00:00",
+        "extendedProps": {
+            "description": "Experience student innovations from DE 250: Design Thinking for Innovation course, showcasing immersive science learning projects across six themes (Geometry, Extraction/Filtration, Light, Calculus, Thermodynamics, Physics of Musical Instruments), aligned with NCERT syllabus for classes 8-12. Students developed human-centred solutions like learning toolkits and models. Attendees are invited to provide feedback and exchange ideas. Children from classes 8-12 are also encouraged to attend.",
+            "venue": "Design Thinking Studio, Ground Floor, RBTIC Building",
+            "organisingBody": "Industrial Design Centre (IDC), IIT Bombay",
+            "contact": "nishantsharma@iitb.ac.in"
+        }
     }
 ]
