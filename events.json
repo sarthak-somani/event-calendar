@@ -7445,5 +7445,16 @@
             "organisingBody": "Lumina",
             "contact": null
         }
+    },
+    {
+        "title": "Energy Day 2026",
+        "start": "2026-04-11T09:30:00",
+        "end": "NoneT09:30:00",
+        "extendedProps": {
+            "description": "This year's theme, \"The Energy Trifecta: Efficiency, Transition, and Security\" explores the critical balance required for a sustainable energy future. The event features a keynote address, an alumnus talk, a panel discussion, and a showcase of student research through poster and oral presentations.",
+            "venue": "LH-101, IIT Bombay",
+            "organisingBody": "Department of Energy Science and Engineering (DESE)",
+            "contact": null
+        }
     }
 ]
