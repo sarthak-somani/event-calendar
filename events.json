@@ -7467,5 +7467,16 @@
             "organisingBody": "IIT Campus School & Junior College",
             "contact": "Valsala Kumari MK (Principal, IIT Campus School & Junior College)"
         }
+    },
+    {
+        "title": "FinNext Symposium",
+        "start": "2026-04-18TNone",
+        "end": "2026-04-18TNone",
+        "extendedProps": {
+            "description": "A day-long symposium themed \"Digital, Green, Intelligent, and Inclusive\", aiming to foster meaningful engagement between academia and leaders of India's financial ecosystem. The event will host an eminent panel including Kamlesh Varshney (SEBI), Sundararaman Ramamurthy (BSE), Praveena Rai (MCX), Shanti Ekambaram (Kotak Mahindra Bank), Nilesh Shah (Kotak AMC), Gustaf Ericson (Citadel Securities), and Kunal Pande (KPMG). Sessions will address critical structural shifts, covering topics from digital market safety and commodity derivatives to the globalization of Indian capital.",
+            "venue": null,
+            "organisingBody": "Motilal Oswal Centre for Capital Markets (MOCCM)",
+            "contact": null
+        }
     }
 ]
