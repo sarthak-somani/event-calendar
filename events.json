@@ -7456,5 +7456,16 @@
             "organisingBody": "Department of Energy Science and Engineering (DESE)",
             "contact": null
         }
+    },
+    {
+        "title": "Campus School: Summer Camp 2026",
+        "start": "NoneTNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "IIT Campus School and Junior College welcomes the students of our campus to come and learn while enjoying their summer vacations. Join us to learn new skills, make memories and have lots of fun at IIT Campus School & Junior College!",
+            "venue": "IIT Campus School & Junior College",
+            "organisingBody": "IIT Campus School & Junior College",
+            "contact": "Valsala Kumari MK (Principal, IIT Campus School & Junior College)"
+        }
     }
 ]
