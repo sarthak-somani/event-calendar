@@ -7478,5 +7478,16 @@
             "organisingBody": "Motilal Oswal Centre for Capital Markets (MOCCM)",
             "contact": null
         }
+    },
+    {
+        "title": "Department General Secretary (DGSec) Elections 2026-27 Voting",
+        "start": "2026-04-12T10:00:00",
+        "end": "2026-04-12T10:00:00",
+        "extendedProps": {
+            "description": "Voting for the Department General Secretary (DGSec) elections for the academic year 2026-27. Eligible students are encouraged to cast their votes online following the provided guidelines and instructions.",
+            "venue": "Online",
+            "organisingBody": "General Secretaries, Academic Affairs",
+            "contact": "gsecaaug@iitb.ac.in, gsecaapg@iitb.ac.in, isaaug@iitb.ac.in"
+        }
     }
 ]
