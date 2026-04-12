@@ -7489,5 +7489,16 @@
             "organisingBody": "General Secretaries, Academic Affairs",
             "contact": "gsecaaug@iitb.ac.in, gsecaapg@iitb.ac.in, isaaug@iitb.ac.in"
         }
+    },
+    {
+        "title": "Department General Secretary Elections 2026-27 Voting",
+        "start": "NoneT10:00:00",
+        "end": "NoneT10:00:00",
+        "extendedProps": {
+            "description": "Voting for the Department General Secretary (DGSec) elections is open for eligible students. Participants can cast their votes online between 10:00 AM and 8:00 PM. The email provides detailed voting guidelines, including options for multiple and single candidate posts (Yes, NOTA, Skip), and important instructions such as the prohibition of campaigning on voting day and contact information for assistance.",
+            "venue": "Online (https://gymkhana.iitb.ac.in/election/safe/vote)",
+            "organisingBody": "General Secretaries, Academic Affairs (UG & PG)",
+            "contact": "gsecaaug@iitb.ac.in, gsecaapg@iitb.ac.in"
+        }
     }
 ]
