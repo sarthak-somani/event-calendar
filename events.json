@@ -7511,5 +7511,16 @@
             "organisingBody": "IDC School of Design, IIT Bombay",
             "contact": "head.idc@iitb.ac.in"
         }
+    },
+    {
+        "title": "Commencement 2026 (for 64th Convocation)",
+        "start": "2026-05-02T10:00:00",
+        "end": "2026-05-02T10:00:00",
+        "extendedProps": {
+            "description": "Invitation to Commencement 2026 for all graduating students of Indian Institute of Technology Bombay. The event includes morning and afternoon sessions held in the Institute's Convocation Hall, with live streaming available for overflow attendees in LHC (LA001/ LA 002)/ PC Saxena Auditorium. Attendees are requested to report at 10:00 a.m. for the Morning Session, with entry closing at 10:40 a.m. The Afternoon Session starts at 01:30 p.m. A rehearsal will be held on April 30, 2026. Confirmation of attendance is required by April 17, 2026.",
+            "venue": "Institute's Convocation Hall",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
+        }
     }
 ]
