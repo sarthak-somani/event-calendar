@@ -7566,5 +7566,16 @@
             "organisingBody": "Dean, Alumni and Corporate Relations (ACR) and Dean, Student Affairs, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Commencement 2026 (64th Convocation)",
+        "start": "2026-05-02T10:00:00",
+        "end": "2026-05-02T10:00:00",
+        "extendedProps": {
+            "description": "Invitation to graduating students for the 64th Convocation (Commencement 2026) at Indian Institute of Technology Bombay. The event includes morning and afternoon sessions, requires attendance confirmation via the ASC portal by April 17, 2026, and will have a rehearsal on April 30, 2026.",
+            "venue": "Convocation Hall, Indian Institute of Technology Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
+        }
     }
 ]
