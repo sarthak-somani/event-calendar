@@ -7555,5 +7555,16 @@
             "organisingBody": "IIT Bombay - Academic Programmes",
             "contact": "Pratibha Sharma, Associate Dean (Academic Programmes), IIT Bombay"
         }
+    },
+    {
+        "title": "Institute Valedictory Function",
+        "start": "2026-05-01T17:30:00",
+        "end": "2026-05-01T17:30:00",
+        "extendedProps": {
+            "description": "A special function organized for the Graduating Class of 2026 to celebrate their upcoming graduation. The evening will feature addresses by keynote speakers (Director, Dean ACR), award distribution, speeches by UG and PG representatives, a cultural programme by SARC, photo booth and grafting sessions, followed by dinner.",
+            "venue": "Convocation Hall",
+            "organisingBody": "Dean, Alumni and Corporate Relations (ACR) and Dean, Student Affairs, IIT Bombay",
+            "contact": null
+        }
     }
 ]
