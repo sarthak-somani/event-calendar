@@ -7577,5 +7577,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), Tele: 022-25767041"
         }
+    },
+    {
+        "title": "Invitation to senior citizens for Cyber Fraud Awareness and Digital Banking Session",
+        "start": "2026-04-17T16:00:00",
+        "end": "2026-04-17T16:00:00",
+        "extendedProps": {
+            "description": "An exclusive Cyber Fraud awareness session for senior citizens of the IIT Bombay community. The session aims to educate and empower attendees on Cyber Security and prevention of Online Frauds, Safe Digital Banking practices, Transaction alerts and monitoring accounts, and Awareness of Digital Banking Services and their ease to use. Designed to help participants bank safely and confidently.",
+            "venue": "ICICI Bank, Besides Van Vihar Guest House, IIT Bombay Campus",
+            "organisingBody": "ICICI Bank, IIT Bombay Campus Branch",
+            "contact": "Vijay Mishrani, Branch Manager, ICICI Bank, IIT Bombay Campus"
+        }
     }
 ]
