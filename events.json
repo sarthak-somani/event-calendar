@@ -7588,5 +7588,16 @@
             "organisingBody": "ICICI Bank, IIT Bombay Campus Branch",
             "contact": "Vijay Mishrani, Branch Manager, ICICI Bank, IIT Bombay Campus"
         }
+    },
+    {
+        "title": "Commencement 2026 (for 64th Convocation)",
+        "start": "2026-05-02T10:00:00",
+        "end": "2026-05-02T10:00:00",
+        "extendedProps": {
+            "description": "Invitation to all graduating students of IIT Bombay for their Commencement ceremony, which includes morning and afternoon sessions. A rehearsal will also be held on April 30th, 2026. Attendees are required to register on the ASC portal.",
+            "venue": "Institute's Convocation Hall",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Umesh Korade, Deputy Registrar (Academic), IIT Bombay. Email: dracad@iitb.ac.in, Tele: 022-25767041, Website: www.iitb.ac.in/acad/"
+        }
     }
 ]
