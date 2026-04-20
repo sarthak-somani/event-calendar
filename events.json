@@ -7599,5 +7599,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Umesh Korade, Deputy Registrar (Academic), IIT Bombay. Email: dracad@iitb.ac.in, Tele: 022-25767041, Website: www.iitb.ac.in/acad/"
         }
+    },
+    {
+        "title": "Fulbright-Nehru Mentoring Workshop",
+        "start": "2026-04-24T13:00:00",
+        "end": "2026-04-24T13:00:00",
+        "extendedProps": {
+            "description": "USIEF will conduct an in-person mentoring session in Mumbai for prospective applicants to programs in the 2027-2028 academic year. The session will provide guidance on the application process, insights from Fulbright alumni, and an opportunity for interaction with USIEF representatives. The program is open to doctoral scholars, postdoctoral researchers, and faculty across disciplines, including priority areas in strategic and emerging technologies. Pre-registration is mandatory (limited seats).",
+            "venue": "American Center at the U.S. Consulate General, Mumbai, C-49, G block, Bandra Kurla Complex, Bandra (East), Mumbai 400 051",
+            "organisingBody": "USIEF",
+            "contact": "Rebecca Jadin, Project Manager, Office of International Relations, IIT Bombay, +91-22-2576-5077"
+        }
     }
 ]
