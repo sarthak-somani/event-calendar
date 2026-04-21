@@ -7610,5 +7610,16 @@
             "organisingBody": "USIEF",
             "contact": "Rebecca Jadin, Project Manager, Office of International Relations, IIT Bombay, +91-22-2576-5077"
         }
+    },
+    {
+        "title": "Webinar: Bridging Healthcare & Technology: Inside the DAIHS Master Journey (Humanitas x Bocconi)",
+        "start": "2026-04-22T18:00:00",
+        "end": "NoneT18:00:00",
+        "extendedProps": {
+            "description": "An exclusive virtual awareness session by the Indo-Italian Chamber of Commerce and Industry (IICCI) - Minerva EduHub, detailing the joint 2-year DAIHS Master's program from Humanitas University and Bocconi University. The session will explore the intersection of healthcare, data science, and AI, covering curriculum, real-world applications, 2026 admissions, global career prospects, and scholarship opportunities. Features an interactive Q&A with Associate Professor Mr. Massimiliano Greco and Ms. Serena Monteforte.",
+            "venue": "Online",
+            "organisingBody": "Indo-Italian Chamber of Commerce and Industry (IICCI) - Minerva EduHub",
+            "contact": "Ms. Pallabi Gupta, p.gupta@indiaitaly.com"
+        }
     }
 ]
