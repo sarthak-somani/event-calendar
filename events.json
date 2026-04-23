@@ -7621,5 +7621,27 @@
             "organisingBody": "Indo-Italian Chamber of Commerce and Industry (IICCI) - Minerva EduHub",
             "contact": "Ms. Pallabi Gupta, p.gupta@indiaitaly.com"
         }
+    },
+    {
+        "title": "The ATU-Net Global Youth Leadership Forum Malaysia 2026",
+        "start": "2026-06-24T08:00:00",
+        "end": "2026-06-24T08:00:00",
+        "extendedProps": {
+            "description": "The programme aims to foster progressive, visionary leadership among students to compete internationally. Key goals include strengthening dialogue, exchanging ideas, building lasting global relationships, and enhancing leadership capabilities in line with digital, sustainable, and national development agendas.",
+            "venue": "Universiti Teknologi Mara (UiTM), Malaysia",
+            "organisingBody": "Asia Technological University Network (ATU-Net) and Universiti Teknologi MARA (UiTM)",
+            "contact": "dia@uitm.edu.my"
+        }
+    },
+    {
+        "title": "ACE 2026 (Accelerating Clean Energy) Conference at IIT Bombay",
+        "start": "2026-06-23TNone",
+        "end": "2026-06-24TNone",
+        "extendedProps": {
+            "description": "ACE is a platform that examines the technical, institutional, financial, and material conditions required for reliably scaling India's energy transition. This convening provides an academic forum to explore these issues through peer-reviewed research and rigorous cross-sector dialogue. ACE 2026 is centered around the key research question: As demand accelerates and renewable energy penetration rises, what conditions must be met for India's energy transition to scale reliably? We invite abstracts presenting clear, evidence-based research aligned with one or more of the following thematic areas: Infrastructure Readiness and System Reliability, Demand and Load Transformation, Innovations in Distributed and Hybrid Systems. Selected submissions will be invited for oral or poster presentations at ACE 2026 at IIT Bombay. A limited number may also be invited for full paper development following the review process. Deadline for submissions: May 10, 2026.",
+            "venue": "Indian Institute of Technology Bombay",
+            "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (IITB-GESH) jointly with World Resources Institute India (WRI India)",
+            "contact": "Sanjay Mahajani, +91 (22) 2576 7246"
+        }
     }
 ]
