@@ -7654,5 +7654,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "AUA-HKUST Overseas Study Program 2026 - HKUST Entrepreneurship Bootcamp",
+        "start": "2026-07-05TNone",
+        "end": "2026-07-11TNone",
+        "extendedProps": {
+            "description": "An in-person Entrepreneurship Bootcamp hosted by The Hong Kong University of Science and Technology (HKUST). It offers an immersive experience into Hong Kong's vibrant entrepreneurship ecosystem, focusing on essential entrepreneurial skills (design thinking, business planning, marketing, finance, leadership) through workshops, case studies, startup sharing, and team-based projects. Participants will gain first-hand knowledge about starting a business in Asia, access valuable resources, and collaborate with students from diverse backgrounds.",
+            "venue": "The Hong Kong University of Science and Technology (HKUST), Hong Kong",
+            "organisingBody": "The Hong Kong University of Science and Technology (HKUST)",
+            "contact": "Mr. Alan YU (global@ust.hk)"
+        }
     }
 ]
