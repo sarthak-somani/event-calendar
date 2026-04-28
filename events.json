@@ -7687,5 +7687,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Global Conference for Women Leaders and Emerging Researchers in Materials Science (GLOW 2026)",
+        "start": "2026-09-29TNone",
+        "end": "2026-10-01TNone",
+        "extendedProps": {
+            "description": "The third edition of the Global Conference for Women Leaders and Emerging Researchers in Materials Science (GLOW 2026) is dedicated to empowering women leaders and emerging researchers in materials science, fostering an inclusive platform open to all. It aims to bring together a global community of researchers, industry experts, and educators to exchange ideas, build collaborations, and advance innovation. Key themes include Computational Methods, Characterisation & Machine Learning; Future Electronics & Nanomaterials; Sustainability & Energy Materials; and Healthcare. The conference invites one-page abstract submissions, with selected participants having opportunities for presentations and consideration for the Prestigious Travel Award. Early-career researchers, especially women scientists, are strongly encouraged to apply.",
+            "venue": "Nanyang Technological University, Singapore",
+            "organisingBody": "Nanyang Technological University, Singapore",
+            "contact": "glow2026@ntu.edu.sg"
+        }
     }
 ]
