@@ -7665,5 +7665,27 @@
             "organisingBody": "The Hong Kong University of Science and Technology (HKUST)",
             "contact": "Mr. Alan YU (global@ust.hk)"
         }
+    },
+    {
+        "title": "Accessible Technology Exhibition",
+        "start": "2026-04-28T12:00:00",
+        "end": "2026-04-28T12:00:00",
+        "extendedProps": {
+            "description": "The PWD Cell, IIT Bombay cordially invites you to the Accessible Technology Exhibition, a showcase of innovative solutions designed to promote inclusivity and empower individuals with disabilities. Technology serves as a powerful equalizer, and this event offers a unique opportunity to explore how design and engineering are breaking both physical and digital barriers. We warmly encourage the IIT Bombay community to join us for an afternoon dedicated to innovation, empathy, and the future of assistive technology.",
+            "venue": "F.C. Kohli Auditorium, KReSIT Building, Department of Computer Science & Engineering (CSE)",
+            "organisingBody": "PWD Cell, IIT Bombay",
+            "contact": null
+        }
+    },
+    {
+        "title": "Commencement Ceremony",
+        "start": "2026-05-02T11:00:00",
+        "end": "NoneT11:00:00",
+        "extendedProps": {
+            "description": "Arrangement of three buggies for parents and students to commute from the Main Gate to the Convocation Hall for the Commencement Ceremony. These buggies will display a sticker stating \"Commencement Duty.\"",
+            "venue": "Convocation Hall",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
