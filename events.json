@@ -7753,5 +7753,27 @@
             "organisingBody": "Industrial Research & Consultancy Centre (IRCC) and Institution Innovation Council (IIC)",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "Be Part of the 50-Day Journey to International Day of Yoga 2026",
+        "start": "2026-05-01TNone",
+        "end": "2026-06-21TNone",
+        "extendedProps": {
+            "description": "Yogastha IIT Bombay announces its 50 Days of International Day of Yoga (IDY) 2026 Celebrations, starting May 1, 2026, and culminating in a flagship event on June 21, 2026. The journey features yoga sessions, workshops, meditation programs, and competitions open to all IIT Bombay residents, promoting holistic well-being and community participation. Winners of competitions will be felicitated with exciting gifts on June 21.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "Jitendra Kumar, +91 8686484484"
+        }
+    },
+    {
+        "title": "FruBiOMEx'26 - the annual Frugal Biomechanics Exhibition 2026",
+        "start": "2026-05-02T14:30:00",
+        "end": "2026-05-02T14:30:00",
+        "extendedProps": {
+            "description": "FruBiOMEx'26 is the annual Frugal Biomechanics Exhibition at IIT Bombay, where student teams from IIT Bombay will exhibit inexpensive but innovative devices/techniques developed to quantify biomechanical parameters of human joints - right from the jaw to the foot! The exhibition is open to everyone interested in the human body, irrespective of age and background.",
+            "venue": "SOM well",
+            "organisingBody": "BiOME Lab, IIT Bombay",
+            "contact": "Darshan S. Shah, Assistant Professor, IIT Bombay"
+        }
     }
 ]
