@@ -7775,5 +7775,16 @@
             "organisingBody": "BiOME Lab, IIT Bombay",
             "contact": "Darshan S. Shah, Assistant Professor, IIT Bombay"
         }
+    },
+    {
+        "title": "NEET 2026",
+        "start": "2026-05-03TNone",
+        "end": "2026-05-03TNone",
+        "extendedProps": {
+            "description": "NEET 2026 will be conducted in the Lecture Hall Complex (LHC) on 3 May 2026. The following restrictions will be in place to ensure the smooth conduct of the examination: a) All food courts and eateries in the Lecture Hall Complex will remain closed for the entire day. b) Movement in the areas surrounding the Lecture Hall Complex (including corridors and the KRESIT side) will be restricted. Certain portions of these areas will be blocked. We request your understanding and cooperation. c) The Lecture Hall Complex will not be accessible for any kind of movement. d) Physics parking lot will be not be available. e) Proper signboards, barricades, and security personnel will be deployed to provide necessary assistance. These restrictions will remain in effect until 6:00 PM. f) A map highlighting the restricted area is attached in this link for your ready reference- https://bighome.iitb.ac.in/index.php/s/fjX8C4nZHSPfNrk.",
+            "venue": "Lecture Hall Complex (LHC)",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Captain Ambuj Khare (Retd), Chief Security Officer and Head, Indian Institute of Technology Bombay"
+        }
     }
 ]
