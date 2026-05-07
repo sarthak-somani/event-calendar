@@ -7819,5 +7819,16 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Interim Course Tagging Window for Online Interface",
+        "start": "2026-05-18TNone",
+        "end": "2026-07-09TNone",
+        "extendedProps": {
+            "description": "The online course tagging interface is now open for interim course tagging. Students are required to tag their courses for graduation requirements on the External ASC portal (portal.iitb.ac.in/asc). Important instructions, rules, and implications for graduation are detailed in this notice. Ensure tags comply with graduation requirements as frozen tags cannot be changed. This period is specifically for interim course tagging.",
+            "venue": "External ASC portal (portal.iitb.ac.in/asc)",
+            "organisingBody": "Academic Office, Indian Institute of Technology Bombay",
+            "contact": "Deputy Registrar (Academic) Tele: 022-25767041"
+        }
     }
 ]
