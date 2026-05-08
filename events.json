@@ -7841,5 +7841,16 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": "Pankaj P. Bhosale, Public Health Officer, Indian Institute of Technology Bombay"
         }
+    },
+    {
+        "title": "IPR Open House Session - Advanced Session on Computer Related Inventions",
+        "start": "2026-05-14T14:30:00",
+        "end": "2026-05-14T14:30:00",
+        "extendedProps": {
+            "description": "IIT Bombay, in association with S. Majumdar & Co., is organizing an advanced IPR Open House Session focusing on computer related inventions. This session, a continuation of a basic introduction, will cover recent and representative case laws, prosecution experiences, evolving jurisprudence, practical insights on Section 3(k), drafting strategies, and common prosecution challenges. The 1.5-hour online session includes a 1-hour presentation and a 30-minute interactive Q&A. It is free, requires no prior registration, and is open to all students, researchers, and faculty members to deepen their understanding of software-related inventions and patentability criteria.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "IIT Bombay in association with S. Majumdar & Co.",
+            "contact": null
+        }
     }
 ]
