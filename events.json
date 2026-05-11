@@ -7852,5 +7852,16 @@
             "organisingBody": "IIT Bombay in association with S. Majumdar & Co.",
             "contact": null
         }
+    },
+    {
+        "title": "IPR Open House Session - Advanced Session on Computer related inventions",
+        "start": "2026-05-14T14:30:00",
+        "end": "2026-05-14T14:30:00",
+        "extendedProps": {
+            "description": "To promote Intellectual Property (IP) awareness and to support innovators, start-ups, and individual creators, IIT Bombay, in association with S. Majumdar & Co., is organising an series of IPR Open House Sessions for innovators, students, and faculty members. The first session focused on a basic introduction to Intellectual Property Rights (IPR) and the fundamentals of Computer Related Inventions (CRI). We are now organising an advanced session on computer related inventions as a continuation, which will cover recent and representative case laws, prosecution experiences, and evolving jurisprudence. The session will also include practical insights on Section 3(k), drafting strategies, and common prosecution challenges. The session will consist of a 1 hour presentation followed by a 30-minute interactive Q&A segment, making the total duration 1.5 hours. It will be conducted in online mode. All students, researchers, and faculty members are encouraged to participate in this session to gain a deeper understanding of software-related inventions and their patentability criteria. The session is free of cost, requires no prior registration, and participants can join directly through the link provided.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "IIT Bombay, Office of Dean (R&D) in association with S. Majumdar & Co.",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
     }
 ]
