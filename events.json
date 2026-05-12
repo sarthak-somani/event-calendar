@@ -7863,5 +7863,27 @@
             "organisingBody": "IIT Bombay, Office of Dean (R&D) in association with S. Majumdar & Co.",
             "contact": "dean.rnd.office@iitb.ac.in"
         }
+    },
+    {
+        "title": "ACE 2026 (Accelerating Clean Energy Conference)",
+        "start": "2026-06-23TNone",
+        "end": "2026-06-24TNone",
+        "extendedProps": {
+            "description": "Accelerating Clean Energy Conference (ACE 2026) organized by IIT Bombay's Research Hub for Green Energy and Sustainability (IITB-GESH) jointly with World Resources Institute India (WRI India). The conference serves as an academic forum to explore India's energy transition and sustainability, inviting abstracts for oral or poster presentations and potential full paper development. The deadline for abstract submissions has been extended to May 15, 2026.",
+            "venue": "Indian Institute of Technology Bombay",
+            "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (IITB-GESH) jointly with World Resources Institute India (WRI India)",
+            "contact": "Sanjay Mahajani, Ph.D., Professor-in-Charge, Research Hub for Green Energy and Sustainability, IIT Bombay. Contact no. +91 (22) 2576 7246"
+        }
+    },
+    {
+        "title": "India Nuclear Energy Forum 2026",
+        "start": "2026-05-29TNone",
+        "end": "2026-05-30TNone",
+        "extendedProps": {
+            "description": "The India Nuclear Energy Forum 2026 aims to bring together key stakeholders from across the nuclear energy sector to strengthen the ecosystem for India's target of 100 GWe nuclear power capacity by 2047. Over two days, the forum will convene policymakers, industry leaders, technology providers, regulators, researchers, and young professionals to discuss themes such as advanced reactor technologies, fuel cycles, SMRs, supply chains, safety frameworks, financing models, and the role of nuclear energy in achieving India's Net-Zero goals.",
+            "venue": "P. C. Saxena Auditorium IIT Bombay",
+            "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (GESH-IITB), Department of Energy Sciences and Engineering, IIT Bombay, and India Energy Network",
+            "contact": "Sanjay Mahajani, Ph.D., Professor-in-Charge, Research Hub for Green Energy and Sustainability, Institute Chair Professor, Department of Chemical Engineering, IIT Bombay. Contact no. +91 (22) 2576 7246."
+        }
     }
 ]
