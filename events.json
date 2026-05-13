@@ -7885,5 +7885,16 @@
             "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (GESH-IITB), Department of Energy Sciences and Engineering, IIT Bombay, and India Energy Network",
             "contact": "Sanjay Mahajani, Ph.D., Professor-in-Charge, Research Hub for Green Energy and Sustainability, Institute Chair Professor, Department of Chemical Engineering, IIT Bombay. Contact no. +91 (22) 2576 7246."
         }
+    },
+    {
+        "title": "Foundational Maths for ML \u2013 Optimization (Part II)",
+        "start": "2026-05-30T09:00:00",
+        "end": "2026-05-31T09:00:00",
+        "extendedProps": {
+            "description": "Registrations are now open for the latest course of the NEXT AI series: \u201cFoundational Maths for ML \u2013 Optimization (Part II).\u201d The course will be taught by Prof. Pranay Sharma (C-MInDS, IIT Bombay) in a live online format. It builds on core mathematical foundations, offering a structured progression through key optimization concepts relevant to machine learning, including a recap of linear algebra and convexity, deterministic and stochastic optimization algorithms, and select advanced topics. Designed as a self-contained learning experience, it's intended for students, researchers, faculty members, and industry professionals. Previous modules are advised but not mandatory. Seats are limited.",
+            "venue": "Live online",
+            "organisingBody": "Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay",
+            "contact": "022 2159 3778 (O); https://www.minds.iitb.ac.in/"
+        }
     }
 ]
