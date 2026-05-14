@@ -7896,5 +7896,16 @@
             "organisingBody": "Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay",
             "contact": "022 2159 3778 (O); https://www.minds.iitb.ac.in/"
         }
+    },
+    {
+        "title": "IPR Open House Session - Advanced Session on Computer related inventions",
+        "start": "2026-05-14T14:30:00",
+        "end": "2026-05-14T14:30:00",
+        "extendedProps": {
+            "description": "An advanced IPR Open House Session by IIT Bombay and S. Majumdar & Co. focusing on computer related inventions. It covers recent case laws, prosecution experiences, evolving jurisprudence, practical insights on Section 3(k), drafting strategies, and common prosecution challenges. The 1.5-hour online session includes a presentation and Q&A, is free, requires no registration, and targets innovators, students, researchers, and faculty.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "IIT Bombay, in association with S. Majumdar & Co.",
+            "contact": "Prof. Shrikrishna V. Kulkarni & Prof. Leena Vachhani (Dean (R&D) and Associate Dean (R&D)), Office Of Dean (R&D) <dean.rnd.office@iitb.ac.in>"
+        }
     }
 ]
