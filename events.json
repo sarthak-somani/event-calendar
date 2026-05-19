@@ -7929,5 +7929,16 @@
             "organisingBody": "IIT Bombay, Dean (R&D)",
             "contact": null
         }
+    },
+    {
+        "title": "BMC House Listing & Census Housing Activity",
+        "start": "2026-05-19TNone",
+        "end": "2026-05-22TNone",
+        "extendedProps": {
+            "description": "A team of BMC personnel will be carrying out a house listing and census housing activity in the IIT Bombay campus effective from May 19, 2026. This activity requires collecting certain information from campus residents. To facilitate this and avoid door-to-door visits, a Google Form has been created for submission. All residents of Campus and married students residing in campus quarters like MANAS, TULSI etc., are requested to fill out and submit the form by 22 May 2026. Students residing in Hostels need not respond. For houses where the form is not submitted by the deadline, BMC representatives will visit directly to collect the required information. Cooperation from all residents is requested. Google Form: https://docs.google.com/forms/d/e/1FAIpQLSel-Scz3gVQtDt0143oZqWP0RSDR_Oss91_qS3UqYyEOHW9lQ/viewform?usp=publish-editor",
+            "venue": "IIT Bombay Campus, Mumbai-400076",
+            "organisingBody": "BMC, Indian Institute of Technology Bombay",
+            "contact": "Captain Ambuj Khare (Retd), Chief Security Officer and Head, Indian Institute of Technology Bombay"
+        }
     }
 ]
