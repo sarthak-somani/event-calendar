@@ -7940,5 +7940,16 @@
             "organisingBody": "BMC, Indian Institute of Technology Bombay",
             "contact": "Captain Ambuj Khare (Retd), Chief Security Officer and Head, Indian Institute of Technology Bombay"
         }
+    },
+    {
+        "title": "Water Supply Shutdown for Essential Maintenance",
+        "start": "2026-05-19T11:00:00",
+        "end": "2026-05-19T23:30:00",
+        "extendedProps": {
+            "description": "The Estate Office will carry out essential maintenance work to connect the newly laid water pipeline to the existing network. To facilitate these necessary upgrades, a scheduled water shutdown is planned. Due to some technical issues, the water shutdown has been extended upto 11.30 pm.",
+            "venue": "Campus-wide",
+            "organisingBody": "Estate Office",
+            "contact": "N W Owal, Executive Engineer"
+        }
     }
 ]
