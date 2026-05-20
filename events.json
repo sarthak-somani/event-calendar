@@ -7951,5 +7951,16 @@
             "organisingBody": "Estate Office",
             "contact": "N W Owal, Executive Engineer"
         }
+    },
+    {
+        "title": "India Nuclear Energy Forum 2026",
+        "start": "2026-05-29T09:30:00",
+        "end": "2026-05-30T09:30:00",
+        "extendedProps": {
+            "description": "India's ambitious target of achieving 100 GWe of nuclear power capacity by 2047, following the Government of India's move towards the SHANTI Act, will require not only significant investment but also the development of a strong and cohesive nuclear energy ecosystem. It also brings forth new opportunities, alongside challenges in implementation, which must be carefully addressed to realize India's nuclear power vision. The forum aims to bring together key stakeholders from across the nuclear energy sector--both from India and abroad--to collectively strengthen this ecosystem. Over two days, the forum will convene policymakers, industry leaders, technology providers, regulators, researchers, and young professionals to discuss themes such as advanced reactor technologies, fuel cycles, SMRs, supply chains, safety frameworks, financing models, and the role of nuclear energy in achieving India's Net-Zero goals.",
+            "venue": "P. C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (GESH-IITB), Department of Energy Sciences and Engineering, IIT Bombay, in collaboration with India Energy Network",
+            "contact": "Sanjay Mahajani, Ph.D., Professor-in-Charge, Research Hub for Green Energy and Sustainability, IIT Bombay. Contact no. +91 (22) 2576 7246"
+        }
     }
 ]
