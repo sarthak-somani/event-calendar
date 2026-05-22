@@ -7984,5 +7984,16 @@
             "organisingBody": "Department of Chemistry, IIT Bombay",
             "contact": "Dr. Chandra M. R. Volla, chandra.volla@chem.iitb.ac.in, Office: +91 22 2576 7188, Mobile: +91 9820487188"
         }
+    },
+    {
+        "title": "Global Challenge Lab 2026",
+        "start": "2026-07-14TNone",
+        "end": "2026-07-30TNone",
+        "extendedProps": {
+            "description": "A premier 14-day virtual innovation sprint hosted by Imperial Enterprise Lab (Imperial College London). Students from IIT Bombay and other top-tier universities will team up to solve real-world challenges in Sustainability, Health, Climate, Space, and Smart Cities, build business concepts from scratch, earn an official Certificate of Completion, and compete for a share of the \u00a33,000 prize fund.",
+            "venue": "Virtual",
+            "organisingBody": "Imperial Enterprise Lab (Imperial College London)",
+            "contact": "+91 (22) 2576 7246"
+        }
     }
 ]
