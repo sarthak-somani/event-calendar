@@ -7973,5 +7973,16 @@
             "organisingBody": "Dean (R&D) Office, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "NMR Training Workshop",
+        "start": "2026-06-01TNone",
+        "end": "NoneTNone",
+        "extendedProps": {
+            "description": "A training workshop on the usage and operation of the 500 MHz and 400 MHz NMR spectrometers, organized by the Department of Chemistry, IIT Bombay. The workshop is open to interested PhD scholars, postdoctoral fellows, project staff, and researchers across the institute who wish to obtain operatorship for the NMR facility. Key highlights include introduction to instrumentation, hands-on training in sample preparation, shimming, tuning/matching, data acquisition, and data processing; introduction to standard 1D and basic 2D NMR experiments; best practices for instrument handling, maintenance, and safety protocols; and guidelines for facility usage and operatorship procedures.",
+            "venue": "Indian Institute of Technology Bombay",
+            "organisingBody": "Department of Chemistry, IIT Bombay",
+            "contact": "Dr. Chandra M. R. Volla, chandra.volla@chem.iitb.ac.in, Office: +91 22 2576 7188, Mobile: +91 9820487188"
+        }
     }
 ]
