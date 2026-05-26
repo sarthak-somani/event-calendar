@@ -7995,5 +7995,16 @@
             "organisingBody": "Imperial Enterprise Lab (Imperial College London)",
             "contact": "+91 (22) 2576 7246"
         }
+    },
+    {
+        "title": "Cycle Auction for IIT Campus Residents",
+        "start": "2026-05-29T10:00:00",
+        "end": "2026-05-29T10:00:00",
+        "extendedProps": {
+            "description": "A Cycle Auction will be conducted for IIT Campus Residents to purchase cycles. The auction is open to all Institute Campus Residents of the Institute, requires a valid Institute ID card, and will be conducted on a highest bid price basis with a base bid price of \u20b9200 per cycle. Payment is to be made on the spot, and cycles are sold as-is with no claims for repairs or replacements. Purchased cycles must be taken away immediately after the auction.",
+            "venue": "Public Health Office",
+            "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
+        }
     }
 ]
