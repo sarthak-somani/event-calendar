@@ -297,35 +297,112 @@ header h1 {
     margin: 8px 0;
 }
 
+/* ===== MOBILE NAV (hidden on desktop) ===== */
+.mobile-nav { display: none; }
+
 /* ===== MOBILE ===== */
 @media (max-width: 768px) {
-    body { height: auto; min-height: 100vh; }
-
-    .container {
+    /* Stack header → content → tab bar with flex column */
+    body {
+        display: flex;
         flex-direction: column;
-        padding: 12px;
-        gap: 12px;
-        overflow: visible;
+        height: 100vh;
+        height: 100dvh; /* excludes browser chrome on mobile */
+        overflow: hidden;
     }
 
-    #calendar-container {
-        flex: none;
-        height: 70vh;
-        min-height: 380px;
+    header { flex-shrink: 0; }
+
+    /* Content area fills remaining space between header and tab bar */
+    .container {
+        flex: 1;
+        min-height: 0;
+        padding: 0;
+        gap: 0;
+        overflow: hidden;
+        position: relative;
+        max-width: none;
+        margin: 0;
     }
 
+    /* Each panel is absolutely positioned to fill the content area */
+    #calendar-container,
     #event-list-container {
-        flex: none;
+        position: absolute;
+        inset: 0;
+        border-radius: 0;
+        border: none;
+        box-shadow: none;
         min-width: 0;
         max-width: none;
         width: 100%;
+        height: auto;
         max-height: none;
     }
 
+    #calendar-container {
+        display: flex;
+        flex-direction: column;
+        padding: 12px;
+        gap: 10px;
+        overflow: hidden;
+    }
+
+    #event-list-container {
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 20px 16px;
+    }
+
+    /* Used by JS to hide the inactive panel */
+    .panel-hidden { display: none !important; }
+
+    /* Tap feedback on event list items */
+    #event-list li:active { background: var(--bg); }
+
+    /* ===== MOBILE NAV BAR ===== */
+    .mobile-nav {
+        display: flex;
+        flex-shrink: 0;
+        background: var(--surface);
+        border-top: 1px solid var(--border);
+        box-shadow: 0 -1px 8px rgba(0, 0, 0, 0.06);
+        /* Respect iPhone home-indicator safe area */
+        padding-bottom: env(safe-area-inset-bottom, 0);
+    }
+
+    .mobile-tab {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 3px;
+        padding: 10px 4px;
+        min-height: 56px;
+        font-family: var(--font);
+        font-size: 0.7rem;
+        font-weight: 500;
+        color: var(--text-muted);
+        background: none;
+        border: none;
+        cursor: pointer;
+        transition: color var(--transition);
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .mobile-tab.is-active { color: var(--primary); }
+
+    /* FullCalendar toolbar tweaks for narrow screens */
     .fc .fc-toolbar { flex-wrap: wrap; gap: 8px; }
 
     .fc .fc-toolbar .fc-toolbar-chunk {
         display: flex;
         justify-content: center;
+    }
+
+    .fc .fc-button {
+        padding: 6px 10px !important;
+        font-size: 0.8rem !important;
     }
 }
