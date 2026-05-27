@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
         upcomingEvents = events
             .filter(e => new Date(e.start) >= now)
             .sort((a, b) => new Date(a.start) - new Date(b.start))
-            .slice(0, 7);
+            .slice(0, 10);
 
         countEl.textContent = upcomingEvents.length || '';
         countEl.hidden = upcomingEvents.length === 0;
@@ -185,4 +185,36 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     calendar.render();
+
+    // ── Mobile tab switching ──────────────────────────────────────────────
+    if (window.innerWidth <= 768) {
+        const calendarPanel = document.getElementById('calendar-container');
+        const listPanel     = document.getElementById('event-list-container');
+        const tabs          = document.querySelectorAll('.mobile-tab');
+
+        // Default: show upcoming list, hide calendar
+        calendarPanel.classList.add('panel-hidden');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', function () {
+                const targetId = this.dataset.target;
+
+                tabs.forEach(t => {
+                    t.classList.remove('is-active');
+                    t.setAttribute('aria-selected', 'false');
+                });
+                this.classList.add('is-active');
+                this.setAttribute('aria-selected', 'true');
+
+                calendarPanel.classList.toggle('panel-hidden', targetId !== 'calendar-container');
+                listPanel.classList.toggle('panel-hidden',     targetId !== 'event-list-container');
+
+                if (targetId === 'calendar-container') {
+                    // Wait two frames for the panel to paint before FullCalendar
+                    // recalculates its dimensions; avoids a 0-height render.
+                    requestAnimationFrame(() => requestAnimationFrame(() => calendar.updateSize()));
+                }
+            });
+        });
+    }
 });
