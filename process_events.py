@@ -11,7 +11,7 @@ import time
 # --- CONFIGURATION ---
 IMAP_SERVER = 'imap.iitb.ac.in'
 IMAP_PORT = 993
-TARGET_RECIPIENT = "student-notices@iitb.ac.in"
+TARGET_RECIPIENTS = {"student-notices@iitb.ac.in", "student-events@iitb.ac.in"}
 MAX_EMAILS_TO_PROCESS = 25
 
 # --- SECRETS (from environment variables) ---
@@ -27,9 +27,7 @@ EVENTS_JSON_FILE = 'events.json'
 # Using the genai.Client() method which requires an up-to-date library.
 # The client automatically uses the GEMINI_API_KEY from environment variables.
 if GEMINI_API_KEY:
-    # This assumes the user has run 'pip install -U google-genai'
-    # to get a version that supports genai.Client()
-    client = genai.Client()
+    client = genai.Client(api_key=GEMINI_API_KEY)
 else:
     client = None
 
@@ -132,18 +130,25 @@ def process_email_with_gemini(subject, body):
                 print("         > Gemini determined this is not an event.")
                 return None
 
-            # Assuming end time is the same as start time if not provided
-            end_time = data.get('endTime', data.get('startTime'))
-            
+            title = data.get("title")
+            start_date = data.get("startDate")
+            if not title or not start_date or str(start_date).lower() == "null":
+                print("         > Skipping: Missing required title or start date.")
+                return None
+
+            start_time = data.get("startTime") or "00:00:00"
+            end_date   = data.get("endDate") or start_date
+            end_time   = data.get("endTime") or start_time
+
             calendar_event = {
-                "title": data.get("title"),
-                "start": f"{data.get('startDate')}T{data.get('startTime')}",
-                "end": f"{data.get('endDate')}T{end_time}",
+                "title": title,
+                "start": f"{start_date}T{start_time}",
+                "end":   f"{end_date}T{end_time}",
                 "extendedProps": {
-                    "description": data.get("description"),
-                    "venue": data.get("venue"),
+                    "description":    data.get("description"),
+                    "venue":          data.get("venue"),
                     "organisingBody": data.get("organisingBody"),
-                    "contact": data.get("contact")
+                    "contact":        data.get("contact")
                 }
             }
             print(f"         > Gemini extracted event: {calendar_event['title']}")
@@ -205,7 +210,7 @@ def main():
                     headers = email.message_from_bytes(to_data[0][1])
                     to_header = clean_header_text(headers['to'])
 
-                    if TARGET_RECIPIENT in to_header:
+                    if any(r in to_header for r in TARGET_RECIPIENTS):
                         print(f"   - Relevant recipient found. Fetching full body for UID {current_uid_to_check}...")
 
                         # Fetch the full email. This action marks it as read by the server.
@@ -228,7 +233,7 @@ def main():
                         print("         > Pausing for 6 seconds...")
                         time.sleep(6)
                     else:
-                        print(f"   - UID {current_uid_to_check} is not addressed to {TARGET_RECIPIENT}. Skipping processing.")
+                        print(f"   - UID {current_uid_to_check} is not addressed to a target recipient. Skipping processing.")
                 
                 # If the email was originally unread, re-tag it as unread after we are done with it.
                 if is_originally_unread:
@@ -252,11 +257,18 @@ def main():
                         all_events = json.load(f)
                 except json.JSONDecodeError:
                     print(f"Warning: Could not parse existing {EVENTS_JSON_FILE}. Starting fresh.")
-            
-            all_events.extend(new_events)
-            with open(EVENTS_JSON_FILE, 'w', encoding='utf-8') as f:
-                json.dump(all_events, f, indent=4)
-            print(f"Successfully updated {EVENTS_JSON_FILE}.")
+
+            existing_keys = {(e.get('title', ''), e.get('start', '')) for e in all_events}
+            unique_new = [e for e in new_events if (e.get('title', ''), e.get('start', '')) not in existing_keys]
+
+            if unique_new:
+                all_events.extend(unique_new)
+                with open(EVENTS_JSON_FILE, 'w', encoding='utf-8') as f:
+                    json.dump(all_events, f, indent=4)
+                skipped = len(new_events) - len(unique_new)
+                print(f"Added {len(unique_new)} unique events" + (f", skipped {skipped} duplicates" if skipped else "") + f". Updated {EVENTS_JSON_FILE}.")
+            else:
+                print(f"All {len(new_events)} new events were duplicates. {EVENTS_JSON_FILE} not modified.")
 
         # Save the last successfully processed UID to the state file.
         if uid_to_save > last_processed_uid:

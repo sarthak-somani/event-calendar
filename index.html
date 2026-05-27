@@ -4,11 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IITB Event Hub</title>
+    <meta name="description" content="Discover upcoming events at IIT Bombay — seminars, workshops, cultural events, and more, aggregated automatically from student notices.">
+    <meta property="og:title" content="IITB Event Hub">
+    <meta property="og:description" content="Discover upcoming events at IIT Bombay, aggregated automatically from student notices.">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#4A90E2" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1e293b" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="style.css">
 
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.14/index.global.min.js'></script>
@@ -18,18 +25,31 @@
 </head>
 <body>
     <header>
-        <h1>IITB Event Hub</h1>
+        <div class="header-content">
+            <h1>IITB Event Hub</h1>
+            <p class="header-subtitle">Events at IIT Bombay, updated hourly</p>
+        </div>
     </header>
 
     <main class="container">
         <div id="calendar-container">
-            <div id='calendar'></div>
+            <div id="calendar-loading" class="loading-overlay" hidden>
+                <div class="spinner"></div>
+                <span>Loading events&hellip;</span>
+            </div>
+            <div id="calendar-error" class="error-banner" hidden>
+                &#9888;&nbsp; Failed to load events. Please refresh the page.
+            </div>
+            <div id="calendar"></div>
         </div>
-        <div id="event-list-container">
-            <h2>Upcoming Events</h2>
-            <ul id="event-list">
-                </ul>
-        </div>
+
+        <aside id="event-list-container" aria-label="Upcoming events">
+            <h2>
+                Upcoming Events
+                <span id="event-count" class="event-count" hidden></span>
+            </h2>
+            <ul id="event-list" aria-live="polite"></ul>
+        </aside>
     </main>
 </body>
 </html>
