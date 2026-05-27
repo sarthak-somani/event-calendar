@@ -1,67 +1,113 @@
 # Backend Documentation
 
-The backend of the IITB Event Hub is a Python script named `process_events.py`. Its primary role is to automate the collection of event data by reading emails from a specified inbox, extracting relevant information, and updating a JSON file that the frontend uses.
+The backend is a single Python script, `process_events.py`, that runs on a schedule via GitHub Actions. It connects to the IITB IMAP server, processes new emails, extracts event data using the Google Gemini API, and writes results to `events.json`.
+
+---
 
 ## `process_events.py`
 
-This script is the engine of the application, ensuring that the event data is always up-to-date.
+### Configuration constants
 
-### Key Functionality:
+| Constant | Value | Description |
+|---|---|---|
+| `IMAP_SERVER` | `imap.iitb.ac.in` | IITB mail server |
+| `IMAP_PORT` | `993` | IMAPS (SSL) port |
+| `TARGET_RECIPIENTS` | `{student-notices@iitb.ac.in, student-events@iitb.ac.in}` | Emails addressed to either address are processed |
+| `MAX_EMAILS_TO_PROCESS` | `25` | Max emails checked per run |
+| `PROCESSED_UIDS_FILE` | `processed_uids.txt` | Stores the last-checked IMAP UID |
+| `EVENTS_JSON_FILE` | `events.json` | Output event data file |
 
-1.  **IMAP Connection**:
-    - The script connects to the IITB IMAP server (`imap.iitb.ac.in`) using the `imaplib` library.
-    - It logs in using the credentials provided as environment variables.
+### Environment variables (required)
 
-2.  **Email Fetching and Filtering**:
-    - It selects the `INBOX` and searches for emails addressed to `student-notices@iitb.ac.in`.
-    - To avoid processing the same emails repeatedly, it keeps track of the UID of the last processed email in `processed_uids.txt`. It starts checking for new emails from the next UID.
+| Variable | Description |
+|---|---|
+| `EMAIL_USERNAME` | IMAP login username |
+| `EMAIL_PASSWORD` | IMAP login password |
+| `GEMINI_API_KEY` | Google Gemini API key |
 
-3.  **Content Extraction**:
-    - For each relevant email, the script parses the content to extract the subject and the plain text body.
-    - It can handle multipart emails and decodes the content into a readable format.
+These are stored as GitHub Actions secrets and injected at runtime. The Gemini client is initialised with `genai.Client(api_key=GEMINI_API_KEY)` — the key is passed explicitly because the library's default env var lookup uses `GOOGLE_API_KEY`, not `GEMINI_API_KEY`.
 
-4.  **AI-Powered Event Parsing**:
-    - The core of the extraction logic lies in the `process_email_with_gemini` function.
-    - This function sends the email's subject and body to the Google Gemini API with a carefully crafted prompt.
-    - The prompt instructs the AI to determine if the email is an event announcement and, if so, to extract details like title, description, date, time, venue, etc., and return them in a structured JSON format.
-    - If the email is not an event, the AI returns a JSON object indicating that, and the script skips it.
+---
 
-5.  **Data Storage**:
-    - The extracted event data is formatted into a dictionary that matches the structure expected by FullCalendar.
-    - This new event data is appended to the `events.json` file.
-    - The script reads the existing events from `events.json` first to ensure that old events are not lost.
+### Processing flow
 
-6.  **State Management**:
-    - After processing a batch of emails, the script updates the `processed_uids.txt` file with the UID of the last email it checked. This ensures that the next run will pick up where the current one left off.
+```
+read processed_uids.txt → last_uid
+│
+└── for uid = last_uid+1 to last_uid+MAX_EMAILS_TO_PROCESS:
+    │
+    ├── fetch FLAGS → record original read/unread state
+    ├── fetch TO header
+    │
+    ├── skip if TO ∉ TARGET_RECIPIENTS
+    │
+    ├── fetch full RFC822 message
+    ├── decode subject + plain-text body
+    │
+    ├── call Gemini API (up to 3 retries with exponential backoff)
+    │   └── parse JSON response
+    │       ├── is_event: false → skip
+    │       ├── missing title or startDate → skip
+    │       └── build calendar_event dict
+    │
+    ├── restore original unread state (re-mark as unread if it was unread)
+    └── sleep 6 s (rate limiting)
 
-### Dependencies
+finally:
+    ├── deduplicate new_events against existing events.json by (title, start)
+    ├── append unique events to events.json
+    └── write new last_uid to processed_uids.txt
+```
 
-The script relies on the following Python library:
+---
 
--   `google-generativeai`: The official Python client for the Google Gemini API.
+### Key functions
 
-You can install this dependency using pip:
+#### `clean_header_text(header_value)`
+Decodes MIME-encoded email headers (e.g. `=?UTF-8?B?...?=`) into plain Unicode strings. Falls back to `latin-1` if the declared charset fails.
+
+#### `get_email_body(msg)`
+Walks a multipart email to find the first `text/plain` part that is not an attachment. Returns an empty string if none is found (the email is then skipped).
+
+#### `get_latest_processed_uid()`
+Reads the single integer in `processed_uids.txt`. Returns `0` if the file is missing or empty, causing the script to start from the beginning of the inbox.
+
+#### `process_email_with_gemini(subject, body)`
+Sends the email subject and body to `gemini-2.5-flash` with a prompt instructing it to return a minified JSON object. The function:
+1. Retries up to 3 times with `2^attempt` second backoff on empty or error responses.
+2. Strips Markdown code fences (` ```json ... ``` `) before parsing.
+3. Returns `None` if the model responds `{"is_event": false}`.
+4. Validates that `title` and `startDate` are present and non-null before building the event — missing dates previously produced invalid `"NoneT None"` ISO strings.
+5. Defaults `startTime` to `00:00:00` and `endDate`/`endTime` to the start values if not provided.
+
+#### Deduplication (in `main()`)
+Before writing to `events.json`, the script builds a set of `(title, start)` tuples from the existing events and filters `new_events` against it. This prevents duplicate entries if the same UID range is processed more than once due to a state-file reset or crash recovery.
+
+---
+
+## `requirements.txt`
+
+```
+google-genai>=1.0.0
+```
+
+Install with:
 ```bash
-pip install -U google-generativeai
+pip install -r requirements.txt
 ```
 
-### Configuration
+The `google-genai` package replaces the older `google-generativeai` package. The new client API is `genai.Client(api_key=...)` / `client.models.generate_content(model=..., contents=...)`.
 
-The script requires the following environment variables to be set before running:
+---
 
--   `EMAIL_USERNAME`: The username for the email account to be monitored.
--   `EMAIL_PASSWORD`: The password for the email account.
--   `GEMINI_API_KEY`: Your API key for the Google Gemini service.
+## GitHub Actions workflow (`.github/workflows/main.yml`)
 
-### Execution
+The workflow runs on a cron schedule (`30 * * * *` — every hour at the 30-minute mark) and can also be triggered manually.
 
-To run the script, execute the following command in your terminal:
-```bash
-python process_events.py
-```
-
-It is recommended to run this script periodically to keep the event data fresh. This can be automated using a scheduler like `cron` on Linux/macOS or Task Scheduler on Windows. For example, to run the script every hour, you could set up a cron job like this:
-
-```
-0 * * * * /usr/bin/python /path/to/your/project/process_events.py
-```
+**Steps:**
+1. Checkout the repository.
+2. Set up Python 3.11.
+3. **Restore pip cache** (`actions/cache@v4`, keyed on `requirements.txt` hash) — avoids reinstalling packages on every run.
+4. Install dependencies from `requirements.txt`.
+5. Run `process_events.py` with secrets injected as environment variables.
+6. Auto-commit any changes to `events.json` and `processed_uids.txt` using `stefanzweifel/git-auto-commit-action@v5`.

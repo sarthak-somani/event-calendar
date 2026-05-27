@@ -1,46 +1,117 @@
 # Frontend Documentation
 
-The frontend of the IITB Event Hub is responsible for displaying the event data to the user. It consists of three main files:
+The frontend consists of three files: `index.html`, `style.css`, and `script.js`. It is a fully static site served via GitHub Pages and requires no build step.
 
-- `index.html`: The main HTML file that structures the web page.
-- `style.css`: The CSS file that styles the application.
-- `script.js`: The JavaScript file that handles the application's logic, including fetching data and rendering the calendar.
+---
 
 ## `index.html`
 
-The `index.html` file provides the basic structure of the web application. It includes:
+Provides the page structure and pulls in all dependencies.
 
-- **Header**: Contains the title of the application, "IITB Event Hub".
-- **Main Content**: Divided into two main sections:
-    - `calendar-container`: This is where the interactive FullCalendar is rendered.
-    - `event-list-container`: This section displays a list of upcoming events.
-- **External Libraries**: The file links to the following external libraries via CDN:
-    - **Google Fonts**: For the "Inter" font.
-    - **FullCalendar**: For the interactive calendar functionality.
-    - **SweetAlert2**: For creating attractive pop-up modals to display event details.
-- **Local Scripts and Styles**: It links to the local `style.css` for styling and `script.js` for the application logic.
+**Key elements:**
+
+| Element | Purpose |
+|---|---|
+| `#calendar-container` | Wraps the FullCalendar instance. Uses `position: relative` so the loading overlay sits on top of it. |
+| `#calendar-loading` | Spinner overlay. Shown only while `events.json` is being fetched from the network; hidden on cache hits. |
+| `#calendar-error` | Error banner. Revealed if the network fetch fails. |
+| `#calendar` | The FullCalendar mount point. |
+| `#event-list-container` (`<aside>`) | Sidebar showing the next 7 upcoming events. Visible on all screen sizes including mobile (below the calendar on small screens). |
+| `#event-count` | Badge in the sidebar heading showing the count of upcoming events. Hidden when zero. |
+| `#event-list` | `<ul>` populated dynamically by `populateEventList()`. Items are keyboard-focusable and clickable. |
+
+**External dependencies (CDN):**
+- Google Fonts — Inter (weights 400, 500, 600, 700)
+- FullCalendar 6.1.14
+- SweetAlert2 11
+
+---
 
 ## `style.css`
 
-This file contains all the CSS rules for styling the application. It defines the layout, colors, fonts, and other visual aspects of the elements in `index.html`. It ensures a clean and responsive design that works on both desktop and mobile devices.
+All styles are defined here using CSS custom properties (tokens), making theming and dark mode straightforward.
+
+### Design tokens
+
+Defined on `:root` with a `@media (prefers-color-scheme: dark)` override block:
+
+| Token | Light | Dark |
+|---|---|---|
+| `--primary` | `#4A90E2` | `#60a5fa` |
+| `--text` | `#1a1a2e` | `#e2e8f0` |
+| `--text-muted` | `#5a6476` | `#94a3b8` |
+| `--bg` | `#f0f4f8` | `#0f172a` |
+| `--surface` | `#ffffff` | `#1e293b` |
+| `--border` | `#dde3ec` | `#334155` |
+
+### Notable sections
+
+- **FullCalendar dark-mode overrides** — FullCalendar does not natively support CSS variables, so targeted selectors (`.fc-theme-standard td`, `.fc .fc-button-primary`, `.fc .fc-day-today`, etc.) are overridden under `@media (prefers-color-scheme: dark)`.
+- **`.loading-overlay`** — `position: absolute; inset: 0` over the calendar container. Uses `[hidden]` override to ensure `display: none` takes effect even though the base rule sets `display: flex`.
+- **`.error-banner`** — red-tinted banner with dark-mode variant.
+- **`.event-count`** — pill badge on the sidebar heading; hidden via `[hidden]` attribute when count is zero.
+- **`#event-list li`** — `cursor: pointer`; `:hover` background change; `:focus` outline for keyboard navigation.
+- **`.event-popup`** — applied via SweetAlert2's `customClass` option; aligns popup content left and styles the label/value rows.
+- **Mobile (`max-width: 768px`)** — `body` switches to `height: auto`; container becomes a column; calendar gets a fixed `70vh` height; sidebar stretches to full width.
+
+---
 
 ## `script.js`
 
-The `script.js` file contains the core logic for the frontend. It executes when the DOM is fully loaded.
+All logic runs inside a `DOMContentLoaded` listener to ensure the DOM is ready.
 
-### Key Functionality:
+### Data flow
 
-1.  **Initialization**: It gets references to the calendar and event list elements in the DOM.
-2.  **Event Data Fetching**:
-    - It uses the `fetch` API to load the event data from the `events.json` file.
-    - The `events` function within the FullCalendar configuration is responsible for this.
-3.  **Populate Upcoming Events**:
-    - The `populateEventList` function filters the events to find those that are in the future.
-    - It then sorts them by date and displays the next 7 upcoming events in the "Upcoming Events" list.
-4.  **Calendar Rendering**:
-    - It initializes a new `FullCalendar` object and configures it.
-    - **`initialView`**: Defaults to a `listYear` view on mobile and `dayGridMonth` on desktop.
-    - **`headerToolbar`**: Configures the navigation buttons for the calendar (e.g., prev, next, today, and different views).
-    - **`events`**: Specifies the function to fetch event data.
-    - **`eventClick`**: Defines a callback function that is triggered when a user clicks on an event. This function uses `SweetAlert2` to display a modal with detailed information about the clicked event.
-5.  **Mobile-Specific Behavior**: The script includes logic to automatically scroll to today's date when the calendar is in the `listYear` view on mobile devices, making it easier for users to see current events.
+```
+localStorage cache (≤30 min old)
+        │ hit                  miss
+        ▼                       ▼
+  successCallback         fetch('events.json')
+        │                       │
+        └──────────┬────────────┘
+                   ▼
+          eventsStore (module-level)
+          ├── populateEventList()  → sidebar
+          └── FullCalendar         → calendar grid
+```
+
+### Key functions
+
+#### `escapeHtml(str)`
+Sanitises untrusted strings before inserting into HTML. Applied to all event fields rendered in the popup and sidebar.
+
+#### `readLocalCache()` / `writeLocalCache(data)`
+Reads/writes `iitb_events_v1` from `localStorage`. The cached object is `{ data, ts }` where `ts` is a Unix timestamp. Entries older than 30 minutes are treated as misses. Both functions are wrapped in `try/catch` to silently handle quota errors or disabled storage.
+
+#### `showEventPopup(title, start, props)`
+Shared by both the FullCalendar `eventClick` handler and the sidebar click handler. Renders a SweetAlert2 modal with date, time, venue, description, organiser, and contact. Detects `prefers-color-scheme` at call time to set `background` and `color` on the popup for dark mode.
+
+#### `populateEventList(events)`
+- Filters to events with `start ≥ now`, sorts ascending, takes first 7.
+- Stores them in the module-level `upcomingEvents` array (used by the sidebar click handler).
+- Renders `<li data-index="…" tabindex="0" role="button">` items for each.
+- Updates the `#event-count` badge.
+
+#### Sidebar click/keydown handlers
+Delegated to `#event-list` (not each `<li>`). On click or `Enter`/`Space` keydown, finds the nearest `li[data-index]`, looks up the corresponding entry in `upcomingEvents`, and calls `showEventPopup`.
+
+### FullCalendar configuration
+
+| Option | Value | Notes |
+|---|---|---|
+| `initialView` | `dayGridMonth` | Default to month grid |
+| `height` | `'100%'` | Fills the flex container |
+| `dayMaxEvents` | `true` | Shows "+N more" link on busy days |
+| `noEventsContent` | `'No events in this period.'` | Shown in list view when range is empty |
+| `headerToolbar.right` | `dayGridMonth,timeGridWeek,listUpcoming` | Three view buttons |
+
+#### Custom `listUpcoming` view
+Replaces the built-in `listYear` view (which always started from Jan 1). Defined in the `views` option:
+```javascript
+listUpcoming: {
+    type: 'list',
+    duration: { months: 6 },
+    buttonText: 'list'
+}
+```
+Shows a 6-month rolling window. The `viewDidMount` callback fires every time the user switches *to* this view and calls `calendar.gotoDate(new Date())` (deferred via `setTimeout(0)` to run after the current render cycle), ensuring the list always opens at today's date regardless of which date was displayed in the previous view.
