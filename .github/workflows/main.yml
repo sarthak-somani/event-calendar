@@ -2,8 +2,7 @@ name: Fetch and Update Events
 
 on:
   schedule:
-    # Runs every hour at the 30-minute mark
-    - cron: '30 * * * *'
+    - cron: '30 * * * *'  # Every hour at the 30-minute mark
   workflow_dispatch:
 
 jobs:
@@ -18,12 +17,19 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install Dependencies
-        run: pip install -q -U google-genai
+        run: pip install -q -r requirements.txt
 
       - name: Run Event Fetcher Script
         env:
-          ### ADD YOUR USERNAME SECRET HERE ###
           EMAIL_USERNAME: ${{ secrets.EMAIL_USERNAME }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
