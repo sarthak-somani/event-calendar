@@ -1,27 +1,49 @@
 # IITB Event Hub
 
-The IITB Event Hub is a web application designed to track and display events happening at the Indian Institute of Technology Bombay (IITB). It automatically fetches event information from webmail, processes it, and presents it in an easy-to-use calendar and list format.
+The IITB Event Hub is a web application that tracks and displays events happening at IIT Bombay. It automatically monitors two student mailing lists, uses AI to extract structured event data from emails, and presents everything in an interactive calendar.
 
-Access the calendar from here: [https://sarthak-somani.github.io/event-calendar/](https://sarthak-somani.github.io/event-calendar/)
+Access the live site: [https://sarthak-somani.github.io/event-calendar/](https://sarthak-somani.github.io/event-calendar/)
 
 ## Features
 
-- **Interactive Calendar**: Displays events on a full-sized monthly, weekly, or yearly calendar.
-- **Upcoming Events List**: Shows a list of the next 7 upcoming events for a quick overview.
-- **Detailed Event Information**: Clicking on an event reveals a pop-up with detailed information, including description, venue, organizer, and contact details.
-- **Automated Event Extraction**: A Python script automatically reads emails from a designated inbox, uses a generative AI model to extract event details, and updates the event list.
-- **Responsive Design**: The interface is optimized for both desktop and mobile viewing.
+- **Interactive calendar** — month, week, and list views. The list view always opens at today's date.
+- **Upcoming events sidebar** — the next 7 upcoming events shown with date and time. Clicking any item opens the full detail popup.
+- **Detailed event popup** — click any event on the calendar or in the sidebar to see description, venue, organiser, and contact info.
+- **Dark mode** — automatically follows the system's `prefers-color-scheme` setting.
+- **Performance** — events are cached in `localStorage` for 30 minutes, so navigating between calendar views doesn't re-fetch the data file on every click.
+- **Loading and error states** — a spinner is shown while data loads; a clear error banner appears if the fetch fails.
+- **Automated event extraction** — a Python script runs hourly via GitHub Actions, reads emails from two IITB mailing lists, and uses Google Gemini to extract event details.
+- **Responsive design** — works on desktop and mobile. The upcoming events list is visible on both.
 
 ## How it Works
 
-The application consists of two main components: a backend Python script for data processing and a frontend web interface for displaying the data.
+The project has two components: a backend Python script that ingests data, and a static frontend that displays it.
 
-1.  **Email Fetching**: The `process_events.py` script connects to the `imap.iitb.ac.in` IMAP server and monitors the `student-notices@iitb.ac.in` mailing list.
-2.  **AI-Powered Extraction**: For each new email, the script uses the Google Gemini API to analyze the content and extract structured event data (title, date, description, etc.).
-3.  **Data Storage**: The extracted event information is stored in the `events.json` file. The script keeps track of processed emails by storing their UIDs in `processed_uids.txt`.
-4.  **Frontend Display**: The `index.html` page, styled with `style.css`, uses `script.js` to fetch the `events.json` data and dynamically render it using the [FullCalendar](https://fullcalendar.io/) library.
+1. **Email monitoring**: `process_events.py` connects to `imap.iitb.ac.in` and processes emails sent to `student-notices@iitb.ac.in` or `student-events@iitb.ac.in`.
+2. **AI extraction**: Each relevant email is sent to the Google Gemini API, which extracts title, date, time, venue, description, organiser, and contact info as structured JSON.
+3. **Data storage**: Extracted events are appended to `events.json`. Duplicates are detected by `(title, start)` key and skipped. The last-processed email UID is saved in `processed_uids.txt`.
+4. **Automation**: GitHub Actions runs the script every hour and auto-commits any changes to `events.json` and `processed_uids.txt`.
+5. **Frontend**: `index.html` / `script.js` fetch `events.json` on load, cache it in `localStorage`, and render it with [FullCalendar](https://fullcalendar.io/). Event details are displayed via [SweetAlert2](https://sweetalert2.github.io/) modals.
+
+## Project Structure
+
+```
+├── index.html            # Main page
+├── style.css             # All styles, including dark mode
+├── script.js             # Frontend logic
+├── process_events.py     # Backend email ingestion script
+├── events.json           # Generated event data (do not edit manually)
+├── processed_uids.txt    # Last-processed IMAP UID (state file)
+├── requirements.txt      # Python dependencies
+├── .github/
+│   └── workflows/
+│       └── main.yml      # Hourly GitHub Actions workflow
+└── docs/
+    ├── frontend.md
+    ├── backend.md
+    └── data_schema.md
+```
 
 ## Credits
 
-This project was created by Sarthak Somani. I'm a student at the Department of Economics, IIT Bombay, and a Convener at the Web and Coding Club.
-The creation of this automated calendar app stemmed from my own need to help keep track of the many events happening simultaneously on campus and the multitude of emails we are bombarded with each day.
+Created by Sarthak Somani, Department of Economics, IIT Bombay and Convener at the Web and Coding Club. Built to help keep track of the many simultaneous events on campus without drowning in emails.

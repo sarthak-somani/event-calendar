@@ -233,6 +233,12 @@ header h1 {
     border-bottom: 1px solid var(--border);
     border-radius: 4px;
     transition: background var(--transition);
+    cursor: pointer;
+}
+
+#event-list li:focus {
+    outline: 2px solid var(--primary);
+    outline-offset: 1px;
 }
 
 #event-list li:last-child { border-bottom: none; }
