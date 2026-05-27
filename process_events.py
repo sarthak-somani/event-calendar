@@ -11,7 +11,7 @@ import time
 # --- CONFIGURATION ---
 IMAP_SERVER = 'imap.iitb.ac.in'
 IMAP_PORT = 993
-TARGET_RECIPIENT = "student-notices@iitb.ac.in"
+TARGET_RECIPIENTS = {"student-notices@iitb.ac.in", "student-events@iitb.ac.in"}
 MAX_EMAILS_TO_PROCESS = 25
 
 # --- SECRETS (from environment variables) ---
@@ -210,7 +210,7 @@ def main():
                     headers = email.message_from_bytes(to_data[0][1])
                     to_header = clean_header_text(headers['to'])
 
-                    if TARGET_RECIPIENT in to_header:
+                    if any(r in to_header for r in TARGET_RECIPIENTS):
                         print(f"   - Relevant recipient found. Fetching full body for UID {current_uid_to_check}...")
 
                         # Fetch the full email. This action marks it as read by the server.
@@ -233,7 +233,7 @@ def main():
                         print("         > Pausing for 6 seconds...")
                         time.sleep(6)
                     else:
-                        print(f"   - UID {current_uid_to_check} is not addressed to {TARGET_RECIPIENT}. Skipping processing.")
+                        print(f"   - UID {current_uid_to_check} is not addressed to a target recipient. Skipping processing.")
                 
                 # If the email was originally unread, re-tag it as unread after we are done with it.
                 if is_originally_unread:
