@@ -8006,5 +8006,27 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, Indian Institute of Technology Bombay"
         }
+    },
+    {
+        "title": "First-Ever Sound Bath Session",
+        "start": "2026-06-01T19:00:00",
+        "end": "2026-06-01T19:00:00",
+        "extendedProps": {
+            "description": "Yogastha invites you to a unique and deeply restorative experience: our first-ever Sound Bath session. A meditative experience where participants are \"bathed\" in sound waves produced by various healing instruments like singing bowls. These vibrations help slow down brain waves, leading to deep physical relaxation, reduced anxiety, and a refreshed mental state. The session will be conducted by Sarita Patodia, a certified Yoga Trainer and Sound Therapist with over 8 years of experience. Please wear comfortable clothing and stay well hydrated before and after the session. It is advised to carry water bottles for hydration before and after the session. Refreshments will be provided.",
+            "venue": "Yoga Hall, 3rd Floor, New SAC",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "Jitendra at +91 86864 84484"
+        }
+    },
+    {
+        "title": "Cyclothon Rally",
+        "start": "2026-06-07T06:30:00",
+        "end": "2026-06-07T06:30:00",
+        "extendedProps": {
+            "description": "Get ready to gear up and ride together for the Cyclothon Rally to celebrate World Bicycle Day. Open for all institute residents, this event offers a refreshing early morning ride around the institute. Participants will receive refreshments and exciting freebies. Bring your cycles, safety equipment, energy, and friends for an exciting morning ride across the campus!",
+            "venue": "Sac Parking Lot",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Supan Shah (+91 9653396151), Deepraj Singh Kasherwal (+91 9761543343)"
+        }
     }
 ]
