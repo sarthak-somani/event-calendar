@@ -8050,5 +8050,16 @@
             "organisingBody": "Web and Coding Club (WnCC)",
             "contact": "Avnish (9167339950), Mithra (8762070856)"
         }
+    },
+    {
+        "title": "Cultural Programs for IDDRG 2026",
+        "start": "2026-06-01T18:00:00",
+        "end": "2026-06-03T18:00:00",
+        "extendedProps": {
+            "description": "Two cultural programs organized as part of the international conference, IDDRG 2026, at IIT Bombay. These include a Carnatic Classical Vocal Concert by Dr. Sumithra Vasudev and accompanists, and a Bharata Nrityam Dance Drama \"Deekshita Daakshinyam\" by Dr. Jayashree Rajagopalan and artistes of Nrithyodaya, commemorating the 250th birth anniversary of Muthuswami Dikshitar.",
+            "venue": "P. C. Saxena Auditorium and Convocation Hall, IIT Bombay",
+            "organisingBody": "IDDRG 2026 (hosted by IIT Bombay)",
+            "contact": null
+        }
     }
 ]
