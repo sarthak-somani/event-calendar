@@ -8039,5 +8039,16 @@
             "organisingBody": "Yogastha",
             "contact": null
         }
+    },
+    {
+        "title": "DSA Bootcamp 2026",
+        "start": "2026-06-03T00:00:00",
+        "end": "2026-07-28T00:00:00",
+        "extendedProps": {
+            "description": "WnCC is excited to launch the DSA Bootcamp 2026 \u2014 an 8-week journey into mastering Data Structures & Algorithms, starting 3rd June! This self-paced bootcamp is designed to help you strengthen your coding and problem-solving skills in a structured and efficient way. Every week, participants will receive carefully curated learning resources covering important DSA topics frequently asked in coding interviews and competitive programming. To help you apply your learning, topic-wise contests will be conducted every weekend, simulating real interview-style challenges and competitive programming environments - making this an ideal opportunity to prepare for the upcoming intern season. No prior experience is required to participate. Whether you're just getting started or looking to sharpen your fundamentals, the bootcamp is open to everyone. Participants who successfully complete the bootcamp will receive a certificate of completion.",
+            "venue": "Online",
+            "organisingBody": "Web and Coding Club (WnCC)",
+            "contact": "Avnish (9167339950), Mithra (8762070856)"
+        }
     }
 ]
