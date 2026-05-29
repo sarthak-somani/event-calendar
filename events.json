@@ -8028,5 +8028,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Supan Shah (+91 9653396151), Deepraj Singh Kasherwal (+91 9761543343)"
         }
+    },
+    {
+        "title": "Resumption of morning Yoga sessions",
+        "start": "2026-06-01T00:00:00",
+        "end": "2026-06-01T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Yogastha",
+            "contact": null
+        }
     }
 ]
