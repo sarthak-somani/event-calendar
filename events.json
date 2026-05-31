@@ -8061,5 +8061,27 @@
             "organisingBody": "IDDRG 2026 (hosted by IIT Bombay)",
             "contact": null
         }
+    },
+    {
+        "title": "Best Yogasana & Quiz Competition | IDY Series 2026",
+        "start": "2026-06-04T08:00:00",
+        "end": "2026-06-07T08:00:00",
+        "extendedProps": {
+            "description": "As part of the International Day of Yoga Series 2026, Yogastha and GSSA are organizing two competitions for the IIT Bombay community: a Best Yogasana Competition (offline) and an Online Quiz Competition. Participants can demonstrate yogasana skills, balance, flexibility, stability, and posture alignment, and test their yoga knowledge.",
+            "venue": "Yoga Hall, 3rd floor, New SAC (for Best Yogasana Competition); Online (for Online Quiz Competition)",
+            "organisingBody": "Yogastha, IIT Bombay and General Secretary, Sports Affairs (GSSA), IIT Bombay",
+            "contact": "+918686484484 (Jitendra)"
+        }
+    },
+    {
+        "title": "UNLOCKING THE MYSTERIES OF THE MILKY WAY'S CENTRE \u2013 A NEW LOOK WITH JWST",
+        "start": "2026-06-02T19:00:00",
+        "end": "2026-06-02T19:00:00",
+        "extendedProps": {
+            "description": "Greetings from Krittika, the Astronomy Club of IIT Bombay! We are excited to announce the next transmission in the HoloNet Astro Series: Broadcast 02. Join us for an extraordinary talk featuring Tamojeet Roychowdhury, a first-year PhD researcher at UC Berkeley. This talk will explore how with the infrared eyes of JWST, we are finally seeing what was hidden: a black hole that isn't dormant but actively accreting matter in a violent, variable dance. Whether you're curious about black holes, infrared astronomy, or how scientists race against time to capture the universe's most fleeting moments, this talk is for you. This transmission is open to all. Meeting link: https://meet.google.com/icj-pxvf-rpf",
+            "venue": "Online (Google Meet)",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "Guru Jahnavi Madana: 7780112348, Vihang Vidwans: 9527958679"
+        }
     }
 ]
