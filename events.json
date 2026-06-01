@@ -8083,5 +8083,27 @@
             "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
             "contact": "Guru Jahnavi Madana: 7780112348, Vihang Vidwans: 9527958679"
         }
+    },
+    {
+        "title": "World Environment Day 2026 celebration",
+        "start": "2026-06-05T10:00:00",
+        "end": "2026-06-05T10:00:00",
+        "extendedProps": {
+            "description": "The Environmental Science and Engineering Department (ESED), IIT Bombay celebrates World Environment Day 2026 with the theme 'Inspired by Nature. For Climate. For Our Future'. The event features insightful talks by distinguished speakers and ESED professors on environmental protection, sustainability, and climate action, inviting the entire IITB community for engaging discussions and interactions.",
+            "venue": "LA 201, Lecture Hall Complex, IIT Bombay",
+            "organisingBody": "Environmental Science and Engineering Department (ESED), IIT Bombay",
+            "contact": "(022) 25767851 / 25767852, https://www.esed.iitb.ac.in"
+        }
+    },
+    {
+        "title": "Cultural Program: Carnatic Classical Vocal Concert",
+        "start": "2026-06-01T18:00:00",
+        "end": "2026-06-01T18:00:00",
+        "extendedProps": {
+            "description": "A cultural program organised as part of the international conference, IDDRG 2026. Featuring a Carnatic Classical Vocal Concert by Dr. Sumithra Vasudev (Vocal), accompanied by Sangita Kalanidhi Shri R. K. Shriramkumar on Violin, Shri K. Arun Prakash on Mridangam and Shri Anirudh Athreya on Kanjera.",
+            "venue": "P. C. Saxena Auditorium",
+            "organisingBody": "IDDRG 2026",
+            "contact": "K Narasimhan, Chair, IDDRG 2026, nara@iitb.ac.in, Cell: 91-98692 64161"
+        }
     }
 ]
