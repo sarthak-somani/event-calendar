@@ -8105,5 +8105,16 @@
             "organisingBody": "IDDRG 2026",
             "contact": "K Narasimhan, Chair, IDDRG 2026, nara@iitb.ac.in, Cell: 91-98692 64161"
         }
+    },
+    {
+        "title": "Cyclothon",
+        "start": "2026-06-07T06:30:00",
+        "end": "2026-06-07T06:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "SAC Parking Lot",
+            "organisingBody": "S.Events",
+            "contact": null
+        }
     }
 ]
