@@ -8138,5 +8138,16 @@
             "organisingBody": "IDDRG 2026 Conference",
             "contact": "Narasimhan, Chair, IDDRG 2026"
         }
+    },
+    {
+        "title": "\"To Dual or Not to Dual?\" Session",
+        "start": "2026-06-04T18:00:00",
+        "end": "2026-06-04T18:00:00",
+        "extendedProps": {
+            "description": "A session aimed at helping students understand the possibilities of converting their B.Tech programme into a Dual Degree or pursuing the Inter-Disciplinary Dual Degree Programme (IDDDP) at IIT Bombay. The session will address queries regarding application procedures, program structure, considerations before making a decision, and overall experience after switching. It features a distinguished panel of speakers who will share their insights and experiences: Yashas M Salian (B.Tech, EE + M.Tech, EE), Videh Ashish Jain (B.Tech, MechE + M.Tech, MechE), Arnav Jain (B.Tech, Physics + M.Tech, Physics (Quantum Tech)), Adarsh Prajapati (B.Tech, MechE + M.Tech, IEOR), Pranav Gupta (B.Tech, MechE + M.Tech, SysCon), Muriki Sree Baruni (B.Tech, Aerospace + M.Tech, Aerospace).",
+            "venue": "Online (MS Teams)",
+            "organisingBody": "Student Support Services, Undergraduate Academic Council (UGAC)",
+            "contact": "isaa.sss.iitb@gmail.com"
+        }
     }
 ]
