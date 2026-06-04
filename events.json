@@ -8149,5 +8149,38 @@
             "organisingBody": "Student Support Services, Undergraduate Academic Council (UGAC)",
             "contact": "isaa.sss.iitb@gmail.com"
         }
+    },
+    {
+        "title": "HKUST-SINO One Million Dollar Entrepreneurship Competition 2026 - International Student Track",
+        "start": "2026-10-11T00:00:00",
+        "end": "2026-10-14T00:00:00",
+        "extendedProps": {
+            "description": "An international entrepreneurship competition providing a premier platform for students to showcase groundbreaking ideas, gain international exposure, and network. Benefits for shortlisted teams include connections to the Hong Kong market and potential offer to HKSTP's Ideation Programme (up to HK$100,000 in seed funding). Finalists will receive flight and accommodation to the HKUST campus in Hong Kong for the Final Round Competition (tentatively Oct 11-14, 2026), a total cash prize of HK$205,000, interactive mixer, and immersive tours. The International Student Track is open to all universities worldwide; each team must include at least one full-time student (undergraduate or postgraduate) graduating no earlier than May 2026. To participate, submit a 10-page pitch deck by 14 July, 2026, HKT 23:59.",
+            "venue": "HKUST campus, Hong Kong",
+            "organisingBody": "HKUST Entrepreneurship Center",
+            "contact": "hkust1m@ust.hk"
+        }
+    },
+    {
+        "title": "Demo Session on Using XL Scout for Patent Search",
+        "start": "2026-06-09T11:00:00",
+        "end": "2026-06-09T11:00:00",
+        "extendedProps": {
+            "description": "A follow-up demo session has been arranged to explain how to use the XL Scout database platform for patent search. The session will explain how to carry out patent searches on the XL Scout platform in details with examples, which is required to prepare prior art search documents at the time of IDF submission. All students, researchers, and faculty members will get the maximum benefit by understanding the various types of search processes available on the XL Scout platform.",
+            "venue": "Microsoft Teams Meeting. Link: https://teams.microsoft.com/meet/43465490756557?p=2Z8KTTNaINvIzzNd4Q, Meeting ID: 434 654 907 565 57, Passcode: Ce3Uh9Yh",
+            "organisingBody": "Dean (R&D) & Associate Dean (R&D)",
+            "contact": "Prof. Shrikrishna V. Kulkarni & Prof. Leena Vachhani, Dean (R&D) & Associate Dean (R&D) or Nijitha/Rohit, PA to Dean (R&D)"
+        }
+    },
+    {
+        "title": "SAP Business Builder Gamification Session",
+        "start": "2026-06-12T14:00:00",
+        "end": "2026-06-12T14:00:00",
+        "extendedProps": {
+            "description": "An interactive and competitive ERP simulation workshop designed to give hands-on exposure to real-world business processes powered by enterprise software systems and data-driven decision making. This session will use the SAP Business Builders platform (developed by HEC Montr\u00e9al) along with SAP Analytics Cloud (SAC) to help you experience how modern enterprises work with real-time data to support decision-making in a gamified environment. The workshop will be conducted by Vijay Kumar Yadav (Senior Developer, SAP), who brings extensive industry experience in software development, analytics, and enterprise solutions. The session is designed to be highly interactive and will allow participants to collaboratively compete, simulate business scenarios, and learn core ERP concepts in a practical setting. Capacity: 50 participants (selection on first-come basis / nomination basis as applicable).",
+            "venue": "Virtual",
+            "organisingBody": "Institute Technical Council, IIT Bombay",
+            "contact": "Veeraditya Karan Parakh, General Secretary, Technical Affairs 2026-27, Indian Institute of Technology, Bombay; +91 94490 007525; https://tech-iitb.org"
+        }
     }
 ]
