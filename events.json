@@ -8182,5 +8182,27 @@
             "organisingBody": "Institute Technical Council, IIT Bombay",
             "contact": "Veeraditya Karan Parakh, General Secretary, Technical Affairs 2026-27, Indian Institute of Technology, Bombay; +91 94490 007525; https://tech-iitb.org"
         }
+    },
+    {
+        "title": "Yoga Abhiyojna (108 Surya Namaskar) Practice Sessions",
+        "start": "2026-06-07T19:00:00",
+        "end": "2026-06-18T19:00:00",
+        "extendedProps": {
+            "description": "As part of the 12th International Day of Yoga 2026 celebrations, Yogastha is organizing Yoga Abhiyojna (108 Surya Namaskar) Practice Sessions, conducted in accordance with the guidelines of the Ministry of AYUSH. These sessions are designed to help participants progressively build the strength, stamina, and confidence required for completing the upcoming Yoga Abhiyojna (108 Surya Namaskar) on the day of IDY 2026 (June 21) through systematic training and guidance. The sessions are open to all IIT Bombay community members aged 12 years and above. Participants of all experience levels are welcome to join, and the practices will be conducted in a gradual and accessible manner to ensure a comfortable learning experience for everyone. Refreshments will be provided. Note: Attending at least 3 practice sessions is mandatory to participate in 108 Surya Namaskar on 21 June.",
+            "venue": "Yoga Hall, 3rd Floor, New SAC",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "+918686484484"
+        }
+    },
+    {
+        "title": "Guinness World Record Attempt: Online Yoga Session for IDY 2026",
+        "start": "2026-06-14T06:15:00",
+        "end": "2026-06-14T06:15:00",
+        "extendedProps": {
+            "description": "An online Yoga session aiming to set a Guinness World Record for the maximum number of simultaneous participants. Organized by the Ministry of Ayush in association with Habuild Healthtech Pvt. Ltd. as part of International Day of Yoga 2026 celebrations. Members of the IIT Bombay community are encouraged to participate. Register by giving a missed call on 1800-315-7008. Participants must log in individually via their own devices. Yogastha, IIT Bombay is coordinating local participation and organizing additional IDY 2026 events.",
+            "venue": "Online (Ministry of Ayush YouTube platform)",
+            "organisingBody": "Ministry of Ayush, Habuild Healthtech Pvt. Ltd., Yogastha IIT Bombay",
+            "contact": "+918686484484"
+        }
     }
 ]
