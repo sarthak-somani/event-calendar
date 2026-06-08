@@ -8215,5 +8215,16 @@
             "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
             "contact": "Pankaj P. Bhosale, Public Health Officer, phoiitb@iitb.ac.in"
         }
+    },
+    {
+        "title": "Summer 2026 LRWC Workshops",
+        "start": "2026-06-09T10:00:00",
+        "end": "2026-07-02T10:00:00",
+        "extendedProps": {
+            "description": "The Language Resource and Writing Cell (LRWC) is pleased to announce a series of in-person workshops for students on enhancing English communication skills. Topics include presenting ideas, questioning skills, polite disagreement, and speaking with confidence. Registration is in-person and first-come, first-served.",
+            "venue": "LRWC (24x7 Reading Hall, Central Library)",
+            "organisingBody": "Language Resource and Writing Cell (LRWC)",
+            "contact": "lrwcinstructor@iitb.ac.in"
+        }
     }
 ]
