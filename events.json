@@ -8226,5 +8226,27 @@
             "organisingBody": "Language Resource and Writing Cell (LRWC)",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Poem Writing & Slogan Writing Competitions",
+        "start": "2026-06-09T00:00:00",
+        "end": "2026-06-12T00:00:00",
+        "extendedProps": {
+            "description": "Yogastha invites the IIT Bombay community to participate in two creative competitions (Poem Writing and Slogan Writing) to express their thoughts, experiences, and inspiration through words. The theme for both competitions is 'Yoga for Healthy Ageing', in celebration of the International Day of Yoga Series 2026. Winners will be awarded prizes on June 21, 2026.",
+            "venue": null,
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "Jitendra, +918686484484"
+        }
+    },
+    {
+        "title": "Flourishing Hub Workshop - Building Healthy Relationships",
+        "start": "2026-06-13T00:00:00",
+        "end": "2026-06-13T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "S.Events",
+            "contact": null
+        }
     }
 ]
