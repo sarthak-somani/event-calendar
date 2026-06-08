@@ -8248,5 +8248,16 @@
             "organisingBody": "S.Events",
             "contact": null
         }
+    },
+    {
+        "title": "Flourishing Retreat",
+        "start": "2026-06-22T00:00:00",
+        "end": "2026-06-24T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Mind Gym, Lonavala",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
