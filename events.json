@@ -8259,5 +8259,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Financial constraints dictate bacterial decision making",
+        "start": "2026-06-16T11:00:00",
+        "end": "2026-06-16T11:00:00",
+        "extendedProps": {
+            "description": "Chronic exposure to stress requires adaptive strategies beyond canonical regulatory mechanisms. Oxidative stress varies substantially across physiological niches and exerts distinct selection pressures on colonizing bacterial populations. Bacteria employ diverse defense strategies to withstand various reactive oxygen species, yet how they tailor their responses to different magnitudes of the same stressor remains poorly understood. We used multiple adaptive laboratory evolutions of Escherichia coli across varied paraquat concentrations and genetic backgrounds to dissect adaptive strategies to different levels of superoxide stress. Integrating multi-omic analyses with tailored genome-scale metabolic modeling, we identify two fundamentally distinct tolerance mechanisms based on flux control and cellular resource optimization. Under low superoxide stress, blocking the polyamine transporter that is hijacked for paraquat influx suffices to maintain redox balance. In contrast, higher stress levels activate an energetically demanding program involving enhanced detoxification of reactive radicals and active efflux that allows cells to maintain higher aerotype. This flux regulation establishes a primary defense layer, upon which metabolic repair systems provide additional fitness advantages. Our findings reveal how E. coli differentially engages modular stress-response programs depending on stress magnitude, offering insights into the principles governing dynamic bacterial adaptation.",
+            "venue": "BSBE Seminar Room A",
+            "organisingBody": "WITC-IIT Bombay",
+            "contact": "Prof. Ashutosh Kumar, PiC --Wadhwani Innovation and Translation Center, IIT Bombay"
+        }
+    },
+    {
+        "title": "BOT Exhibition & Closing Ceremony",
+        "start": "2026-06-10T15:00:00",
+        "end": "2026-06-10T15:00:00",
+        "extendedProps": {
+            "description": "The BOT Exhibition is the concluding showcase of the IIT Bombay MakerSpace Summer Workshop 2026. It will feature autonomous bots designed, built, and coded by participating students, reflecting hands-on learning, innovation, and interdisciplinary problem-solving. Faculty members, staff, and students are cordially invited to visit the exhibition and attend the closing ceremony to watch autonomous bots in action.",
+            "venue": "Department of Energy Science and Engineering (DESE), IIT Bombay Foyer Area",
+            "organisingBody": "Educational Outreach, IIT Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay (+91-22) 25767026-27"
+        }
     }
 ]
