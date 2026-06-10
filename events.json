@@ -8292,5 +8292,16 @@
             "organisingBody": "Yogastha, IIT Bombay",
             "contact": "Jitendra, +91 8686484484"
         }
+    },
+    {
+        "title": "Intellectual Property (IP) awareness session: Patentability of Diagnostic and Healthcare Inventions",
+        "start": "2026-06-16T14:30:00",
+        "end": "2026-06-16T14:30:00",
+        "extendedProps": {
+            "description": "IIT Bombay, in association with S. Majumdar & Co., is organizing a series of IPR Open House Sessions to promote IP awareness among innovators, researchers, students, and faculty members. This specific online session will focus on the patentability of diagnostic methods, AI-based healthcare inventions, prognostic methods, and related healthcare technologies, with particular emphasis on the interpretation and application of Section 3(i) of the Indian Patents Act. The session will cover practical aspects of patent prosecution, examination trends, claim drafting strategies, and approaches for addressing objections. Topics include patentable/non-patentable diagnostic methods, AI-based healthcare invention patentability, prognostic methods, and claim drafting strategies to avoid Section 3(i) objections, with practical examples and case studies. The 1.5-hour session (1-hour presentation, 30-minute interactive Q&A) is free, requires no prior registration, and is open to all students, researchers, innovators, and faculty in biosciences, biotechnology, healthcare technologies, artificial intelligence, software, and other emerging technology domains. Participants may join directly via Microsoft Teams.",
+            "venue": "https://teams.microsoft.com/meet/44374692706458?p=zJUxKyMEl0S2CTiV71",
+            "organisingBody": "IIT Bombay, S. Majumdar & Co.",
+            "contact": null
+        }
     }
 ]
