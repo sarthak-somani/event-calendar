@@ -8303,5 +8303,16 @@
             "organisingBody": "IIT Bombay, S. Majumdar & Co.",
             "contact": null
         }
+    },
+    {
+        "title": "The Evolution of Hedge Funds: From Handcrafted Signals to Autonomous AI Agents",
+        "start": "2024-06-18T17:00:00",
+        "end": "2024-06-18T17:00:00",
+        "extendedProps": {
+            "description": "Join Quant Club and AlphaNova for an industry talk on the evolution of quantitative investing, from handcrafted signals to AI-powered trading systems. Topics include hedge fund technology, AI-driven models, Walk-Forward Cross-Sectional Signal Forecasting, AlphaNova's latest AI trading competition, and the future of quant finance and algorithmic trading. Don't miss this opportunity to learn how AI is transforming the world of quantitative finance. Open to all IIT Bombay students.",
+            "venue": "Virtual session",
+            "organisingBody": "Quant Club and AlphaNova",
+            "contact": "Mudil Goel (9729009724), Hrishika Agrawal (7746820351)"
+        }
     }
 ]
