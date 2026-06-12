@@ -8314,5 +8314,27 @@
             "organisingBody": "Quant Club and AlphaNova",
             "contact": "Mudil Goel (9729009724), Hrishika Agrawal (7746820351)"
         }
+    },
+    {
+        "title": "IPR Open House Session: Patentability of Diagnostic and Healthcare Inventions",
+        "start": "2026-06-16T14:30:00",
+        "end": "2026-06-16T14:30:00",
+        "extendedProps": {
+            "description": "An IPR Open House Session organized by IIT Bombay and S. Majumdar & Co., focusing on the patentability of diagnostic methods, AI-based healthcare inventions, prognostic methods, and related technologies. It will cover Section 3(i) of the Indian Patents Act, practical patent prosecution strategies, claim drafting, and case studies. The 1.5-hour session (1hr presentation, 30min Q&A) is free and requires no registration.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "IIT Bombay; S. Majumdar & Co.",
+            "contact": "Prof. Shrikrishna V. Kulkarni & Prof. Leena Vachhani (Dean (R&D) and Associate Dean (R&D)); Rohit/Nijitha (PA to Dean (R&D))"
+        }
+    },
+    {
+        "title": "Mini Atomic Force Microscopy (AFM) Workshop",
+        "start": "2026-06-22T00:00:00",
+        "end": "2026-06-24T00:00:00",
+        "extendedProps": {
+            "description": "We are pleased to announce the organization of a Mini Atomic Force Microscopy (AFM) Workshop. The objective of this workshop is to provide a concise introduction to AFM principles along with practical exposure to measurement techniques and data analysis. The workshop will cover: 1. Basic principles and working of AFM 2. Instrument operation and measurement procedures 3. Data acquisition and analysis 4. Application-oriented discussion relevant to ongoing research work. This workshop is intended to help research scholars better understand basic AFM techniques and effectively utilize the facility in their research work.",
+            "venue": "Room No. 028, EC-STM (AFM) Laboratory, Department of Physics, Indian Institute of Technology Bombay, Powai, Mumbai 400 076",
+            "organisingBody": "ECSTM & KPFM (Physics) Central Facility, Department of Physics, Indian Institute of Technology Bombay",
+            "contact": "Harish sonar (p13553@iitb.ac.in) or Prof. M. Maniraj (maniraj@iitb.ac.in) at Phone: 022 2159 6501"
+        }
     }
 ]
