@@ -8369,5 +8369,16 @@
             "organisingBody": "Career Cell & Consult Club, Undergraduate Academic Council (UGAC)",
             "contact": "Preisha Desai (ISAA & Head, Career Cell): 9769623937, Karan Gupta (Manager, Consult Club): 9833729353, Email: isaa.careercell.iitb@gmail.com"
         }
+    },
+    {
+        "title": "HoloNet Astro series: Broadcast 03 | Decoding Galactic Architecture with AI",
+        "start": "2026-06-15T16:00:00",
+        "end": "2026-06-15T16:00:00",
+        "extendedProps": {
+            "description": "Greetings from Krittika, the Astronomy Club of IIT Bombay! We are excited to announce the next transmission in the HoloNet Astro Series. Join us for an extraordinary talk featuring Aman Kumar from the Inter-University Centre for Astronomy and Astrophysics. BEYOND ONE-SHOT DECISION - NEURO-MORPHOLOGICAL AI AND PROGRESSIVE REASONING IN GALAXY CLASSIFICATION. Modern sky surveys collect images of millions of galaxies, making automated classification essential to understanding how these structures form and evolve over cosmic time. Yet, most artificial intelligence systems classify galaxies in a single, blind step, providing little insight into how they arrive at their decisions, or how certain they truly are. They treat the cosmos as a static problem to be guessed, leaving the underlying physics shrouded in mystery. Until now. In our upcoming session, Aman will introduce a radical new approach that allows AI models to pause, rethink, and refine their predictions over multiple reasoning steps, much like an astronomer carefully revisiting an image before making a final judgment. Using a lightweight model based on Continuous Thought Machines, we will explore how predictions evolve, how machine uncertainty changes over time, and how the model dynamically resolves highly ambiguous cases. Beyond achieving competitive classification accuracy, this approach provides a rare, transparent window into the decision-making process of scientific AI systems. Whether you are curious about machine learning, galactic morphology, or how the next generation of computational tools will reshape our analysis of massive astronomical datasets, this talk is for you. This transmission is open to all. Come witness the story of artificial intelligence, cosmic structure, and the science that races against time to decode the universe.",
+            "venue": "Online (Google Meet)",
+            "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
+            "contact": "Guru Jahnavi Madana | 77801 12348, Vihang Vidwans | 95279 58679"
+        }
     }
 ]
