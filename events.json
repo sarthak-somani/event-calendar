@@ -8380,5 +8380,38 @@
             "organisingBody": "Krittika, the Astronomy Club of IIT Bombay",
             "contact": "Guru Jahnavi Madana | 77801 12348, Vihang Vidwans | 95279 58679"
         }
+    },
+    {
+        "title": "Intellectual Property (IP) awareness session SMCO-IITB | Patentability of Diagnostic and Healthcare Inventions",
+        "start": "2026-06-16T14:30:00",
+        "end": "2026-06-16T14:30:00",
+        "extendedProps": {
+            "description": "IIT Bombay, in association with S. Majumdar & Co., is organizing a series of IPR Open House Sessions to promote Intellectual Property (IP) awareness and support innovators, researchers, students, and faculty members. This session will focus on the patentability of diagnostic methods, AI-based healthcare inventions, prognostic methods, and related healthcare technologies, with particular emphasis on the interpretation and application of Section 3(i) of the Indian Patents Act. It will cover practical aspects of patent prosecution, examination trends, claim drafting strategies, and approaches for addressing objections under Section 3(i) and related provisions, including representative examples and case studies. Topics include Patentable and non-patentable diagnostic methods, Patentability of AI-based healthcare inventions, Prognostic methods and their patentability, and Claim drafting strategies to avoid objections under Section 3(i) with practical examples. The 1.5-hour session includes a 1-hour presentation and a 30-minute interactive Q&A. It is free of cost, requires no prior registration, and is open to students, researchers, innovators, and faculty in biosciences, biotechnology, healthcare technologies, artificial intelligence, software, and other emerging technology domains.",
+            "venue": "Online (Microsoft Teams)",
+            "organisingBody": "IIT Bombay and S. Majumdar & Co.",
+            "contact": "dean.rnd.office@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Invitation: Chief Guest Special Sessions on Iyengar Yoga & Yogic Insights",
+        "start": "2026-06-20T07:00:00",
+        "end": "2026-06-20T07:00:00",
+        "extendedProps": {
+            "description": "As part of the celebrations of the 12th International Day of Yoga, Yogastha is organizing two special events on 20 June 2026, featuring Chief Guest Dr. Rajvi Mehta. The morning session (7:00 AM - 8:30 AM at Yoga Hall, 3rd floor, New SAC) offers a hands-on experience of Iyengar yoga, focusing on precise alignment and managing emotions and mind through the body. The evening session (7:00 PM - 8:30 PM at P C Saxena Auditorium) includes a talk by Dr. Mehta on the evolution, worldwide reach, and research evidence of Yogacharya B.K.S. Iyengar's teachings, with practical demonstrations and real-life stories. Both sessions are open to all and aim to explore yoga's role in physical well-being, emotional balance, and mental clarity. Registration for both sessions is required.",
+            "venue": "Yoga Hall, 3rd floor, New SAC and P C Saxena Auditorium (LTPCSA)",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "Jitendra (Manager) at +91 8686484484"
+        }
+    },
+    {
+        "title": "Caf\u00e9 Quantum First Anniversary Celebration",
+        "start": "2026-06-16T00:00:00",
+        "end": "2026-06-18T00:00:00",
+        "extendedProps": {
+            "description": "Celebrate Caf\u00e9 Quantum's first anniversary with 3 days of irresistible offers from June 16th to 18th, 2026. Enjoy selected favourites at \u20b9100 and get free items (pastry, brownie, cold coffee) on orders above \u20b9499, \u20b9799, and \u20b91199 respectively. Order now on AFOOZO APP!",
+            "venue": "4th Floor, RBTIC, IIT Bombay",
+            "organisingBody": "Caf\u00e9 Quantum",
+            "contact": null
+        }
     }
 ]
