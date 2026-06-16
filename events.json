@@ -8435,5 +8435,27 @@
             "organisingBody": "WnCC and Kaya AI",
             "contact": "Avnish | Mithra, 9167339950 | 8762070856"
         }
+    },
+    {
+        "title": "Lecture 1: PGAC Postdoctoral Opportunities Series: From IIT Bombay to Harvard & Humboldt Fellowships",
+        "start": "2026-06-20T19:00:00",
+        "end": "2026-06-20T19:00:00",
+        "extendedProps": {
+            "description": "PGAC invites postgraduate students to the first lecture of its Postdoctoral Opportunities Series. This interactive session aims to help students understand postdoctoral pathways, fellowship opportunities, application timelines, and career prospects in academia and research. The session features recent recipients of the Alexander von Humboldt Fellowship and the Raghunathan Family Harvard Fellowship, who have successfully transitioned from their PhD journeys at IIT Bombay to leading research institutions and will share their experiences, application strategies, and lessons learned. Panellists include Dr Navinya Chimurkar, Dr Tresa Abraham, Dr G. Keerthiga, and Dr Meghali. Questions can be submitted in advance.",
+            "venue": "Google Meet: https://meet.google.com/rsa-nhtd-owo",
+            "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PG-CAMP)",
+            "contact": "gsecaapg@iitb.ac.in"
+        }
+    },
+    {
+        "title": "SAP Business Builder Gamification Session",
+        "start": "2026-06-19T14:00:00",
+        "end": "2026-06-19T14:00:00",
+        "extendedProps": {
+            "description": "An interactive ERP simulation workshop that provides hands-on exposure to real-world business processes, enterprise software systems, and data-driven decision-making. The session will use the SAP Business Builders platform along with SAP Analytics Cloud (SAC) to simulate business scenarios in a competitive and engaging environment.",
+            "venue": "Virtual",
+            "organisingBody": "Technical Affairs, Indian Institute of Technology, Bombay",
+            "contact": "+91 94490 007525"
+        }
     }
 ]
