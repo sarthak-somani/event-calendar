@@ -8424,5 +8424,16 @@
             "organisingBody": "Yogastha, IIT Bombay",
             "contact": "Jitendra (Manager) at +91 8686484484"
         }
+    },
+    {
+        "title": "WnCC x Kaya AI IIT India Hackathon",
+        "start": "2026-07-10T00:00:00",
+        "end": "2026-08-14T00:00:00",
+        "extendedProps": {
+            "description": "A national-level hackathon organized by WnCC and Kaya AI, focused on solving real-world challenges in the Construction Industry using AI. Participants will build impactful solutions using AI agents, edge computing, and computer vision. The event offers a \u20b93.5L prize pool and opportunities for internships and full-time roles.",
+            "venue": "Bangalore",
+            "organisingBody": "WnCC and Kaya AI",
+            "contact": "Avnish | Mithra, 9167339950 | 8762070856"
+        }
     }
 ]
