@@ -8468,5 +8468,16 @@
             "organisingBody": "Department of Computing Technologies and the Directorate of Sports at SRM Institute of Science and Technology",
             "contact": "Email: robofest@srmist.edu.in, Phone: +91 9003322060, +91 9894190197"
         }
+    },
+    {
+        "title": "LRWC Webinar on Research Writing",
+        "start": "2026-06-19T20:30:00",
+        "end": "2026-06-19T20:30:00",
+        "extendedProps": {
+            "description": "The Language Resource and Writing Cell (LRWC) is pleased to host a webinar on research writing. The topic, 'Establishing One's Voice While Drawing on Other Authors', will be led by Dr Arnold Wentzel, a distinguished educator and author of _A Guide to Argumentative Research Writing and Thinking_. This is an opportunity to learn from an expert. The webinar link will be shared on the day of the event.",
+            "venue": "MS Teams",
+            "organisingBody": "Language Resource and Writing Cell (LRWC)",
+            "contact": "lrwcinstructor@iitb.ac.in"
+        }
     }
 ]
