@@ -8479,5 +8479,60 @@
             "organisingBody": "Language Resource and Writing Cell (LRWC)",
             "contact": "lrwcinstructor@iitb.ac.in"
         }
+    },
+    {
+        "title": "Webinar on Research Writing: Establishing One's Voice While Drawing on Other Authors",
+        "start": "2026-06-19T20:30:00",
+        "end": "2026-06-19T20:30:00",
+        "extendedProps": {
+            "description": "The Language Resource and Writing Cell (LRWC) is pleased to host a webinar on research writing. Topic: Establishing One's Voice While Drawing on Other Authors. About the Expert: Dr Arnold Wentzel taught at the University of Johannesburg in South Africa and the Antonio Nari\u00f1o University in Colombia. He received the Vice-Chancellor's Distinguished Award for Teaching Excellence in 2010. He is also the author of a few books, including _A Guide to Argumentative Research Writing and Thinking._ Reserve this time slot and make the most of this opportunity to learn from an expert in the field!",
+            "venue": "MS Teams",
+            "organisingBody": "Language Resource and Writing Cell (LRWC)",
+            "contact": "Prof. V. Sarma, Dept. of H&SS"
+        }
+    },
+    {
+        "title": "NEET 2026 Examination",
+        "start": "2026-06-21T08:00:00",
+        "end": "2026-06-21T08:00:00",
+        "extendedProps": {
+            "description": "The NEET 2026 examination will be conducted in the Lecture Hall Complex (LHC) on 21 June 2026 (Sunday). To ensure the smooth conduct of the examination, various restrictions will be in place on campus from 8:00 AM until 6:00 PM. These include closure of all food courts and eateries in LHC, restricted movement in surrounding areas and corridors, and limited accessibility to LHC. Parking near Infinity corridor and along its approach road will be unavailable. Entry to Physics and Chemistry departments will be restricted from the corridor side, and ID cards will be required for verification when moving in the academic area. Proper signboards, barricades, and security personnel will be deployed. A map highlighting the restricted area is available at https://bighome.iitb.ac.in/index.php/s/fjX8C4nZHSPfNrk.",
+            "venue": "Lecture Hall Complex (LHC)",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": null
+        }
+    },
+    {
+        "title": "BOT Exhibition & Closing Ceremony",
+        "start": "2026-06-20T15:00:00",
+        "end": "2026-06-20T15:00:00",
+        "extendedProps": {
+            "description": "The concluding showcase of the IIT Bombay MakerSpace Summer Workshop 2026, featuring autonomous bots designed, built, and coded by participating students. Faculty members, staff, and students are cordially invited to visit the exhibition and attend the closing ceremony.",
+            "venue": "Department of Energy Science and Engineering (DESE), IIT Bombay Foyer Area",
+            "organisingBody": "Educational Outreach, IIT Bombay",
+            "contact": null
+        }
+    },
+    {
+        "title": "Hands-on Workshop on Eye Tracking (Tobii Pro Fusion 250Hz)",
+        "start": "2026-06-25T10:00:00",
+        "end": "2026-06-25T10:00:00",
+        "extendedProps": {
+            "description": "A hands-on workshop on the Eye Tracker Screen Version (Tobii Pro Fusion 250Hz) available in the Behavioural Lab at SJMSOM, IIT Bombay. This powerful research tool helps capture visual attention and early-stage cognitive processes, supporting research across disciplines such as linguistics, design, educational technology, management, and other behavioural sciences.",
+            "venue": "Behavioural Lab at SJMSOM, IIT Bombay",
+            "organisingBody": "Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay",
+            "contact": "kalro.arti@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Establishing One's Voice While Drawing on Other Authors",
+        "start": "2026-06-19T20:30:00",
+        "end": "2026-06-19T20:30:00",
+        "extendedProps": {
+            "description": "The Language Resource and Writing Cell (LRWC) is hosting a webinar on research writing. Dr Arnold Wentzel, author and academic, will be the expert speaker. He taught at the University of Johannesburg and Antonio Nari\u00f1o University, receiving the Vice-Chancellor's Distinguished Award for Teaching Excellence in 2010. He is also the author of books including _A Guide to Argumentative Research Writing and Thinking_. Attendees are required to use an IIT Bombay email ID and log in 5 minutes before the start time.",
+            "venue": "MS Teams (Join: https://teams.microsoft.com/meet/43852315796725?p=JsHuWHJVi2XC1dcLMI, Meeting ID: 438 523 157 967 25, Passcode: Sa99qi9H)",
+            "organisingBody": "The Language Resource and Writing Cell (LRWC)",
+            "contact": "Prof. V. Sarma, Dept. of H&SS"
+        }
     }
 ]
