@@ -8567,5 +8567,16 @@
             "organisingBody": "Post Graduate Council for Academics and Mentoring Programmes (PG-CAMP)",
             "contact": "gsecaapg@iitb.ac.in"
         }
+    },
+    {
+        "title": "Crack the Quant Intern Season",
+        "start": "2026-06-21T15:30:00",
+        "end": "2026-06-21T15:30:00",
+        "extendedProps": {
+            "description": "Want to secure a quant internship but unsure where to begin? Internship season is closer than it seems, and the right preparation can make all the difference. Join us for an insightful session with students who have secured opportunities at leading quantitative finance firms and learn about their preparation strategies, recruitment experiences, and the lessons they wish they had known earlier.",
+            "venue": "Microsoft Teams",
+            "organisingBody": "Quant Club",
+            "contact": "Mudil Goel (9729009724), Hrishika Agrawal (7746820351)"
+        }
     }
 ]
