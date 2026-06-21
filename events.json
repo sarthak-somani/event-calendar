@@ -8578,5 +8578,16 @@
             "organisingBody": "Quant Club",
             "contact": "Mudil Goel (9729009724), Hrishika Agrawal (7746820351)"
         }
+    },
+    {
+        "title": "Leopard Awareness and Safety Session",
+        "start": "2026-06-22T14:30:00",
+        "end": "2026-06-22T14:30:00",
+        "extendedProps": {
+            "description": "The session aims to create awareness about leopard behaviour, safety precautions, and the appropriate actions to be taken in the event of wildlife sightings. Forest Department officials will share important information and address queries from the campus community. As IIT Bombay is surrounded by natural habitats, awareness and cooperation from all campus residents are essential for ensuring both human safety and wildlife conservation. We encourage everyone to attend the session and benefit from the guidance provided by the Forest Department experts. Your participation will contribute towards creating a safer and more informed campus community.",
+            "venue": "Room No. 23, Second Floor, VMCC, IIT Bombay",
+            "organisingBody": "IIT Bombay in collaboration with the Forest Department",
+            "contact": null
+        }
     }
 ]
