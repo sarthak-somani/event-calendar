@@ -8622,5 +8622,16 @@
             "organisingBody": "Gulmohar Restaurant",
             "contact": "+91-22-2576 8946"
         }
+    },
+    {
+        "title": "Calisthenics Sessions",
+        "start": "2026-06-24T19:30:00",
+        "end": "2026-06-24T19:30:00",
+        "extendedProps": {
+            "description": "Regular Calisthenics sessions, open to everyone looking to build strength, improve flexibility, and master bodyweight training. Whether you're a beginner or experienced in fitness, these sessions will guide you through structured routines including push-ups, pull-ups, squats, core training, and skill progressions like muscle-ups and levers \u2013 all with minimal equipment.",
+            "venue": "Screening room, 3rd floor (New SAC, opp. H11)",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Piyush (Fitness Club Manager) M: +91 9479591296"
+        }
     }
 ]
