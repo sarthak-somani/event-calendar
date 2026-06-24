@@ -8611,5 +8611,16 @@
             "organisingBody": "ASPIRE - IITB Research Park Foundation",
             "contact": "Vikram Vishal (Professor-In-Charge, ASPIRE)"
         }
+    },
+    {
+        "title": "Monsoon Special \u2013 Biryani & Kebab Food Fest",
+        "start": "2026-06-15T00:00:00",
+        "end": "2026-07-15T00:00:00",
+        "extendedProps": {
+            "description": "With the arrival of the monsoon season, Gulmohar Restaurant invites you to the Biryani & Kebab Food Fest from 15 June 2026 to 15 July 2026. Featuring an exclusive menu specially curated for the rainy season, indulge in a delectable selection of aromatic biryanis, succulent kebabs, and refreshing accompaniments, all thoughtfully prepared by our culinary team to enhance your monsoon dining experience. Bring along your colleagues, friends, and family to enjoy these special offerings and celebrate the season with great food and warm hospitality.",
+            "venue": "Gulmohar Restaurant, Second Floor, Gulmohar Building, Indian Institute of Technology Bombay, Powai, Mumbai",
+            "organisingBody": "Gulmohar Restaurant",
+            "contact": "+91-22-2576 8946"
+        }
     }
 ]
