@@ -8677,5 +8677,16 @@
             "organisingBody": "Flourishing Hub",
             "contact": null
         }
+    },
+    {
+        "title": "Flourishing Retreat",
+        "start": "2026-07-10T00:00:00",
+        "end": "2026-07-12T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
