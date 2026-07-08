@@ -8688,5 +8688,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "PG Mania 2026",
+        "start": "2026-07-11T17:00:00",
+        "end": "2026-07-26T17:00:00",
+        "extendedProps": {
+            "description": "Greetings from Institute Sports Council! PG Mania 2026 is back with bringing bigger rivalries, louder cheers, and greater glory. Starting 11th July, IIT Bombay Sports proudly presents the biggest sporting festival exclusively for the postgraduate community over 3 weekends. Whether you're stepping onto the field, battling across the board, or cheering from the sidelines, PG Mania is where competition meets camaraderie. Participants can register as individuals and compete across a wide range of sports. Bring your competitive spirit, represent your community, and be a part of an exciting celebration of sportsmanship and teamwork. We look forward to your enthusiastic participation. Let the rivalries reignite, and let the games begin!",
+            "venue": null,
+            "organisingBody": "Institute Sports Council, IIT Bombay Sports",
+            "contact": "Supan Shah, Phone: 9653396151"
+        }
     }
 ]
