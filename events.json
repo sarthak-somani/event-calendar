@@ -8710,5 +8710,16 @@
             "organisingBody": "AUA Secretariat",
             "contact": "scte.imeri@gmail.com"
         }
+    },
+    {
+        "title": "Pre-registration for high demand courses in Spring Semester 2025-26",
+        "start": "2026-07-10T00:00:00",
+        "end": "2026-07-14T00:00:00",
+        "extendedProps": {
+            "description": "Pre-registration for high-demand courses in Spring Semester 2025-26 at IIT Bombay. This process aims to avoid first-come-first-serve issues for students. Pre-registration is available on portal.iitb.ac.in/asc > Forms/Requests from 10th to 14th July till 1:00 PM. Seat allotments will be based on instructor-set criteria (Random, CPI, Custom) and visible on 20th July, 2026.",
+            "venue": "portal.iitb.ac.in/asc > Forms/Requests",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "C. P. Joglekar, Joint Registrar (Academic), IIT Bombay, Tele: 022-25767987"
+        }
     }
 ]
