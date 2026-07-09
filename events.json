@@ -8721,5 +8721,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "C. P. Joglekar, Joint Registrar (Academic), IIT Bombay, Tele: 022-25767987"
         }
+    },
+    {
+        "title": "Intro to ENT Session",
+        "start": "2026-07-10T18:30:00",
+        "end": "2026-07-10T18:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Student Support Services",
+            "organisingBody": "UGAC",
+            "contact": null
+        }
     }
 ]
