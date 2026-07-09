@@ -8699,5 +8699,16 @@
             "organisingBody": "Institute Sports Council, IIT Bombay Sports",
             "contact": "Supan Shah, Phone: 9653396151"
         }
+    },
+    {
+        "title": "AUA Academic Conference: 2026 AUA AI-inspired Stem Cell Technology and Nanoengineering",
+        "start": "2026-07-29T00:00:00",
+        "end": "2026-07-30T00:00:00",
+        "extendedProps": {
+            "description": "A hybrid academic conference hosted by Universitas Indonesia, focusing on AI-inspired stem cell technology and nanoengineering. It aims to expand frontier science for master and doctoral students and researchers, inviting submissions on AI in Stem Cell Research, Clinical Application, and Industry, as well as Nanoengineering Principles, Practices, and Products for Stem Cells. Open to students, academicians, researchers, government employees, and industrial practitioners from AUA and Non-AUA member organizations.",
+            "venue": "Hall & Auditorium IMERI, Faculty of Medicine, Universitas Indonesia, Jakarta, Indonesia (Hybrid event)",
+            "organisingBody": "AUA Secretariat",
+            "contact": "scte.imeri@gmail.com"
+        }
     }
 ]
