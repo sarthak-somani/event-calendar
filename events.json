@@ -8732,5 +8732,16 @@
             "organisingBody": "UGAC",
             "contact": null
         }
+    },
+    {
+        "title": "Ask Me Anything (AMA) session on GESH IITB Living Lab Fellowship",
+        "start": "2026-07-13T17:00:00",
+        "end": "2026-07-13T18:00:00",
+        "extendedProps": {
+            "description": "An online session to address queries regarding the GESH IITB Living Lab Fellowship: Cohort III (2026-27).",
+            "venue": "Online",
+            "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (GESH IITB)",
+            "contact": "Vaishnavi at 30006318@iitb.ac.in"
+        }
     }
 ]
