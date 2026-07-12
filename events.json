@@ -8743,5 +8743,16 @@
             "organisingBody": "IIT Bombay Research Hub for Green Energy and Sustainability (GESH IITB)",
             "contact": "Vaishnavi at 30006318@iitb.ac.in"
         }
+    },
+    {
+        "title": "Talk by Francis Halzen on Neutrinos and The IceCube Project",
+        "start": "2026-07-15T17:30:00",
+        "end": "2026-07-15T17:30:00",
+        "extendedProps": {
+            "description": "Join Francis Halzen, Principal Investigator of the IceCube Collaboration, for an exciting lecture on the IceCube project. Discover how this enormous neutrino observatory at the South Pole detected high-energy neutrinos and helped uncover the origin of cosmic rays from supermassive black holes in active galaxies.",
+            "venue": "Online (MS Teams)",
+            "organisingBody": "Krittika, The Astronomy Club of IIT Bombay",
+            "contact": "Guru Jahnavi Madana (+91 77801 12348), Vihang Vidwans (+91 95279 58679), Veeraditya Karan Parakh (+91 94490 007525)"
+        }
     }
 ]
