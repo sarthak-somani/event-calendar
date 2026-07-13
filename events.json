@@ -8765,5 +8765,27 @@
             "organisingBody": "SWC",
             "contact": null
         }
+    },
+    {
+        "title": "Reopening of the Tagging Window",
+        "start": "2026-07-14T00:00:00",
+        "end": "2026-07-15T00:00:00",
+        "extendedProps": {
+            "description": "Announcement for the reopening of the online course tagging window for students at IIT Bombay, applicable for Interim Course tagging and Graduation course tagging. The tagging interface will be available on the External ASC portal (portal.iitb.ac.in/asc) from July 14th to July 15th, 2026. Students must complete their tagging carefully as tags, once frozen, cannot be changed. This process is crucial for graduation requirements, provisional certificates, and eligibility for medals and prizes. The list for medalists will be finalized on July 16th, 2026.",
+            "venue": "Online (External ASC portal: portal.iitb.ac.in/asc)",
+            "organisingBody": "Indian Institute of Technology Bombay (IIT Bombay), Academic Office",
+            "contact": "C. P. Joglekar, Joint Registrar (Academic), IIT Bombay; Tele: 022-25767987"
+        }
+    },
+    {
+        "title": "Zumba and Pilates Classes Registrations",
+        "start": "2026-07-15T17:30:00",
+        "end": "2026-07-15T17:30:00",
+        "extendedProps": {
+            "description": "Registrations are open for Zumba and Pilates classes, organized by the Institute Sports Council, IIT Bombay. Zumba is a high-energy fitness program, and Pilates focuses on core stability and flexibility. Sessions begin July 15, 2026, held Mon-Wed-Fri at the Screening room, 3rd floor (New SAC, opp. Hostel-11). Pilates: 5:30 pm - 6:25 pm, Zumba: 6:30 pm - 7:30 pm. Register by July 14, 2026, 11:59 pm.",
+            "venue": "Screening room, 3rd floor (New SAC, opp. Hostel-11)",
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Om Salunke (Fitness Club Manager): +91 8793375675; Deepraj Singh Kasherwal (General Secretary, Sports Affairs, IIT Bombay): +91 9761543343"
+        }
     }
 ]
