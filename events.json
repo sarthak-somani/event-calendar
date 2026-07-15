@@ -8787,5 +8787,27 @@
             "organisingBody": "Institute Sports Council, IIT Bombay",
             "contact": "Om Salunke (Fitness Club Manager): +91 8793375675; Deepraj Singh Kasherwal (General Secretary, Sports Affairs, IIT Bombay): +91 9761543343"
         }
+    },
+    {
+        "title": "PG Mania 2026: Sports Competitions on 18th & 19th July",
+        "start": "2026-07-18T00:00:00",
+        "end": "2026-07-19T00:00:00",
+        "extendedProps": {
+            "description": "The second weekend of PG Mania 2026 features competitions in Aquatics, Badminton, Basketball, Football, and Tug of War. All participants must register individually and review the rulebook and schedule. Rulebook: https://docs.google.com/document/d/1J2GDQMR7VZ2Indit_ftqcFrfFvMlGgPOKxQpe-m9Y1k/edit?usp=drivesdk. Registration Link: https://forms.gle/6pYwQHoNSvf68nB37. WhatsApp Community: https://chat.whatsapp.com/FkpEZZ8vy0M9MbgS7HKL6f.",
+            "venue": null,
+            "organisingBody": "Institute Sports Council, IIT Bombay",
+            "contact": "Supan Shah (9653396151), Deepraj Singh Kasherwal (+91 9761543343)"
+        }
+    },
+    {
+        "title": "Registration for Fresh Admissions at PM SHRI KV IIT POWAI",
+        "start": "2026-07-15T08:00:00",
+        "end": "2026-07-20T08:00:00",
+        "extendedProps": {
+            "description": "Notification regarding fresh admissions in Kendriya Vidyalaya IIT POWAI for the Academic Session 2026-27 against vacancy for class XI COMMERCE and class XII SCIENCE & COMMERCE. IIT Bombay / SAMEER / NITIE employees (Service Category I) seeking admission for their wards may collect the registration form and submit the duly filled and signed form along with relevant documents.",
+            "venue": "PM SHRI KV IIT POWAI",
+            "organisingBody": "PM Shri Kendriya Vidyalaya IIT Powai",
+            "contact": null
+        }
     }
 ]
