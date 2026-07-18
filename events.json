@@ -8809,5 +8809,16 @@
             "organisingBody": "PM Shri Kendriya Vidyalaya IIT Powai",
             "contact": null
         }
+    },
+    {
+        "title": "Special Intensive Revision (SIR) Voter Registration Campaign",
+        "start": "2026-07-19T10:00:00",
+        "end": "2026-07-19T10:00:00",
+        "extendedProps": {
+            "description": "The Election Commission is conducting a Special Intensive Revision (SIR) campaign for voter registration and verification for faculty, staff, and campus residents. Booth Level Officers (BLOs) will be available to assist. Attendees should bring details of their name in the last SIR (2002 voterlist), name in the last voter list (2026), parents' details if not in 2002 list, and 2 passport-size photos with white background. Voters are requested to check their names and assigned BLO on the ECINET app.",
+            "venue": "CAMPUS SCHOOL IIT BOMBAY, ROOM NO. STD-1, STD-2, STD-3, STD-4 GROUND FLOOR",
+            "organisingBody": "Election Commission",
+            "contact": "BLOs: Mr. Vilas Ashok Birare (9930175928 for part 287), Ms. Vighneshwari (9821514973 for part 291), Ms. Priyanka Pal (8454943268 for part 292), Ms. Saima Shaikh (9082093925 for part 293)"
+        }
     }
 ]
