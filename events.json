@@ -8820,5 +8820,16 @@
             "organisingBody": "Election Commission",
             "contact": "BLOs: Mr. Vilas Ashok Birare (9930175928 for part 287), Ms. Vighneshwari (9821514973 for part 291), Ms. Priyanka Pal (8454943268 for part 292), Ms. Saima Shaikh (9082093925 for part 293)"
         }
+    },
+    {
+        "title": "Special Intensive Revision (SIR) for Voter List",
+        "start": "2026-07-19T10:00:00",
+        "end": "2026-07-19T10:00:00",
+        "extendedProps": {
+            "description": "The Election Commission is conducting a Special Intensive Revision (SIR) for voter lists on campus. Booth Level Officers (BLOs) will assist faculty, staff, and campus residents in checking and updating their voter details. Attendees should bring details of their names in previous voter lists (2002 & 2026), parents' details if applicable, and two passport-size photos (white background). Voters are encouraged to check their names and assigned BLO on the ECINET app. Further details and voter lists are available via provided links.",
+            "venue": "CAMPUS SCHOOL IIT BOMBAY, ROOM NO. STD-1, STD-2, STD-3, STD-4 GROUND FLOOR",
+            "organisingBody": "Election Commission",
+            "contact": "Mr. Vilas Ashok Birare (9930175928), Ms. Vighneshwari (9821514973), Ms. Priyanka Pal (8454943268), Ms. Saima Shaikh (9082093925)"
+        }
     }
 ]
