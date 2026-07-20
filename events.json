@@ -8842,5 +8842,16 @@
             "organisingBody": "PRO IIT Bombay",
             "contact": "Mr. Vilas Ashok Birare (9930175928), Ms. Vighneshwari (9821514973), Ms. Priyanka Pal (8454943268), Ms. Saima Shaikh (9082093925)"
         }
+    },
+    {
+        "title": "Combating Antimicrobial Resistance: Synthetic Biology and Next-Generation Phage Therapy",
+        "start": "2026-07-30T11:00:00",
+        "end": "2026-07-30T11:00:00",
+        "extendedProps": {
+            "description": "Speaker: Prof. Kiran Kondabagil, Department of Biosciences and Bioengineering, IIT Bombay. Abstract: Antibiotic resistance has become a global healthcare crisis, with multidrug-resistant (MDR) pathogenic bacteria projected to cause 50 million deaths by 2050. Although bacteriophage therapy is a promising alternative, it suffers from major scientific, regulatory, and manufacturing challenges. The scientific challenges include a narrow host range and the rapid emergence of phage resistance. As the conventional approach of isolating and characterizing scores of phages against a pathogen is unwieldy, researchers are leveraging synthetic biology to engineer phages and phage-derived enzymes to enhance their capabilities. I will discuss some promising new approaches and clinical trials underway elsewhere, as well as recent progress in our lab at IIT Bombay towards enabling the therapeutic use of phages and phage-derived proteins.",
+            "venue": "BSBE Seminar Room A",
+            "organisingBody": "WRCB's PRISM Colloquium, IIT Bombay",
+            "contact": "Prof. Ashutosh Kumar"
+        }
     }
 ]
