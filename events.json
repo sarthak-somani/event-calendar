@@ -8853,5 +8853,16 @@
             "organisingBody": "WRCB's PRISM Colloquium, IIT Bombay",
             "contact": "Prof. Ashutosh Kumar"
         }
+    },
+    {
+        "title": "Orientation and Registration Programme for UG New Entrants 2026-27",
+        "start": "2026-07-21T00:00:00",
+        "end": "2026-07-25T00:00:00",
+        "extendedProps": {
+            "description": "The registration, and orientation programme for undergraduate students admitted through JEE (Advanced) 2026, Preparatory 2025, INMO 2026, and UCEED 2026 to the B.Tech., Dual Degree, B.S., and B.Des. programmes.",
+            "venue": null,
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "C. P. Joglekar, Joint Registrar (Academic), Indian Institute of Technology Bombay, Tele: 022-25767987"
+        }
     }
 ]
