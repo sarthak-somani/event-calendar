@@ -8864,5 +8864,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "C. P. Joglekar, Joint Registrar (Academic), Indian Institute of Technology Bombay, Tele: 022-25767987"
         }
+    },
+    {
+        "title": "KAIST Spring 2027 International Graduate Admission Events",
+        "start": "2026-07-20T00:00:00",
+        "end": "2026-08-31T00:00:00",
+        "extendedProps": {
+            "description": "KAIST invites prospective students to learn about its Spring 2027 International Graduate Admission through a series of online information sessions hosted by KAIST Graduate Student Ambassadors, a KAIST Open House, and a Global Lounge for Vietnamese students. These virtual events offer insights into the admissions process, academic and research life, campus life, and living in Korea, including live Q&A sessions with current international graduate students.",
+            "venue": "Online",
+            "organisingBody": "KAIST Graduate Admissions",
+            "contact": "advanced.adm@kaist.ac.kr"
+        }
     }
 ]
