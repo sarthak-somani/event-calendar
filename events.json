@@ -8886,5 +8886,27 @@
             "organisingBody": "Yogastha, IIT Bombay",
             "contact": "+91 8686484484"
         }
+    },
+    {
+        "title": "SIR campaign",
+        "start": "2026-07-19T10:00:00",
+        "end": "2026-07-19T10:00:00",
+        "extendedProps": {
+            "description": "The Election Commission has initiated work related to Special Intensive Revision (SIR) in our campus. Booth Level Officers (BLO) will be available to assist with voter list revision. Attendees are requested to bring: 1) Details of their name in the 2002 voter list (last SIR). 2) Details of their name in the 2026 voter list (last Voter list). 3) If their name is not in the 2002 voter list, their parents' details from the last SIR list. 4) Two passport-size photos with a white background. Voters are requested to check their names and assigned BLO on the ECINET app. Further information and voter lists are available via provided links.",
+            "venue": "CAMPUS SCHOOL IIT BOMBAY, ROOM NO. STD-1, STD-2, STD-3, STD-4 GROUND FLOOR",
+            "organisingBody": "Election Commission",
+            "contact": null
+        }
+    },
+    {
+        "title": "PG Mania Powerlifting Competition",
+        "start": "2026-07-25T15:00:00",
+        "end": "2026-07-25T15:00:00",
+        "extendedProps": {
+            "description": "The PG Mania Powerlifting Competition is here! It's time to put your training to the test and step onto the platform. This is a beginner-friendly competition, making it a great opportunity for anyone who is new to powerlifting or has little to no competition experience. If you've been thinking about competing, this is the perfect chance to get started in a supportive environment. We encourage everyone, from first-time lifters to experienced athletes, to participate. We look forward to seeing you on the platform!",
+            "venue": "Weightlifting Room, Old SAC",
+            "organisingBody": "GSSA",
+            "contact": "Deepraj Singh Kasherwal, +91 9761543343"
+        }
     }
 ]
