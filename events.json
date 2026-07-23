@@ -8875,5 +8875,16 @@
             "organisingBody": "KAIST Graduate Admissions",
             "contact": "advanced.adm@kaist.ac.kr"
         }
+    },
+    {
+        "title": "3-Day Workshop on Meditative Approach to Yoga Practice",
+        "start": "2026-07-23T18:30:00",
+        "end": "2026-07-25T18:30:00",
+        "extendedProps": {
+            "description": "Yogastha warmly invites you to explore the harmonious integration of yoga postures, breath awareness, relaxation, and Heartfulness Meditation. Through guided experiential sessions, discover how mindful movement and meditative awareness can transform your practice, helping you cultivate greater focus, emotional balance, and overall well-being. The workshop will be led by Amar Srividya, Lead Yoga Trainer at the Heartfulness Yoga Academy (M.Sc. in Yogic Science, ERYT-500 certified with 9+ years experience). This workshop offers a unique opportunity to deepen your practice and experience yoga in its true essence, suitable for beginners and experienced practitioners.",
+            "venue": "Yoga Hall, 3rd Floor, New SAC, Opposite H11",
+            "organisingBody": "Yogastha, IIT Bombay",
+            "contact": "+91 8686484484"
+        }
     }
 ]
