@@ -8919,5 +8919,16 @@
             "organisingBody": "Lumina",
             "contact": null
         }
+    },
+    {
+        "title": "Gymkhana Facility Tour",
+        "start": "2026-07-25T14:00:00",
+        "end": "2026-07-25T14:00:00",
+        "extendedProps": {
+            "description": "The tour is an opportunity to explore the diverse sports facilities on campus and get acquainted with the vibrant sporting ecosystem at IIT Bombay. You will also learn about the various opportunities to participate in Institute teams, inter-hostel competitions, and other sporting activities. We hope this experience encourages you to discover a sport you love and make the most of the facilities and opportunities available to you throughout your time at IIT Bombay.",
+            "venue": "Diverse sports facilities on campus",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Radhika Bansal, Institute Badminton Secretary, +91 96495 70774"
+        }
     }
 ]
