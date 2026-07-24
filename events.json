@@ -8930,5 +8930,16 @@
             "organisingBody": "Institute Sports Council",
             "contact": "Radhika Bansal, Institute Badminton Secretary, +91 96495 70774"
         }
+    },
+    {
+        "title": "SIR campaign",
+        "start": "2026-07-25T13:00:00",
+        "end": "2026-07-25T13:00:00",
+        "extendedProps": {
+            "description": "Booth Level Officers (BLOs) will be available to assist with the Special Intensive Revision (SIR) campaign for voter list updates/registration.",
+            "venue": "NASA Office, ground floor, Main Building",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel: (+91-22) 25767026-27"
+        }
     }
 ]
