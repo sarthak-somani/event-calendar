@@ -8941,5 +8941,16 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "IICPC Global QuantFest 2026",
+        "start": "2026-08-23T00:00:00",
+        "end": "2026-10-20T00:00:00",
+        "extendedProps": {
+            "description": "India\u2019s premier quantitative technology competition, IICPC Global QuantFest 2026, supported by leading global HFT firms including Jane Street, Hudson River Trading (HRT), IMC Trading, and Tower Research Capital. The competition features preliminary, regional, and grand finale rounds focusing on quantitative aptitude, probability, mathematics, logical reasoning, coding, trading simulations, and market-making contests.",
+            "venue": "IIT Bombay (Preliminary & Regional Rounds), IIT Madras Research Park (Grand Finale)",
+            "organisingBody": "Quant Club, IIT Bombay",
+            "contact": "Veeraditya Karan Parakh, General Secretary, Technical Affairs 2026\u201327, IIT Bombay (+91 94490 007525); Official WhatsApp Community: https://chat.whatsapp.com/ET6AobimN3K97lpV5ZKTen"
+        }
     }
 ]
