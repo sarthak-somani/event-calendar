@@ -8963,5 +8963,27 @@
             "organisingBody": "Centre for Sanskrit Learning (CSL), IIT Bombay in collaboration with Kavikulaguru Kalidas Sanskrit University (KKSU), Nagpur",
             "contact": "Mr. Pranav Gogate +91 80078 89485"
         }
+    },
+    {
+        "title": "NSO Selection Trials 2026-27",
+        "start": "2026-07-29T00:00:00",
+        "end": "2026-08-06T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Evolution of Rheology and its application",
+        "start": "2026-07-29T14:00:00",
+        "end": "2026-07-29T14:00:00",
+        "extendedProps": {
+            "description": "Rheology is the science of understanding how materials flow and deform under applied forces. From its origins in simple viscosity measurements to today's advanced rheological characterization, it has become an essential tool for developing high-performance materials and optimizing manufacturing processes. This presentation provides a brief overview of the evolution of rheology, its fundamental principles, and its diverse applications in industries such as pharmaceuticals, polymers, food, cosmetics, paints, asphalt, membrane and energy materials. It highlights how modern rheological techniques help improve product quality, processing efficiency, stability, and innovation, making rheology a cornerstone of today's material science and engineering. Dr Toifl will remain available for a short while after the seminar (from 3 to 4 p.m.). If you wish to meet with him then, please email rheometer@iitb.ac.in.",
+            "venue": "Room 234, first floor, Chemical Engineering Department",
+            "organisingBody": "Advanced Rheometer Facility",
+            "contact": "rheometer@iitb.ac.in"
+        }
     }
 ]
