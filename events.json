@@ -8996,5 +8996,38 @@
             "organisingBody": "Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay",
             "contact": "Dr. Ajay Singh Panwar, Head, Department of Metallurgical Engineering and Materials Science, Phone: +91-22-2576 7600"
         }
+    },
+    {
+        "title": "Bharat Life Sciences Award - Mumbai Roadshow",
+        "start": "2026-07-30T15:00:00",
+        "end": "2026-07-30T15:00:00",
+        "extendedProps": {
+            "description": "Invitation to the Mumbai Roadshow for the Bharat Life Sciences Award 2026, a national initiative by FICCI, Eli Lilly, and WITC. The award recognizes excellence in life sciences research, innovation, translational science, public health, and ecosystem development. This roadshow aims to engage the life sciences community and encourage participation in the awards.",
+            "venue": "ASPIRE IIT Bombay Research Park, IIT Bombay Campus, Mumbai",
+            "organisingBody": "Federation of Indian Chambers of Commerce and Industry (FICCI), Eli Lilly and Company (India), Wadhwani Innovation and Translation Center (WITC)",
+            "contact": "Prof. Ashutosh Kumar, pic.witc@iitb.ac.in"
+        }
+    },
+    {
+        "title": "National Conference on Quantum Biotechnology: From Quantum Phenomena to Biomedical Innovation",
+        "start": "2026-08-24T00:00:00",
+        "end": "2026-08-24T00:00:00",
+        "extendedProps": {
+            "description": "A conference exploring the emerging intersections of quantum science and biotechnology, featuring discussions on quantum sensing, biosensing, imaging, diagnostics, biomedical applications, translational research, and innovation pathways. It includes invited talks, technical sessions, and networking opportunities for students, researchers, faculty, medical professionals, and industry professionals.",
+            "venue": "IIT Bombay",
+            "organisingBody": "Qmet Tech Foundation under the National Quantum Mission (NQM) in collaboration with IITB's COE on Quantum Information Computing Science & Technology (QuICST)",
+            "contact": "hrd@qmettech.com"
+        }
+    },
+    {
+        "title": "Van Mahotsav 2026 \u2013 Tree Plantation Drive",
+        "start": "2026-08-01T09:00:00",
+        "end": "2026-08-01T09:00:00",
+        "extendedProps": {
+            "description": "A tree plantation drive to raise awareness about the importance of preserving the environment. Anitta Patil (IFS), Conservator of Forests and Director, Sanjay Gandhi National Park Division will be the Chief Guest for the programme.",
+            "venue": "Hostel 15 playground, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, (+91-22) 25767026-27"
+        }
     }
 ]
