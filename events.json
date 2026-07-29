@@ -8985,5 +8985,16 @@
             "organisingBody": "Advanced Rheometer Facility",
             "contact": "rheometer@iitb.ac.in"
         }
+    },
+    {
+        "title": "Condolence Meeting for Mr Sohil",
+        "start": "2026-07-29T18:15:00",
+        "end": "2026-07-29T18:15:00",
+        "extendedProps": {
+            "description": "A condolence meeting will be held in memory of Mr. Sohil, a student of the Department of Metallurgical Engineering and Materials Science, who passed away yesterday.",
+            "venue": "LC 101",
+            "organisingBody": "Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay",
+            "contact": "Dr. Ajay Singh Panwar, Head, Department of Metallurgical Engineering and Materials Science, Phone: +91-22-2576 7600"
+        }
     }
 ]
