@@ -9051,5 +9051,27 @@
             "organisingBody": "Central Library",
             "contact": "in-charge, Reference Section, or the library professional staff at +91-22-2576-8922 / 33"
         }
+    },
+    {
+        "title": "PGAC Orientation 2026 for New/Incoming Postgraduate Students",
+        "start": "2026-07-31T18:45:00",
+        "end": "2026-07-31T18:45:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "PGAC",
+            "contact": null
+        }
+    },
+    {
+        "title": "Exchange 101 Session",
+        "start": "2026-08-01T00:00:00",
+        "end": "2026-08-01T00:00:00",
+        "extendedProps": {
+            "description": "Semester Exchange Program",
+            "venue": null,
+            "organisingBody": "UGAC | HA Council | IR Office",
+            "contact": null
+        }
     }
 ]
