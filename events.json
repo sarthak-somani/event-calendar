@@ -9029,5 +9029,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "IIT Bombay - Macro Finance Forum with Viral Acharya, Sajjid Chinoy & G Padmanabhan",
+        "start": "2026-08-21T09:30:00",
+        "end": "2026-08-21T09:30:00",
+        "extendedProps": {
+            "description": "Motilal Oswal Centre of Capital Markets at IIT Bombay is hosting its inaugural macro finance forum on 'The Gross vs Net FDI Divergence in India: Causes, Consequences, and Remedies.' The forum will feature a stellar panel including Dr. Viral Acharya (NYU Stern, Former RBI Deputy Governor), Dr. Sajjid Chinoy (J.P. Morgan, EAC-PM Member), G. Padmanabhan (Former RBI Executive Director), and moderated by Dipak Gupta (IIT Bombay, Former Kotak Mahindra Bank MD & CEO). The discussion will cover foreign exchange mechanics, balance-of-payments frictions, and investor confidence. Seats are limited for this in-person session. Register now to express interest: https://forms.gle/9fnCFL9zQVhEyZLM7",
+            "venue": "Motilal Oswal Centre for Capital Markets, IIT Bombay Campus, Powai, Mumbai",
+            "organisingBody": "Motilal Oswal Centre of Capital Markets at IIT Bombay",
+            "contact": "program.director.moccm@iitb.ac.in"
+        }
+    },
+    {
+        "title": "Library Orientation Programme for New Entrants",
+        "start": "2026-08-03T10:00:00",
+        "end": "2026-08-07T10:00:00",
+        "extendedProps": {
+            "description": "Central Library is organising a library visit and orientation programme for newly admitted students (new PG students and research scholars). The programme is designed to introduce them to the library's resources, facilities, services, and policies, enabling effective use of academic and research support. It will provide practical guidance on accessing print and electronic collections, research tools, digital resources, and scholarly databases, as well as familiarise participants with library services, rules, and best practices for locating, evaluating, and managing information efficiently. The programme aims to strengthen information literacy and research skills, support academic excellence, and foster independent, lifelong learning. Topics covered include: overview of resources, access to collections, research support tools, e-resources, and library rules.",
+            "venue": "Conference Hall, 2nd Floor, Central Library",
+            "organisingBody": "Central Library",
+            "contact": "in-charge, Reference Section, or the library professional staff at +91-22-2576-8922 / 33"
+        }
     }
 ]
