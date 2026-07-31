@@ -9073,5 +9073,16 @@
             "organisingBody": "UGAC | HA Council | IR Office",
             "contact": null
         }
+    },
+    {
+        "title": "Accenture Innovation Challenge 2026 Campus Launch Session",
+        "start": "2026-08-01T18:00:00",
+        "end": "2026-08-01T18:00:00",
+        "extendedProps": {
+            "description": "Official campus launch of Accenture Innovation Challenge (AIC) 2026. Senior Accenture leaders will introduce this year's challenge and share how AI and Agentic AI are transforming businesses across industries. The session will feature live demonstrations, insights into real-world AI applications, and discussions on building a career in AI and technology. IIT Bombay has been selected as one of a select few institutions across India invited to participate in AIC 2026, giving eligible students the opportunity to compete on a national platform by building AI-powered solutions to real business challenges. The challenge involves two competitive rounds, with top 10 campus-winning teams advancing to the Grand Finale in Bengaluru this September and a chance to receive Pre-Placement Interview (PPI) opportunities from Accenture. Eligibility: 3rd & 4th year B.Tech students (all branches). Team Size: Up to 3 members. Registration Link: https://accentureinnovationchallenge.unstop.com",
+            "venue": "LT-PCSA",
+            "organisingBody": "WnCC (Web and Coding Club), GSTA (General Secretary, Technical Affairs), IIT Bombay",
+            "contact": "Avnish: 9167339950, Mithra: 8762070856, Veeraditya Karan Parakh: +91 94490 007525"
+        }
     }
 ]
