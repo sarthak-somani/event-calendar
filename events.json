@@ -9095,5 +9095,38 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Japan\u2013India Joint PBL on Unmet Medical Needs 2026",
+        "start": "2026-09-09T00:00:00",
+        "end": "2026-09-17T00:00:00",
+        "extendedProps": {
+            "description": "The University of Tsukuba, Japan, in collaboration with IIT Bombay and IIT Madras, invites applications from IIT Bombay final-year Dual Degree (DD) students and second-year Master's students to participate in the Japan-India Joint Project-Based Learning (PBL) on Unmet Medical Needs 2026. Participants will work in multidisciplinary teams with students from Japan and India, engage with clinical experts and industry mentors, and develop practical healthcare solutions through design thinking, prototyping, and business planning.",
+            "venue": "Online",
+            "organisingBody": "University of Tsukuba, Japan, in collaboration with IIT Bombay and IIT Madras",
+            "contact": "interuniv-india-jp@un.tsukuba.ac.jp"
+        }
+    },
+    {
+        "title": "WITC's PRISM Colloquium Series: Promise, Potential, and Pitfalls of Genomic Medicine",
+        "start": "2026-08-05T12:00:00",
+        "end": "2026-08-05T12:00:00",
+        "extendedProps": {
+            "description": "The Wadhwani IIT Bombay Innovation Centre (WITC) cordially invites you to the upcoming edition of the PRISM Colloquium, featuring a talk titled 'Promise, Potential, and Pitfalls of Genomic Medicine' by Dr. Vedam Ramprasad, CEO of MedGenome. Dr. Ramprasad is a renowned scientist with over two decades of experience in genomics and diagnostics, focused on advancing precision medicine and making advanced diagnostics accessible in emerging markets.",
+            "venue": "BSBE Seminar Room A",
+            "organisingBody": "The Wadhwani IIT Bombay Innovation Centre (WITC)",
+            "contact": null
+        }
+    },
+    {
+        "title": "Placement Season 2026-27 Registration and Timeline",
+        "start": "2026-08-02T00:00:00",
+        "end": "2026-09-03T23:59:59",
+        "extendedProps": {
+            "description": "Official announcement for IIT Bombay Placement Season 2026-27. Includes timeline for registration, payment, resume submission, and verification for eligible students. Key dates: Registration/payment portal opens Aug 2, 2026. Deadline for registration/payment Aug 9, 2026, 11:59 PM. Deadline for resume/proof submission/verification Aug 18, 2026, 3:00 PM. Resume verification Aug 18 - Sep 3, 2026. Students must adhere strictly to deadlines. Queries through DGSec. Student Placement Policy and Placement Blog links provided for more information.",
+            "venue": "Online",
+            "organisingBody": "IIT Bombay Placements Office",
+            "contact": "Through DGSec"
+        }
     }
 ]
