@@ -9128,5 +9128,16 @@
             "organisingBody": "IIT Bombay Placements Office",
             "contact": "Through DGSec"
         }
+    },
+    {
+        "title": "Special Intensive Revision (SIR) campaign",
+        "start": "2026-07-19T00:00:00",
+        "end": "2026-08-05T00:00:00",
+        "extendedProps": {
+            "description": "The Election Commission has initiated work related to Special Intensive Revision (SIR) in our campus. Booth Level Officers (BLOs) are available to assist with voter list revision. Residents are requested to check their names and bring required details and passport size photos. The campaign has been extended until August 5th, 2026.",
+            "venue": "Convocation Hall foyer",
+            "organisingBody": "Election Commission and IIT Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
