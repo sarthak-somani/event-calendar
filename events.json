@@ -9139,5 +9139,16 @@
             "organisingBody": "Election Commission and IIT Bombay",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay, Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Strong Interactions, Exotic Emergent Particles and Future Quantum Technologies",
+        "start": "2026-08-12T17:15:00",
+        "end": "2026-08-12T17:15:00",
+        "extendedProps": {
+            "description": "Prof. Jainendra K. Jain is the Evan Pugh University Professor and Eberly Family Chair in Physics at Pennsylvania State University, and the Founding Director of the Lodha Theoretical Physics Institute, Mumbai. He is one of the world's leading theoretical condensed matter physicists, best known for his celebrated discovery of composite fermions, which are exotic particles that form when electrons bind with magnetic flux quanta. The fractional quantum Hall effect, a strongly interacting problem, is a priori one of the most challenging in physics. Composite fermions explain a remarkable range of these phenomena with elegance and simplicity. He has also authored the book _Composite Fermions_, published by Cambridge University Press. In 2025, Prof. Jain became the first person of Indian origin to receive the Wolf Prize in Physics, one of the field's highest honors. Among its previous recipients are Stephen Hawking, Roger Penrose, Peter Higgs and David Thouless. He is a recipient of the 2002 Oliver E. Buckley Condensed Matter Physics Prize, the American Physical Society's highest award in this field. He was elected a member of the U.S. National Academy of Sciences in 2021 and a Foreign Fellow of the Indian National Science Academy in 2024. The colloquium offers a rare opportunity to hear directly from one of the most distinguished theoretical physicists of our time. All members of the institute community are warmly invited to attend. One of the most remarkable aspects of nature is that when many particles interact, they can reorganize themselves to produce entirely new kinds of particles with properties that none of the individual particles possess. This talk will explore the astonishing quantum world of the emergent particles called \"composite fermions\", which arise when electrons dress themselves with quanta of magnetic field. I will recount the surprising twists and turns -- including discoveries of integer and fractional quantum Hall effects, two Nobel Prize-winning phenomena -- that led to the composite fermions, and show how they provide a simple and unified understanding of a remarkable range of quantum phenomena that would otherwise seem bewildering. This non-technical talk is intended for anyone curious about nature and the future of technology, regardless of background in physics. Along the way, we will see how curiosity-driven fundamental research can inspire new approaches to quantum technologies, including new ideas for fault-tolerant topological quantum computing, and how deep scientific discoveries often lead to transformative technologies in unexpected ways.",
+            "venue": "P.C. Saxena Auditorium, IIT Bombay",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, Indian Institute of Technology Bombay, Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
