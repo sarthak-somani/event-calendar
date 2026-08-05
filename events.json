@@ -9183,5 +9183,16 @@
             "organisingBody": "Wadhwani Innovation and Translation Center (WITC)",
             "contact": "pic.witc@iitb.ac.in"
         }
+    },
+    {
+        "title": "Special Intensive Revision (SIR) Campaign",
+        "start": "2026-07-19T10:00:00",
+        "end": "2026-08-17T10:00:00",
+        "extendedProps": {
+            "description": "The Election Commission has initiated a Special Intensive Revision (SIR) campaign on IIT Bombay campus for voter registration, assisted by Booth Level Officers (BLOs). The campaign, which initially began on July 19, 2026, has been extended till August 17, 2026. BLOs will be available at the Convocation Hall foyer until August 12, 2026, after which they will move to another unspecified location on campus. This email serves as a final reminder to submit SIR forms. Please contact your respective BLOs for further submission details.",
+            "venue": "Convocation Hall Foyer, IIT Bombay",
+            "organisingBody": "Election Commission / IIT Bombay Public Relations Office",
+            "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay; Tel.No.: (+91-22) 25767026-27"
+        }
     }
 ]
