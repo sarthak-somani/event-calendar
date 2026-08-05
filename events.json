@@ -9161,5 +9161,27 @@
             "organisingBody": "IIT Bombay in collaboration with the Forest Department",
             "contact": null
         }
+    },
+    {
+        "title": "ShARE IITB Orientation",
+        "start": "2026-08-06T00:00:00",
+        "end": "2026-08-06T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "UGAC",
+            "contact": null
+        }
+    },
+    {
+        "title": "Promise, Potential, and Pitfalls of Genomic Medicine",
+        "start": "2026-08-05T12:00:00",
+        "end": "2026-08-05T12:00:00",
+        "extendedProps": {
+            "description": "The Wadhwani IIT Bombay Innovation Centre (WITC) cordially invites you to the upcoming edition of the PRISM Colloquium. The talk will be delivered by Dr. Vedam Ramprasad, CEO of MedGenome. Dr. Ramprasad is a scientist with over two decades of experience, instrumental in building MedGenome's extensive genetic testing portfolio and driving the adoption of genomics in healthcare, making advanced diagnostics accessible in emerging markets.",
+            "venue": "BSBE Seminar Room A",
+            "organisingBody": "Wadhwani Innovation and Translation Center (WITC)",
+            "contact": "pic.witc@iitb.ac.in"
+        }
     }
 ]
