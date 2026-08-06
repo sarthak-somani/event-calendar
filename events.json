@@ -9194,5 +9194,16 @@
             "organisingBody": "Election Commission / IIT Bombay Public Relations Office",
             "contact": "Falguni Banerjee Naha, Public Relations Officer, IIT Bombay; Tel.No.: (+91-22) 25767026-27"
         }
+    },
+    {
+        "title": "Foundation-scale Models for Advanced Multimodal Reasoning",
+        "start": "2026-08-07T17:00:00",
+        "end": "2026-08-07T17:00:00",
+        "extendedProps": {
+            "description": "Documents communicate meaning not only through text but also through their visual organization, including layout, typography, tables, figures, and spatial relationships. This talk explores how foundation-scale multimodal models are enabling richer forms of reasoning over such structured visual and textual information. Beginning with Document Visual Question Answering (DocVQA), I will show how recent advances move beyond a text answer to identifying multiple evidence spans and spatially grounding them at different semantic granularities. I will then present an agentic framework that reconstructs documents into fidelity-preserving HTML representations, creating a scalable mechanism for synthesizing high-quality training data. I will also discuss approaches that explicitly ground intermediate reasoning steps, making multimodal model predictions more transparent and verifiable. Finally, I will describe a unified formulation of visual layout understanding that represents pages as hierarchical, open-vocabulary structures, enabling more flexible interaction with complex multimodal content. Together, these ideas illustrate how foundation-scale models are bringing us closer to multimodal AI systems that can answer, explain, localize, and reason over visually structured information with human-like fidelity. Dr. Ravi Kiran Sarvadevabhatla is an Associate Professor at the Centre for Visual Information Technology (CVIT), IIIT Hyderabad. He leads the development of Vision-Language foundation models at BharatGen, India's national mission to build sovereign multilingual and multimodal AI models. He also leads Mobility-related Applied Projects at iHub-Data, a DST Technology Innovation Hub. He received his Ph.D. from the Indian Institute of Science, Bengaluru, and his M.S. from the University of Washington, USA, and has prior experience in industrial R&D in the United States. His research interests include vision-language models, document intelligence, and generative AI, with applications in governance, culture, and low-resource languages. His team's work has received best paper awards at leading international AI and computer vision conferences.",
+            "venue": "Seminar Hall, First Floor, Centre of Studies in Resources Engineering (CSRE); Online Join Link: https://teams.microsoft.com/meet/434814603064292?p=mCflwcWWbbCXcAAPqR",
+            "organisingBody": "IITB-HRTI Centre of Excellence on Computer Vision, Multimodal AI, and Geo-Intelligence",
+            "contact": "Prof. Biplab Banerjee (bbanerjee@iitb.ac.in)"
+        }
     }
 ]
