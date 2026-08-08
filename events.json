@@ -9205,5 +9205,27 @@
             "organisingBody": "IITB-HRTI Centre of Excellence on Computer Vision, Multimodal AI, and Geo-Intelligence",
             "contact": "Prof. Biplab Banerjee (bbanerjee@iitb.ac.in)"
         }
+    },
+    {
+        "title": "X-band EPR measurements at liquid helium temperature",
+        "start": "2026-08-10T00:00:00",
+        "end": "2026-08-19T00:00:00",
+        "extendedProps": {
+            "description": "Announcement regarding the commencement of X-band EPR measurements at liquid helium temperature from 10 August 2026 for approximately 7-10 days. Interested users are requested to register their samples through the Drona portal and contact Dr. Baidyanath Sahu to schedule their measurements.",
+            "venue": null,
+            "organisingBody": "Department of Chemistry and Centre for Sophisticated Instruments and Facilities (CSIF), Indian Institute of Technology Bombay",
+            "contact": "Dr. Baidyanath Sahu (baidyanathsahu@gmail.com)"
+        }
+    },
+    {
+        "title": "Placement Drive Special || Resume Building Workshop for IITB PGs",
+        "start": "2026-08-14T00:00:00",
+        "end": "2026-08-14T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
