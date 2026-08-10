@@ -9249,5 +9249,16 @@
             "organisingBody": "Central Library",
             "contact": "Chief Library Officer, Central Library"
         }
+    },
+    {
+        "title": "IIT Bombay Staff Excellence Awards 2025 Presentation Ceremony",
+        "start": "2026-08-15T00:00:00",
+        "end": "2026-08-15T00:00:00",
+        "extendedProps": {
+            "description": "This event is the formal presentation of the IIT Bombay Staff Excellence Awards for the Year 2025 to the announced recipients. The awards recognize outstanding contributions from non-teaching staff, with categories for individual, team, and lifetime achievement. Awardees will receive cash prizes and certificates of recognition.",
+            "venue": null,
+            "organisingBody": "IIT Bombay",
+            "contact": "director@iitb.ac.in"
+        }
     }
 ]
