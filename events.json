@@ -9227,5 +9227,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Issue of books from Technology Lending Library Collection (Book Bank)",
+        "start": "2026-08-17T09:30:00",
+        "end": "2026-08-20T09:30:00",
+        "extendedProps": {
+            "description": "Central Library has a facility to issue books to the UG students from the Technology Lending Library collection (Book Bank) to the economically weaker section students, whose parents' income is below the taxable limit or who are eligible to get the MCM Scholarship. All undergraduate students are eligible to borrow 5 books by paying Rs. 51/-. The remaining books will be issued to the general category student on payment of Rs 91/-. These books have to be returned on or before the end of the semester. Please carry your valid institute identity card.",
+            "venue": "Ground Floor (Circulation Section)",
+            "organisingBody": "Central Library",
+            "contact": null
+        }
+    },
+    {
+        "title": "Issue of books to SC/ST students from Book Bank",
+        "start": "2026-08-11T09:30:00",
+        "end": "2026-08-14T09:30:00",
+        "extendedProps": {
+            "description": "The Central Library is issuing 5 textbooks for the semester from its book bank to eligible SC/ST undergraduate students. Students can borrow 5 textbooks for the semester. These books have to be returned before the end of the semester. Eligibility is based on names appearing in the list of SC/ST students received from the academic office. Please carry your valid identity card.",
+            "venue": "GROUND FLOOR (CIRCULATION SECTION)",
+            "organisingBody": "Central Library",
+            "contact": "Chief Library Officer, Central Library"
+        }
     }
 ]
