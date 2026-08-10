@@ -9271,5 +9271,27 @@
             "organisingBody": "Indian Institute of Technology Bombay",
             "contact": "C. P. Joglekar, Joint Registrar (Academic), Indian Institute of Technology Bombay, Powai, Mumbai- 400 076, Tele: 022-25767987"
         }
+    },
+    {
+        "title": "Zumba and Pilates Classes Registration Open",
+        "start": "2026-08-12T17:30:00",
+        "end": "2026-08-12T17:30:00",
+        "extendedProps": {
+            "description": "The Institute Sports Council announces that registrations for Zumba and Pilates classes are now open. Zumba is a high-energy fitness program combining music with dance moves, while Pilates focuses on strengthening the body with an emphasis on core stability, posture, flexibility, and controlled movement. Classes will be held three times a week on Mon-Wed-Fri.",
+            "venue": "Screening room, 3rd floor (New SAC, opp. Hostel-11)",
+            "organisingBody": "Institute Sports Council",
+            "contact": "Om Salunke, Fitness Club Manager, +91 8793375675"
+        }
+    },
+    {
+        "title": "Inter IIT Pre-Camp Trials for Swimming and Water Polo",
+        "start": "2026-08-11T18:30:00",
+        "end": "2026-08-11T18:30:00",
+        "extendedProps": {
+            "description": "The Aquatics Club, IIT Bombay, will be conducting the Inter IIT Pre-Camp Trials for Swimming and Water Polo for the upcoming Inter IIT Aquatics Meet, October 2026. All enthusiastic swimmers are encouraged to participate in the trials. Please note that this trial is not intended for beginner swimmers. A separate camp for beginners will be conducted, and the details will be shared soon. Interested participants are requested to fill out the form: https://forms.gle/gSt1EKmh7VGya2f8.",
+            "venue": "Institute Swimming Pool",
+            "organisingBody": "Aquatics Club, IIT Bombay",
+            "contact": "Ishanei Kumar (Institute Aquatics Secretary): 6266624331, Deepraj Singh Kasherwal (General Secretary, Sports Affairs): +91 9761543343"
+        }
     }
 ]
