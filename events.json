@@ -9293,5 +9293,16 @@
             "organisingBody": "Aquatics Club, IIT Bombay",
             "contact": "Ishanei Kumar (Institute Aquatics Secretary): 6266624331, Deepraj Singh Kasherwal (General Secretary, Sports Affairs): +91 9761543343"
         }
+    },
+    {
+        "title": "Statistical Learning and Data Science for Climate Risk Assessment",
+        "start": "2026-08-13T15:00:00",
+        "end": "2026-08-13T15:00:00",
+        "extendedProps": {
+            "description": "Risk of hydroclimatic extreme events informs engineering decision-making and sustainable environment management. This talk will highlight recent research efforts using advanced statistical frameworks, extreme value theory, unsupervised learning, predictive data-driven modeling and multi-criteria decision-making for attribution of hydroclimatic hazards in India to climate change, assessing their impact and quantifying their interactions with socio-economic exposure and vulnerability. While the applied mathematical, statistical or data-driven methods are applicable to a class of extreme events, the talk will focus on the risk of hot extremes and heat waves in India and their interactions with other hazards such as droughts and air pollution.",
+            "venue": "Ramanujan Hall, 2nd Floor, Department of Mathematics",
+            "organisingBody": "Advanced Applied Mathematics Program",
+            "contact": null
+        }
     }
 ]
