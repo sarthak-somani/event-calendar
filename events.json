@@ -9348,5 +9348,16 @@
             "organisingBody": "DSSE, IIC and E-Cell, IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Institute Lecture by Prof. Beverley J McKeon",
+        "start": "2026-09-03T00:00:00",
+        "end": "2026-09-03T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
