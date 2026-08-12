@@ -9337,5 +9337,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "World Entrepreneurs' Day",
+        "start": "2026-08-21T00:00:00",
+        "end": "2026-08-21T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "DSSE, IIC and E-Cell, IIT Bombay",
+            "contact": null
+        }
     }
 ]
