@@ -9381,5 +9381,16 @@
             "organisingBody": "Electronics and Robotics Club",
             "contact": null
         }
+    },
+    {
+        "title": "Tiranga Yatra - Independence Day 2026",
+        "start": "2026-08-15T00:00:00",
+        "end": "2026-08-15T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
