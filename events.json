@@ -9436,5 +9436,16 @@
             "organisingBody": "SARC",
             "contact": null
         }
+    },
+    {
+        "title": "Resume Building Workshop",
+        "start": "2026-08-14T00:00:00",
+        "end": "2026-08-14T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
