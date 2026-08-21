@@ -9557,5 +9557,16 @@
             "organisingBody": "Student Events",
             "contact": null
         }
+    },
+    {
+        "title": "Information Session with Campus France - French Embassy in India",
+        "start": "2026-09-02T19:30:00",
+        "end": "2026-09-02T19:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Campus France - French Embassy in India",
+            "contact": null
+        }
     }
 ]
