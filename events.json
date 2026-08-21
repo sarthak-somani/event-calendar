@@ -9546,5 +9546,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Stress Management workshop series",
+        "start": "2026-08-31T00:00:00",
+        "end": "2026-08-31T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Student Events",
+            "contact": null
+        }
     }
 ]
