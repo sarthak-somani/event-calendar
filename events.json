@@ -9601,5 +9601,27 @@
             "organisingBody": "SSS, UGAC",
             "contact": null
         }
+    },
+    {
+        "title": "PGAC Postdoctoral Opportunities Series - Lecture 2",
+        "start": "2026-08-30T00:00:00",
+        "end": "2026-08-30T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Online",
+            "organisingBody": "PGAC",
+            "contact": null
+        }
+    },
+    {
+        "title": "Lecture 2 || PGAC Postdoctoral Opportunities Series",
+        "start": "2026-08-30T00:00:00",
+        "end": "2026-08-30T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Online",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
