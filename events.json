@@ -9645,5 +9645,16 @@
             "organisingBody": "EU-India Student Ambassadors Network",
             "contact": null
         }
+    },
+    {
+        "title": "AI-ML Team IIT Bombay Recruitment",
+        "start": "2024-08-31T00:00:00",
+        "end": "2024-08-31T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "AI-ML Team IIT Bombay",
+            "contact": null
+        }
     }
 ]
