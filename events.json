@@ -9700,5 +9700,16 @@
             "organisingBody": "CSL",
             "contact": null
         }
+    },
+    {
+        "title": "Postdoc Workshop - Research Opportunities in Germany, Mumbai",
+        "start": "2026-10-07T09:00:00",
+        "end": "2026-10-07T09:00:00",
+        "extendedProps": {
+            "description": "The workshop is designed for researchers exploring Germany as the next step in their research career, offering practical insights into postdoctoral pathways, funding opportunities, the German research ecosystem and international research collaborations, along with opportunities to connect with German universities and research institutions and build lasting research networks. The workshop will be particularly relevant to PhD scholars, postdoctoral researchers, research associates, early-career faculty, research scientists, R&D professionals and research managers interested in international research opportunities.",
+            "venue": "Indian Merchant Chambers (IMC), Walchand Hirachand Hall, 4th Floor, Mumbai (Near Churchgate Station)",
+            "organisingBody": "TU Dortmund University, Germany",
+            "contact": "ramneet.mehta@tu-dortmund.de"
+        }
     }
 ]
