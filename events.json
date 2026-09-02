@@ -9689,5 +9689,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Address by Chief Guest Shri K. Krithivasan Ji, CEO, TCS, at CSL Sanskrit Diwas event",
+        "start": "2026-09-06T00:00:00",
+        "end": "2026-09-06T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "CSL",
+            "contact": null
+        }
     }
 ]
