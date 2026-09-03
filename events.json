@@ -9711,5 +9711,16 @@
             "organisingBody": "TU Dortmund University, Germany",
             "contact": "ramneet.mehta@tu-dortmund.de"
         }
+    },
+    {
+        "title": "Books By Weight",
+        "start": "2023-09-05T10:00:00",
+        "end": "2023-09-05T10:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Som Foyer",
+            "organisingBody": "Literati",
+            "contact": null
+        }
     }
 ]
