@@ -9744,5 +9744,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "PG Cult Informals Showcase",
+        "start": "2023-09-06T20:00:00",
+        "end": "2023-09-06T20:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LTPCSA",
+            "organisingBody": "PG Cult",
+            "contact": null
+        }
     }
 ]
