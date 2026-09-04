@@ -9755,5 +9755,16 @@
             "organisingBody": "PG Cult",
             "contact": null
         }
+    },
+    {
+        "title": "Football Pre-Camp Trials",
+        "start": "2023-09-04T00:00:00",
+        "end": "2023-09-04T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
