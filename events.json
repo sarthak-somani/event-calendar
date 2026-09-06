@@ -9777,5 +9777,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "MC\u00b2+ IGNITE Event",
+        "start": "2026-09-08T00:00:00",
+        "end": "2026-09-08T00:00:00",
+        "extendedProps": {
+            "description": "For Energy Sector Startups.",
+            "venue": "IIT Bombay",
+            "organisingBody": "IIT Bombay",
+            "contact": null
+        }
     }
 ]
