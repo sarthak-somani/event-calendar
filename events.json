@@ -9799,5 +9799,16 @@
             "organisingBody": "Student Support Services",
             "contact": null
         }
+    },
+    {
+        "title": "MA105 TSC Sessions",
+        "start": "2023-09-08T21:00:00",
+        "end": "2023-09-10T21:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Student Support Services",
+            "contact": null
+        }
     }
 ]
