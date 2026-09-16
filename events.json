@@ -9832,5 +9832,16 @@
             "organisingBody": "Pureheart Capital",
             "contact": null
         }
+    },
+    {
+        "title": "Swachhata Hi Seva 2026 Activities",
+        "start": "2026-09-17T00:00:00",
+        "end": "2026-09-20T00:00:00",
+        "extendedProps": {
+            "description": "As part of Swachhata Hi Seva (SHS) 2026, IIT Bombay will undertake various cleanliness and awareness activities, encouraging all community members to actively participate. Activities include cleaning homes and lighting a lamp (Sept 17), awareness on waste segregation, promotion/collection of reusable items, wall painting, and youth engagement (Sept 18), and time-bound cleanup and transformation of vulnerable points, site beautification, and tree planting (Sept 19-20).",
+            "venue": "IIT Bombay campus and residences",
+            "organisingBody": "Indian Institute of Technology Bombay",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, Public Health Office, IIT Bombay"
+        }
     }
 ]
