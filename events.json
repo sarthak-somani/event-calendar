@@ -9865,5 +9865,16 @@
             "organisingBody": "SCAN",
             "contact": null
         }
+    },
+    {
+        "title": "Midsem Exams",
+        "start": "2020-09-26T00:00:00",
+        "end": "2020-09-27T00:00:00",
+        "extendedProps": {
+            "description": "Rescheduled midsem exams. The exams earlier scheduled on 19 Sept Saturday and 20 Sept Sunday are now scheduled on 26 Sept Saturday and 27 Sept Sunday with the same time table.",
+            "venue": null,
+            "organisingBody": "Suvarn and Pratibha",
+            "contact": null
+        }
     }
 ]
