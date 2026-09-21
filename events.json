@@ -9876,5 +9876,16 @@
             "organisingBody": "Suvarn and Pratibha",
             "contact": null
         }
+    },
+    {
+        "title": "Hindi Book Exhibition",
+        "start": "2026-09-21T00:00:00",
+        "end": "2026-09-22T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
