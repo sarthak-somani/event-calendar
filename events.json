@@ -9953,5 +9953,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Team SHUNYA Orientation 2026",
+        "start": "2026-09-29T18:30:00",
+        "end": "2026-09-29T18:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LH 101",
+            "organisingBody": "Team SHUNYA",
+            "contact": null
+        }
     }
 ]
