@@ -9997,5 +9997,27 @@
             "organisingBody": "IIT Bombay Mars Rover Team",
             "contact": null
         }
+    },
+    {
+        "title": "Dr. P. K. Patwardhan Award 2025 & Prof. S. L. Mehndiratta Award 2025",
+        "start": "2026-10-06T00:00:00",
+        "end": "2026-10-06T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "AUV-IITB Freshers' Recruitment Test",
+        "start": "2026-09-29T20:30:00",
+        "end": "2026-09-29T20:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "AUV-IITB",
+            "contact": null
+        }
     }
 ]
