@@ -10096,5 +10096,27 @@
             "organisingBody": "SeDriCa UMIC",
             "contact": null
         }
+    },
+    {
+        "title": "WnCC GIT 101",
+        "start": "2023-09-30T00:00:00",
+        "end": "2023-09-30T00:00:00",
+        "extendedProps": {
+            "description": "Hands-on Session",
+            "venue": "LC102",
+            "organisingBody": "WnCC",
+            "contact": null
+        }
+    },
+    {
+        "title": "Sophieprod 2026",
+        "start": "2026-09-29T00:00:00",
+        "end": "2026-09-29T00:00:00",
+        "extendedProps": {
+            "description": "Day 2 Line-up",
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
