@@ -10052,5 +10052,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Cleanliness Drive",
+        "start": "2026-10-03T07:30:00",
+        "end": "2026-10-03T07:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Shaam-e-Mehfil | \u090f\u0915 \u0936\u093e\u092e \u0938\u093e\u0939\u093f\u0924\u094d\u092f \u0915\u0947 \u0928\u093e\u092e",
+        "start": "2023-09-30T19:00:00",
+        "end": "2023-09-30T19:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "SOM Well",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
