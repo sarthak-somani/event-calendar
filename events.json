@@ -10118,5 +10118,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Team SHUNYA Recruitment Test",
+        "start": "2026-09-30T00:00:00",
+        "end": "2026-09-30T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Team SHUNYA",
+            "contact": null
+        }
     }
 ]
