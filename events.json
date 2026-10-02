@@ -10162,5 +10162,27 @@
             "organisingBody": "S.Events",
             "contact": null
         }
+    },
+    {
+        "title": "Insight Freshers\u2019 Orientation 2026",
+        "start": "2026-10-06T19:30:00",
+        "end": "2026-10-06T19:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Mood Indigo Freshers Orientation",
+        "start": "2026-10-02T17:00:00",
+        "end": "2026-10-02T17:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Convocation Hall",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
