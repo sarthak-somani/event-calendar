@@ -10195,5 +10195,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Team AeRoVe UMIC Freshmen Orientation",
+        "start": "2026-10-05T19:00:00",
+        "end": "2026-10-05T19:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Team AeRoVe UMIC",
+            "contact": null
+        }
     }
 ]
