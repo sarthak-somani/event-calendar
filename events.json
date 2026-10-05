@@ -10228,5 +10228,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "HackerFab IITB Freshmen Orientation",
+        "start": "2023-10-07T20:30:00",
+        "end": "2023-10-07T20:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LA201",
+            "organisingBody": "HackerFab IITB",
+            "contact": null
+        }
+    },
+    {
+        "title": "CSeC Orientation | Basics of Hacking: Forensics",
+        "start": "2023-10-06T00:00:00",
+        "end": "2023-10-06T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LA001",
+            "organisingBody": "CSeC",
+            "contact": null
+        }
     }
 ]
