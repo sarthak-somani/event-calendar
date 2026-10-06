@@ -10250,5 +10250,27 @@
             "organisingBody": "CSeC",
             "contact": null
         }
+    },
+    {
+        "title": "Insight\u2019s First Long Documentary Film Screening",
+        "start": "2023-10-06T18:00:00",
+        "end": "2023-10-06T18:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Insight",
+            "contact": null
+        }
+    },
+    {
+        "title": "IIT Bombay Rocket Team Freshers' Orientation",
+        "start": "2023-10-07T19:00:00",
+        "end": "2023-10-07T19:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "IIT Bombay Rocket Team",
+            "contact": null
+        }
     }
 ]
