@@ -10283,5 +10283,49 @@
             "organisingBody": "Insight",
             "contact": null
         }
+    },
+    {
+        "title": "Career in Academia for PhD Scholar",
+        "start": "2023-10-07T00:00:00",
+        "end": "2023-10-07T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "IIM Lucknow \u00d7 IIT Bombay",
+            "contact": null
+        }
+    },
+    {
+        "title": "Freshers\u2019 Orientation and SARC ILP Opportunities",
+        "start": "2023-10-08T18:30:00",
+        "end": "2023-10-08T18:30:00",
+        "extendedProps": {
+            "description": "Freshers\u2019 Orientation and SARC ILP Opportunities",
+            "venue": "FC Kohli",
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Distinguished Lecture Series \u2013 Lecture by Former Ambassador Mr. A. R. Ghanshyam",
+        "start": "2026-10-13T00:00:00",
+        "end": "2026-10-13T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Hello FOSS Orientation",
+        "start": "2023-10-08T00:00:00",
+        "end": "2023-10-08T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LC101",
+            "organisingBody": "WnCC",
+            "contact": null
+        }
     }
 ]
