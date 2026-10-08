@@ -10327,5 +10327,16 @@
             "organisingBody": "WnCC",
             "contact": null
         }
+    },
+    {
+        "title": "Quant Club Freshers' Orientation 2026",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-12T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Quant Club",
+            "contact": null
+        }
     }
 ]
