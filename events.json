@@ -10338,5 +10338,38 @@
             "organisingBody": "Quant Club",
             "contact": null
         }
+    },
+    {
+        "title": "One-day session on the Lifestyle Management & Health Awareness Programme",
+        "start": "2026-10-17T00:00:00",
+        "end": "2026-10-17T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Girish Sant Memorial Lecture Series",
+        "start": "2026-10-14T00:00:00",
+        "end": "2026-10-14T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Aikido Martial Arts workshop",
+        "start": "2026-10-13T00:00:00",
+        "end": "2026-10-13T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
