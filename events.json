@@ -10371,5 +10371,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Mindset Exams",
+        "start": "2023-10-10T00:00:00",
+        "end": "2023-10-11T00:00:00",
+        "extendedProps": {
+            "description": "Instructions for students and TAs",
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
