@@ -10415,5 +10415,38 @@
             "organisingBody": "Institute",
             "contact": null
         }
+    },
+    {
+        "title": "Distinguished Lecture Series \u2013 Lecture by Former Ambassador Mr. A. R. Ghanashyam",
+        "start": "2026-10-13T00:00:00",
+        "end": "2026-10-13T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Quant Club Freshers' Orientation 2026",
+        "start": "2026-10-12T18:30:00",
+        "end": "2026-10-12T18:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LA001",
+            "organisingBody": "Quant Club",
+            "contact": null
+        }
+    },
+    {
+        "title": "ExoFly Orientation 2026",
+        "start": "2023-10-26T19:00:00",
+        "end": "2023-10-26T19:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LH 101",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
