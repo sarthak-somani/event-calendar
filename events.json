@@ -10459,5 +10459,38 @@
             "organisingBody": "KAVA, The Culinary Club",
             "contact": null
         }
+    },
+    {
+        "title": "Sustainability Cell Freshers\u2019 Orientation | Treasure Hunt",
+        "start": "2026-10-14T00:00:00",
+        "end": "2026-10-14T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Sustainability Cell",
+            "contact": null
+        }
+    },
+    {
+        "title": "Swimming Camp",
+        "start": "2024-10-15T00:00:00",
+        "end": "2024-10-15T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "DevCom Orientation",
+        "start": "2026-10-14T19:00:00",
+        "end": "2026-10-14T19:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
