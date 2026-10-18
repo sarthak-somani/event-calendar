@@ -10503,5 +10503,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Avenues 2026 \u2013 SJMSOM's Annual Business Festival",
+        "start": "2026-10-24T00:00:00",
+        "end": "2026-10-25T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "SJMSOM",
+            "contact": null
+        }
     }
 ]
