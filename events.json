@@ -10514,5 +10514,16 @@
             "organisingBody": "SJMSOM",
             "contact": null
         }
+    },
+    {
+        "title": "Innovation Expo 2026",
+        "start": "2026-10-25T00:00:00",
+        "end": "2026-10-25T00:00:00",
+        "extendedProps": {
+            "description": "Meet Alumni Startups, VCs & Tech Teams",
+            "venue": "LHC Foyer",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
