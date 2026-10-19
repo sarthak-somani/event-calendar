@@ -10525,5 +10525,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "5th Japan-India Universities Forum",
+        "start": "2026-11-28T00:00:00",
+        "end": "2026-11-29T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Virasat 2026",
+        "start": "2026-10-23T00:00:00",
+        "end": "2026-10-24T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "S.Events",
+            "contact": null
+        }
     }
 ]
