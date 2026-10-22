@@ -10547,5 +10547,27 @@
             "organisingBody": "S.Events",
             "contact": null
         }
+    },
+    {
+        "title": "Global Immersion Programme 2026 at Tohoku University, Japan",
+        "start": "2026-12-14T00:00:00",
+        "end": "2026-12-18T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Tohoku University, Japan",
+            "organisingBody": "Tohoku University, Japan",
+            "contact": null
+        }
+    },
+    {
+        "title": "Bracelet Making",
+        "start": "2023-10-24T14:00:00",
+        "end": "2023-10-24T14:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "LC 102",
+            "organisingBody": "Saathi",
+            "contact": null
+        }
     }
 ]
