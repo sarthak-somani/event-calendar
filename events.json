@@ -10580,5 +10580,27 @@
             "organisingBody": "Micron",
             "contact": null
         }
+    },
+    {
+        "title": "Temporary Road Closure from Hostel 1 T-Point to Hostel 4",
+        "start": "2026-10-24T00:00:00",
+        "end": "2026-10-24T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Hostel 1 T-Point to Hostel 4",
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Beyond the Horizon",
+        "start": "2023-10-25T17:30:00",
+        "end": "2023-10-25T17:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Student Alumni Relations Cell",
+            "contact": null
+        }
     }
 ]
