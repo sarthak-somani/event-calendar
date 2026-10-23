@@ -10602,5 +10602,27 @@
             "organisingBody": "Student Alumni Relations Cell",
             "contact": null
         }
+    },
+    {
+        "title": "Avhan Half Marathon",
+        "start": "2026-10-25T00:00:00",
+        "end": "2026-10-25T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Campus",
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Avhan Half Marathon",
+        "start": "2026-10-25T00:00:00",
+        "end": "2026-10-25T00:00:00",
+        "extendedProps": {
+            "description": "A half marathon event.",
+            "venue": "Campus",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
