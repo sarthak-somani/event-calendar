@@ -10646,5 +10646,38 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Cambridge University Press Author Workshop",
+        "start": "2026-10-28T00:00:00",
+        "end": "2026-10-28T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Cambridge University Press",
+            "contact": null
+        }
+    },
+    {
+        "title": "Hands-on Workshop on CFD\u2013Particle Coupling",
+        "start": "2026-10-31T00:00:00",
+        "end": "2026-11-01T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "PGAC x FOSSEE x DESE",
+            "contact": null
+        }
+    },
+    {
+        "title": "Hands-on Workshop on CFD\u2013Particle Coupling",
+        "start": "2026-10-31T00:00:00",
+        "end": "2026-11-01T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "PGAC x FOSSEE x DESE",
+            "contact": null
+        }
     }
 ]
