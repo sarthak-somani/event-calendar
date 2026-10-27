@@ -10701,5 +10701,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Special Lecture \u201cSanskrit in the Courtroom\u201d by Acharya Shyamji Upadhyay",
+        "start": "2026-10-31T00:00:00",
+        "end": "2026-10-31T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
