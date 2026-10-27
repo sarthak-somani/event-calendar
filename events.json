@@ -10679,5 +10679,27 @@
             "organisingBody": "PGAC x FOSSEE x DESE",
             "contact": null
         }
+    },
+    {
+        "title": "Institute Lecture by Prof. Subramanian S. Iyer",
+        "start": "2026-11-02T00:00:00",
+        "end": "2026-11-02T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Football Inter-IIT Camp Trials",
+        "start": "2026-11-03T00:00:00",
+        "end": "2026-11-03T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
