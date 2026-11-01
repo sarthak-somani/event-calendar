@@ -10822,5 +10822,16 @@
             "organisingBody": "BioX",
             "contact": null
         }
+    },
+    {
+        "title": "Freshman Debate Open 2026 \u2013 The Ultimate Freshie Showdown",
+        "start": "2026-10-31T00:00:00",
+        "end": "2026-11-01T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
