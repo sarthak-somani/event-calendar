@@ -10877,5 +10877,16 @@
             "organisingBody": "PGAC",
             "contact": null
         }
+    },
+    {
+        "title": "My Campus Clean Campus \u2013 Cleanliness Drive Initiative",
+        "start": "2023-11-07T07:30:00",
+        "end": "2023-11-07T07:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
