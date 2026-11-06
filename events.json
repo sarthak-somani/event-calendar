@@ -10899,5 +10899,38 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "My Campus Clean Campus \u2013 Cleanliness Drive Initiative",
+        "start": "2026-11-07T07:30:00",
+        "end": "2026-11-07T07:30:00",
+        "extendedProps": {
+            "description": "A cleanliness drive initiative as part of Swachhata Hi Seva (SHS) 2026, inviting campus residents to clean an area of their choice within the IIT Bombay campus. The Public Health Office will provide the required cleaning tools and gloves. Active participation is encouraged, and interested residents are requested to register via the provided Google Form.",
+            "venue": "Soneri Baug, IIT Bombay",
+            "organisingBody": "Public Health Office, Indian Institute of Technology Bombay",
+            "contact": "Pankaj P. Bhosale, Public Health Officer, phoiitb@iitb.ac.in"
+        }
+    },
+    {
+        "title": "End Semester Examinations",
+        "start": "2026-11-10T00:00:00",
+        "end": "2026-11-21T00:00:00",
+        "extendedProps": {
+            "description": "The venue allocation and schedule for the end semester examinations to be held from 10th November 2026 to 21st November 2026 is available.",
+            "venue": null,
+            "organisingBody": "IIT Bombay",
+            "contact": "Ph. 2576 7987"
+        }
+    },
+    {
+        "title": "Dr. Ajay Yeri Memorial Lecture Series",
+        "start": "2026-11-21T00:00:00",
+        "end": "2026-11-21T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
