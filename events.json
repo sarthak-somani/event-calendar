@@ -10932,5 +10932,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Lecture 3",
+        "start": "2026-11-07T19:00:00",
+        "end": "2026-11-07T19:00:00",
+        "extendedProps": {
+            "description": "PGAC Postdoctoral Opportunities Series",
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
