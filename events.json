@@ -10943,5 +10943,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "IIT Bombay FINEDGE by ASPIRE IITBRPF",
+        "start": "2026-11-20T00:00:00",
+        "end": "2026-11-20T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "ASPIRE IITBRPF",
+            "contact": null
+        }
+    },
+    {
+        "title": "Seminar on Technology-Market Matching for Deep Tech Innovation",
+        "start": "2026-11-12T00:00:00",
+        "end": "2026-11-12T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
