@@ -10965,5 +10965,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Study UK Education Fair",
+        "start": "2026-11-23T15:00:00",
+        "end": "2026-11-23T15:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "Taj President, Mumbai",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
