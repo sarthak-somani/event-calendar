@@ -10976,5 +10976,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Sanskrit Lahari (Songs, rap music performance in Sanskrit)",
+        "start": "2026-11-21T00:00:00",
+        "end": "2026-11-21T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Tribe Sanskrit group",
+            "contact": null
+        }
     }
 ]
