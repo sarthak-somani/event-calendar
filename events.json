@@ -10987,5 +10987,16 @@
             "organisingBody": "Tribe Sanskrit group",
             "contact": null
         }
+    },
+    {
+        "title": "Plenary Talk on Mumbai Book Festival 2026",
+        "start": "2026-11-20T15:30:00",
+        "end": "2026-11-20T15:30:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "SJMSOM Auditorium",
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
