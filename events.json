@@ -10998,5 +10998,16 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "1st International Workshop on Atomic Layer Deposition (ALD-M2M 2026)",
+        "start": "2026-12-13T00:00:00",
+        "end": "2026-12-15T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": "IIT Bombay",
+            "organisingBody": "IIT Bombay",
+            "contact": null
+        }
     }
 ]
