@@ -11009,5 +11009,16 @@
             "organisingBody": "IIT Bombay",
             "contact": null
         }
+    },
+    {
+        "title": "Money Talks",
+        "start": "2026-11-21T21:00:00",
+        "end": "2026-11-21T21:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": "Lumina",
+            "contact": null
+        }
     }
 ]
