@@ -11020,5 +11020,16 @@
             "organisingBody": "Lumina",
             "contact": null
         }
+    },
+    {
+        "title": "Invitation to celebrate Constitution Day",
+        "start": "2026-11-26T00:00:00",
+        "end": "2026-11-26T00:00:00",
+        "extendedProps": {
+            "description": null,
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
     }
 ]
