@@ -11031,5 +11031,27 @@
             "organisingBody": null,
             "contact": null
         }
+    },
+    {
+        "title": "Constitution Day Celebration",
+        "start": "2026-11-26T00:00:00",
+        "end": "2026-11-26T00:00:00",
+        "extendedProps": {
+            "description": "REMINDER: Invitation to celebrate Constitution Day.",
+            "venue": null,
+            "organisingBody": null,
+            "contact": null
+        }
+    },
+    {
+        "title": "Student Vaccination Drive and Verification of Vaccination Records",
+        "start": "2026-11-28T09:30:00",
+        "end": "2026-11-28T16:00:00",
+        "extendedProps": {
+            "description": "IIT Bombay Hospital is organizing a Student Vaccination Drive and verification of vaccination records for new students. Vaccines (MMR, Chickenpox, Hepatitis A, Typhoid) will be available on a payment basis (vaccine cost + \u20b9175 administrative charges). Registration via Google Form is mandatory and limited to 400. Students must provide medical history, bring immunization/vaccination records, and potentially a Student Medical Form for a new medical file. A Hospital Medical Officer will assess suitability and confirm the vaccine. Creation of a medical folder is mandatory for all students.",
+            "venue": "IIT Bombay Hospital, New Wing, Ground Floor",
+            "organisingBody": "IIT Bombay Hospital",
+            "contact": "Dr. Shrikant G. Patil, In-charge Hospital, CMO(SAG)"
+        }
     }
 ]
